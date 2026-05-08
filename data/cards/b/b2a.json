@@ -1,0 +1,3974 @@
+﻿[
+    {
+        "id":  "b2a-001",
+        "categoria":  "Pokemon",
+        "nome":  "Sprigatito",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Leafage",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "1 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/460m9k0oovu5dnw-sprigatito.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-002",
+        "categoria":  "Pokemon",
+        "nome":  "Floragato",
+        "estagio":  "1",
+        "evolucao":  "Sprigatito",
+        "tipo":  "Planta",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Leaf Step",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "2 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/mi32jfjbck0g2fc-floragato.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-003",
+        "categoria":  "Pokemon",
+        "nome":  "Meowscarada ex",
+        "estagio":  "2",
+        "evolucao":  "Floragato",
+        "tipo":  "Planta",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flower Trick",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  "Choose a spot from among your opponent\u0027s Active Spot and Bench. At the end of your opponent\u0027s next turn, do 70 damage to the PokÃƒÂ©mon in the spot you chose."
+                       },
+                       {
+                           "nomeataque":  "Solar Beam",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "planta",
+                                               "planta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "3 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/lbmjajh48jwupus-meowscarada-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-004",
+        "categoria":  "Pokemon",
+        "nome":  "Tarountula",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hook",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "4 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/rtotgr0lma8fg6f-tarountula.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-005",
+        "categoria":  "Pokemon",
+        "nome":  "Spidops",
+        "estagio":  "1",
+        "evolucao":  "Tarountula",
+        "tipo":  "Planta",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bind Down",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  "During your opponent\u0027s next turn, the Defending PokÃƒÂ©mon can\u0027t retreat."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "5 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/425y20ydjocfo91-spidops.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-006",
+        "categoria":  "Pokemon",
+        "nome":  "Nymble",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  40,
+        "ataque":  [
+                       {
+                           "nomeataque":  "U-turn",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Switch this PokÃƒÂ©mon with 1 of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "6 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/xmum3qcjdeebb8j-nymble.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-007",
+        "categoria":  "Pokemon",
+        "nome":  "Smoliv",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Absorb",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  "Heal 10 damage from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "7 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/uvioqsd423zw97r-smoliv.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-008",
+        "categoria":  "Pokemon",
+        "nome":  "Dolliv",
+        "estagio":  "1",
+        "evolucao":  "Smoliv",
+        "tipo":  "Planta",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Seed Bomb",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "planta",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "8 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/wop7iyz7qdrzoyu-dolliv.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-009",
+        "categoria":  "Pokemon",
+        "nome":  "Arboliva",
+        "estagio":  "2",
+        "evolucao":  "Dolliv",
+        "tipo":  "Planta",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Seed Bomb",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "9 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/8sz6p7hrb6zt3yb-arboliva.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-010",
+        "categoria":  "Pokemon",
+        "nome":  "Bramblin",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Rollout",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "10 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/lwbtoun57ywl3ex-bramblin.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-011",
+        "categoria":  "Pokemon",
+        "nome":  "Brambleghast",
+        "estagio":  "1",
+        "evolucao":  "Bramblin",
+        "tipo":  "Planta",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Continuous Tumble",
+                           "dano":  "60x",
+                           "custoataque":  [
+                                               "planta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin until you get tails. This attack does 60 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "11 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/g9rpxjbk7binvk4-brambleghast.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-012",
+        "categoria":  "Pokemon",
+        "nome":  "Capsakid",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Playful Kick",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "12 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/s4llqq1qla5dsl6-capsakid.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-013",
+        "categoria":  "Pokemon",
+        "nome":  "Scovillain",
+        "estagio":  "1",
+        "evolucao":  "Capsakid",
+        "tipo":  "Planta",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Red-Hot Headbutt",
+                           "dano":  "60+",
+                           "custoataque":  [
+                                               "planta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If your opponent\u0027s Active PokÃƒÂ©mon is a Grass or Metal PokÃƒÂ©mon, this attack does 40 more damage."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "13 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/uyjmxd1wd9kj0pk-scovillain.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-014",
+        "categoria":  "Pokemon",
+        "nome":  "Rellor",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ball Roll",
+                           "dano":  "20x",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin until you get tails. This attack does 20 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "14 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/wsrqmgjek8qqi4j-rellor.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-015",
+        "categoria":  "Pokemon",
+        "nome":  "Wo-Chien",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Binding Greed",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "planta",
+                                               "planta",
+                                               "planta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your opponent\u0027s next turn, attacks used by the Defending PokÃƒÂ©mon cost 2 Colorless more."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  3,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "15 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/vwjndpkurisp09q-wo-chien.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-016",
+        "categoria":  "Pokemon",
+        "nome":  "Fuecoco",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Cheerful Singing",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Put 1 random Basic PokÃƒÂ©mon from your deck onto your Bench."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "16 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/6sx2iimchu2le6s-fuecoco.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-017",
+        "categoria":  "Pokemon",
+        "nome":  "Crocalor",
+        "estagio":  "1",
+        "evolucao":  "Fuecoco",
+        "tipo":  "Fogo",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bite",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  3,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "17 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/r5pckqty8iwhvhy-crocalor.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-018",
+        "categoria":  "Pokemon",
+        "nome":  "Skeledirge",
+        "estagio":  "2",
+        "evolucao":  "Crocalor",
+        "tipo":  "Fogo",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Heat Crash",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  3,
+        "raridade":  "Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "18 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ep0vs1zmuc7buuu-skeledirge.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-019",
+        "categoria":  "Pokemon",
+        "nome":  "Charcadet",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Punch",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "19 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/46grk05ofjemcgv-charcadet.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-020",
+        "categoria":  "Pokemon",
+        "nome":  "Armarouge ex",
+        "estagio":  "1",
+        "evolucao":  "Charcadet",
+        "tipo":  "Fogo",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Armor Cannon",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "fogo",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard a Fire Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "20 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/44hoa6utfjqsuat-armarouge-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-021",
+        "categoria":  "Pokemon",
+        "nome":  "Chi-Yu",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Megafire of Envy",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If any of your PokÃƒÂ©mon were Knocked Out by damage from an attack during your opponent\u0027s last turn, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  1,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "21 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/tqe3g195jqy6033-chi-yu.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-022",
+        "categoria":  "Pokemon",
+        "nome":  "Quaxly",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Splashing Dodge",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, during your opponent\u0027s next turn, prevent all damage fromÃ¢â‚¬â€and effects ofÃ¢â‚¬â€attacks done to this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "22 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/3ejopytj3e9o0pc-quaxly.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-023",
+        "categoria":  "Pokemon",
+        "nome":  "Quaxwell",
+        "estagio":  "1",
+        "evolucao":  "Quaxly",
+        "tipo":  "Agua",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Splashing Turn",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "Switch this PokÃƒÂ©mon with 1 of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "23 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/p5lmnwllmwr3mzy-quaxwell.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-024",
+        "categoria":  "Pokemon",
+        "nome":  "Quaquaval",
+        "estagio":  "2",
+        "evolucao":  "Quaxwell",
+        "tipo":  "Agua",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hydro Kick",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "24 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/lxlnmb5c883t7d3-quaquaval.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-025",
+        "categoria":  "Pokemon",
+        "nome":  "Wiglett",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Water Gun",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "25 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/6d72u6mmy2u7ya2-wiglett.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-026",
+        "categoria":  "Pokemon",
+        "nome":  "Wugtrio",
+        "estagio":  "1",
+        "evolucao":  "Wiglett",
+        "tipo":  "Agua",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Triple Whip",
+                           "dano":  "30x",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "Flip 3 coins. This attack does 30 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "26 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/q0ax0iapjj4ne5j-wugtrio.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-027",
+        "categoria":  "Pokemon",
+        "nome":  "Finizen",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Razor Fin",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "27 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1pxm1w3d7y15dm3-finizen.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-028",
+        "categoria":  "Pokemon",
+        "nome":  "Palafin",
+        "estagio":  "1",
+        "evolucao":  "Finizen",
+        "tipo":  "Agua",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Jet Punch",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "This attack also does 50 damage to 1 of your opponent\u0027s Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "28 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/wf974tuln59hj9l-palafin.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-029",
+        "categoria":  "Pokemon",
+        "nome":  "Cetoddle",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Icicle Missile",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  3,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "29 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/64a684brmm1rd8c-cetoddle.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-030",
+        "categoria":  "Pokemon",
+        "nome":  "Cetitan",
+        "estagio":  "1",
+        "evolucao":  "Cetoddle",
+        "tipo":  "Agua",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ice Punch",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, your opponent\u0027s Active PokÃƒÂ©mon is now Paralyzed."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  4,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "30 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/hvm4lpzrhx65sbn-cetitan.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-031",
+        "categoria":  "Pokemon",
+        "nome":  "Veluza",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Shedding Spiral",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If you have no cards in your deck, this attack can be used for 1 Water Energy."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "31 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/690l4lp1pqwz1ra-veluza.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-032",
+        "categoria":  "Pokemon",
+        "nome":  "Dondozo",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Giga Impact",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your next turn, this PokÃƒÂ©mon can\u0027t attack."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  4,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "32 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/qj6wex496zpym42-dondozo.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-033",
+        "categoria":  "Pokemon",
+        "nome":  "Tatsugiri",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Rally Back",
+                           "dano":  "20+",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "If any of your PokÃƒÂ©mon were Knocked Out by damage from an attack during your opponent\u0027s last turn, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "33 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/x0ycl8vfrctb1yo-tatsugiri.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-034",
+        "categoria":  "Pokemon",
+        "nome":  "Frigibax",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Chilly",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "34 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/mq1iw9r0gl7z4ki-frigibax.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-035",
+        "categoria":  "Pokemon",
+        "nome":  "Arctibax",
+        "estagio":  "1",
+        "evolucao":  "Frigibax",
+        "tipo":  "Agua",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Frost Smash",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "35 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0kv2rc9hsrjjhha-arctibax.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-036",
+        "categoria":  "Pokemon",
+        "nome":  "Baxcalibur",
+        "estagio":  "2",
+        "evolucao":  "Arctibax",
+        "tipo":  "Agua",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Buster Tail",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  3,
+        "raridade":  "Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "36 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/9chgkxnep10qml7-baxcalibur.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-037",
+        "categoria":  "Pokemon",
+        "nome":  "Chien-Pao ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Icicle",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  ""
+                       },
+                       {
+                           "nomeataque":  "Diving Icicles",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "Discard all Water Energy from this PokÃƒÂ©mon. This attack does 130 damage to 1 of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "37 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/x9u84dhw4fuaswu-chien-pao-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-038",
+        "categoria":  "Pokemon",
+        "nome":  "Pawmi",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Random Spark",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  "This attack does 10 damage to 1 of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "38 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/yritb6ezw2zi1po-pawmi.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-039",
+        "categoria":  "Pokemon",
+        "nome":  "Pawmo",
+        "estagio":  "1",
+        "evolucao":  "Pawmi",
+        "tipo":  "Raio",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Head Bolt",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "39 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ri4qto2eyys86wg-pawmo.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-040",
+        "categoria":  "Pokemon",
+        "nome":  "Pawmot",
+        "estagio":  "2",
+        "evolucao":  "Pawmo",
+        "tipo":  "Raio",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Thunder Blast",
+                           "dano":  "100",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "Discard a Lightning Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "40 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/tvmrow0g81bkte7-pawmot.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-041",
+        "categoria":  "Pokemon",
+        "nome":  "Tadbulb",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Electro Ball",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "41 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/wgkhjzfwre0r31s-tadbulb.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-042",
+        "categoria":  "Pokemon",
+        "nome":  "Bellibolt ex",
+        "estagio":  "1",
+        "evolucao":  "Tadbulb",
+        "tipo":  "Raio",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "High-Voltage Cannon",
+                           "dano":  "70+",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "If you have 4 or more Lightning Energy in play, this attack does 70 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "42 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ey8xspws2wh5x97-bellibolt-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-043",
+        "categoria":  "Pokemon",
+        "nome":  "Wattrel",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flap",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "43 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/utg5i90lvqxfq0e-wattrel.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-044",
+        "categoria":  "Pokemon",
+        "nome":  "Kilowattrel",
+        "estagio":  "1",
+        "evolucao":  "Wattrel",
+        "tipo":  "Raio",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Speed Wing",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  0,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "44 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/3hqois4cq1hyap3-kilowattrel.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-045",
+        "categoria":  "Pokemon",
+        "nome":  "Miraidon",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Lightning Laser",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "This attack also does 30 damage to 1 of your opponent\u0027s Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "45 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/k1478d7rtj6l243-miraidon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-046",
+        "categoria":  "Pokemon",
+        "nome":  "Fidough",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Rear Kick",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "46 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/a9w14bgkf4tq23k-fidough.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-047",
+        "categoria":  "Pokemon",
+        "nome":  "Dachsbun",
+        "estagio":  "1",
+        "evolucao":  "Fidough",
+        "tipo":  "Psiquico",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Play Rough",
+                           "dano":  "50+",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "psiquico"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, this attack does 50 more damage."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "47 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/dp6bpemztzsmi0y-dachsbun.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-048",
+        "categoria":  "Pokemon",
+        "nome":  "Ceruledge",
+        "estagio":  "1",
+        "evolucao":  "Charcadet",
+        "tipo":  "Psiquico",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fighting Sword",
+                           "dano":  "70+",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If your opponent\u0027s Active PokÃƒÂ©mon is a PokÃƒÂ©mon ex, this attack does 70 more damage."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "48 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/k1co3tg9n746md5-ceruledge.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-049",
+        "categoria":  "Pokemon",
+        "nome":  "Rabsca",
+        "estagio":  "1",
+        "evolucao":  "Rellor",
+        "tipo":  "Psiquico",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Psybeam",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "psiquico"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃƒÂ©mon is now Confused."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "49 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/vi4x660ou3iofcn-rabsca.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-050",
+        "categoria":  "Pokemon",
+        "nome":  "Flittle",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flop",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "50 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/e65jkho2hr73f2t-flittle.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-051",
+        "categoria":  "Pokemon",
+        "nome":  "Espathra",
+        "estagio":  "1",
+        "evolucao":  "Flittle",
+        "tipo":  "Psiquico",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Psychic",
+                           "dano":  "30+",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  "This attack does 20 more damage for each Energy attached to your opponent\u0027s Active PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "51 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/up5ywncz7exdyct-espathra.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-052",
+        "categoria":  "Pokemon",
+        "nome":  "Greavard",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Soul Shot",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  "Discard a card from your hand. If you can\u0027t, this attack does nothing."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "52 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/8brwv4kebjke8ct-greavard.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-053",
+        "categoria":  "Pokemon",
+        "nome":  "Houndstone",
+        "estagio":  "1",
+        "evolucao":  "Greavard",
+        "tipo":  "Psiquico",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Last Respects",
+                           "dano":  "50+",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack does 20 more damage for each Psychic PokÃƒÂ©mon in your discard pile."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "53 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/v4imqj4mlqt2ku1-houndstone.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-054",
+        "categoria":  "Pokemon",
+        "nome":  "Gimmighoul",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Continuous Coin Toss",
+                           "dano":  "20x",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin until you get tails. This attack does 20 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "54 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/c9r7vk9fm7dkgrp-gimmighoul.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-055",
+        "categoria":  "Pokemon",
+        "nome":  "Mankey",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fury Swipes",
+                           "dano":  "10x",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  "Flip 3 coins. This attack does 10 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "55 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/deek2h3x14cu32n-mankey.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-056",
+        "categoria":  "Pokemon",
+        "nome":  "Primeape",
+        "estagio":  "1",
+        "evolucao":  "Mankey",
+        "tipo":  "Luta",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Rage",
+                           "dano":  "30+",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  "This attack does more damage equal to the damage this PokÃƒÂ©mon has on it."
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "56 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/c11qdc7zcax10rm-primeape.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-057",
+        "categoria":  "Pokemon",
+        "nome":  "Annihilape",
+        "estagio":  "2",
+        "evolucao":  "Primeape",
+        "tipo":  "Luta",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Dynamite Punch",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  "This PokÃƒÂ©mon also does 30 damage to itself."
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "57 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/kj3ppe6lz7cp8o0-annihilape.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-058",
+        "categoria":  "Pokemon",
+        "nome":  "Paldean Tauros",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Rear Kick",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "58 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/26ysjyg2vvew9gq-tauros-de-paldea.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-059",
+        "categoria":  "Pokemon",
+        "nome":  "Toedscool",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Smash Kick",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "59 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/yqrv78er8glpbel-toedscool.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-060",
+        "categoria":  "Pokemon",
+        "nome":  "Toedscruel",
+        "estagio":  "1",
+        "evolucao":  "Toedscool",
+        "tipo":  "Luta",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Stun Spore",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, your opponent\u0027s Active PokÃƒÂ©mon is now Paralyzed."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "60 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ceyvusn8g3totij-toedscruel.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-061",
+        "categoria":  "Pokemon",
+        "nome":  "Klawf",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Adrenaline Hammer",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta"
+                                           ],
+                           "efeito":  "This PokÃƒÂ©mon is now Confused."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  3,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "61 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/w7owum60rqez5lj-klawf.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-062",
+        "categoria":  "Pokemon",
+        "nome":  "Ting-Lu",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Arrogant Impact",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta",
+                                               "luta"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon\u0027s remaining HP is 60 or less, this attack does nothing."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  3,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "62 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/2enluuo86i6exvu-ting-lu.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-063",
+        "categoria":  "Pokemon",
+        "nome":  "Koraidon",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Rampaging Fang",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard 2 Fighting Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "63 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/25loo7v5rchc67q-koraidon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-064",
+        "categoria":  "Pokemon",
+        "nome":  "Paldean Wooper",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flop",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "64 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/bm6boq08hf9yt5d-wooper-de-paldea.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-065",
+        "categoria":  "Pokemon",
+        "nome":  "Paldean Clodsire",
+        "estagio":  "1",
+        "evolucao":  "Paldean Wooper",
+        "tipo":  "Escuridao",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Muddy Hammer",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard the top card of your opponent\u0027s deck."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "65 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/q1ybq2jf17n5g0c-clodsire-de-paldea.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-066",
+        "categoria":  "Pokemon",
+        "nome":  "Lokix",
+        "estagio":  "1",
+        "evolucao":  "Nymble",
+        "tipo":  "Escuridao",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Rocket Jump",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  "Flip a coin. If tails, this attack does nothing."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "66 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/5apvo7te4smhv1w-lokix.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-067",
+        "categoria":  "Pokemon",
+        "nome":  "Maschiff",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bite",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "67 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ffosl026407by0h-maschiff.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-068",
+        "categoria":  "Pokemon",
+        "nome":  "Mabosstiff",
+        "estagio":  "1",
+        "evolucao":  "Maschiff",
+        "tipo":  "Escuridao",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Wild Tackle",
+                           "dano":  "110",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This PokÃƒÂ©mon also does 20 damage to itself."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "68 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/omph2v8m6ojg1at-mabosstiff.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-069",
+        "categoria":  "Pokemon",
+        "nome":  "Shroodle",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Scratch",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "69 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/e3nhxhkrr48jhrc-shroodle.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-070",
+        "categoria":  "Pokemon",
+        "nome":  "Grafaiai",
+        "estagio":  "1",
+        "evolucao":  "Shroodle",
+        "tipo":  "Escuridao",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Colorful Attack",
+                           "dano":  "30+",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "If your PokÃƒÂ©mon in play have 3 or more different types of Energy attached, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "70 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0ei9ejmw17m3qmi-grafaiai.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-071",
+        "categoria":  "Pokemon",
+        "nome":  "Bombirdier",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fly",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If tails, this attack does nothing. If heads, during your opponent\u0027s next turn, prevent all damage fromÃ¢â‚¬â€and effects ofÃ¢â‚¬â€attacks done to this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "71 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7l8tdafija0v9d3-bombirdier.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-072",
+        "categoria":  "Pokemon",
+        "nome":  "Tinkatink",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Beat",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "72 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7gf5dbpgk2sb0s1-tinkatink.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-073",
+        "categoria":  "Pokemon",
+        "nome":  "Tinkatuff",
+        "estagio":  "1",
+        "evolucao":  "Tinkatink",
+        "tipo":  "Metal",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Light Punch",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "73 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/v8cx9sof226fnxd-tinkatuff.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-074",
+        "categoria":  "Pokemon",
+        "nome":  "Tinkaton",
+        "estagio":  "2",
+        "evolucao":  "Tinkatuff",
+        "tipo":  "Metal",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Gigaton Hammer",
+                           "dano":  "140",
+                           "custoataque":  [
+                                               "metal",
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your next turn, this PokÃƒÂ©mon can\u0027t use Gigaton Hammer."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "74 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/2hzx393p1cuxni9-tinkaton.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-075",
+        "categoria":  "Pokemon",
+        "nome":  "Varoom",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ram",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "metal"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "75 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1rgg9egrdc5s0ej-varoom.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-076",
+        "categoria":  "Pokemon",
+        "nome":  "Revavroom",
+        "estagio":  "1",
+        "evolucao":  "Varoom",
+        "tipo":  "Metal",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Poison Gas",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃƒÂ©mon is now Poisoned."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "76 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/qiiks1zsxq5ppx1-revavroom.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-077",
+        "categoria":  "Pokemon",
+        "nome":  "Orthworm",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Iron Supply",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "metal"
+                                           ],
+                           "efeito":  "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "77 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/f4bxhq6u64e3xys-orthworm.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-078",
+        "categoria":  "Pokemon",
+        "nome":  "Gholdengo ex",
+        "estagio":  "1",
+        "evolucao":  "Gimmighoul",
+        "tipo":  "Metal",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Spending Rush",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "metal"
+                                           ],
+                           "efeito":  "1 of your opponent\u0027s PokÃƒÂ©mon is chosen at random for each Metal Energy attached to this PokÃƒÂ©mon. For each time a PokÃƒÂ©mon was chosen, do 40 damage to it."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "78 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/qtmuyvfcrw825ms-gholdengo-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-079",
+        "categoria":  "Pokemon",
+        "nome":  "Lechonk",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Tackle",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "79 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/6r1uweq1hbjuzmb-lechonk.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-080",
+        "categoria":  "Pokemon",
+        "nome":  "Oinkologne",
+        "estagio":  "1",
+        "evolucao":  "Lechonk",
+        "tipo":  "Incolor",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Leg Stomp",
+                           "dano":  "100",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If tails, during your next turn, this PokÃƒÂ©mon can\u0027t attack."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "80 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/3v5525d0dqetu7j-oinkologne.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-081",
+        "categoria":  "Pokemon",
+        "nome":  "Tandemaus",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  30,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Double Hit",
+                           "dano":  "30x",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip 2 coins. This attack does 30 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  0,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "81 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/s3lqd8x1r8mro1j-tandemaus.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-082",
+        "categoria":  "Pokemon",
+        "nome":  "Maushold",
+        "estagio":  "1",
+        "evolucao":  "Tandemaus",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Triple Gnawing",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip 3 coins. For each heads, discard a random Energy from your opponent\u0027s Active PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "82 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/q9lss3ehjnl7opj-maushold.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-083",
+        "categoria":  "Pokemon",
+        "nome":  "Squawkabilly",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Quick Attack",
+                           "dano":  "30+",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, this attack does 30 more damage."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "83 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/4ak705ldv1ieh7l-squawkabilly.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-084",
+        "categoria":  "Pokemon",
+        "nome":  "Cyclizar",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Driving Buddy",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If you played a Supporter card from your hand during this turn, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "84 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/e0rt5uypz9ia2b4-cyclizar.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-085",
+        "categoria":  "Pokemon",
+        "nome":  "Flamigo",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Wing Attack",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "85 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/iagu1mf4ec91wd9-flamigo.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-086",
+        "categoria":  "Treinador",
+        "nome":  "Electric Generator",
+        "estagio":  "Item",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "86 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/pqyfmei96fltwoa-gerador-eletrico.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-087",
+        "categoria":  "Treinador",
+        "nome":  "Big Air Balloon",
+        "estagio":  "Ferramenta",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "87 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/nfvmd60owyih4p1-grande-balo-de-ar.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-088",
+        "categoria":  "Treinador",
+        "nome":  "Team Star Grunt",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "88 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/jxy72x3gibemi9y-recruta-da-equipe-star.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-089",
+        "categoria":  "Treinador",
+        "nome":  "Iono",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "89 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/muwu8cx0m9m9b0u-kissera.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-090",
+        "categoria":  "Treinador",
+        "nome":  "Nemona",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "90 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/n6fpei45j3sffqb-nomia.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-091",
+        "categoria":  "Treinador",
+        "nome":  "Arven",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "91 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/kzldc94gp9sb3dz-arven.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-092",
+        "categoria":  "Treinador",
+        "nome":  "Penny",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "92 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ojel0m4towk2vft-penelope.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-093",
+        "categoria":  "Treinador",
+        "nome":  "Mesagoza",
+        "estagio":  "Estadio",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "93 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/sw9r98o6dccd7ph-mesaledo.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-094",
+        "categoria":  "Pokemon",
+        "nome":  "Fuecoco",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Cheerful Singing",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Put 1 random Basic PokÃƒÂ©mon from your deck onto your Bench."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "94 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/tucjbu34rum7vr5-fuecoco.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-095",
+        "categoria":  "Pokemon",
+        "nome":  "Greavard",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Soul Shot",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  "Discard a card from your hand. If you can\u0027t, this attack does nothing."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  2,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "95 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/gnmx2s58pppbcrv-greavard.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-096",
+        "categoria":  "Pokemon",
+        "nome":  "Gimmighoul",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Continuous Coin Toss",
+                           "dano":  "20x",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin until you get tails. This attack does 20 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "96 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/c6m36ejmnmw2dik-gimmighoul.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-097",
+        "categoria":  "Pokemon",
+        "nome":  "Paldean Wooper",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flop",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "97 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1h6blhagkcz2slz-wooper-de-paldea.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-098",
+        "categoria":  "Pokemon",
+        "nome":  "Orthworm",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Iron Supply",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "metal"
+                                           ],
+                           "efeito":  "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  3,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "98 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/fqf8sb02owsb6cz-orthworm.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-099",
+        "categoria":  "Pokemon",
+        "nome":  "Maushold",
+        "estagio":  "1",
+        "evolucao":  "Tandemaus",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Triple Gnawing",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip 3 coins. For each heads, discard a random Energy from your opponent\u0027s Active PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "99 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/k97urye94px9k04-maushold.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-100",
+        "categoria":  "Pokemon",
+        "nome":  "Meowscarada ex",
+        "estagio":  "2",
+        "evolucao":  "Floragato",
+        "tipo":  "Planta",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flower Trick",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  "Choose a spot from among your opponent\u0027s Active Spot and Bench. At the end of your opponent\u0027s next turn, do 70 damage to the PokÃƒÂ©mon in the spot you chose."
+                       },
+                       {
+                           "nomeataque":  "Solar Beam",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "planta",
+                                               "planta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "100 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/wfhdb69q8lzb9oc-meowscarada-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-101",
+        "categoria":  "Pokemon",
+        "nome":  "Armarouge ex",
+        "estagio":  "1",
+        "evolucao":  "Charcadet",
+        "tipo":  "Fogo",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Armor Cannon",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "fogo",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard a Fire Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "101 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/opeymlzfaub99yr-armarouge-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-102",
+        "categoria":  "Pokemon",
+        "nome":  "Chien-Pao ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Icicle",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  ""
+                       },
+                       {
+                           "nomeataque":  "Diving Icicles",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "Discard all Water Energy from this PokÃƒÂ©mon. This attack does 130 damage to 1 of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "102 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/isxaxqxuog5zfzu-chien-pao-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-103",
+        "categoria":  "Pokemon",
+        "nome":  "Bellibolt ex",
+        "estagio":  "1",
+        "evolucao":  "Tadbulb",
+        "tipo":  "Raio",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "High-Voltage Cannon",
+                           "dano":  "70+",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "If you have 4 or more Lightning Energy in play, this attack does 70 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "103 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/4s0rzdxumg2lwsq-bellibolt-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-104",
+        "categoria":  "Pokemon",
+        "nome":  "Gholdengo ex",
+        "estagio":  "1",
+        "evolucao":  "Gimmighoul",
+        "tipo":  "Metal",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Spending Rush",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "metal"
+                                           ],
+                           "efeito":  "1 of your opponent\u0027s PokÃƒÂ©mon is chosen at random for each Metal Energy attached to this PokÃƒÂ©mon. For each time a PokÃƒÂ©mon was chosen, do 40 damage to it."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "104 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0h9j0wd6u1m840k-gholdengo-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-105",
+        "categoria":  "Treinador",
+        "nome":  "Team Star Grunt",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "105 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/wah6h7y1rn1ayqw-recruta-da-equipe-star.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-106",
+        "categoria":  "Treinador",
+        "nome":  "Iono",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "106 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/nbyhyt20ibgzmtx-kissera.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-107",
+        "categoria":  "Treinador",
+        "nome":  "Nemona",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "107 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ecg4ol3wglzboz8-nomia.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-108",
+        "categoria":  "Treinador",
+        "nome":  "Arven",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "108 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/x6x3jh8l8vym3lg-arven.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-109",
+        "categoria":  "Treinador",
+        "nome":  "Penny",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "109 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/rmcn08limmbc1dr-penelope.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-110",
+        "categoria":  "Pokemon",
+        "nome":  "Meowscarada ex",
+        "estagio":  "2",
+        "evolucao":  "Floragato",
+        "tipo":  "Planta",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flower Trick",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  "Choose a spot from among your opponent\u0027s Active Spot and Bench. At the end of your opponent\u0027s next turn, do 70 damage to the PokÃƒÂ©mon in the spot you chose."
+                       },
+                       {
+                           "nomeataque":  "Solar Beam",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "planta",
+                                               "planta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "110 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/nf71eulfro7r9w2-meowscarada-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-111",
+        "categoria":  "Pokemon",
+        "nome":  "Armarouge ex",
+        "estagio":  "1",
+        "evolucao":  "Charcadet",
+        "tipo":  "Fogo",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Armor Cannon",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "fogo",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard a Fire Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "111 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/3rkci35d4lx32ej-armarouge-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-112",
+        "categoria":  "Pokemon",
+        "nome":  "Chien-Pao ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Icicle",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  ""
+                       },
+                       {
+                           "nomeataque":  "Diving Icicles",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "Discard all Water Energy from this PokÃƒÂ©mon. This attack does 130 damage to 1 of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "112 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/r9dk4bpqzrekxpn-chien-pao-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-113",
+        "categoria":  "Pokemon",
+        "nome":  "Bellibolt ex",
+        "estagio":  "1",
+        "evolucao":  "Tadbulb",
+        "tipo":  "Raio",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "High-Voltage Cannon",
+                           "dano":  "70+",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "If you have 4 or more Lightning Energy in play, this attack does 70 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "113 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/a1uncfhg4nayeca-bellibolt-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-114",
+        "categoria":  "Pokemon",
+        "nome":  "Gholdengo ex",
+        "estagio":  "1",
+        "evolucao":  "Gimmighoul",
+        "tipo":  "Metal",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Spending Rush",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "metal"
+                                           ],
+                           "efeito":  "1 of your opponent\u0027s PokÃƒÂ©mon is chosen at random for each Metal Energy attached to this PokÃƒÂ©mon. For each time a PokÃƒÂ©mon was chosen, do 40 damage to it."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "114 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/616qaut03uagylo-gholdengo-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-115",
+        "categoria":  "Treinador",
+        "nome":  "Arven",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Raro Imersivo",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "115 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/p0kmc1yi83kx6h2-arven.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-116",
+        "categoria":  "Pokemon",
+        "nome":  "Sprigatito",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Leafage",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "116 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/vzurooz43js8pnp-sprigatito.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-117",
+        "categoria":  "Pokemon",
+        "nome":  "Floragato",
+        "estagio":  "1",
+        "evolucao":  "Sprigatito",
+        "tipo":  "Planta",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Leaf Step",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "117 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/lqn8s0yxny6n0xi-floragato.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-118",
+        "categoria":  "Pokemon",
+        "nome":  "Meowscarada",
+        "estagio":  "2",
+        "evolucao":  "Floragato",
+        "tipo":  "Planta",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fighting Claws",
+                           "dano":  "60+",
+                           "custoataque":  [
+                                               "planta",
+                                               "planta"
+                                           ],
+                           "efeito":  "If your opponent\u0027s Active PokÃƒÂ©mon is a PokÃƒÂ©mon ex, this attack does 70 more damage."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "118 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/hd7m8dp0ky993z0-meowscarada.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-119",
+        "categoria":  "Pokemon",
+        "nome":  "Pawmi",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Random Spark",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  "This attack does 10 damage to 1 of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "119 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/x5ymaed5bx04ra1-pawmi.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-120",
+        "categoria":  "Pokemon",
+        "nome":  "Pawmo",
+        "estagio":  "1",
+        "evolucao":  "Pawmi",
+        "tipo":  "Raio",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Head Bolt",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "120 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/3oojsequ9i5818p-pawmo.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-121",
+        "categoria":  "Pokemon",
+        "nome":  "Pawmot",
+        "estagio":  "2",
+        "evolucao":  "Pawmo",
+        "tipo":  "Raio",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Thunder Blast",
+                           "dano":  "100",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "Discard a Lightning Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "121 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/5q8k43ekpdn65bx-pawmot.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-122",
+        "categoria":  "Pokemon",
+        "nome":  "Gimmighoul",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Continuous Coin Toss",
+                           "dano":  "20x",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin until you get tails. This attack does 20 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "122 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/2p2de9c0u0uy01x-gimmighoul.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-123",
+        "categoria":  "Pokemon",
+        "nome":  "Tinkatink",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Beat",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "123 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/skn4710ogk1cfoe-tinkatink.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-124",
+        "categoria":  "Pokemon",
+        "nome":  "Tinkatuff",
+        "estagio":  "1",
+        "evolucao":  "Tinkatink",
+        "tipo":  "Metal",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Light Punch",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "124 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/gkukq3l892uny86-tinkatuff.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-125",
+        "categoria":  "Pokemon",
+        "nome":  "Gholdengo",
+        "estagio":  "1",
+        "evolucao":  "Gimmighoul",
+        "tipo":  "Metal",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Scintillating Surfing",
+                           "dano":  "50x",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin for each Metal Energy attached to this PokÃƒÂ©mon. This attack does 50 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "125 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/yt3pjn8lzj9417l-gholdengo.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-126",
+        "categoria":  "Pokemon",
+        "nome":  "Entei ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Blazing Beatdown",
+                           "dano":  "60+",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon has at least 2 extra Fire Energy attached, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "126 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/a72ai9p3ylox7ne-entei-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-127",
+        "categoria":  "Pokemon",
+        "nome":  "Suicune ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Crystal Waltz",
+                           "dano":  "20x",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "This attack does 20 damage for each Benched PokÃƒÂ©mon (both yours and your opponent\u0027s)."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "127 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/h5atce4337mvhfl-suicune-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-128",
+        "categoria":  "Pokemon",
+        "nome":  "Raikou ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Voltaic Bullet",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "This attack also does 10 damage to 1 of your opponent\u0027s Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "128 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/y5n8aw0v7ql5bm6-raikou-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-129",
+        "categoria":  "Pokemon",
+        "nome":  "Tinkaton ex",
+        "estagio":  "2",
+        "evolucao":  "Tinkatuff",
+        "tipo":  "Metal",
+        "hp":  170,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Terrific Thumping",
+                           "dano":  "80+",
+                           "custoataque":  [
+                                               "metal",
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, this attack does 80 more damage."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "129 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/iyle8ws7bvhy10i-tinkaton-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-130",
+        "categoria":  "Pokemon",
+        "nome":  "Baxcalibur",
+        "estagio":  "2",
+        "evolucao":  "Arctibax",
+        "tipo":  "Agua",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Buster Tail",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  3,
+        "raridade":  "Coroa Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "130 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/rqvlxwivqk70ey3-baxcalibur.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "b2a-131",
+        "categoria":  "Treinador",
+        "nome":  "Electric Generator",
+        "estagio":  "Item",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  1,
+        "raridade":  "Coroa Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Maravilhas de Paldea (B2a)",
+        "numero":  "131 / 131",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/sok5zx4bajkt1g8-gerador-eletrico.jpg",
+        "custoDeck":  1
+    }
+]

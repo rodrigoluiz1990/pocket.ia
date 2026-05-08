@@ -1,0 +1,16 @@
+{
+  "name": "pocketia",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync:cards": "node scripts/sync-pocket-cards.mjs",
+    "draft:expansion": "node scripts/generate-expansion-draft.mjs",
+    "publish:expansion": "node scripts/publish-expansion-json.mjs",
+    "sync:images": "node scripts/download-card-images.mjs",
+    "build:cards-bundle": "node scripts/build-cards-bundle.mjs",
+    "fix:rarities": "node scripts/fix-rarities-from-db.mjs",
+    "fix:types-promo": "node scripts/fix-types-and-promo.mjs",
+    "enrich:combat": "node scripts/enrich-combat-fields.mjs"
+  }
+}

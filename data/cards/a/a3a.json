@@ -1,0 +1,3201 @@
+﻿[
+    {
+        "id":  "a3a-001",
+        "categoria":  "Pokemon",
+        "nome":  "Petilil",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Seed Bomb",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "1 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/29vnh97pflo89se-petilil.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-002",
+        "categoria":  "Pokemon",
+        "nome":  "Lilligant",
+        "estagio":  "1",
+        "evolucao":  "Petilil",
+        "tipo":  "Planta",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Cut",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "planta",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "2 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/65d643wel623n77-lilligant.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-003",
+        "categoria":  "Pokemon",
+        "nome":  "Rowlet",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fury Attack",
+                           "dano":  "10x",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  "Flip 3 coins. This attack does 10 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "3 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/508a2e2512tdkel-rowlet.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-004",
+        "categoria":  "Pokemon",
+        "nome":  "Dartrix",
+        "estagio":  "1",
+        "evolucao":  "Rowlet",
+        "tipo":  "Planta",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Skill Dive",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  "This attack does 20 damage to 1 of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "4 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/t61q216dr068x2t-dartrix.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-005",
+        "categoria":  "Pokemon",
+        "nome":  "Decidueye",
+        "estagio":  "2",
+        "evolucao":  "Dartrix",
+        "tipo":  "Planta",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sniping Arrow",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "planta",
+                                               "planta"
+                                           ],
+                           "efeito":  "This attack does 70 damage to 1 of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "5 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/gm0trc7un8we03k-decidueye.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-006",
+        "categoria":  "Pokemon",
+        "nome":  "Buzzwole ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Punch",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       },
+                       {
+                           "nomeataque":  "Big Beat",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "planta",
+                                               "planta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your next turn, this PokÃƒÂ©mon can\u0027t use Big Beat."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "6 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/hv6a58apc277619-buzzwole-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-007",
+        "categoria":  "Pokemon",
+        "nome":  "Pheromosa",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Jump Blues",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  "This attack also does 20 damage to 1 of your opponent\u0027s Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "7 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/zfvw6q4z5p5b1g4-pheromosa.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-008",
+        "categoria":  "Pokemon",
+        "nome":  "Kartana",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Thrash Metal",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "8 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/146l55qu6tkjdcc-kartana.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-009",
+        "categoria":  "Pokemon",
+        "nome":  "Blacephalon",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Beat Punk",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This PokÃƒÂ©mon also does 70 damage to itself."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "9 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/63m26cd89p80204-blacephalon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-010",
+        "categoria":  "Pokemon",
+        "nome":  "Mantine",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Surf",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "10 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0410gccd7h35765-mantine.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-011",
+        "categoria":  "Pokemon",
+        "nome":  "Carvanha",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bite",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "11 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/36ij4i0669ze24d-carvanha.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-012",
+        "categoria":  "Pokemon",
+        "nome":  "Sharpedo",
+        "estagio":  "1",
+        "evolucao":  "Carvanha",
+        "tipo":  "Agua",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Crunch",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, discard a random Energy from your opponent\u0027s Active PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "12 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/y48p8qfhmmbx48u-sharpedo.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-013",
+        "categoria":  "Pokemon",
+        "nome":  "Shinx",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bite",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "13 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/e80008beh0exl00-shinx.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-014",
+        "categoria":  "Pokemon",
+        "nome":  "Luxio",
+        "estagio":  "1",
+        "evolucao":  "Shinx",
+        "tipo":  "Raio",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Head Bolt",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "14 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/3894yr8ab6udcn3-luxio.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-015",
+        "categoria":  "Pokemon",
+        "nome":  "Luxray",
+        "estagio":  "2",
+        "evolucao":  "Luxio",
+        "tipo":  "Raio",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Electric Ball",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "15 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/206fo2t31yejp1v-luxray.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-016",
+        "categoria":  "Pokemon",
+        "nome":  "Blitzle",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Rear Kick",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "16 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/5qn92t51fcv20rt-blitzle.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-017",
+        "categoria":  "Pokemon",
+        "nome":  "Zebstrika",
+        "estagio":  "1",
+        "evolucao":  "Blitzle",
+        "tipo":  "Raio",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Head Bolt",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "17 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/769q3i43dbv1mn9-zebstrika.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-018",
+        "categoria":  "Pokemon",
+        "nome":  "Emolga",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Static Shock",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "18 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/v0v57983tn4m8af-emolga.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-019",
+        "categoria":  "Pokemon",
+        "nome":  "Tapu Koko ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Plasma Hurricane",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  "Take a Lightning Energy from your Energy Zone and attach it to this PokÃƒÂ©mon."
+                       },
+                       {
+                           "nomeataque":  "Mach Bolt",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "19 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/97prw0637869k65-tapu-koko-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-020",
+        "categoria":  "Pokemon",
+        "nome":  "Xurkitree",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Electronica",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "raio",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃƒÂ©mon is now Confused."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "20 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7armbs54q744wl0-xurkitree.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-021",
+        "categoria":  "Pokemon",
+        "nome":  "Zeraora",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Lightning Claw",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "21 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/w5c20331vx804y1-zeraora.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-022",
+        "categoria":  "Pokemon",
+        "nome":  "Clefairy",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Pound",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "22 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7210792gimw2u14-clefairy.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-023",
+        "categoria":  "Pokemon",
+        "nome":  "Clefable",
+        "estagio":  "1",
+        "evolucao":  "Clefairy",
+        "tipo":  "Psiquico",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Moon Kick",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "23 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/9q70g6ah9bkg7n1-clefable.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-024",
+        "categoria":  "Pokemon",
+        "nome":  "Phantump",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Spooky Shot",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "24 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/gf16dzsw4543xat-phantump.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-025",
+        "categoria":  "Pokemon",
+        "nome":  "Trevenant",
+        "estagio":  "1",
+        "evolucao":  "Phantump",
+        "tipo":  "Psiquico",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Wrack Down",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "25 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/n88u5027v24jth3-trevenant.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-026",
+        "categoria":  "Pokemon",
+        "nome":  "Morelull",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hook",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "26 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7co5ib49197wni9-morelull.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-027",
+        "categoria":  "Pokemon",
+        "nome":  "Shiinotic",
+        "estagio":  "1",
+        "evolucao":  "Morelull",
+        "tipo":  "Psiquico",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Gentle Slap",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "27 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1k420u663a4gw6c-shiinotic.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-028",
+        "categoria":  "Pokemon",
+        "nome":  "Meditite",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Trip Over",
+                           "dano":  "10+",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, this attack does 20 more damage."
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "28 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/j295tbc36b1uonl-meditite.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-029",
+        "categoria":  "Pokemon",
+        "nome":  "Medicham",
+        "estagio":  "1",
+        "evolucao":  "Meditite",
+        "tipo":  "Luta",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "High Jump Kick",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "29 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/f3g3m679d205in5-medicham.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-030",
+        "categoria":  "Pokemon",
+        "nome":  "Baltoy",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Spinning Attack",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "30 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/3lji1e6w80ucypf-baltoy.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-031",
+        "categoria":  "Pokemon",
+        "nome":  "Claydol",
+        "estagio":  "1",
+        "evolucao":  "Baltoy",
+        "tipo":  "Luta",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Power Beam",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "31 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/5mzw931q6559t55-claydol.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-032",
+        "categoria":  "Pokemon",
+        "nome":  "Rockruff",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Rock Throw",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "32 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/u22wmr4x33hsgc0-rockruff.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-033",
+        "categoria":  "Pokemon",
+        "nome":  "Lycanroc ex",
+        "estagio":  "1",
+        "evolucao":  "Rockruff",
+        "tipo":  "Luta",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Lycanfang",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard a Fighting Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "33 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/sz1912e0ii121q9-lycanroc-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-034",
+        "categoria":  "Pokemon",
+        "nome":  "Passimian",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "LetÃ¢â‚¬â„¢s Throw",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta"
+                                           ],
+                           "efeito":  "If Passimian is on your Bench, this attack does 40 more damage."
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "34 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/92r706h391248p8-passimian.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-035",
+        "categoria":  "Pokemon",
+        "nome":  "Sandygast",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sandy Shot",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "35 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/n82s0bc4v891a42-sandygast.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-036",
+        "categoria":  "Pokemon",
+        "nome":  "Palossand",
+        "estagio":  "1",
+        "evolucao":  "Sandygast",
+        "tipo":  "Luta",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sand Tomb",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "luta",
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your opponent\u0027s next turn, the Defending PokÃƒÂ©mon can\u0027t retreat."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "36 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/c13y0tpttzb4497-palossand.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-037",
+        "categoria":  "Pokemon",
+        "nome":  "Alolan Meowth",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Meddle",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  "Discard a random PokÃƒÂ©mon Tool card from your opponent\u0027s hand."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "37 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/tax5s5a8nyb740b-meowth-de-alola.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-038",
+        "categoria":  "Pokemon",
+        "nome":  "Alolan Persian",
+        "estagio":  "1",
+        "evolucao":  "Alolan Meowth",
+        "tipo":  "Escuridao",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fake Out",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, your opponent\u0027s Active PokÃƒÂ©mon is now Paralyzed."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "38 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/4h0g44sk770x034-persian-de-alola.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-039",
+        "categoria":  "Pokemon",
+        "nome":  "Sandile",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bite",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "39 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/43r9f6538vpmi98-sandile.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-040",
+        "categoria":  "Pokemon",
+        "nome":  "Krokorok",
+        "estagio":  "1",
+        "evolucao":  "Sandile",
+        "tipo":  "Escuridao",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Light Punch",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "40 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/jmzs69684wb1o4d-krokorok.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-041",
+        "categoria":  "Pokemon",
+        "nome":  "Krookodile",
+        "estagio":  "2",
+        "evolucao":  "Krokorok",
+        "tipo":  "Escuridao",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Poaching Fangs",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip 3 coins. For each heads, a card is chosen at random from your opponent\u0027s hand. Your opponent reveals that card and shuffles it into their deck."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "41 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/309643l85dw48y8-krookodile.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-042",
+        "categoria":  "Pokemon",
+        "nome":  "Nihilego",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "New Wave",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃƒÂ©mon is now Poisoned."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "42 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/405b4vv7y658avu-nihilego.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-043",
+        "categoria":  "Pokemon",
+        "nome":  "Guzzlord ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  170,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Grindcore",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent\u0027s Active PokÃƒÂ©mon."
+                       },
+                       {
+                           "nomeataque":  "Tyrannical Hole",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "escuridao",
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  4,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "43 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/75usn36xd77060p-guzzlord-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-044",
+        "categoria":  "Pokemon",
+        "nome":  "Poipole",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "2-Step",
+                           "dano":  "20x",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  "Flip 2 coins. This attack does 20 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "44 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/oo820rhj0dfmhn7-poipole.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-045",
+        "categoria":  "Pokemon",
+        "nome":  "Naganadel",
+        "estagio":  "1",
+        "evolucao":  "Poipole",
+        "tipo":  "Escuridao",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Electro House",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃƒÂ©mon is now Poisoned."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "45 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/x983zd0z6f773w8-naganadel.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-046",
+        "categoria":  "Pokemon",
+        "nome":  "Alolan Diglett",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Happened to Headbutt",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "metal"
+                                           ],
+                           "efeito":  "Flip a coin. If tails, this attack does nothing."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "46 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/9meusfgzgpz8781-diglett-de-alola.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-047",
+        "categoria":  "Pokemon",
+        "nome":  "Alolan Dugtrio ex",
+        "estagio":  "1",
+        "evolucao":  "Alolan Diglett",
+        "tipo":  "Metal",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Triplet Headbutt",
+                           "dano":  "60x",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip 3 coins. This attack does 60 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "47 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7zcq78bl48lfb36-dugtrio-de-alola-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-048",
+        "categoria":  "Pokemon",
+        "nome":  "Aron",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Headbutt",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "48 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ji8396r2n6z4dww-aron.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-049",
+        "categoria":  "Pokemon",
+        "nome":  "Lairon",
+        "estagio":  "1",
+        "evolucao":  "Aron",
+        "tipo":  "Metal",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Lunge Out",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "metal",
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  3,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "49 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/148v2o6k0kjn88e-lairon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-050",
+        "categoria":  "Pokemon",
+        "nome":  "Aggron",
+        "estagio":  "2",
+        "evolucao":  "Lairon",
+        "tipo":  "Metal",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Giga Impact",
+                           "dano":  "150",
+                           "custoataque":  [
+                                               "metal",
+                                               "metal",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your next turn, this PokÃƒÂ©mon can\u0027t attack."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  4,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "50 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/y1w775pen183f30-aggron.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-051",
+        "categoria":  "Pokemon",
+        "nome":  "Ferroseed",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Spike Sting",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "51 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/pk72gkl90ub2ne5-ferroseed.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-052",
+        "categoria":  "Pokemon",
+        "nome":  "Ferrothorn",
+        "estagio":  "1",
+        "evolucao":  "Ferroseed",
+        "tipo":  "Metal",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Spinning Attack",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "metal",
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "52 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/64t81g4ev0r6417-ferrothorn.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-053",
+        "categoria":  "Pokemon",
+        "nome":  "Stakataka",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Brass Rock",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your opponent\u0027s next turn, this PokÃƒÂ©mon takes Ã¢Ë†â€™20 damage from attacks."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "53 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/mk1mhi0wc58ao4g-stakataka.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-054",
+        "categoria":  "Pokemon",
+        "nome":  "Lillipup",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Tackle",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "54 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/34l03myb9lmu4w0-lillipup.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-055",
+        "categoria":  "Pokemon",
+        "nome":  "Herdier",
+        "estagio":  "1",
+        "evolucao":  "Lillipup",
+        "tipo":  "Incolor",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bite",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "55 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/fp4te5id3p412e1-herdier.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-056",
+        "categoria":  "Pokemon",
+        "nome":  "Stoutland",
+        "estagio":  "2",
+        "evolucao":  "Herdier",
+        "tipo":  "Incolor",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sharp Fang",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "56 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/85r33pognf12149-stoutland.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-057",
+        "categoria":  "Pokemon",
+        "nome":  "Stufful",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ram",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "57 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/nx25992jo69hga9-stufful.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-058",
+        "categoria":  "Pokemon",
+        "nome":  "Bewear",
+        "estagio":  "1",
+        "evolucao":  "Stufful",
+        "tipo":  "Incolor",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Superpowered Hug",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip 2 coins. If both of them are heads, your opponent\u0027s Active PokÃƒÂ©mon is Knocked Out."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "58 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/cuv8i1sgr6g66a4-bewear.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-059",
+        "categoria":  "Pokemon",
+        "nome":  "Oranguru",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hammer In",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "59 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1c1z5l4rf24wh9g-oranguru.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-060",
+        "categoria":  "Pokemon",
+        "nome":  "Type: Null",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Quick Blow",
+                           "dano":  "20+",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, this attack does 20 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "60 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ac21ia93x22627f-tipo-nulo.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-061",
+        "categoria":  "Pokemon",
+        "nome":  "Silvally",
+        "estagio":  "1",
+        "evolucao":  "Type: Null",
+        "tipo":  "Incolor",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Brave Buddies",
+                           "dano":  "50+",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "61 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/n67wu2s55z048a9-silvally.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-062",
+        "categoria":  "Pokemon",
+        "nome":  "Celesteela",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Moombahton",
+                           "dano":  "100",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If tails, this attack does nothing."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  4,
+        "raridade":  "Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "62 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/a3gnp12x5v33020-celesteela.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-063",
+        "categoria":  "Treinador",
+        "nome":  "Beast Wall",
+        "estagio":  "Item",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "63 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/k64t1xu3t2tb023-muralha-de-criatura.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-064",
+        "categoria":  "Treinador",
+        "nome":  "Repel",
+        "estagio":  "Item",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "64 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/v3l7ea79zk3yv5t-repelente.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-065",
+        "categoria":  "Treinador",
+        "nome":  "Electrical Cord",
+        "estagio":  "Ferramenta",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "65 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/q9vx921f926493c-fio-eletrico.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-066",
+        "categoria":  "Treinador",
+        "nome":  "Beastite",
+        "estagio":  "Ferramenta",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "66 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/a9i1p6tcjhi99vw-criaturita.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-067",
+        "categoria":  "Treinador",
+        "nome":  "Gladion",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "67 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/yelg81s51w096fo-gladio.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-068",
+        "categoria":  "Treinador",
+        "nome":  "Looker",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "68 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/tfl4wd89mj7y91a-looker.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-069",
+        "categoria":  "Treinador",
+        "nome":  "Lusamine",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "69 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/z8p60q67wa4r219-samina.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-070",
+        "categoria":  "Pokemon",
+        "nome":  "Rowlet",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fury Attack",
+                           "dano":  "10x",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  "Flip 3 coins. This attack does 10 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "70 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/x0un1t77c6gr7fv-rowlet.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-071",
+        "categoria":  "Pokemon",
+        "nome":  "Pheromosa",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Jump Blues",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  "This attack also does 20 damage to 1 of your opponent\u0027s Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "71 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/82wybizfr9nv3eb-pheromosa.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-072",
+        "categoria":  "Pokemon",
+        "nome":  "Blacephalon",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Beat Punk",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This PokÃƒÂ©mon also does 70 damage to itself."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "72 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/l828bhl08c44z84-blacephalon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-073",
+        "categoria":  "Pokemon",
+        "nome":  "Alolan Meowth",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Meddle",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  "Discard a random PokÃƒÂ©mon Tool card from your opponent\u0027s hand."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "73 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/49i7873045bjuy5-meowth-de-alola.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-074",
+        "categoria":  "Pokemon",
+        "nome":  "Silvally",
+        "estagio":  "1",
+        "evolucao":  "Type: Null",
+        "tipo":  "Incolor",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Brave Buddies",
+                           "dano":  "50+",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "74 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/vm4873y366earh9-silvally.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-075",
+        "categoria":  "Pokemon",
+        "nome":  "Celesteela",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Moombahton",
+                           "dano":  "100",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If tails, this attack does nothing."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  4,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "75 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/5d2wcbslnm45uo1-celesteela.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-076",
+        "categoria":  "Pokemon",
+        "nome":  "Buzzwole ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Punch",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       },
+                       {
+                           "nomeataque":  "Big Beat",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "planta",
+                                               "planta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your next turn, this PokÃƒÂ©mon can\u0027t use Big Beat."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "76 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/u2m1m9n60j2iuoo-buzzwole-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-077",
+        "categoria":  "Pokemon",
+        "nome":  "Tapu Koko ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Plasma Hurricane",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  "Take a Lightning Energy from your Energy Zone and attach it to this PokÃƒÂ©mon."
+                       },
+                       {
+                           "nomeataque":  "Mach Bolt",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "77 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0m1a4c43dhg86w5-tapu-koko-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-078",
+        "categoria":  "Pokemon",
+        "nome":  "Lycanroc ex",
+        "estagio":  "1",
+        "evolucao":  "Rockruff",
+        "tipo":  "Luta",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Lycanfang",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard a Fighting Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "78 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/52s779n26vz2150-lycanroc-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-079",
+        "categoria":  "Pokemon",
+        "nome":  "Guzzlord ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  170,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Grindcore",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent\u0027s Active PokÃƒÂ©mon."
+                       },
+                       {
+                           "nomeataque":  "Tyrannical Hole",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "escuridao",
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  4,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "79 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/8ft2ly9iyui540g-guzzlord-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-080",
+        "categoria":  "Pokemon",
+        "nome":  "Alolan Dugtrio ex",
+        "estagio":  "1",
+        "evolucao":  "Alolan Diglett",
+        "tipo":  "Metal",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Triplet Headbutt",
+                           "dano":  "60x",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip 3 coins. This attack does 60 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "80 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/140zu0766vdaf0z-dugtrio-de-alola-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-081",
+        "categoria":  "Treinador",
+        "nome":  "Gladion",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "81 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/448x246m9whe1k6-gladio.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-082",
+        "categoria":  "Treinador",
+        "nome":  "Looker",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "82 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/hfyk52u91d5pr5i-looker.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-083",
+        "categoria":  "Treinador",
+        "nome":  "Lusamine",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "83 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/31x22i8bu5q4mg4-samina.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-084",
+        "categoria":  "Pokemon",
+        "nome":  "Tapu Koko ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Plasma Hurricane",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  "Take a Lightning Energy from your Energy Zone and attach it to this PokÃƒÂ©mon."
+                       },
+                       {
+                           "nomeataque":  "Mach Bolt",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "84 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/a9i619391z9jonl-tapu-koko-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-085",
+        "categoria":  "Pokemon",
+        "nome":  "Lycanroc ex",
+        "estagio":  "1",
+        "evolucao":  "Rockruff",
+        "tipo":  "Luta",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Lycanfang",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard a Fighting Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "85 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/l3542578604cv1b-lycanroc-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-086",
+        "categoria":  "Pokemon",
+        "nome":  "Guzzlord ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  170,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Grindcore",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent\u0027s Active PokÃƒÂ©mon."
+                       },
+                       {
+                           "nomeataque":  "Tyrannical Hole",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "escuridao",
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  4,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "86 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0gpn62g995z2i8c-guzzlord-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-087",
+        "categoria":  "Pokemon",
+        "nome":  "Alolan Dugtrio ex",
+        "estagio":  "1",
+        "evolucao":  "Alolan Diglett",
+        "tipo":  "Metal",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Triplet Headbutt",
+                           "dano":  "60x",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip 3 coins. This attack does 60 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "87 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/94z609zkkrw8o91-dugtrio-de-alola-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-088",
+        "categoria":  "Pokemon",
+        "nome":  "Buzzwole ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Punch",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       },
+                       {
+                           "nomeataque":  "Big Beat",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "planta",
+                                               "planta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your next turn, this PokÃƒÂ©mon can\u0027t use Big Beat."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Raro Imersivo",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "88 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0c0pwd87tm3i568-buzzwole-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-089",
+        "categoria":  "Pokemon",
+        "nome":  "Growlithe",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bite",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "89 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/829slfb0j8w5l4g-growlithe.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-090",
+        "categoria":  "Pokemon",
+        "nome":  "Arcanine",
+        "estagio":  "1",
+        "evolucao":  "Growlithe",
+        "tipo":  "Fogo",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Heat Tackle",
+                           "dano":  "100",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This PokÃƒÂ©mon also does 20 damage to itself."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "90 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/4lyl584d151yl05-arcanine.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-091",
+        "categoria":  "Pokemon",
+        "nome":  "Froakie",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flop",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "91 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/aus1jx6w62p0738-froakie.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-092",
+        "categoria":  "Pokemon",
+        "nome":  "Frogadier",
+        "estagio":  "1",
+        "evolucao":  "Froakie",
+        "tipo":  "Agua",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Water Drip",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "92 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/h669ruuu46jpta8-frogadier.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-093",
+        "categoria":  "Pokemon",
+        "nome":  "Greninja",
+        "estagio":  "2",
+        "evolucao":  "Frogadier",
+        "tipo":  "Agua",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Mist Slash",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "93 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/5di1ml4z77h10r0-greninja.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-094",
+        "categoria":  "Pokemon",
+        "nome":  "Jynx",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Psychic",
+                           "dano":  "30+",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack does 20 more damage for each Energy attached to your opponent\u0027s Active PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "94 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/9yf5h7n0so424a0-jynx.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-095",
+        "categoria":  "Pokemon",
+        "nome":  "Pidgey",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Gust",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "95 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/hzbuhc9st75679h-pidgey.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-096",
+        "categoria":  "Pokemon",
+        "nome":  "Pidgeotto",
+        "estagio":  "1",
+        "evolucao":  "Pidgey",
+        "tipo":  "Incolor",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Gust",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "96 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1279a821qw99yob-pidgeotto.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-097",
+        "categoria":  "Pokemon",
+        "nome":  "Pidgeot",
+        "estagio":  "2",
+        "evolucao":  "Pidgeotto",
+        "tipo":  "Incolor",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Wing Attack",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "97 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ajo5xz74n2ibywe-pidgeot.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-098",
+        "categoria":  "Pokemon",
+        "nome":  "Aerodactyl",
+        "estagio":  "1",
+        "evolucao":  "Old Amber",
+        "tipo":  "Incolor",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Primal Wingbeat",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, your opponent shuffles their Active PokÃƒÂ©mon back into their deck."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "98 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/m4fqdl118727p10-aerodactyl.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-099",
+        "categoria":  "Pokemon",
+        "nome":  "Celebi ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Powerful Bloom",
+                           "dano":  "50x",
+                           "custoataque":  [
+                                               "planta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin for each Energy attached to this PokÃƒÂ©mon. This attack does 50 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "99 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/r89vun941j1f3mc-celebi-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-100",
+        "categoria":  "Pokemon",
+        "nome":  "Arcanine ex",
+        "estagio":  "1",
+        "evolucao":  "Growlithe",
+        "tipo":  "Fogo",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Inferno Onrush",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This PokÃƒÂ©mon also does 20 damage to itself."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "100 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7cx4jl06gn3y702-arcanine-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-101",
+        "categoria":  "Pokemon",
+        "nome":  "Aerodactyl ex",
+        "estagio":  "1",
+        "evolucao":  "Old Amber",
+        "tipo":  "Luta",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Land Crush",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "101 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/387qh6d26ih92xf-aerodactyl-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-102",
+        "categoria":  "Pokemon",
+        "nome":  "Pidgeot ex",
+        "estagio":  "2",
+        "evolucao":  "Pidgeotto",
+        "tipo":  "Incolor",
+        "hp":  170,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Scattering Cyclone",
+                           "dano":  "80+",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack does 20 more damage for each of your opponent\u0027s Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "102 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0dw3116n4ika27q-pidgeot-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3a-103",
+        "categoria":  "Pokemon",
+        "nome":  "Nihilego",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "New Wave",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃƒÂ©mon is now Poisoned."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Coroa Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Crise Extradimensional (A3a)",
+        "numero":  "103 / 103",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/3r7h89y63qrr303-nihilego.jpg",
+        "custoDeck":  1
+    }
+]

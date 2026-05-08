@@ -1,0 +1,7079 @@
+[
+  {
+    "id": "b3-001",
+    "categoria": "Pokemon",
+    "nome": "Tangela",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Bind",
+        "dano": "20",
+        "custoataque": [
+          "planta",
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active PokÃ©mon is now Paralyzed."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "1 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/3v65a565dy8d8l8-tangela.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-002",
+    "categoria": "Pokemon",
+    "nome": "Tangrowth",
+    "estagio": "1",
+    "evolucao": "Tangela",
+    "tipo": "Planta",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Vine Whip",
+        "dano": "80",
+        "custoataque": [
+          "planta",
+          "planta",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "2 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/14x3437j90g9133-tangrowth.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-003",
+    "categoria": "Pokemon",
+    "nome": "Heracross",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Powerful Friends",
+        "dano": "30+",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "If you have any Stage 2 PokÃ©mon on your Bench, this attack does 50 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "3 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/0hy0kfkq75ilhr5-heracross.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-004",
+    "categoria": "Pokemon",
+    "nome": "Celebi",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Smack",
+        "dano": "30",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "4 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/u3tt8njxbx20d52-celebi.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-005",
+    "categoria": "Pokemon",
+    "nome": "Treecko",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Pound",
+        "dano": "20",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "5 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-006",
+    "categoria": "Pokemon",
+    "nome": "Grovyle",
+    "estagio": "1",
+    "evolucao": "Treecko",
+    "tipo": "Planta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Slicing Snipe",
+        "dano": "",
+        "custoataque": [
+          "planta",
+          "planta"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's Benched PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "6 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-007",
+    "categoria": "Pokemon",
+    "nome": "Sceptile",
+    "estagio": "2",
+    "evolucao": "Grovyle",
+    "tipo": "Planta",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Leaf Blade",
+        "dano": "70+",
+        "custoataque": [
+          "planta",
+          "planta"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 50 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "7 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-008",
+    "categoria": "Pokemon",
+    "nome": "Mega Sceptile ex",
+    "estagio": "2",
+    "evolucao": "Grovyle",
+    "tipo": "Planta",
+    "hp": 210,
+    "ataque": [
+      {
+        "nomeataque": "Terminating Tail",
+        "dano": "130",
+        "custoataque": [
+          "planta",
+          "planta"
+        ],
+        "efeito": "Discard GrassGrass Energy from this PokÃ©mon. Your opponent's Active PokÃ©mon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "8 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-009",
+    "categoria": "Pokemon",
+    "nome": "Surskit",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Firefighting",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Discard a Fire Energy from your opponent's Active PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "9 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/syj3j91t48n28e6-surskit.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-010",
+    "categoria": "Pokemon",
+    "nome": "Masquerain",
+    "estagio": "1",
+    "evolucao": "Surskit",
+    "tipo": "Planta",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Gust",
+        "dano": "40",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "10 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/aa520h17113yvso-masquerain.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-011",
+    "categoria": "Pokemon",
+    "nome": "Shroomish",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Spore",
+        "dano": "",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": "Your opponent's Active PokÃ©mon is now Asleep."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "11 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/jmkiik8xkrccqcp-shroomish.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-012",
+    "categoria": "Pokemon",
+    "nome": "Breloom",
+    "estagio": "1",
+    "evolucao": "Shroomish",
+    "tipo": "Planta",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Pre-Dawn Strike",
+        "dano": "30+",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": "If your opponent's Active PokÃ©mon is Asleep, this attack does 60 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "12 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/saf1r23dbj4tfq0-breloom.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-013",
+    "categoria": "Pokemon",
+    "nome": "Budew",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 30,
+    "ataque": [
+      {
+        "nomeataque": "Prickly Powder",
+        "dano": "10",
+        "custoataque": [
+          ""
+        ],
+        "efeito": "The Defending PokÃ©mon loses all Abilities. This effect lasts until the Defending PokÃ©mon leaves the Active Spot."
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "13 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-014",
+    "categoria": "Pokemon",
+    "nome": "Carnivine",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Bite",
+        "dano": "30",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "14 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/4b06k982bur8hwg-carnivine.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-015",
+    "categoria": "Pokemon",
+    "nome": "Sewaddle",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Gnaw",
+        "dano": "20",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "15 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-016",
+    "categoria": "Pokemon",
+    "nome": "Swadloon",
+    "estagio": "1",
+    "evolucao": "Sewaddle",
+    "tipo": "Planta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Protect",
+        "dano": "",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": "Flip a coin. If heads, during your opponent's next turn, prevent all damage fromâ€”and effects ofâ€”attacks done to this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "16 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-017",
+    "categoria": "Pokemon",
+    "nome": "Leavanny",
+    "estagio": "2",
+    "evolucao": "Swadloon",
+    "tipo": "Planta",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Razor Leaf",
+        "dano": "100",
+        "custoataque": [
+          "planta",
+          "planta",
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "17 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-018",
+    "categoria": "Pokemon",
+    "nome": "Durant",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Bite Together",
+        "dano": "20+",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": "If Durant is on your Bench, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "18 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/18nf4owgq1ldg7s-durant.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-019",
+    "categoria": "Pokemon",
+    "nome": "Applin",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 40,
+    "ataque": [
+      {
+        "nomeataque": "Share",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Heal 30 damage from 1 of your Benched PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "19 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/2nrwr2c352zk0f6-applin.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-020",
+    "categoria": "Pokemon",
+    "nome": "Flapple",
+    "estagio": "1",
+    "evolucao": "Applin",
+    "tipo": "Planta",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Sour Spit",
+        "dano": "40",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending PokÃ©mon cost 1 Colorless more."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "20 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-021",
+    "categoria": "Pokemon",
+    "nome": "Numel",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Knock Away",
+        "dano": "20+",
+        "custoataque": [
+          "fogo",
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "21 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-022",
+    "categoria": "Pokemon",
+    "nome": "Camerupt",
+    "estagio": "1",
+    "evolucao": "Numel",
+    "tipo": "Fogo",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Eruption",
+        "dano": "60+",
+        "custoataque": [
+          "fogo",
+          "fogo",
+          "fogo"
+        ],
+        "efeito": "Flip 3 coins. For each heads, discard a Fire Energy from this PokÃ©mon. This attack does 30 more damage for each Fire Energy you discarded in this way."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 4,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "22 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-023",
+    "categoria": "Pokemon",
+    "nome": "Mega Camerupt ex",
+    "estagio": "1",
+    "evolucao": "Numel",
+    "tipo": "Fogo",
+    "hp": 210,
+    "ataque": [
+      {
+        "nomeataque": "Volcanic Kaboom",
+        "dano": "",
+        "custoataque": [
+          "fogo",
+          "fogo",
+          "fogo",
+          "incolor"
+        ],
+        "efeito": "1 of your opponent's PokÃ©mon is chosen at random. Do 160 damage to it."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 4,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "23 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-024",
+    "categoria": "Pokemon",
+    "nome": "Castform Sunny Form",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Sunny Scorching",
+        "dano": "30",
+        "custoataque": [
+          "fogo"
+        ],
+        "efeito": "If a Stadium is in play, your opponent's Active PokÃ©mon is now Burned."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "24 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-025",
+    "categoria": "Pokemon",
+    "nome": "Victini",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "V-Flame",
+        "dano": "40",
+        "custoataque": [
+          "fogo",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "25 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-026",
+    "categoria": "Pokemon",
+    "nome": "Tepig",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Stoke",
+        "dano": "",
+        "custoataque": [
+          "fogo"
+        ],
+        "efeito": "Flip a coin. If heads, take 2 Fire Energy from your Energy Zone and attach it to this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "26 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-027",
+    "categoria": "Pokemon",
+    "nome": "Pignite",
+    "estagio": "1",
+    "evolucao": "Tepig",
+    "tipo": "Fogo",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Magma Punch",
+        "dano": "60",
+        "custoataque": [
+          "fogo",
+          "fogo",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "27 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-028",
+    "categoria": "Pokemon",
+    "nome": "Emboar",
+    "estagio": "2",
+    "evolucao": "Pignite",
+    "tipo": "Fogo",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Flare Storm",
+        "dano": "70+",
+        "custoataque": [
+          "fogo",
+          "fogo",
+          "fogo"
+        ],
+        "efeito": "Flip a coin for each Fire Energy attached to this PokÃ©mon. This attack does 30 more damage for each heads."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 4,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "28 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-029",
+    "categoria": "Pokemon",
+    "nome": "Darumaka",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Headbutt",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "29 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/0t863d2jsjegc25-darumaka.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-030",
+    "categoria": "Pokemon",
+    "nome": "Darmanitan",
+    "estagio": "1",
+    "evolucao": "Darumaka",
+    "tipo": "Fogo",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Double Smash",
+        "dano": "40x",
+        "custoataque": [
+          "fogo"
+        ],
+        "efeito": "Flip 2 coins. This attack does 40 damage for each heads."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "30 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/9ws4mft5t301fp8-darmanitan.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-031",
+    "categoria": "Pokemon",
+    "nome": "Larvesta",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Steady Firebreathing",
+        "dano": "20",
+        "custoataque": [
+          "fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "31 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/aq1a8ns3zq3r3d4-larvesta.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-032",
+    "categoria": "Pokemon",
+    "nome": "Volcarona",
+    "estagio": "1",
+    "evolucao": "Larvesta",
+    "tipo": "Fogo",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Fire Arrow",
+        "dano": "",
+        "custoataque": [
+          "fogo",
+          "fogo"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "32 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/5jsi6xvwpmx4rd8-volcarona.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-033",
+    "categoria": "Pokemon",
+    "nome": "Poliwag",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Rain Splash",
+        "dano": "20",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "33 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/8wpkt914mgs00n8-poliwag.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-034",
+    "categoria": "Pokemon",
+    "nome": "Poliwhirl",
+    "estagio": "1",
+    "evolucao": "Poliwag",
+    "tipo": "Agua",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Hit Twice",
+        "dano": "30x",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": "Flip 2 coins. This attack does 30 damage for each heads."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "34 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/844is02ib41g2um-poliwhirl.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-035",
+    "categoria": "Pokemon",
+    "nome": "Politoed",
+    "estagio": "2",
+    "evolucao": "Poliwhirl",
+    "tipo": "Agua",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Raid",
+        "dano": "50+",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": "If this PokÃ©mon evolved from Poliwhirl during this turn, this attack does 50 more damage."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "35 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/3jd30i872s73pd2-politoed.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-036",
+    "categoria": "Pokemon",
+    "nome": "Paldean Tauros",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Smash Kick",
+        "dano": "50",
+        "custoataque": [
+          "agua",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "36 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-037",
+    "categoria": "Pokemon",
+    "nome": "Vaporeon ex",
+    "estagio": "1",
+    "evolucao": "Eevee",
+    "tipo": "Agua",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Wave Splash",
+        "dano": "80",
+        "custoataque": [
+          "agua",
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Duplamente Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "37 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-038",
+    "categoria": "Pokemon",
+    "nome": "Wooper",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Tail Whap",
+        "dano": "30",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "38 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/io3wp76plakaw12-wooper.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-039",
+    "categoria": "Pokemon",
+    "nome": "Quagsire",
+    "estagio": "1",
+    "evolucao": "Wooper",
+    "tipo": "Agua",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Muddy Headbutt",
+        "dano": "60+",
+        "custoataque": [
+          "agua",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "If this PokÃ©mon has any Fighting Energy attached, this attack does 60 more damage."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "39 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/7163v58wif3lynk-quagsire.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-040",
+    "categoria": "Pokemon",
+    "nome": "Castform Rainy Form",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Rainy Absorbing",
+        "dano": "30",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": "If a Stadium is in play, heal 20 damage from this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "40 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-041",
+    "categoria": "Pokemon",
+    "nome": "Castform Snowy Form",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Snowy Chilling",
+        "dano": "40",
+        "custoataque": [
+          "agua",
+          "incolor"
+        ],
+        "efeito": "If a Stadium is in play, your opponent's Active PokÃ©mon is now Asleep."
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "41 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-042",
+    "categoria": "Pokemon",
+    "nome": "Clamperl",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Sparkling Pearl",
+        "dano": "20",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "42 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-043",
+    "categoria": "Pokemon",
+    "nome": "Huntail",
+    "estagio": "1",
+    "evolucao": "Clamperl",
+    "tipo": "Agua",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Hydro Splash",
+        "dano": "70",
+        "custoataque": [
+          "agua",
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "43 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-044",
+    "categoria": "Pokemon",
+    "nome": "Gorebyss",
+    "estagio": "1",
+    "evolucao": "Clamperl",
+    "tipo": "Agua",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Aqua Edge",
+        "dano": "40",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "44 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-045",
+    "categoria": "Pokemon",
+    "nome": "Regice",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Reflect Energy",
+        "dano": "70",
+        "custoataque": [
+          "agua",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Move 2 random Energy from this PokÃ©mon to 1 of your Benched PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "45 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/40396i37fn201i7-regice.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-046",
+    "categoria": "Pokemon",
+    "nome": "Cubchoo",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Icicle Punch",
+        "dano": "30",
+        "custoataque": [
+          "agua",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "46 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-047",
+    "categoria": "Pokemon",
+    "nome": "Beartic",
+    "estagio": "1",
+    "evolucao": "Cubchoo",
+    "tipo": "Agua",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Frost Smash",
+        "dano": "80",
+        "custoataque": [
+          "agua",
+          "agua",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "47 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-048",
+    "categoria": "Pokemon",
+    "nome": "Sobble",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Find a Friend",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Put a random PokÃ©mon from your deck into your hand."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "48 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-049",
+    "categoria": "Pokemon",
+    "nome": "Drizzile",
+    "estagio": "1",
+    "evolucao": "Sobble",
+    "tipo": "Agua",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Water Gun",
+        "dano": "20",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "49 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-050",
+    "categoria": "Pokemon",
+    "nome": "Inteleon",
+    "estagio": "2",
+    "evolucao": "Drizzile",
+    "tipo": "Agua",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Aqua Edge",
+        "dano": "70",
+        "custoataque": [
+          "agua",
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "50 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-051",
+    "categoria": "Pokemon",
+    "nome": "Rapid Strike Urshifu",
+    "estagio": "1",
+    "evolucao": "Kubfu",
+    "tipo": "Agua",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Tornado Shot",
+        "dano": "40",
+        "custoataque": [
+          "agua",
+          "incolor"
+        ],
+        "efeito": "Discard a Water Energy from this PokÃ©mon, and this attack also does 40 damage to 1 of your opponent's Benched PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "51 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-052",
+    "categoria": "Pokemon",
+    "nome": "Magnemite",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Thunder Shock",
+        "dano": "20",
+        "custoataque": [
+          "raio",
+          "raio"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active PokÃ©mon is now Paralyzed."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "52 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/0bpevr0y99ddm7h-magnemite.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-053",
+    "categoria": "Pokemon",
+    "nome": "Magneton",
+    "estagio": "1",
+    "evolucao": "Magnemite",
+    "tipo": "Raio",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Magnetic Blast",
+        "dano": "50",
+        "custoataque": [
+          "raio",
+          "raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "53 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/1w6u808b7z0fusv-magneton.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-054",
+    "categoria": "Pokemon",
+    "nome": "Magnezone ex",
+    "estagio": "2",
+    "evolucao": "Magneton",
+    "tipo": "Raio",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Storm Blade",
+        "dano": "130",
+        "custoataque": [
+          "raio",
+          "raio",
+          "raio"
+        ],
+        "efeito": "Discard a Lightning Energy from this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "54 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-055",
+    "categoria": "Pokemon",
+    "nome": "Voltorb",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Single Shot Blast",
+        "dano": "50",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "55 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/a8jdu9dddt4ftlw-voltorb.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-056",
+    "categoria": "Pokemon",
+    "nome": "Electrode",
+    "estagio": "1",
+    "evolucao": "Voltorb",
+    "tipo": "Raio",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Electroblast",
+        "dano": "20+",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": "Flip 2 coins. This attack does 30 more damage for each heads."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "56 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/1gajf777c1ewg05-electrode.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-057",
+    "categoria": "Pokemon",
+    "nome": "Chinchou",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Razor Fin",
+        "dano": "20",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "57 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/3p0wc72qhd68o9d-chinchou.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-058",
+    "categoria": "Pokemon",
+    "nome": "Lanturn",
+    "estagio": "1",
+    "evolucao": "Chinchou",
+    "tipo": "Raio",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Electric Ball",
+        "dano": "70",
+        "custoataque": [
+          "raio",
+          "raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "58 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-059",
+    "categoria": "Pokemon",
+    "nome": "Zekrom",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Bolt Strike",
+        "dano": "110",
+        "custoataque": [
+          "raio",
+          "raio",
+          "raio"
+        ],
+        "efeito": "Flip a coin. If tails, this PokÃ©mon also does 30 damage to itself."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "59 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-060",
+    "categoria": "Pokemon",
+    "nome": "Toxel",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Slap",
+        "dano": "20",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "60 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/1q1ljgbw1m5sw29-toxel.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-061",
+    "categoria": "Pokemon",
+    "nome": "Toxtricity",
+    "estagio": "1",
+    "evolucao": "Toxel",
+    "tipo": "Raio",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Vengeful Shock",
+        "dano": "40+",
+        "custoataque": [
+          "raio",
+          "raio"
+        ],
+        "efeito": "If any of your PokÃ©mon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage, and your opponent's Active PokÃ©mon is now Paralyzed."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "61 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-062",
+    "categoria": "Pokemon",
+    "nome": "Morpeko",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Full Belly Bolt",
+        "dano": "10+",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": "If this PokÃ©mon has no damage on it, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "62 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/1aseo6dt7qogi62-morpeko.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-063",
+    "categoria": "Pokemon",
+    "nome": "Ralts",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Smack",
+        "dano": "20",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "63 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/0f2k8c2pmi79bk0-ralts.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-064",
+    "categoria": "Pokemon",
+    "nome": "Kirlia",
+    "estagio": "1",
+    "evolucao": "Ralts",
+    "tipo": "Psiquico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Double Spin",
+        "dano": "30x",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 30 damage for each heads."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "64 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/026plju9m5hozwb-kirlia.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-065",
+    "categoria": "Pokemon",
+    "nome": "Espurr",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Mumble",
+        "dano": "20",
+        "custoataque": [
+          "psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "65 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-066",
+    "categoria": "Pokemon",
+    "nome": "Meowstic",
+    "estagio": "1",
+    "evolucao": "Espurr",
+    "tipo": "Psiquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Psyshot",
+        "dano": "40",
+        "custoataque": [
+          "psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "66 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-067",
+    "categoria": "Pokemon",
+    "nome": "Diancie",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Diamond Storm",
+        "dano": "50",
+        "custoataque": [
+          "psiquico",
+          "psiquico"
+        ],
+        "efeito": "Heal 20 damage from each of your Psychic PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "67 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-068",
+    "categoria": "Pokemon",
+    "nome": "Oricorio",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Pester the Dizzy",
+        "dano": "20+",
+        "custoataque": [
+          "psiquico"
+        ],
+        "efeito": "If your opponent's Active PokÃ©mon is Confused, this attack does 40 more damage."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "68 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/03p2rft5s7mzbqs-oricorio.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-069",
+    "categoria": "Pokemon",
+    "nome": "Hatenna",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Stampede",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "69 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-070",
+    "categoria": "Pokemon",
+    "nome": "Hattrem",
+    "estagio": "1",
+    "evolucao": "Hatenna",
+    "tipo": "Psiquico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Disarming Voice",
+        "dano": "20",
+        "custoataque": [
+          "psiquico"
+        ],
+        "efeito": "Your opponent's Active PokÃ©mon is now Confused."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "70 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-071",
+    "categoria": "Pokemon",
+    "nome": "Hatterene",
+    "estagio": "2",
+    "evolucao": "Hattrem",
+    "tipo": "Psiquico",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Mental Crush",
+        "dano": "70+",
+        "custoataque": [
+          "psiquico",
+          "psiquico"
+        ],
+        "efeito": "If your opponent's Active PokÃ©mon is Confused, this attack does 70 more damage."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "71 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-072",
+    "categoria": "Pokemon",
+    "nome": "Bramblin",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Petty Grudge",
+        "dano": "20",
+        "custoataque": [
+          "psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "72 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/lwbtoun57ywl3ex-bramblin.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-073",
+    "categoria": "Pokemon",
+    "nome": "Brambleghast",
+    "estagio": "1",
+    "evolucao": "Bramblin",
+    "tipo": "Psiquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Spooky Shot",
+        "dano": "60",
+        "custoataque": [
+          "psiquico",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "73 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/g9rpxjbk7binvk4-brambleghast.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-074",
+    "categoria": "Pokemon",
+    "nome": "Gligar",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Lunge",
+        "dano": "40",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "74 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/33q1969mzl285v9-gligar.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-075",
+    "categoria": "Pokemon",
+    "nome": "Gliscor",
+    "estagio": "1",
+    "evolucao": "Gligar",
+    "tipo": "Luta",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Pierce",
+        "dano": "40",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "75 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/4rrjwf4h9f5xzb6-gliscor.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-076",
+    "categoria": "Pokemon",
+    "nome": "Trapinch",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Mud-Slap",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "76 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-077",
+    "categoria": "Pokemon",
+    "nome": "Regirock",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Mad Hammer",
+        "dano": "100",
+        "custoataque": [
+          "luta",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "This PokÃ©mon also does 30 damage to itself."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "77 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/4l1utv8cd49u7ew-regirock.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-078",
+    "categoria": "Pokemon",
+    "nome": "Bonsly",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 30,
+    "ataque": [
+      {
+        "nomeataque": "Teary Attack",
+        "dano": "10",
+        "custoataque": [
+          ""
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending PokÃ©mon do âˆ’30 damage."
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "78 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-079",
+    "categoria": "Pokemon",
+    "nome": "Riolu",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Fighting Fist",
+        "dano": "10+",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": "If your opponent's Active PokÃ©mon is a PokÃ©mon ex, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "79 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/3vufo794jka2neo-riolu.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-080",
+    "categoria": "Pokemon",
+    "nome": "Lucario",
+    "estagio": "1",
+    "evolucao": "Riolu",
+    "tipo": "Luta",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Close Combat",
+        "dano": "90",
+        "custoataque": [
+          "luta",
+          "luta"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃ©mon takes +20 damage from attacks."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "80 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/7shb4509ugc8392-lucario.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-081",
+    "categoria": "Pokemon",
+    "nome": "Mega Lucario ex",
+    "estagio": "1",
+    "evolucao": "Riolu",
+    "tipo": "Luta",
+    "hp": 190,
+    "ataque": [
+      {
+        "nomeataque": "Fighting Pulse",
+        "dano": "90+",
+        "custoataque": [
+          "luta",
+          "luta"
+        ],
+        "efeito": "If this PokÃ©mon has at least 1 extra Fighting Energy attached, this attack does 50 more damage."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "81 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-082",
+    "categoria": "Pokemon",
+    "nome": "Croagunk",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Corkscrew Punch",
+        "dano": "20",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "82 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/30368v66io131j2-croagunk.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-083",
+    "categoria": "Pokemon",
+    "nome": "Toxicroak",
+    "estagio": "1",
+    "evolucao": "Croagunk",
+    "tipo": "Luta",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Poison Jab",
+        "dano": "40",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": "Your opponent's Active PokÃ©mon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "83 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/0l0sh954p6ans7i-toxicroak.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-084",
+    "categoria": "Pokemon",
+    "nome": "Gallade",
+    "estagio": "2",
+    "evolucao": "Kirlia",
+    "tipo": "Luta",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Earthen Sword",
+        "dano": "70+",
+        "custoataque": [
+          "luta",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "If a Stadium is in play, this attack does 70 more damage."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "84 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-085",
+    "categoria": "Pokemon",
+    "nome": "Throh",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Circle Throw",
+        "dano": "70",
+        "custoataque": [
+          "luta",
+          "luta",
+          "luta"
+        ],
+        "efeito": "Switch out your opponent's Active PokÃ©mon to the Bench. (Your opponent chooses the new Active PokÃ©mon.)"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "85 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-086",
+    "categoria": "Pokemon",
+    "nome": "Sawk",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Brick Break",
+        "dano": "30",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": "This attack's damage isn't affected by any effects on your opponent's Active PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "86 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-087",
+    "categoria": "Pokemon",
+    "nome": "Dwebble",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Ram",
+        "dano": "20",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "87 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/wsdmpg1bajxekwb-dwebble.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-088",
+    "categoria": "Pokemon",
+    "nome": "Crustle ex",
+    "estagio": "1",
+    "evolucao": "Dwebble",
+    "tipo": "Luta",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Boulder Crush",
+        "dano": "90",
+        "custoataque": [
+          "luta",
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "88 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-089",
+    "categoria": "Pokemon",
+    "nome": "Meloetta",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Inspiring Dance",
+        "dano": "30",
+        "custoataque": [
+          "luta",
+          "incolor"
+        ],
+        "efeito": "During your next turn, attacks used by your Fighting PokÃ©mon do +30 damage to your opponent's Active PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "89 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/0q3oplgld1503h0-meloetta.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-090",
+    "categoria": "Pokemon",
+    "nome": "Stufful",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Tackle",
+        "dano": "30",
+        "custoataque": [
+          "luta",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "90 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/4z3oplil5i992v3-stufful.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-091",
+    "categoria": "Pokemon",
+    "nome": "Bewear",
+    "estagio": "1",
+    "evolucao": "Stufful",
+    "tipo": "Luta",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Triple Smash",
+        "dano": "50x",
+        "custoataque": [
+          "luta",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Flip 3 coins. This attack does 50 damage for each heads."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "91 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/26hh9lm4t5y6q36-bewear.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-092",
+    "categoria": "Pokemon",
+    "nome": "Rolycoly",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Rolling Tackle",
+        "dano": "20",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "92 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/e26ijsy3oefy87c-rolycoly.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-093",
+    "categoria": "Pokemon",
+    "nome": "Carkol",
+    "estagio": "1",
+    "evolucao": "Rolycoly",
+    "tipo": "Luta",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Hammer In",
+        "dano": "50",
+        "custoataque": [
+          "luta",
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "93 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/c0ccl4uai6826hm-carkol.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-094",
+    "categoria": "Pokemon",
+    "nome": "Coalossal",
+    "estagio": "2",
+    "evolucao": "Carkol",
+    "tipo": "Luta",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Mountain Crush",
+        "dano": "90",
+        "custoataque": [
+          "luta",
+          "luta",
+          "incolor"
+        ],
+        "efeito": "Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 4,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "94 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/pohdy8xlsg406i3-coalossal.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-095",
+    "categoria": "Pokemon",
+    "nome": "Silicobra",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Headbutt",
+        "dano": "30",
+        "custoataque": [
+          "luta",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "95 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-096",
+    "categoria": "Pokemon",
+    "nome": "Sandaconda",
+    "estagio": "1",
+    "evolucao": "Silicobra",
+    "tipo": "Luta",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Super Sand Attack",
+        "dano": "70",
+        "custoataque": [
+          "luta",
+          "luta",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, if the Defending PokÃ©mon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "96 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-097",
+    "categoria": "Pokemon",
+    "nome": "Kubfu",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Training",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Take a Colorless Energy from your Energy Zone and attach it to this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "97 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-098",
+    "categoria": "Pokemon",
+    "nome": "Zubat",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Spin Turn",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Switch this PokÃ©mon with 1 of your Benched PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "98 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/7bs5llp1jca8bd3-zubat.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-099",
+    "categoria": "Pokemon",
+    "nome": "Golbat",
+    "estagio": "1",
+    "evolucao": "Zubat",
+    "tipo": "Escuridao",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Cutting Wind",
+        "dano": "40",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "99 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/0fjze5xpdzqtro1-golbat.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-100",
+    "categoria": "Pokemon",
+    "nome": "Crobat",
+    "estagio": "2",
+    "evolucao": "Golbat",
+    "tipo": "Escuridao",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Surprise Strike",
+        "dano": "60+",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "If this PokÃ©mon moved from your Bench to the Active Spot this turn, this attack does 60 more damage."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "100 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/55ro9rslwsh3bsr-crobat.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-101",
+    "categoria": "Pokemon",
+    "nome": "Koffing",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Gas Bomb",
+        "dano": "30",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": "This PokÃ©mon also does 10 damage to itself."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "101 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/3rytiasmgwj4dll-koffing.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-102",
+    "categoria": "Pokemon",
+    "nome": "Weezing",
+    "estagio": "1",
+    "evolucao": "Koffing",
+    "tipo": "Escuridao",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Sludge Bomb",
+        "dano": "70",
+        "custoataque": [
+          "escuridao",
+          "escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "102 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/02y16aj29pz2qfm-weezing.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-103",
+    "categoria": "Pokemon",
+    "nome": "Qwilfish",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Spiny Rush",
+        "dano": "40x",
+        "custoataque": [
+          "escuridao",
+          "incolor"
+        ],
+        "efeito": "Flip a coin until you get tails. This attack does 40 damage for each heads."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "103 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/67t91emk31yaf86-qwilfish.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-104",
+    "categoria": "Pokemon",
+    "nome": "Seviper",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Poison Jab",
+        "dano": "20",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": "Your opponent's Active PokÃ©mon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "104 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/mess1yc3n7xhp8c-seviper.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-105",
+    "categoria": "Pokemon",
+    "nome": "Zorua",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Ascension",
+        "dano": "",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": "Put a random card from your deck that evolves from this PokÃ©mon onto this PokÃ©mon to evolve it."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "105 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/42wflj5pvnw9fqs-zorua.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-106",
+    "categoria": "Pokemon",
+    "nome": "Zoroark ex",
+    "estagio": "1",
+    "evolucao": "Zorua",
+    "tipo": "Escuridao",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Brutal Bash",
+        "dano": "30x",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": "This attack does 30 damage for each of your Benched Darkness PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "106 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-107",
+    "categoria": "Pokemon",
+    "nome": "Foongus",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Ram",
+        "dano": "20",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "107 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-108",
+    "categoria": "Pokemon",
+    "nome": "Amoonguss",
+    "estagio": "1",
+    "evolucao": "Foongus",
+    "tipo": "Escuridao",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Dangerous Spores",
+        "dano": "30",
+        "custoataque": [
+          "escuridao",
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active PokÃ©mon is now Poisoned and Paralyzed."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "108 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-109",
+    "categoria": "Pokemon",
+    "nome": "Vullaby",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Flap",
+        "dano": "20",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "109 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-110",
+    "categoria": "Pokemon",
+    "nome": "Mandibuzz",
+    "estagio": "1",
+    "evolucao": "Vullaby",
+    "tipo": "Escuridao",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Blindside",
+        "dano": "",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": "This attack does 60 damage to 1 of your opponent's PokÃ©mon that have damage on them."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "110 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-111",
+    "categoria": "Pokemon",
+    "nome": "Inkay",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Spinning Attack",
+        "dano": "20",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "111 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/tgd58h0rvnhlzs4-inkay.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-112",
+    "categoria": "Pokemon",
+    "nome": "Malamar",
+    "estagio": "1",
+    "evolucao": "Inkay",
+    "tipo": "Escuridao",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Evolution Jammer",
+        "dano": "40",
+        "custoataque": [
+          "escuridao",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, they can't play any PokÃ©mon from their hand to evolve their PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "112 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/2j7ocx1gpmq4c7w-malamar.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-113",
+    "categoria": "Pokemon",
+    "nome": "Single Strike Urshifu",
+    "estagio": "1",
+    "evolucao": "Kubfu",
+    "tipo": "Escuridao",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Power Blast",
+        "dano": "110",
+        "custoataque": [
+          "escuridao",
+          "escuridao",
+          "incolor"
+        ],
+        "efeito": "Discard a Darkness Energy from this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "113 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-114",
+    "categoria": "Pokemon",
+    "nome": "Zarude",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Dark Vengeance",
+        "dano": "40+",
+        "custoataque": [
+          "escuridao",
+          "escuridao"
+        ],
+        "efeito": "If any of your Darkness PokÃ©mon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 80 more damage."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "114 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-115",
+    "categoria": "Pokemon",
+    "nome": "Bombirdier",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Dark Cutter",
+        "dano": "30",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "115 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/7l8tdafija0v9d3-bombirdier.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-116",
+    "categoria": "Pokemon",
+    "nome": "Registeel",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Metal",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Protect Charge",
+        "dano": "60",
+        "custoataque": [
+          "metal",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃ©mon takes âˆ’30 damage from attacks."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "116 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/i0x169iv7ywphm0-registeel.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-117",
+    "categoria": "Pokemon",
+    "nome": "Bronzor",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Metal",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Speed Dive",
+        "dano": "20",
+        "custoataque": [
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "117 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/639wm49h2w3964p-bronzor.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-118",
+    "categoria": "Pokemon",
+    "nome": "Bronzong",
+    "estagio": "1",
+    "evolucao": "Bronzor",
+    "tipo": "Metal",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Psychic Resonance",
+        "dano": "50+",
+        "custoataque": [
+          "metal",
+          "incolor"
+        ],
+        "efeito": "If your opponent has any Psychic PokÃ©mon in play, this attack does 50 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "118 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/7342vgl6tphz452-bronzong.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-119",
+    "categoria": "Pokemon",
+    "nome": "Pawniard",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Metal",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Cut Up",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "119 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/eurnvrllodua16d-pawniard.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-120",
+    "categoria": "Pokemon",
+    "nome": "Bisharp",
+    "estagio": "1",
+    "evolucao": "Pawniard",
+    "tipo": "Metal",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Night Slash",
+        "dano": "60",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Switch this PokÃ©mon with 1 of your Benched PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "120 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/n8yq4lwjwa2a89k-bisharp.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-121",
+    "categoria": "Pokemon",
+    "nome": "Magearna",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Metal",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Windup Cannon",
+        "dano": "20+",
+        "custoataque": [
+          "metal",
+          "metal"
+        ],
+        "efeito": "This attack does 20 more damage for each of your opponent's Benched PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "121 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/29ruksg3340051a-magearna.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-122",
+    "categoria": "Pokemon",
+    "nome": "Meltan",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Metal",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Stampede",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "122 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/f2mwj043j99f5wr-meltan.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-123",
+    "categoria": "Pokemon",
+    "nome": "Melmetal",
+    "estagio": "1",
+    "evolucao": "Meltan",
+    "tipo": "Metal",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Overdrive Smash",
+        "dano": "60",
+        "custoataque": [
+          "metal",
+          "metal",
+          "metal"
+        ],
+        "efeito": "During your next turn, this PokÃ©mon's Overdrive Smash attack does +60 damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "123 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/cukesb66wijfaxs-melmetal.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-124",
+    "categoria": "Pokemon",
+    "nome": "Corviknight ex",
+    "estagio": "2",
+    "evolucao": "Corvisquire",
+    "tipo": "Metal",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Air Crash",
+        "dano": "110",
+        "custoataque": [
+          "metal",
+          "metal",
+          "metal"
+        ],
+        "efeito": "Discard a random Energy from your opponent's Active PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "124 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-125",
+    "categoria": "Pokemon",
+    "nome": "Vibrava",
+    "estagio": "1",
+    "evolucao": "Trapinch",
+    "tipo": "Dragao",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Sand Wind",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "This attack does 10 damage to each of your opponent's PokÃ©mon."
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "125 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-126",
+    "categoria": "Pokemon",
+    "nome": "Flygon ex",
+    "estagio": "2",
+    "evolucao": "Vibrava",
+    "tipo": "Dragao",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Dragon Pulse",
+        "dano": "140",
+        "custoataque": [
+          "planta",
+          "luta",
+          "incolor"
+        ],
+        "efeito": "Discard the top card of your deck."
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Duplamente Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "126 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-127",
+    "categoria": "Pokemon",
+    "nome": "Chansey",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Bind Wound",
+        "dano": "",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Heal 30 damage from 1 of your PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "127 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/9h81ttmc22155k1-chansey.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-128",
+    "categoria": "Pokemon",
+    "nome": "Blissey",
+    "estagio": "1",
+    "evolucao": "Chansey",
+    "tipo": "Incolor",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Rolling Tackle",
+        "dano": "70",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "128 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/6fp76912vnsu900-blissey.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-129",
+    "categoria": "Pokemon",
+    "nome": "Eevee",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Jumping Kick",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "This attack does 10 damage to 1 of your opponent's PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "129 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/1i7d6slma3amdet-eevee.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-130",
+    "categoria": "Pokemon",
+    "nome": "Dunsparce",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Bop â€™nâ€™ Burrow",
+        "dano": "20",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "You may shuffle this PokÃ©mon and all attached cards into your deck."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "130 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/75c30738azm7kyg-dunsparce.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-131",
+    "categoria": "Pokemon",
+    "nome": "Teddiursa",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Dig Claws",
+        "dano": "20",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "131 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/557l5q88ks6465f-teddiursa.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-132",
+    "categoria": "Pokemon",
+    "nome": "Ursaring",
+    "estagio": "1",
+    "evolucao": "Teddiursa",
+    "tipo": "Incolor",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Raging Claws",
+        "dano": "40+",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "This attack does more damage equal to the damage this PokÃ©mon has on it."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "132 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/4twkfkiebj19x4x-ursaring.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-133",
+    "categoria": "Pokemon",
+    "nome": "Castform",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Blow Through",
+        "dano": "20+",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "If a Stadium is in play, this attack does 20 more damage."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "133 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-134",
+    "categoria": "Pokemon",
+    "nome": "Regigigas",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Giga Turbo",
+        "dano": "100",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Take a Colorless Energy from your Energy Zone and attach it to 1 of your Benched PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 4,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "134 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/02o34vmo8j656aj-regigigas.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-135",
+    "categoria": "Pokemon",
+    "nome": "Patrat",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Tackle",
+        "dano": "20",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "135 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/79l41ple79bc9e3-patrat.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-136",
+    "categoria": "Pokemon",
+    "nome": "Watchog",
+    "estagio": "1",
+    "evolucao": "Patrat",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Psych Up",
+        "dano": "30",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "During your next turn, this PokÃ©mon's Psych Up attack does +30 damage."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "136 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/4szl3fe5rgqb19g-watchog.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-137",
+    "categoria": "Pokemon",
+    "nome": "Lillipup",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Puppy Pile",
+        "dano": "20x",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Reveal all of your PokÃ©mon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each PokÃ©mon you revealed in this way."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "137 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/34l03myb9lmu4w0-lillipup.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-138",
+    "categoria": "Pokemon",
+    "nome": "Herdier",
+    "estagio": "1",
+    "evolucao": "Lillipup",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Hammer In",
+        "dano": "50",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "138 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/fp4te5id3p412e1-herdier.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-139",
+    "categoria": "Pokemon",
+    "nome": "Stoutland",
+    "estagio": "2",
+    "evolucao": "Herdier",
+    "tipo": "Incolor",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Fighting Fangs",
+        "dano": "70+",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "If your opponent's Active PokÃ©mon is a PokÃ©mon ex, this attack does 70 more damage."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "139 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/85r33pognf12149-stoutland.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-140",
+    "categoria": "Pokemon",
+    "nome": "Audino",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Healing Light",
+        "dano": "40",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Heal 10 damage from each of your PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "140 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/dyh09s2p89yc44w-audino.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-141",
+    "categoria": "Pokemon",
+    "nome": "Mega Audino ex",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Heartfelt Shine",
+        "dano": "90",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Heal 30 damage from each of your PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "141 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-142",
+    "categoria": "Pokemon",
+    "nome": "Minccino",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Fluffy Tail",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Your opponent's Active PokÃ©mon is now Asleep."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "142 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/4lb066qs17ow7ye-minccino.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-143",
+    "categoria": "Pokemon",
+    "nome": "Cinccino",
+    "estagio": "1",
+    "evolucao": "Minccino",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Knock Away",
+        "dano": "30+",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "143 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/300w9sj1f2lvj6l-cinccino.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-144",
+    "categoria": "Pokemon",
+    "nome": "Furfrou",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Whimsy Tackle",
+        "dano": "80",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "144 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/1dxh8oxzphuib5s-furfrou.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-145",
+    "categoria": "Pokemon",
+    "nome": "Rookidee",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Pluck",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Before doing damage, discard all PokÃ©mon Tools from your opponent's Active PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "145 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/0gkiadaaaha4k2v-rookidee.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-146",
+    "categoria": "Pokemon",
+    "nome": "Corvisquire",
+    "estagio": "1",
+    "evolucao": "Rookidee",
+    "tipo": "Incolor",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Joust",
+        "dano": "30",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Before doing damage, discard all PokÃ©mon Tools from your opponent's Active PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "146 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/6zbpb6lyijvs0vf-corvisquire.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-147",
+    "categoria": "Treinador",
+    "nome": "Field Blower",
+    "estagio": "Item",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "147 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-148",
+    "categoria": "Treinador",
+    "nome": "Lucky Egg",
+    "estagio": "Ferramenta",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "148 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-149",
+    "categoria": "Treinador",
+    "nome": "Korrina",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "149 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-150",
+    "categoria": "Treinador",
+    "nome": "Cabbie",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "150 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-151",
+    "categoria": "Treinador",
+    "nome": "Cheren",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "151 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-152",
+    "categoria": "Treinador",
+    "nome": "Parasol Lady",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "152 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-153",
+    "categoria": "Treinador",
+    "nome": "Fragrant Forest",
+    "estagio": "Estadio",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "153 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-154",
+    "categoria": "Treinador",
+    "nome": "Arena of Antiquity",
+    "estagio": "Estadio",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "154 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-155",
+    "categoria": "Treinador",
+    "nome": "Bounded Field",
+    "estagio": "Estadio",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "155 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-156",
+    "categoria": "Pokemon",
+    "nome": "Treecko",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Pound",
+        "dano": "20",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "156 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-157",
+    "categoria": "Pokemon",
+    "nome": "Grovyle",
+    "estagio": "1",
+    "evolucao": "Treecko",
+    "tipo": "Planta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Slicing Snipe",
+        "dano": "",
+        "custoataque": [
+          "planta",
+          "planta"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's Benched PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "157 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-158",
+    "categoria": "Pokemon",
+    "nome": "Shroomish",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Spore",
+        "dano": "",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": "Your opponent's Active PokÃ©mon is now Asleep."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "158 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/jmkiik8xkrccqcp-shroomish.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-159",
+    "categoria": "Pokemon",
+    "nome": "Budew",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 30,
+    "ataque": [
+      {
+        "nomeataque": "Prickly Powder",
+        "dano": "10",
+        "custoataque": [
+          ""
+        ],
+        "efeito": "The Defending PokÃ©mon loses all Abilities. This effect lasts until the Defending PokÃ©mon leaves the Active Spot."
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "159 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-160",
+    "categoria": "Pokemon",
+    "nome": "Flapple",
+    "estagio": "1",
+    "evolucao": "Applin",
+    "tipo": "Planta",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Sour Spit",
+        "dano": "40",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending PokÃ©mon cost 1 Colorless more."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "160 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-161",
+    "categoria": "Pokemon",
+    "nome": "Tepig",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Stoke",
+        "dano": "",
+        "custoataque": [
+          "fogo"
+        ],
+        "efeito": "Flip a coin. If heads, take 2 Fire Energy from your Energy Zone and attach it to this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "161 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-162",
+    "categoria": "Pokemon",
+    "nome": "Quagsire",
+    "estagio": "1",
+    "evolucao": "Wooper",
+    "tipo": "Agua",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Muddy Headbutt",
+        "dano": "60+",
+        "custoataque": [
+          "agua",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "If this PokÃ©mon has any Fighting Energy attached, this attack does 60 more damage."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "162 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/7163v58wif3lynk-quagsire.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-163",
+    "categoria": "Pokemon",
+    "nome": "Zekrom",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Bolt Strike",
+        "dano": "110",
+        "custoataque": [
+          "raio",
+          "raio",
+          "raio"
+        ],
+        "efeito": "Flip a coin. If tails, this PokÃ©mon also does 30 damage to itself."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "163 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-164",
+    "categoria": "Pokemon",
+    "nome": "Morpeko",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Full Belly Bolt",
+        "dano": "10+",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": "If this PokÃ©mon has no damage on it, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "164 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/1aseo6dt7qogi62-morpeko.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-165",
+    "categoria": "Pokemon",
+    "nome": "Meowstic",
+    "estagio": "1",
+    "evolucao": "Espurr",
+    "tipo": "Psiquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Psyshot",
+        "dano": "40",
+        "custoataque": [
+          "psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "165 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-166",
+    "categoria": "Pokemon",
+    "nome": "Oricorio",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Pester the Dizzy",
+        "dano": "20+",
+        "custoataque": [
+          "psiquico"
+        ],
+        "efeito": "If your opponent's Active PokÃ©mon is Confused, this attack does 40 more damage."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "166 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/03p2rft5s7mzbqs-oricorio.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-167",
+    "categoria": "Pokemon",
+    "nome": "Brambleghast",
+    "estagio": "1",
+    "evolucao": "Bramblin",
+    "tipo": "Psiquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Spooky Shot",
+        "dano": "60",
+        "custoataque": [
+          "psiquico",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Ilustração Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "167 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/g9rpxjbk7binvk4-brambleghast.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-168",
+    "categoria": "Pokemon",
+    "nome": "Bonsly",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 30,
+    "ataque": [
+      {
+        "nomeataque": "Teary Attack",
+        "dano": "10",
+        "custoataque": [
+          ""
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending PokÃ©mon do âˆ’30 damage."
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "168 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-169",
+    "categoria": "Pokemon",
+    "nome": "Riolu",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Fighting Fist",
+        "dano": "10+",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": "If your opponent's Active PokÃ©mon is a PokÃ©mon ex, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "169 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/3vufo794jka2neo-riolu.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-170",
+    "categoria": "Pokemon",
+    "nome": "Meloetta",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Inspiring Dance",
+        "dano": "30",
+        "custoataque": [
+          "luta",
+          "incolor"
+        ],
+        "efeito": "During your next turn, attacks used by your Fighting PokÃ©mon do +30 damage to your opponent's Active PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "170 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/0q3oplgld1503h0-meloetta.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-171",
+    "categoria": "Pokemon",
+    "nome": "Carkol",
+    "estagio": "1",
+    "evolucao": "Rolycoly",
+    "tipo": "Luta",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Hammer In",
+        "dano": "50",
+        "custoataque": [
+          "luta",
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "171 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/c0ccl4uai6826hm-carkol.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-172",
+    "categoria": "Pokemon",
+    "nome": "Kubfu",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Training",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Take a Colorless Energy from your Energy Zone and attach it to this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "172 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-173",
+    "categoria": "Pokemon",
+    "nome": "Seviper",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Poison Jab",
+        "dano": "20",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": "Your opponent's Active PokÃ©mon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "173 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/mess1yc3n7xhp8c-seviper.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-174",
+    "categoria": "Pokemon",
+    "nome": "Zorua",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Ascension",
+        "dano": "",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": "Put a random card from your deck that evolves from this PokÃ©mon onto this PokÃ©mon to evolve it."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "174 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/42wflj5pvnw9fqs-zorua.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-175",
+    "categoria": "Pokemon",
+    "nome": "Malamar",
+    "estagio": "1",
+    "evolucao": "Inkay",
+    "tipo": "Escuridao",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Evolution Jammer",
+        "dano": "40",
+        "custoataque": [
+          "escuridao",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, they can't play any PokÃ©mon from their hand to evolve their PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "175 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/2j7ocx1gpmq4c7w-malamar.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-176",
+    "categoria": "Pokemon",
+    "nome": "Bisharp",
+    "estagio": "1",
+    "evolucao": "Pawniard",
+    "tipo": "Metal",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Night Slash",
+        "dano": "60",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Switch this PokÃ©mon with 1 of your Benched PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "176 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/n8yq4lwjwa2a89k-bisharp.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-177",
+    "categoria": "Pokemon",
+    "nome": "Meltan",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Metal",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Stampede",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "177 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/f2mwj043j99f5wr-meltan.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-178",
+    "categoria": "Pokemon",
+    "nome": "Castform",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Blow Through",
+        "dano": "20+",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "If a Stadium is in play, this attack does 20 more damage."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "178 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-179",
+    "categoria": "Pokemon",
+    "nome": "Cinccino",
+    "estagio": "1",
+    "evolucao": "Minccino",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Knock Away",
+        "dano": "30+",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "179 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/300w9sj1f2lvj6l-cinccino.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-180",
+    "categoria": "Pokemon",
+    "nome": "Mega Sceptile ex",
+    "estagio": "2",
+    "evolucao": "Grovyle",
+    "tipo": "Planta",
+    "hp": 210,
+    "ataque": [
+      {
+        "nomeataque": "Terminating Tail",
+        "dano": "130",
+        "custoataque": [
+          "planta",
+          "planta"
+        ],
+        "efeito": "Discard GrassGrass Energy from this PokÃ©mon. Your opponent's Active PokÃ©mon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "180 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-181",
+    "categoria": "Pokemon",
+    "nome": "Mega Camerupt ex",
+    "estagio": "1",
+    "evolucao": "Numel",
+    "tipo": "Fogo",
+    "hp": 210,
+    "ataque": [
+      {
+        "nomeataque": "Volcanic Kaboom",
+        "dano": "",
+        "custoataque": [
+          "fogo",
+          "fogo",
+          "fogo",
+          "incolor"
+        ],
+        "efeito": "1 of your opponent's PokÃ©mon is chosen at random. Do 160 damage to it."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 4,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "181 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-182",
+    "categoria": "Pokemon",
+    "nome": "Vaporeon ex",
+    "estagio": "1",
+    "evolucao": "Eevee",
+    "tipo": "Agua",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Wave Splash",
+        "dano": "80",
+        "custoataque": [
+          "agua",
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Arte Especial Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "182 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-183",
+    "categoria": "Pokemon",
+    "nome": "Magnezone ex",
+    "estagio": "2",
+    "evolucao": "Magneton",
+    "tipo": "Raio",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Storm Blade",
+        "dano": "130",
+        "custoataque": [
+          "raio",
+          "raio",
+          "raio"
+        ],
+        "efeito": "Discard a Lightning Energy from this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "183 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-184",
+    "categoria": "Pokemon",
+    "nome": "Mega Lucario ex",
+    "estagio": "1",
+    "evolucao": "Riolu",
+    "tipo": "Luta",
+    "hp": 190,
+    "ataque": [
+      {
+        "nomeataque": "Fighting Pulse",
+        "dano": "90+",
+        "custoataque": [
+          "luta",
+          "luta"
+        ],
+        "efeito": "If this PokÃ©mon has at least 1 extra Fighting Energy attached, this attack does 50 more damage."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "184 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-185",
+    "categoria": "Pokemon",
+    "nome": "Crustle ex",
+    "estagio": "1",
+    "evolucao": "Dwebble",
+    "tipo": "Luta",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Boulder Crush",
+        "dano": "90",
+        "custoataque": [
+          "luta",
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "185 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-186",
+    "categoria": "Pokemon",
+    "nome": "Zoroark ex",
+    "estagio": "1",
+    "evolucao": "Zorua",
+    "tipo": "Escuridao",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Brutal Bash",
+        "dano": "30x",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": "This attack does 30 damage for each of your Benched Darkness PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "186 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-187",
+    "categoria": "Pokemon",
+    "nome": "Corviknight ex",
+    "estagio": "2",
+    "evolucao": "Corvisquire",
+    "tipo": "Metal",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Air Crash",
+        "dano": "110",
+        "custoataque": [
+          "metal",
+          "metal",
+          "metal"
+        ],
+        "efeito": "Discard a random Energy from your opponent's Active PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "187 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-188",
+    "categoria": "Pokemon",
+    "nome": "Flygon ex",
+    "estagio": "2",
+    "evolucao": "Vibrava",
+    "tipo": "Dragao",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Dragon Pulse",
+        "dano": "140",
+        "custoataque": [
+          "planta",
+          "luta",
+          "incolor"
+        ],
+        "efeito": "Discard the top card of your deck."
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "188 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-189",
+    "categoria": "Pokemon",
+    "nome": "Mega Audino ex",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Heartfelt Shine",
+        "dano": "90",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Heal 30 damage from each of your PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "189 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-190",
+    "categoria": "Treinador",
+    "nome": "Korrina",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "190 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-191",
+    "categoria": "Treinador",
+    "nome": "Cabbie",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "191 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-192",
+    "categoria": "Treinador",
+    "nome": "Cheren",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "192 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-193",
+    "categoria": "Treinador",
+    "nome": "Parasol Lady",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "193 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-194",
+    "categoria": "Pokemon",
+    "nome": "Mega Sceptile ex",
+    "estagio": "2",
+    "evolucao": "Grovyle",
+    "tipo": "Planta",
+    "hp": 210,
+    "ataque": [
+      {
+        "nomeataque": "Terminating Tail",
+        "dano": "130",
+        "custoataque": [
+          "planta",
+          "planta"
+        ],
+        "efeito": "Discard GrassGrass Energy from this PokÃ©mon. Your opponent's Active PokÃ©mon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "194 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-195",
+    "categoria": "Pokemon",
+    "nome": "Mega Camerupt ex",
+    "estagio": "1",
+    "evolucao": "Numel",
+    "tipo": "Fogo",
+    "hp": 210,
+    "ataque": [
+      {
+        "nomeataque": "Volcanic Kaboom",
+        "dano": "",
+        "custoataque": [
+          "fogo",
+          "fogo",
+          "fogo",
+          "incolor"
+        ],
+        "efeito": "1 of your opponent's PokÃ©mon is chosen at random. Do 160 damage to it."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 4,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "195 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-196",
+    "categoria": "Pokemon",
+    "nome": "Vaporeon ex",
+    "estagio": "1",
+    "evolucao": "Eevee",
+    "tipo": "Agua",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Wave Splash",
+        "dano": "80",
+        "custoataque": [
+          "agua",
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Arte Especial Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "196 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-197",
+    "categoria": "Pokemon",
+    "nome": "Magnezone ex",
+    "estagio": "2",
+    "evolucao": "Magneton",
+    "tipo": "Raio",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Storm Blade",
+        "dano": "130",
+        "custoataque": [
+          "raio",
+          "raio",
+          "raio"
+        ],
+        "efeito": "Discard a Lightning Energy from this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "197 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-198",
+    "categoria": "Pokemon",
+    "nome": "Crustle ex",
+    "estagio": "1",
+    "evolucao": "Dwebble",
+    "tipo": "Luta",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Boulder Crush",
+        "dano": "90",
+        "custoataque": [
+          "luta",
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "198 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-199",
+    "categoria": "Pokemon",
+    "nome": "Zoroark ex",
+    "estagio": "1",
+    "evolucao": "Zorua",
+    "tipo": "Escuridao",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Brutal Bash",
+        "dano": "30x",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": "This attack does 30 damage for each of your Benched Darkness PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "199 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-200",
+    "categoria": "Pokemon",
+    "nome": "Corviknight ex",
+    "estagio": "2",
+    "evolucao": "Corvisquire",
+    "tipo": "Metal",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Air Crash",
+        "dano": "110",
+        "custoataque": [
+          "metal",
+          "metal",
+          "metal"
+        ],
+        "efeito": "Discard a random Energy from your opponent's Active PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "200 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-201",
+    "categoria": "Pokemon",
+    "nome": "Flygon ex",
+    "estagio": "2",
+    "evolucao": "Vibrava",
+    "tipo": "Dragao",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Dragon Pulse",
+        "dano": "140",
+        "custoataque": [
+          "planta",
+          "luta",
+          "incolor"
+        ],
+        "efeito": "Discard the top card of your deck."
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "201 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-202",
+    "categoria": "Pokemon",
+    "nome": "Mega Audino ex",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Heartfelt Shine",
+        "dano": "90",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Heal 30 damage from each of your PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "202 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-203",
+    "categoria": "Pokemon",
+    "nome": "Sobble",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Find a Friend",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Put a random PokÃ©mon from your deck into your hand."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Raro Imersivo",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "203 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-204",
+    "categoria": "Pokemon",
+    "nome": "Mega Lucario ex",
+    "estagio": "1",
+    "evolucao": "Riolu",
+    "tipo": "Luta",
+    "hp": 190,
+    "ataque": [
+      {
+        "nomeataque": "Fighting Pulse",
+        "dano": "90+",
+        "custoataque": [
+          "luta",
+          "luta"
+        ],
+        "efeito": "If this PokÃ©mon has at least 1 extra Fighting Energy attached, this attack does 50 more damage."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Raro Imersivo",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "204 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-205",
+    "categoria": "Pokemon",
+    "nome": "Cottonee",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Razor Leaf",
+        "dano": "20",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "205 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/5a0eblczk8h1mjv-cottonee.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-206",
+    "categoria": "Pokemon",
+    "nome": "Torchic",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Peck",
+        "dano": "20",
+        "custoataque": [
+          "fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "206 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/4dawticktfbdbwn-torchic.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-207",
+    "categoria": "Pokemon",
+    "nome": "Combusken",
+    "estagio": "1",
+    "evolucao": "Torchic",
+    "tipo": "Fogo",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "High Jump Kick",
+        "dano": "50",
+        "custoataque": [
+          "fogo",
+          "fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "207 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/zi1g68873dqbvb9-combusken.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-208",
+    "categoria": "Pokemon",
+    "nome": "Blaziken",
+    "estagio": "2",
+    "evolucao": "Combusken",
+    "tipo": "Fogo",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Blaze Kick",
+        "dano": "100",
+        "custoataque": [
+          "fogo",
+          "fogo"
+        ],
+        "efeito": "Discard a Fire Energy from this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "208 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/dgubx0krpnby0tt-blaziken.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-209",
+    "categoria": "Pokemon",
+    "nome": "Frillish",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Water Gun",
+        "dano": "20",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "209 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/pb7wtdukohp9crn-frillish.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-210",
+    "categoria": "Pokemon",
+    "nome": "Jellicent",
+    "estagio": "1",
+    "evolucao": "Frillish",
+    "tipo": "Agua",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Surf",
+        "dano": "60",
+        "custoataque": [
+          "agua",
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Raro Brilhante",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "210 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/f5cd0nt4xp4dbbs-jellicent.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-211",
+    "categoria": "Pokemon",
+    "nome": "Onix",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Dig",
+        "dano": "30",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If heads, during your opponent's next turn, prevent all damage fromâ€”and effects ofâ€”attacks done to this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "211 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/6o1in6w379hl202-onix.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-212",
+    "categoria": "Pokemon",
+    "nome": "Zubat",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Spin Turn",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Switch this PokÃ©mon with 1 of your Benched PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "212 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/7bs5llp1jca8bd3-zubat.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-213",
+    "categoria": "Pokemon",
+    "nome": "Golbat",
+    "estagio": "1",
+    "evolucao": "Zubat",
+    "tipo": "Escuridao",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Cutting Wind",
+        "dano": "40",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "213 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/0fjze5xpdzqtro1-golbat.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-214",
+    "categoria": "Pokemon",
+    "nome": "Crobat",
+    "estagio": "2",
+    "evolucao": "Golbat",
+    "tipo": "Escuridao",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Surprise Strike",
+        "dano": "60+",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "If this PokÃ©mon moved from your Bench to the Active Spot this turn, this attack does 60 more damage."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "214 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/55ro9rslwsh3bsr-crobat.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-215",
+    "categoria": "Pokemon",
+    "nome": "Grimer",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Sludge Bomb",
+        "dano": "40",
+        "custoataque": [
+          "escuridao",
+          "escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "215 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/9hmg1c2w3i85hnp-grimer.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-216",
+    "categoria": "Pokemon",
+    "nome": "Muk",
+    "estagio": "1",
+    "evolucao": "Grimer",
+    "tipo": "Escuridao",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Gunk Shot",
+        "dano": "70",
+        "custoataque": [
+          "escuridao",
+          "escuridao",
+          "escuridao"
+        ],
+        "efeito": "Your opponent's Active PokÃ©mon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "216 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/cx7777mcv5b727n-muk.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-217",
+    "categoria": "Pokemon",
+    "nome": "Absol",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Ominous Claw",
+        "dano": "50",
+        "custoataque": [
+          "escuridao",
+          "escuridao"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent reveals their hand. Choose a Supporter card you find there and discard it."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "217 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/63s911740hznnij-absol.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-218",
+    "categoria": "Pokemon",
+    "nome": "Skrelp",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Razor Fin",
+        "dano": "40",
+        "custoataque": [
+          "escuridao",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "218 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/1x7r3n6vm1cnf3i-skrelp.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-219",
+    "categoria": "Pokemon",
+    "nome": "Steelix",
+    "estagio": "1",
+    "evolucao": "Onix",
+    "tipo": "Metal",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Metal Defender",
+        "dano": "100",
+        "custoataque": [
+          "metal",
+          "metal",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃ©mon has no Weakness."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "219 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/4k3xx6n6y5ji5np-steelix.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-220",
+    "categoria": "Pokemon",
+    "nome": "Chansey",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Bind Wound",
+        "dano": "",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Heal 30 damage from 1 of your PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "220 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/9h81ttmc22155k1-chansey.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-221",
+    "categoria": "Pokemon",
+    "nome": "Blissey",
+    "estagio": "1",
+    "evolucao": "Chansey",
+    "tipo": "Incolor",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Rolling Tackle",
+        "dano": "70",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Raro Brilhante",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "221 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/6fp76912vnsu900-blissey.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-222",
+    "categoria": "Pokemon",
+    "nome": "Porygon",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Stiffen",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃ©mon takes âˆ’20 damage from attacks."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "222 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/e7cyusmqqmeye9e-porygon.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-223",
+    "categoria": "Pokemon",
+    "nome": "Porygon2",
+    "estagio": "1",
+    "evolucao": "Porygon",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Speed Attack",
+        "dano": "40",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "223 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/0nmq39123f0f62c-porygon2.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-224",
+    "categoria": "Pokemon",
+    "nome": "Porygon-Z",
+    "estagio": "2",
+    "evolucao": "Porygon2",
+    "tipo": "Incolor",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Cyberjack",
+        "dano": "20+",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Trainer card in your opponent's deck."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "224 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-225",
+    "categoria": "Pokemon",
+    "nome": "Whimsicott ex",
+    "estagio": "1",
+    "evolucao": "Cottonee",
+    "tipo": "Planta",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Grass Knot",
+        "dano": "40+",
+        "custoataque": [
+          "planta",
+          "incolor"
+        ],
+        "efeito": "This attack does 30 more damage for each Energy in your opponent's Active PokÃ©mon's Retreat Cost."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "225 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-226",
+    "categoria": "Pokemon",
+    "nome": "Mega Blaziken ex",
+    "estagio": "2",
+    "evolucao": "Combusken",
+    "tipo": "Fogo",
+    "hp": 210,
+    "ataque": [
+      {
+        "nomeataque": "Mega Burning",
+        "dano": "120",
+        "custoataque": [
+          "fogo",
+          "fogo"
+        ],
+        "efeito": "Discard a Fire Energy from this PokÃ©mon. Your opponent's Active PokÃ©mon is now Burned."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "226 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-227",
+    "categoria": "Pokemon",
+    "nome": "Greninja ex",
+    "estagio": "2",
+    "evolucao": "Frogadier",
+    "tipo": "Agua",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Aqua Edge",
+        "dano": "100",
+        "custoataque": [
+          "agua",
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "227 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-228",
+    "categoria": "Pokemon",
+    "nome": "Jolteon ex",
+    "estagio": "1",
+    "evolucao": "Eevee",
+    "tipo": "Raio",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Mach Bolt",
+        "dano": "80",
+        "custoataque": [
+          "raio",
+          "raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "228 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-229",
+    "categoria": "Pokemon",
+    "nome": "Hitmonchan ex",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Quick Straight",
+        "dano": "50",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": "This attack's damage isn't affected by Weakness."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "229 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-230",
+    "categoria": "Pokemon",
+    "nome": "Mega Absol ex",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Darkness Claw",
+        "dano": "80",
+        "custoataque": [
+          "escuridao",
+          "escuridao"
+        ],
+        "efeito": "Your opponent reveals their hand. Choose a Supporter card you find there and discard it."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "230 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-231",
+    "categoria": "Pokemon",
+    "nome": "Dragalge ex",
+    "estagio": "1",
+    "evolucao": "Skrelp",
+    "tipo": "Escuridao",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Draconic Whip",
+        "dano": "80",
+        "custoataque": [
+          "escuridao",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "231 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-232",
+    "categoria": "Pokemon",
+    "nome": "Mega Steelix ex",
+    "estagio": "1",
+    "evolucao": "Onix",
+    "tipo": "Metal",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Adamantine Rolling",
+        "dano": "120",
+        "custoataque": [
+          "metal",
+          "metal",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃ©mon takes âˆ’20 damage from attacks and has no Weakness."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "232 / 234",
+    "pacote": "",
+    "imageLocal": "",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-233",
+    "categoria": "Pokemon",
+    "nome": "Celebi",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Smack",
+        "dano": "30",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Coroa Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "233 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/u3tt8njxbx20d52-celebi.jpg",
+    "custoDeck": 1
+  },
+  {
+    "id": "b3-234",
+    "categoria": "Pokemon",
+    "nome": "Bombirdier",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Dark Cutter",
+        "dano": "30",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Coroa Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Aura Pulsante (B3)",
+    "numero": "234 / 234",
+    "pacote": "",
+    "imageLocal": "./assets/cards/7l8tdafija0v9d3-bombirdier.jpg",
+    "custoDeck": 1
+  }
+]

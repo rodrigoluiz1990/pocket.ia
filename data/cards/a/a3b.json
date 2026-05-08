@@ -1,0 +1,3297 @@
+﻿[
+    {
+        "id":  "a3b-001",
+        "categoria":  "Pokemon",
+        "nome":  "Tropius",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Cutting Wind",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "1 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/93yb6cdd566bp5v-tropius.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-002",
+        "categoria":  "Pokemon",
+        "nome":  "Leafeon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Planta",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Leaf Blast",
+                           "dano":  "10+",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack does 20 more damage for each Grass Energy attached to this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "2 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/49wilt7757hgizt-leafeon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-003",
+        "categoria":  "Pokemon",
+        "nome":  "Bounsweet",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flop",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "3 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7217nelxkwt3otl-bounsweet.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-004",
+        "categoria":  "Pokemon",
+        "nome":  "Steenee",
+        "estagio":  "1",
+        "evolucao":  "Bounsweet",
+        "tipo":  "Planta",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Leaf Step",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "4 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/g3c83z90ll6426m-steenee.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-005",
+        "categoria":  "Pokemon",
+        "nome":  "Tsareena",
+        "estagio":  "2",
+        "evolucao":  "Steenee",
+        "tipo":  "Planta",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Kick Down",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  "Your opponent reveals a random card from their hand and shuffles it into their deck."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "5 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/5z63o4u3az71zm9-tsareena.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-006",
+        "categoria":  "Pokemon",
+        "nome":  "Applin",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  40,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ram",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "6 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/2nrwr2c352zk0f6-applin.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-007",
+        "categoria":  "Pokemon",
+        "nome":  "Appletun",
+        "estagio":  "1",
+        "evolucao":  "Applin",
+        "tipo":  "Planta",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sweets Relay",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  "If 1 of your PokÃƒÂ©mon used Sweets Relay during your last turn, this attack does 30 more damage."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "7 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/e2053hv93o4kma4-appletun.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-008",
+        "categoria":  "Pokemon",
+        "nome":  "Flareon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Fogo",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Assisting Heater",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "8 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/01q1u7gv07f9il0-flareon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-009",
+        "categoria":  "Pokemon",
+        "nome":  "Flareon ex",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Fogo",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fire Spin",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard 2 Fire Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "9 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/m0800qm1tuktmzt-flareon-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-010",
+        "categoria":  "Pokemon",
+        "nome":  "Torkoal",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flamethrower",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo"
+                                           ],
+                           "efeito":  "Discard a Fire Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "10 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0l4ux6lv243yga2-torkoal.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-011",
+        "categoria":  "Pokemon",
+        "nome":  "Litten",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flare",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "11 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/f5yw75px3lv9k97-litten.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-012",
+        "categoria":  "Pokemon",
+        "nome":  "Torracat",
+        "estagio":  "1",
+        "evolucao":  "Litten",
+        "tipo":  "Fogo",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Claw Slash",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "12 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/87cj1h581l7v861-torracat.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-013",
+        "categoria":  "Pokemon",
+        "nome":  "Incineroar",
+        "estagio":  "2",
+        "evolucao":  "Torracat",
+        "tipo":  "Fogo",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Darkest Lariat",
+                           "dano":  "100x",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip 2 coins. This attack does 100 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "13 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ld9jv931b13aa0p-incineroar.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-014",
+        "categoria":  "Pokemon",
+        "nome":  "Salandit",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ember",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "fogo"
+                                           ],
+                           "efeito":  "Discard a Fire Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "14 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/z3jstp6aw5pb1ii-salandit.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-015",
+        "categoria":  "Pokemon",
+        "nome":  "Salazzle",
+        "estagio":  "1",
+        "evolucao":  "Salandit",
+        "tipo":  "Fogo",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Combustion",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "fogo"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  0,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "15 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/83r5rkb9gmb8zr7-salazzle.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-016",
+        "categoria":  "Pokemon",
+        "nome":  "Vaporeon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Agua",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hyper Whirlpool",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent\u0027s Active PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "16 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/sasd21zinms6132-vaporeon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-017",
+        "categoria":  "Pokemon",
+        "nome":  "Glaceon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Agua",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ice Blade",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "This attack does 50 damage to 1 of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "17 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/8rblrm451g0211o-glaceon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-018",
+        "categoria":  "Pokemon",
+        "nome":  "Vanillite",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sweets Relay",
+                           "dano":  "10+",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "If 1 of your PokÃƒÂ©mon used Sweets Relay during your last turn, this attack does 20 more damage."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "18 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1r3njew9s4t02vx-vanillite.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-019",
+        "categoria":  "Pokemon",
+        "nome":  "Vanillish",
+        "estagio":  "1",
+        "evolucao":  "Vanillite",
+        "tipo":  "Agua",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sweets Relay",
+                           "dano":  "30+",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "If 1 of your PokÃƒÂ©mon used Sweets Relay during your last turn, this attack does 20 more damage."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "19 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/9m28k0053z9z39l-vanillish.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-020",
+        "categoria":  "Pokemon",
+        "nome":  "Vanilluxe",
+        "estagio":  "2",
+        "evolucao":  "Vanillish",
+        "tipo":  "Agua",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Double Spin",
+                           "dano":  "80x",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip 2 coins. This attack does 80 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "20 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/i85cl562z336lj4-vanilluxe.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-021",
+        "categoria":  "Pokemon",
+        "nome":  "Alomomola",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Water Pulse",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃƒÂ©mon is now Asleep."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "21 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/x0rp3mqt13289hy-alomomola.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-022",
+        "categoria":  "Pokemon",
+        "nome":  "Popplio",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Watering",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "22 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ae8v2dd2512l05m-popplio.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-023",
+        "categoria":  "Pokemon",
+        "nome":  "Brionne",
+        "estagio":  "1",
+        "evolucao":  "Popplio",
+        "tipo":  "Agua",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Water Gun",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "23 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/910v79584356zc5-brionne.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-024",
+        "categoria":  "Pokemon",
+        "nome":  "Primarina ex",
+        "estagio":  "2",
+        "evolucao":  "Brionne",
+        "tipo":  "Agua",
+        "hp":  180,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hydro Pump",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon has at least 1 extra Water Energy attached, this attack does 40 more damage."
+                       },
+                       {
+                           "nomeataque":  "Sparkling Aria",
+                           "dano":  "100",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "Heal 20 damage from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "24 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/4w04i8y2b1o737f-primarina-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-025",
+        "categoria":  "Pokemon",
+        "nome":  "Jolteon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Raio",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Beginning Bolt",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon evolved during this turn, this attack does 20 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "25 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ydu7dkdg1omhb88-jolteon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-026",
+        "categoria":  "Pokemon",
+        "nome":  "Joltik",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  40,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Jolt",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, your opponent\u0027s Active PokÃƒÂ©mon is now Paralyzed."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "26 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1i11uwnx6er7s4t-joltik.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-027",
+        "categoria":  "Pokemon",
+        "nome":  "Galvantula",
+        "estagio":  "1",
+        "evolucao":  "Joltik",
+        "tipo":  "Raio",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Electric Shock",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "Discard all Energy attached to this PokÃƒÂ©mon. Your opponent\u0027s Active PokÃƒÂ©mon is now Paralyzed."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  0,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "27 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/e69obpxg7xsq8g0-galvantula.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-028",
+        "categoria":  "Pokemon",
+        "nome":  "Espeon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Psiquico",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Energy Crush",
+                           "dano":  "20x",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  "This attack does 20 damage for each Energy attached to all of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "28 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/178s2bi0dkj2dnu-espeon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-029",
+        "categoria":  "Pokemon",
+        "nome":  "Woobat",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Gust",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "29 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/f760s9px11gs9bt-woobat.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-030",
+        "categoria":  "Pokemon",
+        "nome":  "Swoobat",
+        "estagio":  "1",
+        "evolucao":  "Woobat",
+        "tipo":  "Psiquico",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Psyshot",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "30 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/401apq126qea9jr-swoobat.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-031",
+        "categoria":  "Pokemon",
+        "nome":  "Swirlix",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sweets Relay",
+                           "dano":  "10+",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "If 1 of your PokÃƒÂ©mon used Sweets Relay during your last turn, this attack does 20 more damage."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "31 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/mc8up980u0eof9t-swirlix.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-032",
+        "categoria":  "Pokemon",
+        "nome":  "Slurpuff",
+        "estagio":  "1",
+        "evolucao":  "Swirlix",
+        "tipo":  "Psiquico",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sweets Relay",
+                           "dano":  "30+",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If 1 of your PokÃƒÂ©mon used Sweets Relay during your last turn, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "32 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/aaeozq89o92528f-slurpuff.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-033",
+        "categoria":  "Pokemon",
+        "nome":  "Sylveon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Psiquico",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Evoharmony",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack does 30 more damage for each Evolution PokÃƒÂ©mon on your Bench."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "33 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/d5z46aexlcyt69h-sylveon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-034",
+        "categoria":  "Pokemon",
+        "nome":  "Sylveon ex",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Psiquico",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fairy Wind",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "34 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/75zm3a0uzx4f74r-sylveon-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-035",
+        "categoria":  "Pokemon",
+        "nome":  "Mimikyu",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Try to Imitate",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "psiquico"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, choose 1 of your opponent\u0027s Active PokÃƒÂ©mon\u0027s attacks and use it as this attack."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "35 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/398zmsudxc81p6r-mimikyu.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-036",
+        "categoria":  "Pokemon",
+        "nome":  "Milcery",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sweets Relay",
+                           "dano":  "10+",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "If 1 of your PokÃƒÂ©mon used Sweets Relay during your last turn, this attack does 20 more damage."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "36 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1klb3b011552y39-milcery.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-037",
+        "categoria":  "Pokemon",
+        "nome":  "Alcremie",
+        "estagio":  "1",
+        "evolucao":  "Milcery",
+        "tipo":  "Psiquico",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sweets Overload",
+                           "dano":  "40x",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack does 40 damage for each time your PokÃƒÂ©mon used Sweets Relay during this game."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "37 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/j905ii831785t65-alcremie.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-038",
+        "categoria":  "Pokemon",
+        "nome":  "Barboach",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Mud Shot",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "38 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/lzc07258ilk561h-barboach.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-039",
+        "categoria":  "Pokemon",
+        "nome":  "Whiscash",
+        "estagio":  "1",
+        "evolucao":  "Barboach",
+        "tipo":  "Luta",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Earthquake",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "luta",
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack also does 10 damage to each of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "39 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/lhv5do522e7z99a-whiscash.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-040",
+        "categoria":  "Pokemon",
+        "nome":  "Mienfoo",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Kick Shot",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  "Flip a coin. If tails, this attack does nothing."
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "40 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/jo8w0seu72uam7w-mienfoo.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-041",
+        "categoria":  "Pokemon",
+        "nome":  "Mienshao",
+        "estagio":  "1",
+        "evolucao":  "Mienfoo",
+        "tipo":  "Luta",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Low Kick",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "41 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/phohwgq49z196h7-mienshao.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-042",
+        "categoria":  "Pokemon",
+        "nome":  "Carbink",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hard Roll",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, during your opponent\u0027s next turn, prevent all damage fromÃ¢â‚¬â€and effects ofÃ¢â‚¬â€attacks done to this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "42 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ms3a8n039w605j5-carbink.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-043",
+        "categoria":  "Pokemon",
+        "nome":  "Umbreon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Escuridao",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Dark Binding",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  "If the Defending PokÃƒÂ©mon is a Basic PokÃƒÂ©mon, it can\u0027t attack during your opponent\u0027s next turn."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "43 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/b9b215n12l7o924-umbreon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-044",
+        "categoria":  "Pokemon",
+        "nome":  "Sableye",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Scratch",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "44 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7ytp8j7f7s65j40-sableye.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-045",
+        "categoria":  "Pokemon",
+        "nome":  "Purrloin",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Playful Knockdown",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  "Discard all PokÃƒÂ©mon Tools from your opponent\u0027s Active PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "45 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7b0qtyd4t4rl9ka-purrloin.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-046",
+        "categoria":  "Pokemon",
+        "nome":  "Liepard",
+        "estagio":  "1",
+        "evolucao":  "Purrloin",
+        "tipo":  "Escuridao",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Slashing Claw",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "escuridao"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "46 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/19q3xs29178wu97-liepard.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-047",
+        "categoria":  "Pokemon",
+        "nome":  "Mawile",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Powerful Vise",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, your opponent\u0027s Active PokÃƒÂ©mon is now Paralyzed."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "47 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/z7f7b4f3q7623e5-mawile.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-048",
+        "categoria":  "Pokemon",
+        "nome":  "Togedemaru",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bristling Spikes",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "metal",
+                                               "metal"
+                                           ],
+                           "efeito":  "During your opponent\u0027s next turn, if this PokÃƒÂ©mon is damaged by an attack, do 30 damage to the Attacking PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "48 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/iilo9s3v36e2964-togedemaru.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-049",
+        "categoria":  "Pokemon",
+        "nome":  "Meltan",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Headbutt",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "metal"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "49 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/y5870523q7od4bl-meltan.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-050",
+        "categoria":  "Pokemon",
+        "nome":  "Melmetal",
+        "estagio":  "1",
+        "evolucao":  "Meltan",
+        "tipo":  "Metal",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Mega Punch",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "metal",
+                                               "metal",
+                                               "metal"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  4,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "50 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/o4s59y8y7uas6e8-melmetal.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-051",
+        "categoria":  "Pokemon",
+        "nome":  "Dratini",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Dragao",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Beat",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "51 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/6j28rq9305m87gy-dratini.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-052",
+        "categoria":  "Pokemon",
+        "nome":  "Dragonair",
+        "estagio":  "1",
+        "evolucao":  "Dratini",
+        "tipo":  "Dragao",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Waterfall",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "agua",
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "52 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/l2cbv3a7704s0nw-dragonair.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-053",
+        "categoria":  "Pokemon",
+        "nome":  "Dragonite ex",
+        "estagio":  "2",
+        "evolucao":  "Dragonair",
+        "tipo":  "Dragao",
+        "hp":  180,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Giga Impact",
+                           "dano":  "180",
+                           "custoataque":  [
+                                               "agua",
+                                               "raio",
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your next turn, this PokÃƒÂ©mon can\u0027t attack."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "53 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7o62l41lma5wuue-dragonite-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-054",
+        "categoria":  "Pokemon",
+        "nome":  "Drampa",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Dragao",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Dragon Breath",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If tails, this attack does nothing. If heads, your opponent\u0027s Active PokÃƒÂ©mon is now Paralyzed."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "54 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1o5w92780zan52i-drampa.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-055",
+        "categoria":  "Pokemon",
+        "nome":  "Eevee",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Collect",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Draw a card."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "55 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/p7e69ggmbb04z93-eevee.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-056",
+        "categoria":  "Pokemon",
+        "nome":  "Eevee ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bite",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "56 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/5nd3m7y1e8qax04-eevee-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-057",
+        "categoria":  "Pokemon",
+        "nome":  "Snorlax ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flop-Down Punch",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This PokÃƒÂ©mon is now Asleep."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  4,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "57 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/4436u9edc15qt61-snorlax-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-058",
+        "categoria":  "Pokemon",
+        "nome":  "Aipom",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Double Hit",
+                           "dano":  "20x",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip 2 coins. This attack does 20 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "58 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/26lzc93wel0wq1o-aipom.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-059",
+        "categoria":  "Pokemon",
+        "nome":  "Ambipom",
+        "estagio":  "1",
+        "evolucao":  "Aipom",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Corkscrew Punch",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "59 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/sd53a4mn00k40d5-ambipom.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-060",
+        "categoria":  "Pokemon",
+        "nome":  "Chatot",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Tone-Deaf",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃƒÂ©mon is now Confused."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "60 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/i7i69fgn1438wp8-chatot.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-061",
+        "categoria":  "Pokemon",
+        "nome":  "Audino",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Do the Wave",
+                           "dano":  "20x",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack does 20 damage for each of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "61 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/dyh09s2p89yc44w-audino.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-062",
+        "categoria":  "Pokemon",
+        "nome":  "Minccino",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Pound",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "62 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/4lb066qs17ow7ye-minccino.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-063",
+        "categoria":  "Pokemon",
+        "nome":  "Cinccino",
+        "estagio":  "1",
+        "evolucao":  "Minccino",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Slap",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "63 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/300w9sj1f2lvj6l-cinccino.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-064",
+        "categoria":  "Pokemon",
+        "nome":  "Skwovet",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bite",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "64 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0h1qk3i319mhd66-skwovet.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-065",
+        "categoria":  "Pokemon",
+        "nome":  "Greedent",
+        "estagio":  "1",
+        "evolucao":  "Skwovet",
+        "tipo":  "Incolor",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Enhanced Fang",
+                           "dano":  "50+",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon has a PokÃƒÂ©mon Tool attached, this attack does 50 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "65 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/djbum2806n3usp6-greedent.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-066",
+        "categoria":  "Treinador",
+        "nome":  "Eevee Bag",
+        "estagio":  "Item",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "66 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/867l17246h84ab5-bolsa-de-eevee.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-067",
+        "categoria":  "Treinador",
+        "nome":  "Leftovers",
+        "estagio":  "Ferramenta",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "67 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/8vucu9lh6taqf8n-sobras.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-068",
+        "categoria":  "Treinador",
+        "nome":  "Hau",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "68 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/2239h87h20x54lt-hibi.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-069",
+        "categoria":  "Treinador",
+        "nome":  "Penny",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "69 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/25y9530c76rk6wc-penelope.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-070",
+        "categoria":  "Pokemon",
+        "nome":  "Leafeon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Planta",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Leaf Blast",
+                           "dano":  "10+",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack does 20 more damage for each Grass Energy attached to this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "70 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/19s19676r6bl5io-leafeon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-071",
+        "categoria":  "Pokemon",
+        "nome":  "Flareon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Fogo",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Assisting Heater",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "71 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/8e1k14s9u7w83c3-flareon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-072",
+        "categoria":  "Pokemon",
+        "nome":  "Vaporeon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Agua",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hyper Whirlpool",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent\u0027s Active PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "72 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/6x1zl9fcm81w0i6-vaporeon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-073",
+        "categoria":  "Pokemon",
+        "nome":  "Glaceon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Agua",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ice Blade",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "This attack does 50 damage to 1 of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  2,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "73 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0yc3a713ga52m28-glaceon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-074",
+        "categoria":  "Pokemon",
+        "nome":  "Jolteon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Raio",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Beginning Bolt",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon evolved during this turn, this attack does 20 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "74 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/9fpu5v6l38y5033-jolteon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-075",
+        "categoria":  "Pokemon",
+        "nome":  "Espeon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Psiquico",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Energy Crush",
+                           "dano":  "20x",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  "This attack does 20 damage for each Energy attached to all of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "75 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/lhoq27rtw2661ve-espeon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-076",
+        "categoria":  "Pokemon",
+        "nome":  "Sylveon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Psiquico",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Evoharmony",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack does 30 more damage for each Evolution PokÃƒÂ©mon on your Bench."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "76 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/r7uq9s41d9m638w-sylveon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-077",
+        "categoria":  "Pokemon",
+        "nome":  "Umbreon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Escuridao",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Dark Binding",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  "If the Defending PokÃƒÂ©mon is a Basic PokÃƒÂ©mon, it can\u0027t attack during your opponent\u0027s next turn."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "77 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/84c3u76tue67o44-umbreon.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-078",
+        "categoria":  "Pokemon",
+        "nome":  "Eevee",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Collect",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Draw a card."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "78 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/duria2jmbx04s77-eevee.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-079",
+        "categoria":  "Pokemon",
+        "nome":  "Flareon ex",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Fogo",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fire Spin",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard 2 Fire Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "79 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/80pv8bh454lj484-flareon-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-080",
+        "categoria":  "Pokemon",
+        "nome":  "Primarina ex",
+        "estagio":  "2",
+        "evolucao":  "Brionne",
+        "tipo":  "Agua",
+        "hp":  180,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hydro Pump",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon has at least 1 extra Water Energy attached, this attack does 40 more damage."
+                       },
+                       {
+                           "nomeataque":  "Sparkling Aria",
+                           "dano":  "100",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "Heal 20 damage from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "80 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/gd76xufi5h41a2q-primarina-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-081",
+        "categoria":  "Pokemon",
+        "nome":  "Sylveon ex",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Psiquico",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fairy Wind",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "81 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/49c484986582r31-sylveon-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-082",
+        "categoria":  "Pokemon",
+        "nome":  "Dragonite ex",
+        "estagio":  "2",
+        "evolucao":  "Dragonair",
+        "tipo":  "Dragao",
+        "hp":  180,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Giga Impact",
+                           "dano":  "180",
+                           "custoataque":  [
+                                               "agua",
+                                               "raio",
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your next turn, this PokÃƒÂ©mon can\u0027t attack."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "82 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/6iu3la6ro74z5ue-dragonite-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-083",
+        "categoria":  "Pokemon",
+        "nome":  "Eevee ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bite",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "83 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/pu0i76f4oj41461-eevee-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-084",
+        "categoria":  "Pokemon",
+        "nome":  "Snorlax ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flop-Down Punch",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This PokÃƒÂ©mon is now Asleep."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  4,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "84 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/pesv5700id43yze-snorlax-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-085",
+        "categoria":  "Treinador",
+        "nome":  "Hau",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "85 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/y6395ib8n44y953-hibi.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-086",
+        "categoria":  "Treinador",
+        "nome":  "Penny",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "86 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/r61bdo8e516ui96-penelope.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-087",
+        "categoria":  "Pokemon",
+        "nome":  "Flareon ex",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Fogo",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fire Spin",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard 2 Fire Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "87 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/9x8g9dq7t9aj08t-flareon-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-088",
+        "categoria":  "Pokemon",
+        "nome":  "Primarina ex",
+        "estagio":  "2",
+        "evolucao":  "Brionne",
+        "tipo":  "Agua",
+        "hp":  180,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hydro Pump",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon has at least 1 extra Water Energy attached, this attack does 40 more damage."
+                       },
+                       {
+                           "nomeataque":  "Sparkling Aria",
+                           "dano":  "100",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "Heal 20 damage from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "88 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/923pf68t8k41k81-primarina-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-089",
+        "categoria":  "Pokemon",
+        "nome":  "Sylveon ex",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Psiquico",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fairy Wind",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "89 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/d350e8046ctwf25-sylveon-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-090",
+        "categoria":  "Pokemon",
+        "nome":  "Dragonite ex",
+        "estagio":  "2",
+        "evolucao":  "Dragonair",
+        "tipo":  "Dragao",
+        "hp":  180,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Giga Impact",
+                           "dano":  "180",
+                           "custoataque":  [
+                                               "agua",
+                                               "raio",
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your next turn, this PokÃƒÂ©mon can\u0027t attack."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "90 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/k2n3cn231ok9b48-dragonite-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-091",
+        "categoria":  "Pokemon",
+        "nome":  "Snorlax ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flop-Down Punch",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This PokÃƒÂ©mon is now Asleep."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  4,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "91 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1c1m0538zo0d0t5-snorlax-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-092",
+        "categoria":  "Pokemon",
+        "nome":  "Eevee ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bite",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Raro Imersivo",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "92 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0ui6s935zrc22kr-eevee-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-093",
+        "categoria":  "Pokemon",
+        "nome":  "Pinsir",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Guillotine Rush",
+                           "dano":  "50+",
+                           "custoataque":  [
+                                               "planta",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "93 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/erk112w949q5387-pinsir.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-094",
+        "categoria":  "Pokemon",
+        "nome":  "Lapras",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hydro Pump",
+                           "dano":  "20+",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon has at least 3 extra Water Energy attached, this attack does 70 more damage."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "94 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/c81h36e4sx7tz68-lapras.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-095",
+        "categoria":  "Pokemon",
+        "nome":  "Voltorb",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Big Explosion",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  "This PokÃƒÂ©mon also does 10 damage to itself."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "95 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/f007ym57osh40g5-voltorb.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-096",
+        "categoria":  "Pokemon",
+        "nome":  "Electrode",
+        "estagio":  "1",
+        "evolucao":  "Voltorb",
+        "tipo":  "Raio",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Rolling Attack",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "96 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/6pecbj070j13377-electrode.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-097",
+        "categoria":  "Pokemon",
+        "nome":  "Ralts",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Teleport",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Switch this PokÃƒÂ©mon with 1 of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "97 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/p7p0atb5f2a1202-ralts.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-098",
+        "categoria":  "Pokemon",
+        "nome":  "Kirlia",
+        "estagio":  "1",
+        "evolucao":  "Ralts",
+        "tipo":  "Psiquico",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Slap",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "98 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/5t973u4632j0hr6-kirlia.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-099",
+        "categoria":  "Pokemon",
+        "nome":  "Gardevoir",
+        "estagio":  "2",
+        "evolucao":  "Kirlia",
+        "tipo":  "Psiquico",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Psyshot",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  2,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "99 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ohm2840la24173a-gardevoir.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-100",
+        "categoria":  "Pokemon",
+        "nome":  "Ekans",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bite",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "100 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0s7yha05lxyt7jg-ekans.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-101",
+        "categoria":  "Pokemon",
+        "nome":  "Arbok",
+        "estagio":  "1",
+        "evolucao":  "Ekans",
+        "tipo":  "Escuridao",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Corner",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your opponent\u0027s next turn, the Defending PokÃƒÂ©mon can\u0027t retreat."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "101 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/suf8vy088796313-arbok.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-102",
+        "categoria":  "Pokemon",
+        "nome":  "Farfetch\u0027d",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Leek Slap",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "102 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/nj05d375g3886aw-farfetchd.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-103",
+        "categoria":  "Pokemon",
+        "nome":  "Moltres ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Inferno Dance",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "fogo"
+                                           ],
+                           "efeito":  "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire PokÃƒÂ©mon in any way you like."
+                       },
+                       {
+                           "nomeataque":  "Heat Blast",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "fogo",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "103 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/b2qi6oqu6q2v5yl-moltres-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-104",
+        "categoria":  "Pokemon",
+        "nome":  "Articuno ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ice Wing",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       },
+                       {
+                           "nomeataque":  "Blizzard",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "This attack also does 10 damage to each of your opponent\u0027s Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "104 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/3i5azi19yzqjm01-articuno-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-105",
+        "categoria":  "Pokemon",
+        "nome":  "Zapdos ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Peck",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       },
+                       {
+                           "nomeataque":  "Thundering Hurricane",
+                           "dano":  "50x",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "Flip 4 coins. This attack does 50 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "105 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/upls14kic2177pj-zapdos-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-106",
+        "categoria":  "Pokemon",
+        "nome":  "Gallade ex",
+        "estagio":  "2",
+        "evolucao":  "Kirlia",
+        "tipo":  "Luta",
+        "hp":  170,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Energized Blade",
+                           "dano":  "70+",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta"
+                                           ],
+                           "efeito":  "This attack does 20 more damage for each Energy attached to your opponent\u0027s Active PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  1,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "106 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ii012704wr84413-gallade-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a3b-107",
+        "categoria":  "Treinador",
+        "nome":  "Eevee Bag",
+        "estagio":  "Item",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Coroa Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Bosque dos Eevee (A3b)",
+        "numero":  "107 / 107",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/jjos1689pg6d891-bolsa-de-eevee.jpg",
+        "custoDeck":  1
+    }
+]

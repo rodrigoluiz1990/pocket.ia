@@ -1,0 +1,3184 @@
+﻿[
+    {
+        "id":  "a4a-001",
+        "categoria":  "Pokemon",
+        "nome":  "Hoppip",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Splash",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "1 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/tadpyoloygnq7cx-hoppip.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-002",
+        "categoria":  "Pokemon",
+        "nome":  "Skiploom",
+        "estagio":  "1",
+        "evolucao":  "Hoppip",
+        "tipo":  "Planta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bounce",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Switch this PokÃƒÂ©mon with 1 of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "2 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/g9ck0cs3filiupb-skiploom.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-003",
+        "categoria":  "Pokemon",
+        "nome":  "Jumpluff ex",
+        "estagio":  "2",
+        "evolucao":  "Skiploom",
+        "tipo":  "Planta",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Breeze-By Attack",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "You may switch this PokÃƒÂ©mon with 1 of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "3 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/2r90mcfgs3s4dge-jumpluff-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-004",
+        "categoria":  "Pokemon",
+        "nome":  "Sunkern",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Tackle",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "4 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/68e8d1mlbcgtm69-sunkern.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-005",
+        "categoria":  "Pokemon",
+        "nome":  "Sunflora",
+        "estagio":  "1",
+        "evolucao":  "Sunkern",
+        "tipo":  "Planta",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Trip Over",
+                           "dano":  "50+",
+                           "custoataque":  [
+                                               "planta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, this attack does 30 more damage."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "5 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/i6410aryshzbvao-sunflora.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-006",
+        "categoria":  "Pokemon",
+        "nome":  "Celebi",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Temporal Leaves",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "planta",
+                                               "planta"
+                                           ],
+                           "efeito":  "If your opponent\u0027s Active PokÃƒÂ©mon is an evolved PokÃƒÂ©mon, devolve it by putting the highest Stage Evolution card on it into your opponent\u0027s hand."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "6 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/u3tt8njxbx20d52-celebi.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-007",
+        "categoria":  "Pokemon",
+        "nome":  "Durant",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Mountain Munch",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "planta",
+                                               "planta"
+                                           ],
+                           "efeito":  "Discard the top card of your opponent\u0027s deck."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "7 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/qt9duog6a5zmzq8-durant.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-008",
+        "categoria":  "Pokemon",
+        "nome":  "Slugma",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Combustion",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "8 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/s3jmtyoqq3j1t2l-slugma.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-009",
+        "categoria":  "Pokemon",
+        "nome":  "Magcargo",
+        "estagio":  "1",
+        "evolucao":  "Slugma",
+        "tipo":  "Fogo",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Heat Blast",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo",
+                                               "fogo"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "9 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/yf8scl4mqmlw8n8-magcargo.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-010",
+        "categoria":  "Pokemon",
+        "nome":  "Entei ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Blazing Beatdown",
+                           "dano":  "60+",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon has at least 2 extra Fire Energy attached, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "10 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/20lmv7wlusxstha-entei-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-011",
+        "categoria":  "Pokemon",
+        "nome":  "Fletchinder",
+        "estagio":  "1",
+        "evolucao":  "Fletchling",
+        "tipo":  "Fogo",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fire Wing",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "fogo"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "11 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/3gqnkhghnfylrzy-fletchinder.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-012",
+        "categoria":  "Pokemon",
+        "nome":  "Talonflame",
+        "estagio":  "2",
+        "evolucao":  "Fletchinder",
+        "tipo":  "Fogo",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Searing Flame",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "fogo"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃƒÂ©mon is now Burned."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "12 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/i9wpf0n1gxya146-talonflame.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-013",
+        "categoria":  "Pokemon",
+        "nome":  "Poliwag",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Call for Family",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Put 1 random Poliwag from your deck onto your Bench."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "13 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/san2fg1rcdr6wui-poliwag.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-014",
+        "categoria":  "Pokemon",
+        "nome":  "Poliwhirl",
+        "estagio":  "1",
+        "evolucao":  "Poliwag",
+        "tipo":  "Agua",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ram",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "14 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/p1su9d0v1t2rv3m-poliwhirl.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-015",
+        "categoria":  "Pokemon",
+        "nome":  "Tentacool",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Poison Sting",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃƒÂ©mon is now Poisoned."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "15 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/uawoh4xfqtfjc8g-tentacool.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-016",
+        "categoria":  "Pokemon",
+        "nome":  "Tentacruel",
+        "estagio":  "1",
+        "evolucao":  "Tentacool",
+        "tipo":  "Agua",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Stun Poison",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, your opponent\u0027s Active PokÃƒÂ©mon is now Poisoned and Paralyzed."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "16 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/78fs8uqlf7kgum3-tentacruel.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-017",
+        "categoria":  "Pokemon",
+        "nome":  "Slowpoke",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Water Gun",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "17 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/i39xdjlwq4gwdcu-slowpoke.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-018",
+        "categoria":  "Pokemon",
+        "nome":  "Slowking",
+        "estagio":  "1",
+        "evolucao":  "Slowpoke",
+        "tipo":  "Agua",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Litter",
+                           "dano":  "50x",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "Discard up to 2 PokÃƒÂ©mon Tool cards from your hand. This attack does 50 damage for each card you discarded in this way."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "18 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/8g4f1zzrxvgzea0-slowking.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-019",
+        "categoria":  "Pokemon",
+        "nome":  "Jynx",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Dazzle Dance",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃƒÂ©mon is now Confused."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "19 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1zu5gggww3uj1k7-jynx.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-020",
+        "categoria":  "Pokemon",
+        "nome":  "Suicune ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Crystal Waltz",
+                           "dano":  "20x",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "This attack does 20 damage for each Benched PokÃƒÂ©mon (both yours and your opponent\u0027s)."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "20 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/cgm62jbbilkls6q-suicune-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-021",
+        "categoria":  "Pokemon",
+        "nome":  "Feebas",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  30,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Leap Out",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "Switch this PokÃƒÂ©mon with 1 of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "21 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/06lyfll61o1ahw4-feebas.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-022",
+        "categoria":  "Pokemon",
+        "nome":  "Milotic",
+        "estagio":  "1",
+        "evolucao":  "Feebas",
+        "tipo":  "Agua",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Aqua Edge",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "22 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ze9g39umv4rkskh-milotic.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-023",
+        "categoria":  "Pokemon",
+        "nome":  "Mantyke",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  30,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Splashy Toss",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               ""
+                                           ],
+                           "efeito":  "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Basic PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  0,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "23 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ooehafsiq6p5m04-mantyke.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-024",
+        "categoria":  "Pokemon",
+        "nome":  "Cryogonal",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ice Blade",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "This attack does 40 damage to 1 of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "24 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/6uh95s8774rsooq-cryogonal.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-025",
+        "categoria":  "Pokemon",
+        "nome":  "Raikou ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Voltaic Bullet",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "This attack also does 10 damage to 1 of your opponent\u0027s Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "25 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/r940evn122rcw7k-raikou-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-026",
+        "categoria":  "Pokemon",
+        "nome":  "Tynamo",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  40,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Tiny Bolt",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  0,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "26 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/regeslvxspykbe0-tynamo.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-027",
+        "categoria":  "Pokemon",
+        "nome":  "Eelektrik",
+        "estagio":  "1",
+        "evolucao":  "Tynamo",
+        "tipo":  "Raio",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Electro Ball",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "raio",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "27 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/vxq48kqymncoon4-eelektrik.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-028",
+        "categoria":  "Pokemon",
+        "nome":  "Eelektross",
+        "estagio":  "2",
+        "evolucao":  "Eelektrik",
+        "tipo":  "Raio",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Wild Charge",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This PokÃƒÂ©mon also does 20 damage to itself."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "28 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/rgoa3twb5fzbn3n-eelektross.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-029",
+        "categoria":  "Pokemon",
+        "nome":  "Stunfisk",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Static Shock",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "raio",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "29 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/cvrvmfafocwh8ua-stunfisk.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-030",
+        "categoria":  "Pokemon",
+        "nome":  "Yamper",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Zap Kick",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "30 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/pceh4hxgxo3ftz2-yamper.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-031",
+        "categoria":  "Pokemon",
+        "nome":  "Boltund",
+        "estagio":  "1",
+        "evolucao":  "Yamper",
+        "tipo":  "Raio",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Defiant Spark",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "raio",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon has damage on it, this attack can be used for 1 Lightning Energy."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "31 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/d5pdtnc38d7bfod-boltund.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-032",
+        "categoria":  "Pokemon",
+        "nome":  "Misdreavus",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Will-O-Wisp",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "32 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/03jmf9lbuutz2py-misdreavus.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-033",
+        "categoria":  "Pokemon",
+        "nome":  "Mismagius",
+        "estagio":  "1",
+        "evolucao":  "Misdreavus",
+        "tipo":  "Psiquico",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Cursed Prose",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  "At the end of your opponent\u0027s next turn, do 90 damage to the Defending PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "33 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/dxmjnzt7x5z3np6-mismagius.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-034",
+        "categoria":  "Pokemon",
+        "nome":  "Galarian Corsola",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Tackle",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "34 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/hmicj8w3wo338v0-corsola-de-galar.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-035",
+        "categoria":  "Pokemon",
+        "nome":  "Galarian Cursola",
+        "estagio":  "1",
+        "evolucao":  "Galarian Corsola",
+        "tipo":  "Psiquico",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Spooky Shot",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "psiquico"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "35 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/5hi3fpuhp4ghti8-cursola-de-galar.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-036",
+        "categoria":  "Pokemon",
+        "nome":  "Latias",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Crossing Flights",
+                           "dano":  "20+",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  "If Latios is on your Bench, this attack does 20 more damage."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "36 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/hdmtkrugk8b8q62-latias.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-037",
+        "categoria":  "Pokemon",
+        "nome":  "Latios",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Luster Purge",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "psiquico",
+                                               "psiquico"
+                                           ],
+                           "efeito":  "Discard all Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "37 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/xggh2qe2y56icsq-latios.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-038",
+        "categoria":  "Pokemon",
+        "nome":  "Frillish",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Absorb",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  "Heal 10 damage from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "38 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/pwschd90zbjp6zj-frillish.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-039",
+        "categoria":  "Pokemon",
+        "nome":  "Jellicent",
+        "estagio":  "1",
+        "evolucao":  "Frillish",
+        "tipo":  "Psiquico",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Devour Soul",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  2,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "39 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/f5cd0nt4xp4dbbs-jellicent.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-040",
+        "categoria":  "Pokemon",
+        "nome":  "Diglett",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Headbutt",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "40 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/uu34mtry8joqg3m-diglett.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-041",
+        "categoria":  "Pokemon",
+        "nome":  "Dugtrio",
+        "estagio":  "1",
+        "evolucao":  "Diglett",
+        "tipo":  "Luta",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Cliff Crumbler",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  "Discard the top card of your deck. If that card is a Fighting PokÃƒÂ©mon, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "41 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/58ugq31nqxxmc34-dugtrio.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-042",
+        "categoria":  "Pokemon",
+        "nome":  "Poliwrath ex",
+        "estagio":  "2",
+        "evolucao":  "Poliwhirl",
+        "tipo":  "Luta",
+        "hp":  180,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hydro Knuckle",
+                           "dano":  "100+",
+                           "custoataque":  [
+                                               "luta",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon has any Water Energy attached, this attack does 40 more damage."
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  3,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "42 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/qfmzahyti5gjhdl-poliwrath-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-043",
+        "categoria":  "Pokemon",
+        "nome":  "Phanpy",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flail",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  "This attack does damage to your opponent\u0027s Active PokÃƒÂ©mon equal to the damage this PokÃƒÂ©mon has on it."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "43 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/93091qyepyo1q5t-phanpy.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-044",
+        "categoria":  "Pokemon",
+        "nome":  "Donphan",
+        "estagio":  "1",
+        "evolucao":  "Phanpy",
+        "tipo":  "Luta",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Land Crush",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  4,
+        "raridade":  "Incomum",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "44 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/8yihn9sg00ph8so-donphan.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-045",
+        "categoria":  "Pokemon",
+        "nome":  "Relicanth",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Take Down",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This PokÃƒÂ©mon also does 10 damage to itself."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "45 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/kv3ru58mm8e824r-relicanth.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-046",
+        "categoria":  "Pokemon",
+        "nome":  "Dwebble",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sand Spray",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "46 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/wsdmpg1bajxekwb-dwebble.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-047",
+        "categoria":  "Pokemon",
+        "nome":  "Crustle",
+        "estagio":  "1",
+        "evolucao":  "Dwebble",
+        "tipo":  "Luta",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Stone Edge",
+                           "dano":  "100+",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta",
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, this attack does 50 more damage."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  4,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "47 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/bkilwyu04xg96he-crustle.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-048",
+        "categoria":  "Pokemon",
+        "nome":  "Seviper",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fateful Fang",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If your opponent\u0027s Active PokÃƒÂ©mon is Zangoose, this attack does 40 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "48 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/mess1yc3n7xhp8c-seviper.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-049",
+        "categoria":  "Pokemon",
+        "nome":  "Zorua",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ram",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "49 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/42wflj5pvnw9fqs-zorua.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-050",
+        "categoria":  "Pokemon",
+        "nome":  "Zoroark",
+        "estagio":  "1",
+        "evolucao":  "Zorua",
+        "tipo":  "Escuridao",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Night Daze",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "escuridao"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "50 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/8rxqsgdim785c9z-zoroark.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-051",
+        "categoria":  "Pokemon",
+        "nome":  "Inkay",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Tackle",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "51 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/tgd58h0rvnhlzs4-inkay.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-052",
+        "categoria":  "Pokemon",
+        "nome":  "Malamar",
+        "estagio":  "1",
+        "evolucao":  "Inkay",
+        "tipo":  "Escuridao",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Mental Surge",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  "This attack does 20 damage to each of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "52 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/2j7ocx1gpmq4c7w-malamar.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-053",
+        "categoria":  "Pokemon",
+        "nome":  "Skrelp",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Melt",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "53 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/zymp9hjh0zrkp5z-skrelp.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-054",
+        "categoria":  "Pokemon",
+        "nome":  "Dragalge",
+        "estagio":  "1",
+        "evolucao":  "Skrelp",
+        "tipo":  "Escuridao",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sludge Bomb",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "54 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/urc0z1ggjjlht24-dragalge.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-055",
+        "categoria":  "Pokemon",
+        "nome":  "Altaria",
+        "estagio":  "1",
+        "evolucao":  "Swablu",
+        "tipo":  "Dragao",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Dragon Arcana",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon has 2 or more different types of Energy attached, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "55 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/85p39q39qoz30pw-altaria.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-056",
+        "categoria":  "Pokemon",
+        "nome":  "Farfetch\u0027d",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Leek Slam",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "56 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/800lkg15oahemw3-farfetchd.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-057",
+        "categoria":  "Pokemon",
+        "nome":  "Lickitung",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Stretch Tongue",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack does 30 damage to 1 of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "57 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/s220cxgdyq65oab-lickitung.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-058",
+        "categoria":  "Pokemon",
+        "nome":  "Lickilicky",
+        "estagio":  "1",
+        "evolucao":  "Lickitung",
+        "tipo":  "Incolor",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Stretch Tongue",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack does 60 damage to 1 of your opponent\u0027s PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "58 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/2hbylvu0exn4yh1-lickilicky.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-059",
+        "categoria":  "Pokemon",
+        "nome":  "Igglybuff",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  30,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sleepy Lullaby",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               ""
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃƒÂ©mon is now Asleep."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  0,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "59 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/difq1yoh2c3g6g4-igglybuff.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-060",
+        "categoria":  "Pokemon",
+        "nome":  "Teddiursa",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Surprise Attack",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If tails, this attack does nothing."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "60 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/hhn3ywkcpkq8gbq-teddiursa.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-061",
+        "categoria":  "Pokemon",
+        "nome":  "Ursaring",
+        "estagio":  "1",
+        "evolucao":  "Teddiursa",
+        "tipo":  "Incolor",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Claw Slash",
+                           "dano":  "110",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "61 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/4twkfkiebj19x4x-ursaring.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-062",
+        "categoria":  "Pokemon",
+        "nome":  "Miltank",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Rolling Frenzy",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Until this PokÃƒÂ©mon leaves the Active Spot, this PokÃƒÂ©mon\u0027s Rolling Frenzy attack does +30 damage. This effect stacks."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "62 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/nqjrmkubdy7zo3a-miltank.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-063",
+        "categoria":  "Pokemon",
+        "nome":  "Azurill",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  30,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Squishy Healing",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               ""
+                                           ],
+                           "efeito":  "Heal 50 damage from 1 of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  0,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "63 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/v0w5df1i3khzbgn-azurill.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-064",
+        "categoria":  "Pokemon",
+        "nome":  "Swablu",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Peck",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "64 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/wbu0vm3q3kvlm4z-swablu.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-065",
+        "categoria":  "Pokemon",
+        "nome":  "Zangoose",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Slash",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "65 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/l6ipl513fkzoc5j-zangoose.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-066",
+        "categoria":  "Pokemon",
+        "nome":  "Fletchling",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Quick Attack",
+                           "dano":  "10+",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, this attack does 30 more damage."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "66 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/4xq06tj6i0v8zs9-fletchling.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-067",
+        "categoria":  "Treinador",
+        "nome":  "Inflatable Boat",
+        "estagio":  "Ferramenta",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "67 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/dbp5v0dkiv3tftc-bote-inflvel.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-068",
+        "categoria":  "Treinador",
+        "nome":  "Memory Light",
+        "estagio":  "Ferramenta",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "68 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/g0rtxri8v9cyfdv-lmpada-da-memria.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-069",
+        "categoria":  "Treinador",
+        "nome":  "Whitney",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "69 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/e2eqwxgrfzvj85n-whitney.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-070",
+        "categoria":  "Treinador",
+        "nome":  "Traveling Merchant",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "70 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/xyfz17put3cnvv0-mercadora-viajante.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-071",
+        "categoria":  "Treinador",
+        "nome":  "Morty",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Incomum",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "71 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/hzl7ejueddfyiw8-morty.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-072",
+        "categoria":  "Pokemon",
+        "nome":  "Milotic",
+        "estagio":  "1",
+        "evolucao":  "Feebas",
+        "tipo":  "Agua",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Aqua Edge",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "72 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/mvnt36ukpm7xgzd-milotic.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-073",
+        "categoria":  "Pokemon",
+        "nome":  "Stunfisk",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Static Shock",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "raio",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "73 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/9ashz5p16aj9o9v-stunfisk.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-074",
+        "categoria":  "Pokemon",
+        "nome":  "Yamper",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Zap Kick",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "74 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/gvfp5o5vk1jbtf9-yamper.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-075",
+        "categoria":  "Pokemon",
+        "nome":  "Latios",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Luster Purge",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "psiquico",
+                                               "psiquico"
+                                           ],
+                           "efeito":  "Discard all Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  2,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "75 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/zixe602om2dep8e-latios.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-076",
+        "categoria":  "Pokemon",
+        "nome":  "Phanpy",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flail",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  "This attack does damage to your opponent\u0027s Active PokÃƒÂ©mon equal to the damage this PokÃƒÂ©mon has on it."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "76 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/hdiapngc55nd1lb-phanpy.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-077",
+        "categoria":  "Pokemon",
+        "nome":  "Azurill",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  30,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Squishy Healing",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               ""
+                                           ],
+                           "efeito":  "Heal 50 damage from 1 of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  0,
+        "raridade":  "IlustraÃ§Ã£o Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "77 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7l4epgd8bxd03fj-azurill.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-078",
+        "categoria":  "Pokemon",
+        "nome":  "Jumpluff ex",
+        "estagio":  "2",
+        "evolucao":  "Skiploom",
+        "tipo":  "Planta",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Breeze-By Attack",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "You may switch this PokÃƒÂ©mon with 1 of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "78 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/qladd8fo1ocregw-jumpluff-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-079",
+        "categoria":  "Pokemon",
+        "nome":  "Entei ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Blazing Beatdown",
+                           "dano":  "60+",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon has at least 2 extra Fire Energy attached, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "79 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/vedezg8ktpvpd7a-entei-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-080",
+        "categoria":  "Pokemon",
+        "nome":  "Suicune ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Crystal Waltz",
+                           "dano":  "20x",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "This attack does 20 damage for each Benched PokÃƒÂ©mon (both yours and your opponent\u0027s)."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "80 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/czjzj430ynxo7sy-suicune-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-081",
+        "categoria":  "Pokemon",
+        "nome":  "Raikou ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Voltaic Bullet",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "This attack also does 10 damage to 1 of your opponent\u0027s Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "81 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/t5rok37clv1h8zr-raikou-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-082",
+        "categoria":  "Pokemon",
+        "nome":  "Poliwrath ex",
+        "estagio":  "2",
+        "evolucao":  "Poliwhirl",
+        "tipo":  "Luta",
+        "hp":  180,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hydro Knuckle",
+                           "dano":  "100+",
+                           "custoataque":  [
+                                               "luta",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon has any Water Energy attached, this attack does 40 more damage."
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  3,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "82 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/hbh3g3d5y8ik5jo-poliwrath-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-083",
+        "categoria":  "Treinador",
+        "nome":  "Whitney",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "83 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/dx3mxqt1v21ex8f-whitney.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-084",
+        "categoria":  "Treinador",
+        "nome":  "Traveling Merchant",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "84 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/phdmnf0nezfu6kq-mercadora-viajante.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-085",
+        "categoria":  "Treinador",
+        "nome":  "Morty",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  50,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "85 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/351uz2lslfh6mw2-morty.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-086",
+        "categoria":  "Pokemon",
+        "nome":  "Jumpluff ex",
+        "estagio":  "2",
+        "evolucao":  "Skiploom",
+        "tipo":  "Planta",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Breeze-By Attack",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "You may switch this PokÃƒÂ©mon with 1 of your Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "86 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/kmos1a16pio4sst-jumpluff-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-087",
+        "categoria":  "Pokemon",
+        "nome":  "Entei ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Blazing Beatdown",
+                           "dano":  "60+",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon has at least 2 extra Fire Energy attached, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "87 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/24dqqy00dq0krhe-entei-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-088",
+        "categoria":  "Pokemon",
+        "nome":  "Raikou ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Voltaic Bullet",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "This attack also does 10 damage to 1 of your opponent\u0027s Benched PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "88 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/zw6jgma4yj3ohp5-raikou-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-089",
+        "categoria":  "Pokemon",
+        "nome":  "Poliwrath ex",
+        "estagio":  "2",
+        "evolucao":  "Poliwhirl",
+        "tipo":  "Luta",
+        "hp":  180,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hydro Knuckle",
+                           "dano":  "100+",
+                           "custoataque":  [
+                                               "luta",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If this PokÃƒÂ©mon has any Water Energy attached, this attack does 40 more damage."
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  3,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "89 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/lin2r3s9nxah816-poliwrath-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-090",
+        "categoria":  "Pokemon",
+        "nome":  "Suicune ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Crystal Waltz",
+                           "dano":  "20x",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "This attack does 20 damage for each Benched PokÃƒÂ©mon (both yours and your opponent\u0027s)."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Raro Imersivo",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "90 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1n60iu4eejyl3t1-suicune-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-091",
+        "categoria":  "Pokemon",
+        "nome":  "Chimchar",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Scratch",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "fogo"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "91 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/sfkjtjol3zxubp8-chimchar.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-092",
+        "categoria":  "Pokemon",
+        "nome":  "Monferno",
+        "estagio":  "1",
+        "evolucao":  "Chimchar",
+        "tipo":  "Fogo",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Fiery Punch",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "fogo"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "92 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/k37vtcij5qe0x3t-monferno.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-093",
+        "categoria":  "Pokemon",
+        "nome":  "Psyduck",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Headache",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Your opponent can\u0027t use any Supporter cards from their hand during their next turn."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "93 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/xweq5kmjcrx32p6-psyduck.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-094",
+        "categoria":  "Pokemon",
+        "nome":  "Golduck",
+        "estagio":  "1",
+        "evolucao":  "Psyduck",
+        "tipo":  "Agua",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Aqua Edge",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "94 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/a9m05mnip1gqusz-golduck.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-095",
+        "categoria":  "Pokemon",
+        "nome":  "Krabby",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Vise Grip",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "95 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/8b1csjrmbkwtph8-krabby.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-096",
+        "categoria":  "Pokemon",
+        "nome":  "Kingler",
+        "estagio":  "1",
+        "evolucao":  "Krabby",
+        "tipo":  "Agua",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "KO Crab",
+                           "dano":  "80+",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip 2 coins. If both of them are heads, this attack does 80 more damage."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  3,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "96 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1rr862wvt5jxhqe-kingler.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-097",
+        "categoria":  "Pokemon",
+        "nome":  "Pyukumuku",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sprinkle Water",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  true,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "97 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/9evphrb44msyokb-pyukumuku.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-098",
+        "categoria":  "Pokemon",
+        "nome":  "Gible",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Tackle",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "98 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0srd3tg9g292or1-gible.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-099",
+        "categoria":  "Pokemon",
+        "nome":  "Gabite",
+        "estagio":  "1",
+        "evolucao":  "Gible",
+        "tipo":  "Luta",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sharp Scythe",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "99 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/w7mf3alkvyilcvp-gabite.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-100",
+        "categoria":  "Pokemon",
+        "nome":  "Paldean Wooper",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Poison Jab",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃƒÂ©mon is now Poisoned."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Raro Brilhante",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "100 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/as36d3dw6koq9zj-wooper-de-paldea.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-101",
+        "categoria":  "Pokemon",
+        "nome":  "Infernape ex",
+        "estagio":  "2",
+        "evolucao":  "Monferno",
+        "tipo":  "Fogo",
+        "hp":  170,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flare Blitz",
+                           "dano":  "140",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo"
+                                           ],
+                           "efeito":  "Discard all Fire Energy from this PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  0,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "101 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/nfhd6gw6w1m7bff-infernape-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-102",
+        "categoria":  "Pokemon",
+        "nome":  "Mew ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Psyshot",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  ""
+                       },
+                       {
+                           "nomeataque":  "Genome Hacking",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Choose 1 of your opponent\u0027s Active PokÃƒÂ©mon\u0027s attacks and use it as this attack."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "102 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/idjdar58ux00d95-mew-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-103",
+        "categoria":  "Pokemon",
+        "nome":  "Garchomp ex",
+        "estagio":  "2",
+        "evolucao":  "Gabite",
+        "tipo":  "Luta",
+        "hp":  170,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Linear Attack",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  "This attack does 50 damage to 1 of your opponent\u0027s PokÃƒÂ©mon."
+                       },
+                       {
+                           "nomeataque":  "Dragon Claw",
+                           "dano":  "100",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "103 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/8aw9zref5x85x94-garchomp-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-104",
+        "categoria":  "Pokemon",
+        "nome":  "Paldean Clodsire ex",
+        "estagio":  "1",
+        "evolucao":  "Paldean Wooper",
+        "tipo":  "Escuridao",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Venoshock",
+                           "dano":  "60+",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "escuridao"
+                                           ],
+                           "efeito":  "If your opponent\u0027s Active PokÃƒÂ©mon is Poisoned, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Duplo Brilhante Raro",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "ex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "104 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/1rnuuz9rmpt8ojh-clodsire-de-paldea-ex.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "a4a-105",
+        "categoria":  "Pokemon",
+        "nome":  "Mantyke",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  30,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Splashy Toss",
+                           "dano":  "0",
+                           "custoataque":  [
+                                               ""
+                                           ],
+                           "efeito":  "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Basic PokÃƒÂ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  0,
+        "raridade":  "Coroa Rara",
+        "habilidade":  false,
+        "promo":  false,
+        "formato":  "noex",
+        "expansao":  "Nascentes Reclusas (A4a)",
+        "numero":  "105 / 71",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/hcqdu5pold1oog1-mantyke.jpg",
+        "custoDeck":  1
+    }
+]

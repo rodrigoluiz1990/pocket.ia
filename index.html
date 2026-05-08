@@ -1,0 +1,154 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pocket.ia | Deck Builder + Teste IA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Sora:wght@600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nouislider@15.8.1/dist/nouislider.min.css" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero-content">
+        <h1>Pocket.ia</h1>
+        <p class="subtitle">Monte decks com filtros avancados e rode baterias de partidas com IA.</p>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="top-panel">
+        <section class="panel side deck-section">
+          <div class="panel-header">
+            <h2>Seu Deck</h2>
+            <p><span id="deckCount">0</span>/20 cartas</p>
+          </div>
+          <div id="deckList" class="deck-list"></div>
+        </section>
+
+        <section class="panel suggestions-section">
+          <div class="panel-header">
+            <h2>Sugestões de Cartas</h2>
+            <p>Cartas recomendadas baseadas no seu deck atual.</p>
+          </div>
+          <div id="suggestionsList" class="suggestions-list"></div>
+        </section>
+        
+        <section class="panel test-section">
+          <div class="panel-header test-header">
+            <h2>Testar Deck com IA</h2>
+            <p>Simule varios jogos automaticamente.</p>
+          </div>
+
+          <div class="test-controls">
+            <label>
+              Partidas:
+              <input id="simCount" type="number" min="10" max="2000" step="10" value="200" />
+            </label>
+            <label>
+              IA Oponente:
+              <select id="aiProfile">
+                <option value="agressivo">Agressivo</option>
+                <option value="equilibrado" selected>Equilibrado</option>
+                <option value="controle">Controle</option>
+              </select>
+            </label>
+            <button id="runSimBtn">Rodar Simulacao</button>
+          </div>
+
+          <div id="simResults" class="sim-results"></div>
+        </section>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Criar Deck</h2>
+          <p id="loadStatus">Carregando cartas...</p>
+        </div>
+
+        <div class="filters">
+          <input id="searchInput" type="text" placeholder="Buscar carta..." />
+          <select id="tipoFilter" class="multi-filter" multiple title="Categoria"></select>
+          <select id="elementoFilter" class="multi-filter" multiple title="Tipo"></select>
+          <select id="raridadeFilter" class="multi-filter" multiple title="Raridade"></select>
+          <select id="estagioFilter" class="multi-filter" multiple title="Estagio"></select>
+          <select id="expansaoFilter" class="multi-filter" multiple title="Expansao"></select>
+          
+          <select id="fraquezaFilter" class="multi-filter" multiple title="Fraqueza"></select>
+          <select id="habilidadeFilter" class="strong-select">
+            <option value="">Habilidade</option>
+            <option value="tem">Possui habilidade</option>
+            <option value="nao-tem">Nao possui habilidade</option>
+          </select>
+          <div class="range-duo range-single recuo-filter">
+            <span class="range-title">Recuo</span>
+            <div class="range-inline">
+              <span class="range-value">0</span>
+              <input id="recuoFilter" type="range" min="0" max="5" value="5" />
+              <span id="recuoLabel" class="range-value">5</span>
+            </div>
+          </div>
+          <div class="range-duo vida-filter">
+            <span class="range-title">Vida</span>
+            <div class="range-inline">
+              <span id="vidaMinLabel" class="range-value">0</span>
+              <div id="vidaSlider" class="range-track"></div>
+              <span id="vidaMaxLabel" class="range-value">300</span>
+            </div>
+          </div>
+          <div class="range-duo ataque-filter">
+            <span class="range-title">Ataque</span>
+            <div class="range-inline">
+              <span id="ataqueMinLabel" class="range-value">0</span>
+              <div id="ataqueSlider" class="range-track"></div>
+              <span id="ataqueMaxLabel" class="range-value">250</span>
+            </div>
+          </div>
+
+          <div class="range-duo custo-ataque-filter">
+            <span class="range-title">Custo de ataque</span>
+            <div class="range-inline">
+              <span id="custoAtaqueMinLabel" class="range-value">0</span>
+              <div id="custoAtaqueSlider" class="range-track"></div>
+              <span id="custoAtaqueMaxLabel" class="range-value">5</span>
+            </div>
+          </div>
+          <select id="formatoFilter" class="multi-filter" multiple title="Formato">
+            <option value="ex">ex</option><option value="noex">noex</option><option value="mega">mega</option>
+          </select>
+          <div class="sort-inline sort-row-bottom">
+            <select id="sortField" class="strong-select">
+              <option value="exp-num">Ordem: expansao + numero</option>
+              <option value="nome">Ordem: nome</option>
+              <option value="numero-exp">Ordem: numero da expansao</option>
+              <option value="hp">Ordem: vida</option>
+              <option value="ataque">Ordem: ataque</option>
+            </select>
+            <select id="sortDir" class="strong-select"><option value="asc">Crescente</option><option value="desc">Decrescente</option></select>
+          </div>
+        </div>
+        <div class="toggle-row">
+          <label class="image-only-toggle">
+            <input id="imageOnlyToggle" type="checkbox" />
+            Mostrar somente imagens
+          </label>
+          <label class="image-only-toggle">
+            <input id="favoriteOnlyToggle" type="checkbox" />
+            Somente favoritas
+          </label>
+        </div>
+
+        <div id="cardsGrid" class="cards-grid"></div>
+      </section>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/nouislider@15.8.1/dist/nouislider.min.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
+

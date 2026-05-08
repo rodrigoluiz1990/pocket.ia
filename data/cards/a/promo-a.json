@@ -1,0 +1,3592 @@
+﻿[
+    {
+        "id":  "p-a-001",
+        "categoria":  "Treinador",
+        "nome":  "Potion",
+        "estagio":  "Item",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  0,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  0,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "1 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/womcx9xz1jdbix9-poo.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-002",
+        "categoria":  "Treinador",
+        "nome":  "X Speed",
+        "estagio":  "Item",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  0,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  0,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "2 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/cxhgr5vqx4nnk88-velocidade-x.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-003",
+        "categoria":  "Treinador",
+        "nome":  "Hand Scope",
+        "estagio":  "Item",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  0,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  0,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "3 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/f31snwetq9n89tb-luneta.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-004",
+        "categoria":  "Treinador",
+        "nome":  "PokÃ©dex",
+        "estagio":  "Item",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  0,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  0,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "4 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/asm8tymitlp25wm-pokedex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-005",
+        "categoria":  "Treinador",
+        "nome":  "PokÃ© Ball",
+        "estagio":  "Item",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  0,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  0,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "5 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/racy0hembyjm2wr-poke-bola.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-006",
+        "categoria":  "Treinador",
+        "nome":  "Red Card",
+        "estagio":  "Item",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  0,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  0,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "6 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/2j70q89pnfa4jq0-carto-vermelho.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-007",
+        "categoria":  "Treinador",
+        "nome":  "Professor\u0027s Research",
+        "estagio":  "Apoiador",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  0,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  0,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "7 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/mtub2uaiefr3a1g-pesquisa-de-professores.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-008",
+        "categoria":  "Treinador",
+        "nome":  "PokÃ©dex",
+        "estagio":  "Item",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  0,
+        "ataque":  [
+
+                   ],
+        "fraqueza":  "",
+        "recuo":  0,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "8 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/g2wz46x92jrdrrn-pokedex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-009",
+        "categoria":  "Pokemon",
+        "nome":  "Pikachu",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Gnaw",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "9 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/z5uulgsd0e4vaml-pikachu.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-010",
+        "categoria":  "Pokemon",
+        "nome":  "Mewtwo",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Power Blast",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "psiquico",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard 2 Psychic Energy from this PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "10 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/12nb2ujgx8c0vil-mewtwo.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-011",
+        "categoria":  "Pokemon",
+        "nome":  "Chansey",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Gentle Slap",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "11 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/h1b5kqu8nzujbwo-chansey.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-012",
+        "categoria":  "Pokemon",
+        "nome":  "Meowth",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Pay Day",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Draw 1 card."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "12 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/a07m2e6okl6qfhj-meowth.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-013",
+        "categoria":  "Pokemon",
+        "nome":  "Butterfree",
+        "estagio":  "2",
+        "evolucao":  "Metapod",
+        "tipo":  "Planta",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Gust",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "planta",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  true,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "13 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ud86rav8mckofti-butterfree.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-014",
+        "categoria":  "Pokemon",
+        "nome":  "Lapras ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bubble Drain",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Heal 20 damage from this PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  3,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "ex",
+        "expansao":  "PROMO-A",
+        "numero":  "14 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/vzhvb969aap0gi9-lapras-ex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-015",
+        "categoria":  "Pokemon",
+        "nome":  "Pikachu",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Gnaw",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "15 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/uhz8bxwu7n85rka-pikachu.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-016",
+        "categoria":  "Pokemon",
+        "nome":  "Clefairy",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Slap",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "16 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ky9e9gbnnovmj6o-clefairy.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-017",
+        "categoria":  "Pokemon",
+        "nome":  "Mankey",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Reckless Charge",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  "This PokÃ©mon also does 10 damage to itself."
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "17 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/klcwraeozge7x52-mankey.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-018",
+        "categoria":  "Pokemon",
+        "nome":  "Venusaur",
+        "estagio":  "2",
+        "evolucao":  "Ivysaur",
+        "tipo":  "Planta",
+        "hp":  160,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Mega Drain",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "planta",
+                                               "planta",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Heal 30 damage from this PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  3,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "18 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/sx5e3vdtzirp0ga-venusaur.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-019",
+        "categoria":  "Pokemon",
+        "nome":  "Greninja",
+        "estagio":  "2",
+        "evolucao":  "Frogadier",
+        "tipo":  "Agua",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Mist Slash",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  true,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "19 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/v62r60kopvjgss3-greninja.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-020",
+        "categoria":  "Pokemon",
+        "nome":  "Haunter",
+        "estagio":  "1",
+        "evolucao":  "Gastly",
+        "tipo":  "Psiquico",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Surprise Attack",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  "Flip a coin. If tails, this attack does nothing."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "20 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/04v74pdrtp8jlcf-haunter.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-021",
+        "categoria":  "Pokemon",
+        "nome":  "Onix",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Land Crush",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta",
+                                               "luta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  4,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "21 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7o3zpzqi6vqbq29-onix.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-022",
+        "categoria":  "Pokemon",
+        "nome":  "Jigglypuff",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sing",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃ©mon is now Asleep."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "22 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ly0v6thng3zmg8n-jigglypuff.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-023",
+        "categoria":  "Pokemon",
+        "nome":  "Bulbasaur",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Vine Whip",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "planta",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "23 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/k5fju0mrxezsi6c-bulbasaur.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-024",
+        "categoria":  "Pokemon",
+        "nome":  "Magnemite",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Lightning Ball",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "24 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/w3lxft6g6c5f5zg-magnemite.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-025",
+        "categoria":  "Pokemon",
+        "nome":  "Moltres ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Inferno Dance",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "fogo"
+                                           ],
+                           "efeito":  "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire PokÃ©mon in any way you like."
+                       },
+                       {
+                           "nomeataque":  "Heat Blast",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "fogo",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "ex",
+        "expansao":  "PROMO-A",
+        "numero":  "25 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/oei7trxta8k5t39-moltres-ex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-026",
+        "categoria":  "Pokemon",
+        "nome":  "Pikachu",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Gnaw",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "26 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/gp1z0wysc1n60vx-pikachu.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-027",
+        "categoria":  "Pokemon",
+        "nome":  "Snivy",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Tackle",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "27 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/m1jak8oq690ralw-snivy.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-028",
+        "categoria":  "Pokemon",
+        "nome":  "Volcarona",
+        "estagio":  "1",
+        "evolucao":  "Larvesta",
+        "tipo":  "Fogo",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Volcanic Ash",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard 2 Fire Energy from this PokÃ©mon. This attack does 80 damage to 1 of your opponent\u0027s PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "28 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/lis84zw7hz0c02e-volcarona.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-029",
+        "categoria":  "Pokemon",
+        "nome":  "Blastoise",
+        "estagio":  "2",
+        "evolucao":  "Wartortle",
+        "tipo":  "Agua",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hydro Pump",
+                           "dano":  "80+",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If this PokÃ©mon has at least 2 extra Water Energy attached, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  3,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "29 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/t8pzac4fxb6revl-blastoise.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-030",
+        "categoria":  "Pokemon",
+        "nome":  "Eevee",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Growl",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your opponent\u0027s next turn, attacks used by the Defending PokÃ©mon do âˆ’20 damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "30 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/rkvtu3g62eultd0-eevee.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-031",
+        "categoria":  "Pokemon",
+        "nome":  "Cinccino",
+        "estagio":  "1",
+        "evolucao":  "Minccino",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Do the Wave",
+                           "dano":  "30x",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack does 30 damage for each of your Benched PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "31 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/j5rpuu4uabos0ri-cinccino.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-032",
+        "categoria":  "Pokemon",
+        "nome":  "Charmander",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ember",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "fogo"
+                                           ],
+                           "efeito":  "Discard a Fire Energy from this PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "32 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/5l0ra5j1knl38vl-charmander.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-033",
+        "categoria":  "Pokemon",
+        "nome":  "Squirtle",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Water Gun",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "33 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/knk8enmxt6t1p95-squirtle.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-034",
+        "categoria":  "Pokemon",
+        "nome":  "Piplup",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Nap",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Heal 20 damage from this PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "34 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/14figthxq59v93v-piplup.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-035",
+        "categoria":  "Pokemon",
+        "nome":  "Turtwig",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bite",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "planta",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "35 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/h84f44k6x5i4ejn-turtwig.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-036",
+        "categoria":  "Pokemon",
+        "nome":  "Electivire",
+        "estagio":  "1",
+        "evolucao":  "Electabuzz",
+        "tipo":  "Raio",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Exciting Voltage",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "If this PokÃ©mon has at least 2 extra Lightning Energy attached, this attack does 80 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "36 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/rz9qz12ma78t41w-electivire.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-037",
+        "categoria":  "Pokemon",
+        "nome":  "Cresselia ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Psychic Flash",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  true,
+        "promo":  true,
+        "formato":  "ex",
+        "expansao":  "PROMO-A",
+        "numero":  "37 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/a7zby15abhd3364-cresselia-ex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-038",
+        "categoria":  "Pokemon",
+        "nome":  "Misdreavus",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Confuse Ray",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃ©mon is now Confused."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "38 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/u7s4vf2cdqj03k1-misdreavus.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-039",
+        "categoria":  "Pokemon",
+        "nome":  "Skarmory",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Metal Arms",
+                           "dano":  "20+",
+                           "custoataque":  [
+                                               "metal"
+                                           ],
+                           "efeito":  "If this PokÃ©mon has a PokÃ©mon Tool attached, this attack does 30 more damage."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "39 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/827xy29t552jx51-skarmory.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "p-a-040",
+        "categoria":  "Pokemon",
+        "nome":  "Chimchar",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Scratch",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "fogo"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "40 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/5u7934qxi942c6w-chimchar.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "p-a-041",
+        "categoria":  "Pokemon",
+        "nome":  "Togepi",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Pound",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "41 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/mp3u2gdetgavq12-togepi.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "p-a-042",
+        "categoria":  "Pokemon",
+        "nome":  "Darkrai ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Dark Prism",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "escuridao",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  true,
+        "promo":  true,
+        "formato":  "ex",
+        "expansao":  "PROMO-A",
+        "numero":  "42 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/52ad8m98ixsgz32-darkrai-ex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-043",
+        "categoria":  "Pokemon",
+        "nome":  "Cherrim",
+        "estagio":  "1",
+        "evolucao":  "Cherubi",
+        "tipo":  "Planta",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Leech Seed",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "planta",
+                                               "planta"
+                                           ],
+                           "efeito":  "Heal 20 damage from this PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "43 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/88coz7398m01p77-cherrim.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-044",
+        "categoria":  "Pokemon",
+        "nome":  "Raichu",
+        "estagio":  "1",
+        "evolucao":  "Pikachu",
+        "tipo":  "Raio",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Spark",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "This attack also does 20 damage to 1 of your opponent\u0027s Benched PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  true,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "44 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/4qh9mf4nkx497q8-raichu.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-045",
+        "categoria":  "Pokemon",
+        "nome":  "Nosepass",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Iron Defense",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, during your opponent\u0027s next turn, prevent all damage done to this PokÃ©mon by attacks."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "45 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/40sfb61398dpiy3-nosepass.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-046",
+        "categoria":  "Pokemon",
+        "nome":  "Gible",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Tackle",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "46 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/b12khv4w8ch3757-gible.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-047",
+        "categoria":  "Pokemon",
+        "nome":  "Staraptor",
+        "estagio":  "2",
+        "evolucao":  "Staravia",
+        "tipo":  "Incolor",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Wing Attack",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  true,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "47 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/35275g13nm3005c-staraptor.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-048",
+        "categoria":  "Pokemon",
+        "nome":  "Manaphy",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Oceanic Gift",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "Choose 2 of your Benched PokÃ©mon. For each of those PokÃ©mon, take a Water Energy from your Energy Zone and attach it to that PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "48 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/84bm6aq0vp5ns91-manaphy.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-049",
+        "categoria":  "Pokemon",
+        "nome":  "Snorlax",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Collapse",
+                           "dano":  "100",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This PokÃ©mon is now Asleep."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  4,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "49 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/336fh8mv74zg8pe-snorlax.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-050",
+        "categoria":  "Pokemon",
+        "nome":  "Mewtwo ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Psychic Sphere",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       },
+                       {
+                           "nomeataque":  "Psydrive",
+                           "dano":  "150",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "psiquico",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard 2 Psychic Energy from this PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "ex",
+        "expansao":  "PROMO-A",
+        "numero":  "50 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/8t26g33zw83t588-mewtwo-ex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-051",
+        "categoria":  "Pokemon",
+        "nome":  "Cyclizar",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Overacceleration",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your next turn, this PokÃ©mon\u0027s Overacceleration attack does +20 damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "51 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/53p3hf03t348ow2-cyclizar.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-052",
+        "categoria":  "Pokemon",
+        "nome":  "Sprigatito",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Cry for Help",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  "Put 1 random Grass PokÃ©mon from your deck into your hand."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "52 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/wt750wy112d366d-sprigatito.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "p-a-053",
+        "categoria":  "Pokemon",
+        "nome":  "Floatzel",
+        "estagio":  "1",
+        "evolucao":  "Buizel",
+        "tipo":  "Agua",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Attack the Wound",
+                           "dano":  "10+",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "If your opponent\u0027s Active PokÃ©mon has damage on it, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "53 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/13yb3sr972c6gb5-floatzel.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-054",
+        "categoria":  "Pokemon",
+        "nome":  "Pawmot",
+        "estagio":  "2",
+        "evolucao":  "Pawmo",
+        "tipo":  "Raio",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Electric Punch",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  0,
+        "raridade":  "Promo",
+        "habilidade":  true,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "54 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/dt7hwdnfkwv857f-pawmot.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-055",
+        "categoria":  "Pokemon",
+        "nome":  "Machamp",
+        "estagio":  "2",
+        "evolucao":  "Machoke",
+        "tipo":  "Luta",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Power Press",
+                           "dano":  "70+",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta"
+                                           ],
+                           "efeito":  "If this PokÃ©mon has at least 2 extra Fighting Energy attached, this attack does 50 more damage."
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "55 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ygl581g44ct4r4s-machamp.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-056",
+        "categoria":  "Pokemon",
+        "nome":  "Ekans",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Poison Sting",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃ©mon is now Poisoned."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "56 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/q3pmd293n6vk057-ekans.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-057",
+        "categoria":  "Pokemon",
+        "nome":  "Bidoof",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Headbutt",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "57 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/rtt3w0tgsx8213e-bidoof.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-058",
+        "categoria":  "Pokemon",
+        "nome":  "Pachirisu",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Plasma",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "58 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/mosf8fesgd557rr-pachirisu.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-059",
+        "categoria":  "Pokemon",
+        "nome":  "Riolu",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Punch",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "59 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/65a4sf8m3mbjl0l-riolu.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-060",
+        "categoria":  "Pokemon",
+        "nome":  "Exeggcute",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  50,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Growth Spurt",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Take a Grass Energy from your Energy Zone and attach it to this PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "60 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/cp20f4808zo09q8-exeggcute.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-061",
+        "categoria":  "Pokemon",
+        "nome":  "Froakie",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flop",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "61 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/4q38tt2c85046mw-froakie.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-062",
+        "categoria":  "Pokemon",
+        "nome":  "Farfetch\u0027d",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Leek Slap",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "62 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/85ozwl707j76320-farfetchd.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-063",
+        "categoria":  "Pokemon",
+        "nome":  "Rayquaza",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Spiral Rush",
+                           "dano":  "70+",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin until you get tails. This attack does 30 more damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "63 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/bmx8311l1tl42mm-rayquaza.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-064",
+        "categoria":  "Pokemon",
+        "nome":  "Rayquaza ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Draco Meteor",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "1 of your opponent\u0027s PokÃ©mon is chosen at random 4 times. For each time a PokÃ©mon was chosen, do 40 damage to it."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "ex",
+        "expansao":  "PROMO-A",
+        "numero":  "64 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/c6737i3333mgi3c-rayquaza-ex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-065",
+        "categoria":  "Pokemon",
+        "nome":  "Rayquaza ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Draco Meteor",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "1 of your opponent\u0027s PokÃ©mon is chosen at random 4 times. For each time a PokÃ©mon was chosen, do 40 damage to it."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "ex",
+        "expansao":  "PROMO-A",
+        "numero":  "65 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/r21kh7dh6yx6e3e-rayquaza-ex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-066",
+        "categoria":  "Pokemon",
+        "nome":  "Mimikyu",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Shadow Hit",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack also does 20 damage to 1 of your PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "66 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/oi035vj03x11les-mimikyu.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-067",
+        "categoria":  "Pokemon",
+        "nome":  "Cosmog",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Teleport",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Switch this PokÃ©mon with 1 of your Benched PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "67 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0fld75e2a1646bd-cosmog.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-068",
+        "categoria":  "Pokemon",
+        "nome":  "Lycanroc",
+        "estagio":  "1",
+        "evolucao":  "Rockruff",
+        "tipo":  "Luta",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Crunch",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, discard a random Energy from your opponent\u0027s Active PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "68 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/14s3ds4ruvojh0s-lycanroc.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-069",
+        "categoria":  "Pokemon",
+        "nome":  "Alolan Exeggutor",
+        "estagio":  "1",
+        "evolucao":  "Exeggcute",
+        "tipo":  "Planta",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Tropical Hammer",
+                           "dano":  "150",
+                           "custoataque":  [
+                                               "planta",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If tails, this attack does nothing."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  4,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "69 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/t3iwo32qxlmda1n-exeggutor-de-alola.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-070",
+        "categoria":  "Pokemon",
+        "nome":  "Alolan Ninetales",
+        "estagio":  "1",
+        "evolucao":  "Alolan Vulpix",
+        "tipo":  "Agua",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Blizzard",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "agua",
+                                               "agua",
+                                               "agua"
+                                           ],
+                           "efeito":  "This attack also does 20 damage to each of your opponent\u0027s Benched PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "70 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ljj4g829s616b69-ninetales-de-alola.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-071",
+        "categoria":  "Pokemon",
+        "nome":  "Crabrawler",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Punch",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "71 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/x3j0h50m5cnn2xd-crabrawler.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-072",
+        "categoria":  "Pokemon",
+        "nome":  "Alolan Grimer",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Poison Gas",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃ©mon is now Poisoned."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "72 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/t03yzkiyohoxcyv-grimer-de-alola.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-073",
+        "categoria":  "Pokemon",
+        "nome":  "Toucannon",
+        "estagio":  "2",
+        "evolucao":  "Trumbeak",
+        "tipo":  "Incolor",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Beak Blast",
+                           "dano":  "80",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, your opponent\u0027s Active PokÃ©mon is now Burned."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "73 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ax1dkty22v45j4j-toucannon.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-074",
+        "categoria":  "Pokemon",
+        "nome":  "Zeraora",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Lightning Claw",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  true,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "74 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7au0jw23pdf227x-zeraora.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-075",
+        "categoria":  "Pokemon",
+        "nome":  "Kartana",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Thrash Metal",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "planta"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "75 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/494sr3c6914xmn2-kartana.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-076",
+        "categoria":  "Pokemon",
+        "nome":  "Blacephalon",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Beat Punk",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This PokÃ©mon also does 70 damage to itself."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "76 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/987s9d223845h1d-blacephalon.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-077",
+        "categoria":  "Pokemon",
+        "nome":  "Xurkitree",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Electronica",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "raio",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Your opponent\u0027s Active PokÃ©mon is now Confused."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "77 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/m11y3i9fa8yi27f-xurkitree.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-078",
+        "categoria":  "Pokemon",
+        "nome":  "Dawn Wings Necrozma",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Psychobilly",
+                           "dano":  "100",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This PokÃ©mon also does 30 damage to itself."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "78 / 92",
+        "pacote":  "Promo pack",
+        "imageLocal":  "./assets/cards/glh4j833d3jd8qy-necrozma-asas-alvorada.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-079",
+        "categoria":  "Pokemon",
+        "nome":  "Dusk Mane Necrozma",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Black Metal",
+                           "dano":  "100",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Discard a Metal Energy from this PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "79 / 92",
+        "pacote":  "Promo pack",
+        "imageLocal":  "./assets/cards/45r94ruack0lfwy-necrozma-juba-crepsculo.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-080",
+        "categoria":  "Pokemon",
+        "nome":  "Stakataka",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Brass Rock",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "metal",
+                                               "incolor"
+                                           ],
+                           "efeito":  "During your opponent\u0027s next turn, this PokÃ©mon takes âˆ’20 damage from attacks."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  3,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "80 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/z8v979nbo766v99-stakataka.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-081",
+        "categoria":  "Pokemon",
+        "nome":  "Ultra Necrozma ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Dragao",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Photon Claw",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       },
+                       {
+                           "nomeataque":  "Shoegaze",
+                           "dano":  "120",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "psiquico",
+                                               "metal",
+                                               "metal"
+                                           ],
+                           "efeito":  "Discard the top 5 cards of each player\u0027s deck."
+                       }
+                   ],
+        "fraqueza":  "",
+        "recuo":  2,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "ex",
+        "expansao":  "PROMO-A",
+        "numero":  "81 / 92",
+        "pacote":  "Promo pack",
+        "imageLocal":  "./assets/cards/7803gdlc1gjj735-ultra-necrozma-ex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-082",
+        "categoria":  "Pokemon",
+        "nome":  "Poipole",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "2-Step",
+                           "dano":  "20x",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  "Flip 2 coins. This attack does 20 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "82 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/719i5nvv99d39i1-poipole.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-083",
+        "categoria":  "Pokemon",
+        "nome":  "Stufful",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ram",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "83 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/4z3oplil5i992v3-stufful.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-084",
+        "categoria":  "Pokemon",
+        "nome":  "Tapu Koko ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  130,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Plasma Hurricane",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  "Take a Lightning Energy from your Energy Zone and attach it to this PokÃ©mon."
+                       },
+                       {
+                           "nomeataque":  "Mach Bolt",
+                           "dano":  "90",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "ex",
+        "expansao":  "PROMO-A",
+        "numero":  "84 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/l1h7v05788flfzw-tapu-koko-ex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-085",
+        "categoria":  "Pokemon",
+        "nome":  "Vanillite",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sweets Relay",
+                           "dano":  "10+",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "If 1 of your PokÃ©mon used Sweets Relay during your last turn, this attack does 20 more damage."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "85 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/54rq3019vi37v13-vanillite.jpg",
+        "custoDeck":  1
+    },
+    {
+        "id":  "p-a-086",
+        "categoria":  "Pokemon",
+        "nome":  "Jolteon",
+        "estagio":  "1",
+        "evolucao":  "Eevee",
+        "tipo":  "Raio",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Beginning Bolt",
+                           "dano":  "40+",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  "If this PokÃ©mon evolved during this turn, this attack does 20 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "86 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/j9u13s9d7l6i881-jolteon.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-087",
+        "categoria":  "Pokemon",
+        "nome":  "Alcremie",
+        "estagio":  "1",
+        "evolucao":  "Milcery",
+        "tipo":  "Psiquico",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Sweets Overload",
+                           "dano":  "40x",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack does 40 damage for each time your PokÃ©mon used Sweets Relay during this game."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "87 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/p263vg51v9c1412-alcremie.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-088",
+        "categoria":  "Pokemon",
+        "nome":  "Dragonair",
+        "estagio":  "1",
+        "evolucao":  "Dratini",
+        "tipo":  "Dragao",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Shed Skin",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Heal 30 damage from this PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "88 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/53ssg39i4jya55s-dragonair.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-089",
+        "categoria":  "Pokemon",
+        "nome":  "Audino",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Drain Slap",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Heal 10 damage from this PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "89 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ocfujbz5xuar3v6-audino.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-090",
+        "categoria":  "Pokemon",
+        "nome":  "Togedemaru",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Metal",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bristling Spikes",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "metal",
+                                               "metal"
+                                           ],
+                           "efeito":  "During your opponent\u0027s next turn, if this PokÃ©mon is damaged by an attack, do 30 damage to the Attacking PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "90 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/a6odgi6mcqu69c1-togedemaru.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-091",
+        "categoria":  "Pokemon",
+        "nome":  "Greedent",
+        "estagio":  "1",
+        "evolucao":  "Skwovet",
+        "tipo":  "Incolor",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Enhanced Fang",
+                           "dano":  "50+",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "If this PokÃ©mon has a PokÃ©mon Tool attached, this attack does 50 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "91 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/7y289457807vb7q-greedent.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-092",
+        "categoria":  "Pokemon",
+        "nome":  "Eevee",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Tackle",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "92 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/gb4cai3d6m172am-eevee.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-093",
+        "categoria":  "Pokemon",
+        "nome":  "Cleffa",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  30,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Twinkly Call",
+                           "dano":  "",
+                           "custoataque":  [
+                                               ""
+                                           ],
+                           "efeito":  "Put a random PokÃ©mon from your deck into your hand."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  0,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "93 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/gxmq6akmxrl913g-cleffa.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-094",
+        "categoria":  "Pokemon",
+        "nome":  "Horsea",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Water Arrow",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "agua"
+                                           ],
+                           "efeito":  "This attack does 10 damage to 1 of your opponent\u0027s PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "94 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/6ytd8k4i0llnvof-horsea.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-095",
+        "categoria":  "Pokemon",
+        "nome":  "Chinchou",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Luring Glow",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "raio"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, switch in 1 of your opponent\u0027s Benched PokÃ©mon to the Active Spot."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "95 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/idh3fw37mby65ri-chinchou.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-096",
+        "categoria":  "Pokemon",
+        "nome":  "Houndoom",
+        "estagio":  "1",
+        "evolucao":  "Houndour",
+        "tipo":  "Escuridao",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Diving Swipe",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "escuridao",
+                                               "escuridao"
+                                           ],
+                           "efeito":  "Discard a random card from your opponent\u0027s hand."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "96 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0v5b3r7sfdqagv4-houndoom.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-097",
+        "categoria":  "Pokemon",
+        "nome":  "Kangaskhan",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Cross-Cut",
+                           "dano":  "20+",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "If your opponent\u0027s Active PokÃ©mon is an Evolution PokÃ©mon, this attack does 40 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "97 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/zk27bc1li7nkfqh-kangaskhan.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-098",
+        "categoria":  "Pokemon",
+        "nome":  "Blissey ex",
+        "estagio":  "1",
+        "evolucao":  "Chansey",
+        "tipo":  "Incolor",
+        "hp":  180,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Happy Punch",
+                           "dano":  "100",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, heal 60 damage from this PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "ex",
+        "expansao":  "PROMO-A",
+        "numero":  "98 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/h2c3rfxcbtkr1k0-blissey-ex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-099",
+        "categoria":  "Pokemon",
+        "nome":  "Marill",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Tackle",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "99 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/ltv6jpwzi44uqv3-marill.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-100",
+        "categoria":  "Pokemon",
+        "nome":  "Weavile",
+        "estagio":  "1",
+        "evolucao":  "Sneasel",
+        "tipo":  "Escuridao",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Slash",
+                           "dano":  "50",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  0,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "100 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/0tt2595c8fp6zi3-weavile.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-101",
+        "categoria":  "Pokemon",
+        "nome":  "Latias",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Crossing Flights",
+                           "dano":  "20+",
+                           "custoataque":  [
+                                               "psiquico"
+                                           ],
+                           "efeito":  "If Latios is on your Bench, this attack does 20 more damage."
+                       }
+                   ],
+        "fraqueza":  "Escuridao",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "101 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/o4qg8n1tabh6lvh-latias.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-102",
+        "categoria":  "Pokemon",
+        "nome":  "Tropius",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Double Smash",
+                           "dano":  "40x",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip 2 coins. This attack does 40 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "102 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/fmtyi8tggcwkwyv-tropius.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-103",
+        "categoria":  "Pokemon",
+        "nome":  "Poliwag",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Agua",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Surprise Attack",
+                           "dano":  "40",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If tails, this attack does nothing."
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "103 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/qkp4dmiw2j8d322-poliwag.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-104",
+        "categoria":  "Pokemon",
+        "nome":  "Milotic",
+        "estagio":  "1",
+        "evolucao":  "Feebas",
+        "tipo":  "Agua",
+        "hp":  120,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Aqua Edge",
+                           "dano":  "60",
+                           "custoataque":  [
+                                               "agua",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Raio",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  true,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "104 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/6thd3kxn3rg83dn-milotic.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-105",
+        "categoria":  "Pokemon",
+        "nome":  "Zorua",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Ram",
+                           "dano":  "20",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "105 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/anzvcg89wcjlkqg-zorua.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-106",
+        "categoria":  "Pokemon",
+        "nome":  "Zoroark",
+        "estagio":  "1",
+        "evolucao":  "Zorua",
+        "tipo":  "Escuridao",
+        "hp":  100,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Night Daze",
+                           "dano":  "70",
+                           "custoataque":  [
+                                               "escuridao",
+                                               "escuridao"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  true,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "106 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/khjns7joypjxitq-zoroark.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-107",
+        "categoria":  "Pokemon",
+        "nome":  "Miltank",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  110,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Rolling Frenzy",
+                           "dano":  "10",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  "Until this PokÃ©mon leaves the Active Spot, this PokÃ©mon\u0027s Rolling Frenzy attack does +30 damage. This effect stacks."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  3,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "107 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/9zhkshb9bpy9tfz-miltank.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-108",
+        "categoria":  "Pokemon",
+        "nome":  "Phanpy",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Luta",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flail",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "luta"
+                                           ],
+                           "efeito":  "This attack does damage to your opponent\u0027s Active PokÃ©mon equal to the damage this PokÃ©mon has on it."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  2,
+        "raridade":  "Promo",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "108 / 92",
+        "pacote":  "",
+        "imageLocal":  "./assets/cards/2zxqwn42xezma9a-phanpy.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-109",
+        "categoria":  "Pokemon",
+        "nome":  "Eevee ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  90,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Bite",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Arte Especial Raro",
+        "habilidade":  true,
+        "promo":  true,
+        "formato":  "ex",
+        "expansao":  "PROMO-A",
+        "numero":  "109 / 92",
+        "pacote":  "Missions",
+        "imageLocal":  "./assets/cards/t46jgi6wsp5xbvl-eevee-ex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-110",
+        "categoria":  "Pokemon",
+        "nome":  "Entei ex",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Fogo",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Blazing Beatdown",
+                           "dano":  "60+",
+                           "custoataque":  [
+                                               "fogo",
+                                               "fogo"
+                                           ],
+                           "efeito":  "If this PokÃ©mon has at least 2 extra Fire Energy attached, this attack does 60 more damage."
+                       }
+                   ],
+        "fraqueza":  "Agua",
+        "recuo":  2,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  true,
+        "promo":  true,
+        "formato":  "ex",
+        "expansao":  "PROMO-A",
+        "numero":  "110 / 92",
+        "pacote":  "Premium Missions",
+        "imageLocal":  "./assets/cards/x7hy7ppp0a0ueg4-entei-ex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-111",
+        "categoria":  "Pokemon",
+        "nome":  "Pikachu",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Raio",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Quick Attack",
+                           "dano":  "20+",
+                           "custoataque":  [
+                                               "raio",
+                                               "incolor"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, this attack does 30 more damage."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "111 / 92",
+        "pacote":  "Promo pack",
+        "imageLocal":  "./assets/cards/2ba71y9yke0aqz1-pikachu.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-112",
+        "categoria":  "Pokemon",
+        "nome":  "Raichu ex",
+        "estagio":  "1",
+        "evolucao":  "Pikachu",
+        "tipo":  "Raio",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Volt Tackle",
+                           "dano":  "130",
+                           "custoataque":  [
+                                               "raio",
+                                               "raio",
+                                               "raio"
+                                           ],
+                           "efeito":  "This PokÃ©mon also does 30 damage to itself."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  1,
+        "raridade":  "Duplamente Raro",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "ex",
+        "expansao":  "PROMO-A",
+        "numero":  "112 / 92",
+        "pacote":  "Promo pack",
+        "imageLocal":  "./assets/cards/6c1yhd2qhqclptg-raichu-ex.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-113",
+        "categoria":  "Pokemon",
+        "nome":  "Mimikyu",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Psiquico",
+        "hp":  70,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Try to Imitate",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "psiquico",
+                                               "psiquico"
+                                           ],
+                           "efeito":  "Flip a coin. If heads, choose 1 of your opponent\u0027s Active PokÃ©mon\u0027s attacks and use it as this attack."
+                       }
+                   ],
+        "fraqueza":  "Metal",
+        "recuo":  1,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "113 / 92",
+        "pacote":  "Promo pack",
+        "imageLocal":  "./assets/cards/m96fgri89w004p1-mimikyu.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-114",
+        "categoria":  "Pokemon",
+        "nome":  "Machamp",
+        "estagio":  "2",
+        "evolucao":  "Machoke",
+        "tipo":  "Luta",
+        "hp":  150,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Hurricane Punch",
+                           "dano":  "50x",
+                           "custoataque":  [
+                                               "luta",
+                                               "luta",
+                                               "luta"
+                                           ],
+                           "efeito":  "Flip 4 coins. This attack does 50 damage for each heads."
+                       }
+                   ],
+        "fraqueza":  "Psiquico",
+        "recuo":  2,
+        "raridade":  "Comum",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "114 / 92",
+        "pacote":  "Promo pack",
+        "imageLocal":  "./assets/cards/6umkju0zegspsxz-machamp.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-115",
+        "categoria":  "Pokemon",
+        "nome":  "Regigigas",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Incolor",
+        "hp":  140,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Raging Hammer",
+                           "dano":  "50+",
+                           "custoataque":  [
+                                               "incolor",
+                                               "incolor",
+                                               "incolor",
+                                               "incolor"
+                                           ],
+                           "efeito":  "This attack does more damage equal to the damage this PokÃ©mon has on it."
+                       }
+                   ],
+        "fraqueza":  "Luta",
+        "recuo":  4,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "115 / 92",
+        "pacote":  "Promo pack",
+        "imageLocal":  "./assets/cards/2v9clikjkc8mb79-regigigas.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-116",
+        "categoria":  "Pokemon",
+        "nome":  "Shaymin",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Planta",
+        "hp":  60,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Flop",
+                           "dano":  "30",
+                           "custoataque":  [
+                                               "planta",
+                                               "incolor"
+                                           ],
+                           "efeito":  ""
+                       }
+                   ],
+        "fraqueza":  "Fogo",
+        "recuo":  1,
+        "raridade":  "Rara",
+        "habilidade":  true,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "116 / 92",
+        "pacote":  "Wonder Pick",
+        "imageLocal":  "./assets/cards/tiiezdzn6bvhkbf-shaymin.jpg",
+        "custoDeck":  2
+    },
+    {
+        "id":  "p-a-117",
+        "categoria":  "Pokemon",
+        "nome":  "Absol",
+        "estagio":  "basic",
+        "evolucao":  "",
+        "tipo":  "Escuridao",
+        "hp":  80,
+        "ataque":  [
+                       {
+                           "nomeataque":  "Leap Over",
+                           "dano":  "",
+                           "custoataque":  [
+                                               "escuridao"
+                                           ],
+                           "efeito":  "This attack does 30 damage to 1 of your opponent\u0027s Benched PokÃ©mon."
+                       }
+                   ],
+        "fraqueza":  "Planta",
+        "recuo":  1,
+        "raridade":  "Rara",
+        "habilidade":  false,
+        "promo":  true,
+        "formato":  "noex",
+        "expansao":  "PROMO-A",
+        "numero":  "117 / 92",
+        "pacote":  "Wonder Pick",
+        "imageLocal":  "./assets/cards/xt1774581lpekwf-absol.jpg",
+        "custoDeck":  2
+    }
+]
