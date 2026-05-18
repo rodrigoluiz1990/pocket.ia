@@ -5,10 +5,9 @@
   "type": "module",
   "scripts": {
     "sync:cards": "node scripts/sync-pocket-cards.mjs",
-    "draft:expansion": "node scripts/generate-expansion-draft.mjs",
-    "publish:expansion": "node scripts/publish-expansion-json.mjs",
+    "merge:image-urls": "node scripts/merge-raw-image-urls.mjs",
     "sync:images": "node scripts/download-card-images.mjs",
-    "build:cards-bundle": "node scripts/build-cards-bundle.mjs",
+    "build:site-cards": "node scripts/build-site-cards.mjs",
     "fix:rarities": "node scripts/fix-rarities-from-db.mjs",
     "fix:types-promo": "node scripts/fix-types-and-promo.mjs",
     "enrich:combat": "node scripts/enrich-combat-fields.mjs"

@@ -22,6 +22,14 @@
     </header>
 
     <main class="layout">
+      <section class="panel meta-decks-panel">
+        <div class="panel-header">
+          <h2>Decks do Meta</h2>
+          <p>Decks mais usados para referencia e testes. Clique no deck para ver as cartas.</p>
+        </div>
+        <div id="metaDecksList" class="meta-decks-list" role="list"></div>
+      </section>
+
       <section class="top-panel">
         <section class="panel side deck-section">
           <div class="panel-header">
@@ -33,12 +41,20 @@
 
         <section class="panel suggestions-section">
           <div class="panel-header">
-            <h2>Sugestões de Cartas</h2>
+            <h2>Sugestoes de Cartas</h2>
             <p>Cartas recomendadas baseadas no seu deck atual.</p>
           </div>
           <div id="suggestionsList" class="suggestions-list"></div>
         </section>
-        
+
+        <section class="panel most-used-section">
+          <div class="panel-header">
+            <h2>Cartas Mais Usadas</h2>
+            <p>Baseado nos decks do meta (atuais e historicos).</p>
+          </div>
+          <div id="mostUsedList" class="deck-list"></div>
+        </section>
+
         <section class="panel test-section">
           <div class="panel-header test-header">
             <h2>Testar Deck com IA</h2>
@@ -58,7 +74,7 @@
                 <option value="controle">Controle</option>
               </select>
             </label>
-            <button id="runSimBtn">Rodar Simulacao</button>
+            <button id="runSimBtn">Testar</button>
           </div>
 
           <div id="simResults" class="sim-results"></div>
@@ -78,7 +94,7 @@
           <select id="raridadeFilter" class="multi-filter" multiple title="Raridade"></select>
           <select id="estagioFilter" class="multi-filter" multiple title="Estagio"></select>
           <select id="expansaoFilter" class="multi-filter" multiple title="Expansao"></select>
-          
+
           <select id="fraquezaFilter" class="multi-filter" multiple title="Fraqueza"></select>
           <select id="habilidadeFilter" class="strong-select">
             <option value="">Habilidade</option>
@@ -118,6 +134,7 @@
               <span id="custoAtaqueMaxLabel" class="range-value">5</span>
             </div>
           </div>
+          <select id="attackEnergyFilter" class="multi-filter" multiple title="Energia do ataque"></select>
           <select id="formatoFilter" class="multi-filter" multiple title="Formato">
             <option value="ex">ex</option><option value="noex">noex</option><option value="mega">mega</option>
           </select>
@@ -147,8 +164,26 @@
       </section>
     </main>
 
+    <div id="metaDeckModal" class="meta-deck-modal" aria-hidden="true">
+      <div class="meta-deck-modal-backdrop" data-meta-modal-close tabindex="-1"></div>
+      <div
+        class="meta-deck-modal-dialog panel"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="metaDeckModalTitle"
+      >
+        <button type="button" class="meta-deck-modal-close" data-meta-modal-close aria-label="Fechar">
+          &times;
+        </button>
+        <h2 id="metaDeckModalTitle" class="meta-deck-modal-title"></h2>
+        <div id="metaDeckModalGrid" class="meta-deck-modal-grid"></div>
+        <div class="meta-deck-modal-actions">
+          <button type="button" id="metaDeckModalLoadBtn" class="meta-deck-modal-load">Carregar no Seu Deck</button>
+        </div>
+      </div>
+    </div>
+
     <script src="https://cdn.jsdelivr.net/npm/nouislider@15.8.1/dist/nouislider.min.js"></script>
     <script src="./app.js"></script>
   </body>
 </html>
-

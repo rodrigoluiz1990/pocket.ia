@@ -1,0 +1,3112 @@
+[
+  {
+    "id": "a2a-001",
+    "categoria": "Pokemon",
+    "nome": "Heracross",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Single-Horn Throw",
+        "dano": "50+",
+        "custoataque": [
+          "planta",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Flip 2 coins. If both of them are heads, this attack does 70 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "1 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-001.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004250_00_HERACROS_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0hy0kfkq75ilhr5-heracross"
+  },
+  {
+    "id": "a2a-002",
+    "categoria": "Pokemon",
+    "nome": "Burmy",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Ram",
+        "dano": "20",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "2 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-002.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004260_00_MINOMUCCHI_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cnjd5e3t68co2ld-burmy"
+  },
+  {
+    "id": "a2a-003",
+    "categoria": "Pokemon",
+    "nome": "Mothim",
+    "estagio": "1",
+    "evolucao": "Burmy",
+    "tipo": "Planta",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Gust",
+        "dano": "50",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "3 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-003.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004270_00_GAMALE_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g57y6i0nu147o8s-mothim"
+  },
+  {
+    "id": "a2a-004",
+    "categoria": "Pokemon",
+    "nome": "Combee",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Bug Bite",
+        "dano": "20",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "4 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-004.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004280_00_MITSUHONEY_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/297l127l8uo0rrm-combee"
+  },
+  {
+    "id": "a2a-005",
+    "categoria": "Pokemon",
+    "nome": "Vespiquen",
+    "estagio": "1",
+    "evolucao": "Combee",
+    "tipo": "Planta",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Reckless Charge",
+        "dano": "120",
+        "custoataque": [
+          "planta",
+          "planta",
+          "planta"
+        ],
+        "efeito": "This PokÃƒÂ©mon also does 30 damage to itself."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "5 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-005.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004290_00_BEEQUEN_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wla4gc3ra1wx377-vespiquen"
+  },
+  {
+    "id": "a2a-006",
+    "categoria": "Pokemon",
+    "nome": "Cherubi",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Leafage",
+        "dano": "20",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "6 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-006.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004300_00_CHERINBO_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hq50a02612404ve-cherubi"
+  },
+  {
+    "id": "a2a-007",
+    "categoria": "Pokemon",
+    "nome": "Cherrim",
+    "estagio": "1",
+    "evolucao": "Cherubi",
+    "tipo": "Planta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Worry Seed",
+        "dano": "40",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": "Your opponent's Active PokÃƒÂ©mon is now Confused."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "7 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-007.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004310_00_CHERRIM_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/79w717h28au1tn2-cherrim"
+  },
+  {
+    "id": "a2a-008",
+    "categoria": "Pokemon",
+    "nome": "Cherrim",
+    "estagio": "1",
+    "evolucao": "Cherubi",
+    "tipo": "Planta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Leech Seed",
+        "dano": "60",
+        "custoataque": [
+          "planta",
+          "planta"
+        ],
+        "efeito": "Heal 20 damage from this PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "8 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-008.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004320_00_CHERRIM_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w74495r2qypzu95-cherrim"
+  },
+  {
+    "id": "a2a-009",
+    "categoria": "Pokemon",
+    "nome": "Carnivine",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Vine Whip",
+        "dano": "20",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "9 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-009.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004330_00_MUSKIPPA_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hy4w971xs1chr2k-carnivine"
+  },
+  {
+    "id": "a2a-010",
+    "categoria": "Pokemon",
+    "nome": "Leafeon ex",
+    "estagio": "1",
+    "evolucao": "Eevee",
+    "tipo": "Planta",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Solar Beam",
+        "dano": "70",
+        "custoataque": [
+          "planta",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Duplamente Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "10 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-010.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004340_00_LEAFIAex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/64i19c805e329eb-leafeon-ex"
+  },
+  {
+    "id": "a2a-011",
+    "categoria": "Pokemon",
+    "nome": "Houndour",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Flare",
+        "dano": "20",
+        "custoataque": [
+          "fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "11 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-011.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004350_00_DELVIL_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qp5x3j8x2r4058g-houndour"
+  },
+  {
+    "id": "a2a-012",
+    "categoria": "Pokemon",
+    "nome": "Houndoom",
+    "estagio": "1",
+    "evolucao": "Houndour",
+    "tipo": "Fogo",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Corner",
+        "dano": "60",
+        "custoataque": [
+          "fogo",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, the Defending PokÃƒÂ©mon can't retreat."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "12 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-012.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004360_00_HELLGAR_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/51tm7x95a012f43-houndoom"
+  },
+  {
+    "id": "a2a-013",
+    "categoria": "Pokemon",
+    "nome": "Heatran",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "RaginÃ¢â‚¬â„¢ Mad Strike",
+        "dano": "40+",
+        "custoataque": [
+          "fogo",
+          "fogo"
+        ],
+        "efeito": "If this PokÃƒÂ©mon has damage on it, this attack does 40 more damage."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "13 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-013.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004370_00_HEATRAN_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/068s567azt2i641-heatran"
+  },
+  {
+    "id": "a2a-014",
+    "categoria": "Pokemon",
+    "nome": "Marill",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Water Gun",
+        "dano": "20",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "14 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-014.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004380_00_MARIL_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/76hy5888nj75meq-marill"
+  },
+  {
+    "id": "a2a-015",
+    "categoria": "Pokemon",
+    "nome": "Azumarill",
+    "estagio": "1",
+    "evolucao": "Marill",
+    "tipo": "Agua",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Waterfall",
+        "dano": "60",
+        "custoataque": [
+          "agua",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "15 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-015.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004390_00_MARILLI_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jo6nm3ed03n2r3n-azumarill"
+  },
+  {
+    "id": "a2a-016",
+    "categoria": "Pokemon",
+    "nome": "Barboach",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Mud-Slap",
+        "dano": "30",
+        "custoataque": [
+          "agua",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "16 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-016.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004400_00_DOJOACH_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yis14br97t8h92p-barboach"
+  },
+  {
+    "id": "a2a-017",
+    "categoria": "Pokemon",
+    "nome": "Whiscash",
+    "estagio": "1",
+    "evolucao": "Barboach",
+    "tipo": "Agua",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Thrash",
+        "dano": "80+",
+        "custoataque": [
+          "agua",
+          "agua",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 60 more damage. If tails, this PokÃƒÂ©mon also does 20 damage to itself."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "17 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-017.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004410_00_NAMAZUN_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/982cbn72uy8u526-whiscash"
+  },
+  {
+    "id": "a2a-018",
+    "categoria": "Pokemon",
+    "nome": "Snorunt",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Icicle",
+        "dano": "20",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "18 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-018.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004420_00_YUKIWARASHI_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nlkcdi2m3190hx6-snorunt"
+  },
+  {
+    "id": "a2a-019",
+    "categoria": "Pokemon",
+    "nome": "Froslass",
+    "estagio": "1",
+    "evolucao": "Snorunt",
+    "tipo": "Agua",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Blizzard",
+        "dano": "40",
+        "custoataque": [
+          "agua",
+          "incolor"
+        ],
+        "efeito": "This attack also does 10 damage to each of your opponent's Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "19 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-019.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004430_00_YUKIMENOKO_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lb3z046w8nhrtf9-froslass"
+  },
+  {
+    "id": "a2a-020",
+    "categoria": "Pokemon",
+    "nome": "Snover",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Corkscrew Punch",
+        "dano": "30",
+        "custoataque": [
+          "agua",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "20 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-020.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004440_00_YUKIKABURI_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hzd0cl72m470g9h-snover"
+  },
+  {
+    "id": "a2a-021",
+    "categoria": "Pokemon",
+    "nome": "Abomasnow",
+    "estagio": "1",
+    "evolucao": "Snover",
+    "tipo": "Agua",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Mega Punch",
+        "dano": "80",
+        "custoataque": [
+          "agua",
+          "agua",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "21 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-021.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004450_00_YUKINOOH_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/of2t9u545xvxoo8-abomasnow"
+  },
+  {
+    "id": "a2a-022",
+    "categoria": "Pokemon",
+    "nome": "Glaceon ex",
+    "estagio": "1",
+    "evolucao": "Eevee",
+    "tipo": "Agua",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Freezing Wind",
+        "dano": "90",
+        "custoataque": [
+          "agua",
+          "agua",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Duplamente Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "22 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-022.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004460_00_GLACIAex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qd97ef9hjwm6z0e-glaceon-ex"
+  },
+  {
+    "id": "a2a-023",
+    "categoria": "Pokemon",
+    "nome": "Origin Forme Palkia",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Zone Smash",
+        "dano": "60+",
+        "custoataque": [
+          "agua",
+          "agua",
+          "agua"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 60 more damage."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "23 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-023.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004470_00_ORIGINPALKIA_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m192n79i88hou49-palkia-forma-origem"
+  },
+  {
+    "id": "a2a-024",
+    "categoria": "Pokemon",
+    "nome": "Phione",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Water Pulse",
+        "dano": "40",
+        "custoataque": [
+          "agua",
+          "agua"
+        ],
+        "efeito": "Your opponent's Active PokÃƒÂ©mon is now Asleep."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "24 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-024.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004480_00_PHIONE_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bs95su191yax49h-phione"
+  },
+  {
+    "id": "a2a-025",
+    "categoria": "Pokemon",
+    "nome": "Pikachu",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Spark",
+        "dano": "10",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": "This attack also does 10 damage to 1 of your opponent's Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "25 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-025.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004490_00_PIKACHU_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y9z7d4da1x5v63v-pikachu"
+  },
+  {
+    "id": "a2a-026",
+    "categoria": "Pokemon",
+    "nome": "Raichu",
+    "estagio": "1",
+    "evolucao": "Pikachu",
+    "tipo": "Raio",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Spark",
+        "dano": "40",
+        "custoataque": [
+          "raio",
+          "raio"
+        ],
+        "efeito": "This attack also does 20 damage to 1 of your opponent's Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "26 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-026.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004500_00_RAICHU_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/136nc618fpz257b-raichu"
+  },
+  {
+    "id": "a2a-027",
+    "categoria": "Pokemon",
+    "nome": "Electrike",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Zap Kick",
+        "dano": "20",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "27 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-027.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004510_00_RAKURAI_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/59r0m1ljyq5tdsf-electrike"
+  },
+  {
+    "id": "a2a-028",
+    "categoria": "Pokemon",
+    "nome": "Manectric",
+    "estagio": "1",
+    "evolucao": "Electrike",
+    "tipo": "Raio",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Flash",
+        "dano": "40",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": "During your opponent's next turn, if the Defending PokÃƒÂ©mon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "28 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-028.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004520_00_LIVOLT_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71v24kv0067994n-manectric"
+  },
+  {
+    "id": "a2a-029",
+    "categoria": "Pokemon",
+    "nome": "Clefairy",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Smack",
+        "dano": "30",
+        "custoataque": [
+          "psiquico",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "29 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-029.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004530_00_PIPPI_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9f1lvyun0fob39g-clefairy"
+  },
+  {
+    "id": "a2a-030",
+    "categoria": "Pokemon",
+    "nome": "Clefable",
+    "estagio": "1",
+    "evolucao": "Clefairy",
+    "tipo": "Psiquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Moonblast",
+        "dano": "60",
+        "custoataque": [
+          "psiquico",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending PokÃƒÂ©mon do Ã¢Ë†â€™30 damage."
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "30 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-030.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004540_00_PIXY_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/076uj980uz8fyn0-clefable"
+  },
+  {
+    "id": "a2a-031",
+    "categoria": "Pokemon",
+    "nome": "Gastly",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Astonish",
+        "dano": "0",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "31 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-031.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004550_00_GHOS_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hzz77a8sqk56wn5-gastly"
+  },
+  {
+    "id": "a2a-032",
+    "categoria": "Pokemon",
+    "nome": "Haunter",
+    "estagio": "1",
+    "evolucao": "Gastly",
+    "tipo": "Psiquico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Mumble",
+        "dano": "40",
+        "custoataque": [
+          "psiquico",
+          "psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "32 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-032.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004560_00_GHOST_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3087xix4o18tbnf-haunter"
+  },
+  {
+    "id": "a2a-033",
+    "categoria": "Pokemon",
+    "nome": "Gengar",
+    "estagio": "2",
+    "evolucao": "Haunter",
+    "tipo": "Psiquico",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Hypnoblast",
+        "dano": "70",
+        "custoataque": [
+          "psiquico",
+          "psiquico"
+        ],
+        "efeito": "Your opponent's Active PokÃƒÂ©mon is now Asleep."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "33 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-033.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004570_00_GANGAR_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3t01h64r8d7c0m4-gengar"
+  },
+  {
+    "id": "a2a-034",
+    "categoria": "Pokemon",
+    "nome": "Unown",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Hidden Power",
+        "dano": "20",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "34 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-034.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004580_00_UNKNOWN_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zf9390uw2fe9a59-unown"
+  },
+  {
+    "id": "a2a-035",
+    "categoria": "Pokemon",
+    "nome": "Rotom",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Dash Attack",
+        "dano": "0",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "This attack does 20 damage to 1 of your opponent's Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "35 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-035.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004590_00_ROTOM_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7j9yt02lq60260f-rotom"
+  },
+  {
+    "id": "a2a-036",
+    "categoria": "Pokemon",
+    "nome": "Sudowoodo",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Fighting Headbutt",
+        "dano": "20+",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": "If your opponent's Active PokÃƒÂ©mon is a PokÃƒÂ©mon ex, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "36 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-036.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004600_00_USOKKIE_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yq06zl5359pk192-sudowoodo"
+  },
+  {
+    "id": "a2a-037",
+    "categoria": "Pokemon",
+    "nome": "Phanpy",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Rollout",
+        "dano": "20",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "37 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-037.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004610_00_GOMAZOU_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b538o157799d6kz-phanpy"
+  },
+  {
+    "id": "a2a-038",
+    "categoria": "Pokemon",
+    "nome": "Donphan",
+    "estagio": "1",
+    "evolucao": "Phanpy",
+    "tipo": "Luta",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Rolling Spin",
+        "dano": "60",
+        "custoataque": [
+          "luta",
+          "luta",
+          "luta"
+        ],
+        "efeito": "During your next turn, this PokÃƒÂ©mon's Rolling Spin attack does +60 damage."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "38 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-038.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004620_00_DONFAN_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3w1r05a4uhxh6jn-donphan"
+  },
+  {
+    "id": "a2a-039",
+    "categoria": "Pokemon",
+    "nome": "Larvitar",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Corkscrew Punch",
+        "dano": "30",
+        "custoataque": [
+          "luta",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "39 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-039.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004630_00_YOGIRAS_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5m7r2p36szm4b2s-larvitar"
+  },
+  {
+    "id": "a2a-040",
+    "categoria": "Pokemon",
+    "nome": "Pupitar",
+    "estagio": "1",
+    "evolucao": "Larvitar",
+    "tipo": "Luta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Speed Attack",
+        "dano": "50",
+        "custoataque": [
+          "luta",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "40 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-040.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004640_00_SANAGIRAS_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k1ek47reo0oto7l-pupitar"
+  },
+  {
+    "id": "a2a-041",
+    "categoria": "Pokemon",
+    "nome": "Tyranitar",
+    "estagio": "2",
+    "evolucao": "Pupitar",
+    "tipo": "Luta",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Land Crush",
+        "dano": "130",
+        "custoataque": [
+          "luta",
+          "luta",
+          "luta",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 4,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "41 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-041.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004650_00_BANGIRAS_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y2369l8j3wma402-tyranitar"
+  },
+  {
+    "id": "a2a-042",
+    "categoria": "Pokemon",
+    "nome": "Nosepass",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Tackle",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "42 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-042.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004660_00_NOSEPASS_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bnvwfm932t242s7-nosepass"
+  },
+  {
+    "id": "a2a-043",
+    "categoria": "Pokemon",
+    "nome": "Meditite",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Kick",
+        "dano": "20",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "43 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-043.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004670_00_ASANAN_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7pnc0a143zhyl17-meditite"
+  },
+  {
+    "id": "a2a-044",
+    "categoria": "Pokemon",
+    "nome": "Medicham",
+    "estagio": "1",
+    "evolucao": "Meditite",
+    "tipo": "Luta",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Kick Shot",
+        "dano": "80",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "44 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-044.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004680_00_CHAREM_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/by5u10j84678jtg-medicham"
+  },
+  {
+    "id": "a2a-045",
+    "categoria": "Pokemon",
+    "nome": "Gible",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Tackle",
+        "dano": "20",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "45 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-045.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004690_00_FUKAMARU_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/63kc1ry41f8ln1k-gible"
+  },
+  {
+    "id": "a2a-046",
+    "categoria": "Pokemon",
+    "nome": "Gabite",
+    "estagio": "1",
+    "evolucao": "Gible",
+    "tipo": "Luta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Sharp Scythe",
+        "dano": "30",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "46 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-046.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004700_00_GABITE_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1ezun43hwxj317f-gabite"
+  },
+  {
+    "id": "a2a-047",
+    "categoria": "Pokemon",
+    "nome": "Garchomp ex",
+    "estagio": "2",
+    "evolucao": "Gabite",
+    "tipo": "Luta",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Linear Attack",
+        "dano": "0",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's PokÃƒÂ©mon."
+      },
+      {
+        "nomeataque": "Dragon Claw",
+        "dano": "100",
+        "custoataque": [
+          "luta",
+          "luta",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "47 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-047.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004710_00_GABURIASex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vu31z4221vw1839-garchomp-ex"
+  },
+  {
+    "id": "a2a-048",
+    "categoria": "Pokemon",
+    "nome": "Zubat",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Bite",
+        "dano": "20",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "48 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-048.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004720_00_ZUBAT_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ob208kfbtu356h1-zubat"
+  },
+  {
+    "id": "a2a-049",
+    "categoria": "Pokemon",
+    "nome": "Golbat",
+    "estagio": "1",
+    "evolucao": "Zubat",
+    "tipo": "Escuridao",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Bite",
+        "dano": "30",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "49 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-049.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004730_00_GOLBAT_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/34hxz575d0p0p9y-golbat"
+  },
+  {
+    "id": "a2a-050",
+    "categoria": "Pokemon",
+    "nome": "Crobat",
+    "estagio": "2",
+    "evolucao": "Golbat",
+    "tipo": "Escuridao",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Darkness Fang",
+        "dano": "50",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "50 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-050.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004740_00_CROBAT_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/844375n2qc9o2oo-crobat"
+  },
+  {
+    "id": "a2a-051",
+    "categoria": "Pokemon",
+    "nome": "Croagunk",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Beat",
+        "dano": "20",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "51 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-051.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004750_00_GUREGGRU_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wn311yj88zt2z6l-croagunk"
+  },
+  {
+    "id": "a2a-052",
+    "categoria": "Pokemon",
+    "nome": "Toxicroak",
+    "estagio": "1",
+    "evolucao": "Croagunk",
+    "tipo": "Escuridao",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Toxic",
+        "dano": "0",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": "Your opponent's Active PokÃƒÂ©mon is now Poisoned. Do 20 damage to this PokÃƒÂ©mon instead of the usual amount for this Special Condition."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "52 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-052.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004760_00_DOKUROG_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0l0sh954p6ans7i-toxicroak"
+  },
+  {
+    "id": "a2a-053",
+    "categoria": "Pokemon",
+    "nome": "Magnemite",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Metal",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Tackle",
+        "dano": "20",
+        "custoataque": [
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "53 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-053.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004770_00_COIL_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lt82u4w0mb7u572-magnemite"
+  },
+  {
+    "id": "a2a-054",
+    "categoria": "Pokemon",
+    "nome": "Magneton",
+    "estagio": "1",
+    "evolucao": "Magnemite",
+    "tipo": "Metal",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Rolling Attack",
+        "dano": "30",
+        "custoataque": [
+          "metal",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "54 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-054.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004780_00_RARECOIL_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1w6u808b7z0fusv-magneton"
+  },
+  {
+    "id": "a2a-055",
+    "categoria": "Pokemon",
+    "nome": "Magnezone",
+    "estagio": "2",
+    "evolucao": "Magneton",
+    "tipo": "Metal",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Power Beam",
+        "dano": "80",
+        "custoataque": [
+          "metal",
+          "metal",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "55 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-055.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004790_00_JIBACOIL_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i5qcoe6mb5py33z-magnezone"
+  },
+  {
+    "id": "a2a-056",
+    "categoria": "Pokemon",
+    "nome": "Mawile",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Metal",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Iron Beam Breaker",
+        "dano": "20+",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "If your opponent's Active PokÃƒÂ©mon is a [M] PokÃƒÂ©mon, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "56 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-056.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004800_00_KUCHEAT_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3e8i76g12xm2cla-mawile"
+  },
+  {
+    "id": "a2a-057",
+    "categoria": "Pokemon",
+    "nome": "Probopass ex",
+    "estagio": "1",
+    "evolucao": "Nosepass",
+    "tipo": "Metal",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Defensive Unit",
+        "dano": "90",
+        "custoataque": [
+          "metal",
+          "metal",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃƒÂ©mon takes Ã¢Ë†â€™20 damage from attacks."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "57 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-057.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004810_00_DAINOSEex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pc990d5dpyhf7rz-probopass-ex"
+  },
+  {
+    "id": "a2a-058",
+    "categoria": "Pokemon",
+    "nome": "Bronzor",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Metal",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Ram",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "58 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-058.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004820_00_DOHMIRROR_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d2lo5030n6e2jyu-bronzor"
+  },
+  {
+    "id": "a2a-059",
+    "categoria": "Pokemon",
+    "nome": "Bronzong",
+    "estagio": "1",
+    "evolucao": "Bronzor",
+    "tipo": "Metal",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Psychic",
+        "dano": "50+",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Energy attached to your opponent's Active PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "59 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-059.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004830_00_DOHTAKUN_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/85429q5q552mj74-bronzong"
+  },
+  {
+    "id": "a2a-060",
+    "categoria": "Pokemon",
+    "nome": "Origin Forme Dialga",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Metal",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Time Mash",
+        "dano": "100",
+        "custoataque": [
+          "metal",
+          "metal",
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If tails, during your next turn, this PokÃƒÂ©mon can't attack."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "60 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-060.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004840_00_ORIGINDIALGA_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t6zjj56hil35863-dialga-forma-origem"
+  },
+  {
+    "id": "a2a-061",
+    "categoria": "Pokemon",
+    "nome": "Giratina",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Dragao",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Crisis Dive",
+        "dano": "120",
+        "custoataque": [
+          "planta",
+          "psiquico",
+          "incolor"
+        ],
+        "efeito": "Discard 2 random Energy from this PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "61 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-061.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004850_00_GIRATINA_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6688fv6t06532o2-giratina"
+  },
+  {
+    "id": "a2a-062",
+    "categoria": "Pokemon",
+    "nome": "Eevee",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Tail Whap",
+        "dano": "30",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "62 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-062.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004860_00_EIEVUI_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ftm469c8cg6s5o1-eevee"
+  },
+  {
+    "id": "a2a-063",
+    "categoria": "Pokemon",
+    "nome": "Snorlax",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Collapse",
+        "dano": "100",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "This PokÃƒÂ©mon is now Asleep."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 4,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "63 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-063.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004870_00_KABIGON_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qi5jq27nuta8aw9-snorlax"
+  },
+  {
+    "id": "a2a-064",
+    "categoria": "Pokemon",
+    "nome": "Hoothoot",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Peck",
+        "dano": "20",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "64 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-064.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004880_00_HOHO_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7mx0etm0g7004yv-hoothoot"
+  },
+  {
+    "id": "a2a-065",
+    "categoria": "Pokemon",
+    "nome": "Noctowl",
+    "estagio": "1",
+    "evolucao": "Hoothoot",
+    "tipo": "Incolor",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Silent Wing",
+        "dano": "50",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Your opponent reveals their hand."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "65 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-065.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004890_00_YORUNOZUKU_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/apea15b0e5fsh16-noctowl"
+  },
+  {
+    "id": "a2a-066",
+    "categoria": "Pokemon",
+    "nome": "Starly",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Glide",
+        "dano": "20",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "66 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-066.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004900_00_MUKKURU_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/50kb1r37x6m30ht-starly"
+  },
+  {
+    "id": "a2a-067",
+    "categoria": "Pokemon",
+    "nome": "Staravia",
+    "estagio": "1",
+    "evolucao": "Starly",
+    "tipo": "Incolor",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Wing Attack",
+        "dano": "30",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "67 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-067.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004910_00_MUKUBIRD_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ov91847o2352q1e-staravia"
+  },
+  {
+    "id": "a2a-068",
+    "categoria": "Pokemon",
+    "nome": "Staraptor",
+    "estagio": "2",
+    "evolucao": "Staravia",
+    "tipo": "Incolor",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Brave Bird",
+        "dano": "130",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "This PokÃƒÂ©mon also does 20 damage to itself."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "68 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-068.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004920_00_MUKUHAWK_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1ude52gu39qf1c8-staraptor"
+  },
+  {
+    "id": "a2a-069",
+    "categoria": "Pokemon",
+    "nome": "Shaymin",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Flap",
+        "dano": "30",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "69 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-069.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004930_00_SHAYMIN_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d2d19x86u356caf-shaymin"
+  },
+  {
+    "id": "a2a-070",
+    "categoria": "Pokemon",
+    "nome": "Arceus",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Power Blast",
+        "dano": "100",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Discard a random Energy from this PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "70 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-070.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004940_00_ARCEUS_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wq45r47p94da4re-arceus"
+  },
+  {
+    "id": "a2a-071",
+    "categoria": "Pokemon",
+    "nome": "Arceus ex",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Ultimate Force",
+        "dano": "70+",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each of your Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Duplamente Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "71 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-071.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004950_00_ARCEUSex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u3o3p4e79igy153-arceus-ex"
+  },
+  {
+    "id": "a2a-072",
+    "categoria": "Treinador",
+    "nome": "Irida",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "72 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-072.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_10_000380_00_KAI_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/86fxw9laz2p7do4-irida"
+  },
+  {
+    "id": "a2a-073",
+    "categoria": "Treinador",
+    "nome": "Celestic Town Elder",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "73 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-073.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_10_000390_00_KANNAGITOWNNOTYOUROU_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y1ou0m3p0z3t5rp-anci-da-cidade-celestic"
+  },
+  {
+    "id": "a2a-074",
+    "categoria": "Treinador",
+    "nome": "Barry",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "74 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-074.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_10_000400_00_JUN_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8rj41dh74r9138j-barry"
+  },
+  {
+    "id": "a2a-075",
+    "categoria": "Treinador",
+    "nome": "Adaman",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "75 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-075.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_10_000410_00_SEKI_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/isttc4ht81x1w86-damo"
+  },
+  {
+    "id": "a2a-076",
+    "categoria": "Pokemon",
+    "nome": "Houndoom",
+    "estagio": "1",
+    "evolucao": "Houndour",
+    "tipo": "Fogo",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Corner",
+        "dano": "60",
+        "custoataque": [
+          "fogo",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, the Defending PokÃƒÂ©mon can't retreat."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "IlustraÃ§Ã£o Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "76 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-076.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004360_00_HELLGAR_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y1rl502knvu02u2-houndoom"
+  },
+  {
+    "id": "a2a-077",
+    "categoria": "Pokemon",
+    "nome": "Marill",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Water Gun",
+        "dano": "20",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "IlustraÃ§Ã£o Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "77 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-077.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004380_00_MARIL_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0o4i7p687g0vx09-marill"
+  },
+  {
+    "id": "a2a-078",
+    "categoria": "Pokemon",
+    "nome": "Unown",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Hidden Power",
+        "dano": "20",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "IlustraÃ§Ã£o Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "78 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-078.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004580_00_UNKNOWN_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/av1s21rwff1d216-unown"
+  },
+  {
+    "id": "a2a-079",
+    "categoria": "Pokemon",
+    "nome": "Sudowoodo",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Fighting Headbutt",
+        "dano": "20+",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": "If your opponent's Active PokÃƒÂ©mon is a PokÃƒÂ©mon ex, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "IlustraÃ§Ã£o Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "79 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-079.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004600_00_USOKKIE_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/026kq015fttj248-sudowoodo"
+  },
+  {
+    "id": "a2a-080",
+    "categoria": "Pokemon",
+    "nome": "Magnemite",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Metal",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Tackle",
+        "dano": "20",
+        "custoataque": [
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "IlustraÃ§Ã£o Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "80 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-080.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004770_00_COIL_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/685w96a9nk25q97-magnemite"
+  },
+  {
+    "id": "a2a-081",
+    "categoria": "Pokemon",
+    "nome": "Shaymin",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Flap",
+        "dano": "30",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "IlustraÃ§Ã£o Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "81 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-081.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004930_00_SHAYMIN_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/833h3323x178959-shaymin"
+  },
+  {
+    "id": "a2a-082",
+    "categoria": "Pokemon",
+    "nome": "Leafeon ex",
+    "estagio": "1",
+    "evolucao": "Eevee",
+    "tipo": "Planta",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Solar Beam",
+        "dano": "70",
+        "custoataque": [
+          "planta",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "82 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-082.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004340_00_LEAFIAex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/294koi6oc96308u-leafeon-ex"
+  },
+  {
+    "id": "a2a-083",
+    "categoria": "Pokemon",
+    "nome": "Glaceon ex",
+    "estagio": "1",
+    "evolucao": "Eevee",
+    "tipo": "Agua",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Freezing Wind",
+        "dano": "90",
+        "custoataque": [
+          "agua",
+          "agua",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "83 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-083.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004460_00_GLACIAex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u285461858n515n-glaceon-ex"
+  },
+  {
+    "id": "a2a-084",
+    "categoria": "Pokemon",
+    "nome": "Garchomp ex",
+    "estagio": "2",
+    "evolucao": "Gabite",
+    "tipo": "Luta",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Linear Attack",
+        "dano": "0",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's PokÃƒÂ©mon."
+      },
+      {
+        "nomeataque": "Dragon Claw",
+        "dano": "100",
+        "custoataque": [
+          "luta",
+          "luta",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "84 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-084.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004710_00_GABURIASex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b95g0207c8xjwep-garchomp-ex"
+  },
+  {
+    "id": "a2a-085",
+    "categoria": "Pokemon",
+    "nome": "Probopass ex",
+    "estagio": "1",
+    "evolucao": "Nosepass",
+    "tipo": "Metal",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Defensive Unit",
+        "dano": "90",
+        "custoataque": [
+          "metal",
+          "metal",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃƒÂ©mon takes Ã¢Ë†â€™20 damage from attacks."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "85 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-085.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004810_00_DAINOSEex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/333d5fxx137wey2-probopass-ex"
+  },
+  {
+    "id": "a2a-086",
+    "categoria": "Pokemon",
+    "nome": "Arceus ex",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Ultimate Force",
+        "dano": "70+",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each of your Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "86 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-086.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004950_00_ARCEUSex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/53004s0esr50vtr-arceus-ex"
+  },
+  {
+    "id": "a2a-087",
+    "categoria": "Treinador",
+    "nome": "Irida",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "87 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-087.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_20_000380_00_KAI_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6p9jw34h4wh421z-irida"
+  },
+  {
+    "id": "a2a-088",
+    "categoria": "Treinador",
+    "nome": "Celestic Town Elder",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "88 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-088.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_20_000390_00_KANNAGITOWNNOTYOUROU_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xas0gm4quxc8o7h-anci-da-cidade-celestic"
+  },
+  {
+    "id": "a2a-089",
+    "categoria": "Treinador",
+    "nome": "Barry",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "89 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-089.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_20_000400_00_JUN_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fj68096v04c7l8y-barry"
+  },
+  {
+    "id": "a2a-090",
+    "categoria": "Treinador",
+    "nome": "Adaman",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "90 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-090.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_20_000410_00_SEKI_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/76de7411987ybbl-damo"
+  },
+  {
+    "id": "a2a-091",
+    "categoria": "Pokemon",
+    "nome": "Leafeon ex",
+    "estagio": "1",
+    "evolucao": "Eevee",
+    "tipo": "Planta",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Solar Beam",
+        "dano": "70",
+        "custoataque": [
+          "planta",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "91 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-091.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004340_01_LEAFIAex_SAR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k81hfy03ric5k0f-leafeon-ex"
+  },
+  {
+    "id": "a2a-092",
+    "categoria": "Pokemon",
+    "nome": "Glaceon ex",
+    "estagio": "1",
+    "evolucao": "Eevee",
+    "tipo": "Agua",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Freezing Wind",
+        "dano": "90",
+        "custoataque": [
+          "agua",
+          "agua",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "92 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-092.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004460_01_GLACIAex_SAR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/054sk4d336278y7-glaceon-ex"
+  },
+  {
+    "id": "a2a-093",
+    "categoria": "Pokemon",
+    "nome": "Garchomp ex",
+    "estagio": "2",
+    "evolucao": "Gabite",
+    "tipo": "Luta",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Linear Attack",
+        "dano": "0",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's PokÃƒÂ©mon."
+      },
+      {
+        "nomeataque": "Dragon Claw",
+        "dano": "100",
+        "custoataque": [
+          "luta",
+          "luta",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "93 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-093.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004710_01_GABURIASex_SAR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s4pb5pf75b9aq48-garchomp-ex"
+  },
+  {
+    "id": "a2a-094",
+    "categoria": "Pokemon",
+    "nome": "Probopass ex",
+    "estagio": "1",
+    "evolucao": "Nosepass",
+    "tipo": "Metal",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Defensive Unit",
+        "dano": "90",
+        "custoataque": [
+          "metal",
+          "metal",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃƒÂ©mon takes Ã¢Ë†â€™20 damage from attacks."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "94 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-094.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004810_01_DAINOSEex_SAR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g8x7hox3z667b9q-probopass-ex"
+  },
+  {
+    "id": "a2a-095",
+    "categoria": "Pokemon",
+    "nome": "Arceus ex",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Ultimate Force",
+        "dano": "70+",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each of your Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Raro Imersivo",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "95 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "./assets/cards/a2a-095.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004950_01_ARCEUSex_IM_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2y10k980z35893l-arceus-ex"
+  },
+  {
+    "id": "a2a-096",
+    "categoria": "Pokemon",
+    "nome": "Arceus ex",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Ultimate Force",
+        "dano": "70+",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each of your Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Coroa Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Luz Triunfante (A2a)",
+    "numero": "96 / 96",
+    "pacote": "Arceus",
+    "imageLocal": "",
+    "custoDeck": 1
+  }
+]

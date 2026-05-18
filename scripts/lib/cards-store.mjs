@@ -1,7 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
 
-const INDEX_PATH = resolve(process.cwd(), "data", "cards", "index.json");
+const INDEX_PATH = resolve(process.cwd(), "data", "consolidated", "index.json");
 
 export function argValue(name, fallback = "") {
   const index = process.argv.indexOf(name);
@@ -46,4 +46,3 @@ export async function writeCardsToEntry(entry, cards) {
   const abs = fileEntryToAbsolutePath(entry);
   await writeFile(abs, `${JSON.stringify(cards, null, 2)}\n`, "utf8");
 }
-

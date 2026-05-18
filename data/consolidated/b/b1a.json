@@ -1,0 +1,3366 @@
+[
+  {
+    "id": "b1a-001",
+    "categoria": "Pokemon",
+    "nome": "Bulbasaur",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Tackle",
+        "dano": "20",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "1 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-001.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013070_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vovbdgd95gcppnr-bulbasaur"
+  },
+  {
+    "id": "b1a-002",
+    "categoria": "Pokemon",
+    "nome": "Ivysaur",
+    "estagio": "1",
+    "evolucao": "Bulbasaur",
+    "tipo": "Planta",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Synthesis",
+        "dano": "",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": "Take 2 Grass Energy from your Energy Zone and attach it to this PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "2 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-002.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013080_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wx7l4ow5cw3agx7-ivysaur"
+  },
+  {
+    "id": "b1a-003",
+    "categoria": "Pokemon",
+    "nome": "Venusaur",
+    "estagio": "2",
+    "evolucao": "Ivysaur",
+    "tipo": "Planta",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Poisonous Whip",
+        "dano": "90",
+        "custoataque": [
+          "planta",
+          "planta",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Your opponent's Active PokÃƒÂ©mon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "3 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-003.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013090_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tq6uj96ra8yddm5-venusaur"
+  },
+  {
+    "id": "b1a-004",
+    "categoria": "Pokemon",
+    "nome": "Mega Venusaur ex",
+    "estagio": "2",
+    "evolucao": "Ivysaur",
+    "tipo": "Planta",
+    "hp": 240,
+    "ataque": [
+      {
+        "nomeataque": "Critical Bloom",
+        "dano": "120",
+        "custoataque": [
+          "planta",
+          "planta",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Your opponent's Active PokÃƒÂ©mon is now Poisoned and Asleep."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "4 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-004.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013100_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gnf4sl35ncow7an-mega-venusaur-ex"
+  },
+  {
+    "id": "b1a-005",
+    "categoria": "Pokemon",
+    "nome": "Spinarak",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Sting",
+        "dano": "20",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "5 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-005.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u9tg79utb1ih2gw-spinarak"
+  },
+  {
+    "id": "b1a-006",
+    "categoria": "Pokemon",
+    "nome": "Ariados",
+    "estagio": "1",
+    "evolucao": "Spinarak",
+    "tipo": "Planta",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Pierce",
+        "dano": "30",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "6 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-006.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013120_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o62at0a9zua1v07-ariados"
+  },
+  {
+    "id": "b1a-007",
+    "categoria": "Pokemon",
+    "nome": "Sunkern",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Seed Bomb",
+        "dano": "20",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "7 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-007.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013130_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ih93dveco9lfkc7-sunkern"
+  },
+  {
+    "id": "b1a-008",
+    "categoria": "Pokemon",
+    "nome": "Sunflora",
+    "estagio": "1",
+    "evolucao": "Sunkern",
+    "tipo": "Planta",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Quick-Grow Beam",
+        "dano": "30+",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": "If Quick-Grow Extract is in your discard pile, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "8 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-008.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013140_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/91si0fgxzbljg85-sunflora"
+  },
+  {
+    "id": "b1a-009",
+    "categoria": "Pokemon",
+    "nome": "Burmy",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Hang Down",
+        "dano": "30",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "9 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-009.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013150_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6kwrgl9k4835nqj-burmy"
+  },
+  {
+    "id": "b1a-010",
+    "categoria": "Pokemon",
+    "nome": "Mothim",
+    "estagio": "1",
+    "evolucao": "Burmy",
+    "tipo": "Planta",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Cutting Wind",
+        "dano": "70",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "10 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-010.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013160_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y64tf10zqf16isj-mothim"
+  },
+  {
+    "id": "b1a-011",
+    "categoria": "Pokemon",
+    "nome": "Charmander",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Bite",
+        "dano": "40",
+        "custoataque": [
+          "fogo",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "11 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-011.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013170_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zvkc9ir2satck5n-charmander"
+  },
+  {
+    "id": "b1a-012",
+    "categoria": "Pokemon",
+    "nome": "Charmeleon",
+    "estagio": "1",
+    "evolucao": "Charmander",
+    "tipo": "Fogo",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Steady Firebreathing",
+        "dano": "50",
+        "custoataque": [
+          "fogo",
+          "fogo",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "12 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-012.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_012980_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/itrm24c0i5wfn8v-charmeleon"
+  },
+  {
+    "id": "b1a-013",
+    "categoria": "Pokemon",
+    "nome": "Charizard",
+    "estagio": "2",
+    "evolucao": "Charmeleon",
+    "tipo": "Fogo",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Inferno Onrush",
+        "dano": "150",
+        "custoataque": [
+          "fogo",
+          "fogo",
+          "fogo",
+          "incolor"
+        ],
+        "efeito": "This PokÃƒÂ©mon also does 30 damage to itself."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "13 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-013.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013180_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lew2qh6a28iqm6b-charizard"
+  },
+  {
+    "id": "b1a-014",
+    "categoria": "Pokemon",
+    "nome": "Mega Charizard Y ex",
+    "estagio": "2",
+    "evolucao": "Charmeleon",
+    "tipo": "Fogo",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Crimson Dive",
+        "dano": "250",
+        "custoataque": [
+          "fogo",
+          "fogo",
+          "fogo",
+          "incolor"
+        ],
+        "efeito": "This PokÃƒÂ©mon also does 50 damage to itself."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "14 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-014.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9u3c93opeaybnt9-mega-charizard-y-ex"
+  },
+  {
+    "id": "b1a-015",
+    "categoria": "Pokemon",
+    "nome": "Houndour",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Roar",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Switch out your opponent's Active PokÃƒÂ©mon to the Bench. (Your opponent chooses the new Active PokÃƒÂ©mon.)"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "15 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-015.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013200_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lvq4e1d6ieu959u-houndour"
+  },
+  {
+    "id": "b1a-016",
+    "categoria": "Pokemon",
+    "nome": "Houndoom",
+    "estagio": "1",
+    "evolucao": "Houndour",
+    "tipo": "Fogo",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Sharp Fang",
+        "dano": "50",
+        "custoataque": [
+          "fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "16 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-016.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/32ncfekw0zpe2oe-houndoom"
+  },
+  {
+    "id": "b1a-017",
+    "categoria": "Pokemon",
+    "nome": "Squirtle",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Tail Whap",
+        "dano": "40",
+        "custoataque": [
+          "agua",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "17 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-017.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/evjkloatjbwc00f-squirtle"
+  },
+  {
+    "id": "b1a-018",
+    "categoria": "Pokemon",
+    "nome": "Wartortle",
+    "estagio": "1",
+    "evolucao": "Squirtle",
+    "tipo": "Agua",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Waterfall",
+        "dano": "60",
+        "custoataque": [
+          "agua",
+          "agua",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "18 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-018.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rp986fbumm7pzjr-wartortle"
+  },
+  {
+    "id": "b1a-019",
+    "categoria": "Pokemon",
+    "nome": "Blastoise",
+    "estagio": "2",
+    "evolucao": "Wartortle",
+    "tipo": "Agua",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Double Splash",
+        "dano": "90",
+        "custoataque": [
+          "agua",
+          "agua",
+          "incolor"
+        ],
+        "efeito": "If this PokÃƒÂ©mon has at least 2 extra Water Energy attached, this attack also does 50 damage to 1 of your opponent's Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "19 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-019.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013240_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/afite7nho9jbumu-blastoise"
+  },
+  {
+    "id": "b1a-020",
+    "categoria": "Pokemon",
+    "nome": "Mega Blastoise ex",
+    "estagio": "2",
+    "evolucao": "Wartortle",
+    "tipo": "Agua",
+    "hp": 230,
+    "ataque": [
+      {
+        "nomeataque": "Triple Bombardment",
+        "dano": "130",
+        "custoataque": [
+          "agua",
+          "agua",
+          "incolor"
+        ],
+        "efeito": "If this PokÃƒÂ©mon has at least 3 extra Water Energy attached, this attack also does 50 damage to 2 of your opponent's Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "20 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-020.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k7rxky048kvsvak-mega-blastoise-ex"
+  },
+  {
+    "id": "b1a-021",
+    "categoria": "Pokemon",
+    "nome": "Basculin",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Surprise Strike",
+        "dano": "40+",
+        "custoataque": [
+          "agua",
+          "incolor"
+        ],
+        "efeito": "If this PokÃƒÂ©mon moved from your Bench to the Active Spot this turn, this attack does 40 more damage."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "21 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-021.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013260_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/95t2qc3ac1z2mod-basculin"
+  },
+  {
+    "id": "b1a-022",
+    "categoria": "Pokemon",
+    "nome": "Clauncher",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Water Gun",
+        "dano": "20",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "22 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-022.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r8w6ieaf2fcktl1-clauncher"
+  },
+  {
+    "id": "b1a-023",
+    "categoria": "Pokemon",
+    "nome": "Clawitzer",
+    "estagio": "1",
+    "evolucao": "Clauncher",
+    "tipo": "Agua",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Aqua Shower",
+        "dano": "",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": "This attack does 20 damage to each of your opponent's PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "23 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-023.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uku5ed2kt3uj1ep-clawitzer"
+  },
+  {
+    "id": "b1a-024",
+    "categoria": "Pokemon",
+    "nome": "Magnemite",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Electro Ball",
+        "dano": "30",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "24 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-024.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013290_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8ncjzu3mrmp1nyk-magnemite"
+  },
+  {
+    "id": "b1a-025",
+    "categoria": "Pokemon",
+    "nome": "Magneton",
+    "estagio": "1",
+    "evolucao": "Magnemite",
+    "tipo": "Raio",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Spark",
+        "dano": "20",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": "This attack also does 20 damage to 1 of your opponent's Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "25 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-025.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013300_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/opudiih4bakn44t-magneton"
+  },
+  {
+    "id": "b1a-026",
+    "categoria": "Pokemon",
+    "nome": "Magnezone",
+    "estagio": "2",
+    "evolucao": "Magneton",
+    "tipo": "Raio",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Mirror Shot",
+        "dano": "90",
+        "custoataque": [
+          "raio",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, if the Defending PokÃƒÂ©mon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "26 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-026.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013310_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zcsfydaqufso90s-magnezone"
+  },
+  {
+    "id": "b1a-027",
+    "categoria": "Pokemon",
+    "nome": "Emolga",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Mach Bolt",
+        "dano": "50",
+        "custoataque": [
+          "raio",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "27 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-027.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013320_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q3r1qntm2da42jo-emolga"
+  },
+  {
+    "id": "b1a-028",
+    "categoria": "Pokemon",
+    "nome": "Helioptile",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Thunder Shock",
+        "dano": "10",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active PokÃƒÂ©mon is now Paralyzed."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "28 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-028.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013330_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tcp29tvhzkoeolp-helioptile"
+  },
+  {
+    "id": "b1a-029",
+    "categoria": "Pokemon",
+    "nome": "Heliolisk",
+    "estagio": "1",
+    "evolucao": "Helioptile",
+    "tipo": "Raio",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Thunderbolt",
+        "dano": "120",
+        "custoataque": [
+          "raio",
+          "raio"
+        ],
+        "efeito": "Discard all Energy from this PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "29 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-029.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rxosv68xrvpt5o6-heliolisk"
+  },
+  {
+    "id": "b1a-030",
+    "categoria": "Pokemon",
+    "nome": "Misdreavus",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Lead",
+        "dano": "",
+        "custoataque": [
+          "psiquico"
+        ],
+        "efeito": "Put a random Supporter card from your deck into your hand."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "30 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-030.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013340_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nj6cwie5wu1uwjd-misdreavus"
+  },
+  {
+    "id": "b1a-031",
+    "categoria": "Pokemon",
+    "nome": "Mismagius",
+    "estagio": "1",
+    "evolucao": "Misdreavus",
+    "tipo": "Psiquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Stored Power",
+        "dano": "60",
+        "custoataque": [
+          "psiquico",
+          "psiquico"
+        ],
+        "efeito": "Move all Psychic Energy from this PokÃƒÂ©mon to 1 of your Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "31 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-031.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013350_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1k2kav7potcqkan-mismagius"
+  },
+  {
+    "id": "b1a-032",
+    "categoria": "Pokemon",
+    "nome": "Solosis",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 40,
+    "ataque": [
+      {
+        "nomeataque": "Rollout",
+        "dano": "20",
+        "custoataque": [
+          "psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "32 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-032.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013360_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ftypxp21cgm5r4v-solosis"
+  },
+  {
+    "id": "b1a-033",
+    "categoria": "Pokemon",
+    "nome": "Duosion",
+    "estagio": "1",
+    "evolucao": "Solosis",
+    "tipo": "Psiquico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Psyshot",
+        "dano": "50",
+        "custoataque": [
+          "psiquico",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "33 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-033.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013370_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/loyaddtvgs69vf6-duosion"
+  },
+  {
+    "id": "b1a-034",
+    "categoria": "Pokemon",
+    "nome": "Reuniclus",
+    "estagio": "2",
+    "evolucao": "Duosion",
+    "tipo": "Psiquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Psypunch",
+        "dano": "90",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "34 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-034.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013380_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wrdt6swf28cdc4b-reuniclus"
+  },
+  {
+    "id": "b1a-035",
+    "categoria": "Pokemon",
+    "nome": "Spritzee",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Sweet Scent",
+        "dano": "",
+        "custoataque": [
+          "psiquico"
+        ],
+        "efeito": "Heal 20 damage from 1 of your PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "35 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-035.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zxkflptc0wxjbcr-spritzee"
+  },
+  {
+    "id": "b1a-036",
+    "categoria": "Pokemon",
+    "nome": "Aromatisse",
+    "estagio": "1",
+    "evolucao": "Spritzee",
+    "tipo": "Psiquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Perfume Blast",
+        "dano": "60",
+        "custoataque": [
+          "psiquico",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending PokÃƒÂ©mon cost 1 Colorless more."
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "36 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-036.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013400_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ok1qy2ewsrrhqek-aromatisse"
+  },
+  {
+    "id": "b1a-037",
+    "categoria": "Pokemon",
+    "nome": "Xerneas",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Geoburst",
+        "dano": "120",
+        "custoataque": [
+          "psiquico",
+          "psiquico",
+          "incolor"
+        ],
+        "efeito": "This attack's damage is reduced by the amount of damage this PokÃƒÂ©mon has on it."
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "37 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-037.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sjjoy187ad7kc10-xerneas"
+  },
+  {
+    "id": "b1a-038",
+    "categoria": "Pokemon",
+    "nome": "Onix",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Dig",
+        "dano": "30",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If heads, during your opponent's next turn, prevent all damage fromÃ¢â‚¬â€and effects ofÃ¢â‚¬â€attacks done to this PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "38 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-038.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k9ynlyvl61nqj14-onix"
+  },
+  {
+    "id": "b1a-039",
+    "categoria": "Pokemon",
+    "nome": "Makuhita",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Strength",
+        "dano": "40",
+        "custoataque": [
+          "luta",
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "39 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-039.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7dctp811p5t2tfw-makuhita"
+  },
+  {
+    "id": "b1a-040",
+    "categoria": "Pokemon",
+    "nome": "Hariyama",
+    "estagio": "1",
+    "evolucao": "Makuhita",
+    "tipo": "Luta",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Megaton Slap Push",
+        "dano": "90",
+        "custoataque": [
+          "luta",
+          "luta",
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "40 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-040.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013440_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d9zv8bpjyfq8oln-hariyama"
+  },
+  {
+    "id": "b1a-041",
+    "categoria": "Pokemon",
+    "nome": "Nosepass",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Rising Lunge",
+        "dano": "10+",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "41 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-041.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/juqbu9t6b79rjof-nosepass"
+  },
+  {
+    "id": "b1a-042",
+    "categoria": "Pokemon",
+    "nome": "Mega Lopunny ex",
+    "estagio": "1",
+    "evolucao": "Buneary",
+    "tipo": "Luta",
+    "hp": 190,
+    "ataque": [
+      {
+        "nomeataque": "Rapid Smashers",
+        "dano": "90x",
+        "custoataque": [
+          "luta",
+          "luta"
+        ],
+        "efeito": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active PokÃƒÂ©mon is now Confused."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "42 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-042.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8bw6n69qcgr0awj-mega-lopunny-ex"
+  },
+  {
+    "id": "b1a-043",
+    "categoria": "Pokemon",
+    "nome": "Mienfoo",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Chop",
+        "dano": "30",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "43 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-043.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/eebtp2j2d1w3nku-mienfoo"
+  },
+  {
+    "id": "b1a-044",
+    "categoria": "Pokemon",
+    "nome": "Mienshao",
+    "estagio": "1",
+    "evolucao": "Mienfoo",
+    "tipo": "Luta",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Low Sweep",
+        "dano": "50",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "44 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-044.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013480_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/80gfdyv2j3fb4sk-mienshao"
+  },
+  {
+    "id": "b1a-045",
+    "categoria": "Pokemon",
+    "nome": "Grimer",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Sludge Bomb",
+        "dano": "40",
+        "custoataque": [
+          "escuridao",
+          "escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "45 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-045.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9hmg1c2w3i85hnp-grimer"
+  },
+  {
+    "id": "b1a-046",
+    "categoria": "Pokemon",
+    "nome": "Muk",
+    "estagio": "1",
+    "evolucao": "Grimer",
+    "tipo": "Escuridao",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Gunk Shot",
+        "dano": "70",
+        "custoataque": [
+          "escuridao",
+          "escuridao",
+          "escuridao"
+        ],
+        "efeito": "Your opponent's Active PokÃƒÂ©mon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "46 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-046.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013500_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iholnhjq5j1kiak-muk"
+  },
+  {
+    "id": "b1a-047",
+    "categoria": "Pokemon",
+    "nome": "Purrloin",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Trip Over",
+        "dano": "10+",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "47 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-047.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qr64jcs9qeeysz3-purrloin"
+  },
+  {
+    "id": "b1a-048",
+    "categoria": "Pokemon",
+    "nome": "Liepard",
+    "estagio": "1",
+    "evolucao": "Purrloin",
+    "tipo": "Escuridao",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Snatch and Flee",
+        "dano": "60",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": "Your opponent reveals a random card from their hand and shuffles it into their deck. Shuffle this PokÃƒÂ©mon into your deck."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "48 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-048.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013520_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cre549a18e7oyph-liepard"
+  },
+  {
+    "id": "b1a-049",
+    "categoria": "Pokemon",
+    "nome": "Trubbish",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Drool",
+        "dano": "30",
+        "custoataque": [
+          "escuridao",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "49 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-049.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013530_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m9zxo834h4bbftp-trubbish"
+  },
+  {
+    "id": "b1a-050",
+    "categoria": "Pokemon",
+    "nome": "Garbodor",
+    "estagio": "1",
+    "evolucao": "Trubbish",
+    "tipo": "Escuridao",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Acid Spray",
+        "dano": "70",
+        "custoataque": [
+          "escuridao",
+          "escuridao",
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If heads, discard a random Energy from your opponent's Active PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "50 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-050.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013540_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s4w2f49vc85jzk5-garbodor"
+  },
+  {
+    "id": "b1a-051",
+    "categoria": "Pokemon",
+    "nome": "Steelix",
+    "estagio": "1",
+    "evolucao": "Onix",
+    "tipo": "Metal",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Metal Defender",
+        "dano": "100",
+        "custoataque": [
+          "metal",
+          "metal",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃƒÂ©mon has no Weakness."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "51 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-051.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013550_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g2ye4rf7yad0tda-steelix"
+  },
+  {
+    "id": "b1a-052",
+    "categoria": "Pokemon",
+    "nome": "Mega Steelix ex",
+    "estagio": "1",
+    "evolucao": "Onix",
+    "tipo": "Metal",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Adamantine Rolling",
+        "dano": "120",
+        "custoataque": [
+          "metal",
+          "metal",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃƒÂ©mon takes  damage from attacks and has no Weakness."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "52 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-052.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013560_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j8xpdj0e0q1azrr-mega-steelix-ex"
+  },
+  {
+    "id": "b1a-053",
+    "categoria": "Pokemon",
+    "nome": "Probopass",
+    "estagio": "1",
+    "evolucao": "Nosepass",
+    "tipo": "Metal",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Metallic Turbo",
+        "dano": "40",
+        "custoataque": [
+          "metal",
+          "metal"
+        ],
+        "efeito": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "53 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-053.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013570_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fkl5zz214nh4pr9-probopass"
+  },
+  {
+    "id": "b1a-054",
+    "categoria": "Pokemon",
+    "nome": "Genesect",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Metal",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Metal Blast",
+        "dano": "10+",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Metal Energy attached to this PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "54 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-054.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013010_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zdwlm14lvijwrfu-genesect"
+  },
+  {
+    "id": "b1a-055",
+    "categoria": "Pokemon",
+    "nome": "Ditto",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Copy a Friend",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Choose 1 of your Benched PokÃƒÂ©mon's attacks, except any PokÃƒÂ©mon ex, and use it as this attack. If this PokÃƒÂ©mon doesn't have the necessary Energy to use that attack, this attack does nothing."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "55 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-055.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013060_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jp2hf98eg2fyltb-ditto"
+  },
+  {
+    "id": "b1a-056",
+    "categoria": "Pokemon",
+    "nome": "Porygon",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Stiffen",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃƒÂ©mon takes Ã¢Ë†â€™20 damage from attacks."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "56 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-056.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013580_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q20fy3nrsr21i84-porygon"
+  },
+  {
+    "id": "b1a-057",
+    "categoria": "Pokemon",
+    "nome": "Porygon2",
+    "estagio": "1",
+    "evolucao": "Porygon",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Speed Attack",
+        "dano": "40",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "57 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-057.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013590_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x1mm4v1w9v4jnzo-porygon2"
+  },
+  {
+    "id": "b1a-058",
+    "categoria": "Pokemon",
+    "nome": "Porygon-Z",
+    "estagio": "2",
+    "evolucao": "Porygon2",
+    "tipo": "Incolor",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Cyberjack",
+        "dano": "20+",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Trainer card in your opponent's deck."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "58 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-058.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013600_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t4p6xci3hryucbz-porygon-z"
+  },
+  {
+    "id": "b1a-059",
+    "categoria": "Pokemon",
+    "nome": "Starly",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Call for Family",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Put 1 random Starly from your deck onto your Bench."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "59 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-059.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013610_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kmwyfawamwa6dpy-starly"
+  },
+  {
+    "id": "b1a-060",
+    "categoria": "Pokemon",
+    "nome": "Staravia",
+    "estagio": "1",
+    "evolucao": "Starly",
+    "tipo": "Incolor",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Quick Attack",
+        "dano": "30+",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "60 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-060.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013620_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/76spparvh56l9q2-staravia"
+  },
+  {
+    "id": "b1a-061",
+    "categoria": "Pokemon",
+    "nome": "Staraptor",
+    "estagio": "2",
+    "evolucao": "Staravia",
+    "tipo": "Incolor",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Hurricane Wing",
+        "dano": "50x",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Flip 4 coins. This attack does 50 damage for each heads."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "61 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-061.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013630_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3qt212dj0iphuzb-staraptor"
+  },
+  {
+    "id": "b1a-062",
+    "categoria": "Pokemon",
+    "nome": "Buneary",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Double Kick",
+        "dano": "20x",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "62 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-062.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/thbielkxfykc72l-buneary"
+  },
+  {
+    "id": "b1a-063",
+    "categoria": "Pokemon",
+    "nome": "Lopunny",
+    "estagio": "1",
+    "evolucao": "Buneary",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Double Kick",
+        "dano": "50x",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 50 damage for each heads."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "63 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-063.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013640_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/88ralmjlcr4e3aa-lopunny"
+  },
+  {
+    "id": "b1a-064",
+    "categoria": "Pokemon",
+    "nome": "Bouffalant",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Revenge",
+        "dano": "40+",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "If any of your PokÃƒÂ©mon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 40 more damage."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "64 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-064.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013650_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1tb64gmq5olfwva-bouffalant"
+  },
+  {
+    "id": "b1a-065",
+    "categoria": "Pokemon",
+    "nome": "Furfrou",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Tackle",
+        "dano": "30",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "65 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-065.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013660_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iuk5hh6yvg2jas0-furfrou"
+  },
+  {
+    "id": "b1a-066",
+    "categoria": "Treinador",
+    "nome": "Clemont's Backpack",
+    "estagio": "Item",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "66 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-066.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_10_001010_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t8vwgpxthcklr0n-mochila-do-clemont"
+  },
+  {
+    "id": "b1a-067",
+    "categoria": "Treinador",
+    "nome": "Quick-Grow Extract",
+    "estagio": "Item",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "67 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-067.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_10_001020_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b7417u813j8rkqv-extrato-de-adubo"
+  },
+  {
+    "id": "b1a-068",
+    "categoria": "Treinador",
+    "nome": "Clemont",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "68 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-068.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_10_001030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xk6amvz3cyhwofv-clemont"
+  },
+  {
+    "id": "b1a-069",
+    "categoria": "Treinador",
+    "nome": "Serena",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "69 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-069.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_10_001040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/73icq4ojw56wcd1-serena"
+  },
+  {
+    "id": "b1a-070",
+    "categoria": "Pokemon",
+    "nome": "Ariados",
+    "estagio": "1",
+    "evolucao": "Spinarak",
+    "tipo": "Planta",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Pierce",
+        "dano": "30",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "IlustraÃ§Ã£o Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "70 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-070.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013120_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w7vvlgzkgqadp34-ariados"
+  },
+  {
+    "id": "b1a-071",
+    "categoria": "Pokemon",
+    "nome": "Sunflora",
+    "estagio": "1",
+    "evolucao": "Sunkern",
+    "tipo": "Planta",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Quick-Grow Beam",
+        "dano": "30+",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": "If Quick-Grow Extract is in your discard pile, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "IlustraÃ§Ã£o Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "71 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-071.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013140_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rmut0qrzrq6ka2l-sunflora"
+  },
+  {
+    "id": "b1a-072",
+    "categoria": "Pokemon",
+    "nome": "Reuniclus",
+    "estagio": "2",
+    "evolucao": "Duosion",
+    "tipo": "Psiquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Psypunch",
+        "dano": "90",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "raridade": "IlustraÃ§Ã£o Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "72 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-072.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013380_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r8aeoauwy2lq7z1-reuniclus"
+  },
+  {
+    "id": "b1a-073",
+    "categoria": "Pokemon",
+    "nome": "Xerneas",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Geoburst",
+        "dano": "120",
+        "custoataque": [
+          "psiquico",
+          "psiquico",
+          "incolor"
+        ],
+        "efeito": "This attack's damage is reduced by the amount of damage this PokÃƒÂ©mon has on it."
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "raridade": "IlustraÃ§Ã£o Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "73 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-073.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bnoz4j8h9361bl0-xerneas"
+  },
+  {
+    "id": "b1a-074",
+    "categoria": "Pokemon",
+    "nome": "Trubbish",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Drool",
+        "dano": "30",
+        "custoataque": [
+          "escuridao",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "IlustraÃ§Ã£o Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "74 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-074.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013530_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dd8bpagoz0vnhnb-trubbish"
+  },
+  {
+    "id": "b1a-075",
+    "categoria": "Pokemon",
+    "nome": "Buneary",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Double Kick",
+        "dano": "20x",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "IlustraÃ§Ã£o Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "75 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-075.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k3xenu1expx65vc-buneary"
+  },
+  {
+    "id": "b1a-076",
+    "categoria": "Pokemon",
+    "nome": "Mega Venusaur ex",
+    "estagio": "2",
+    "evolucao": "Ivysaur",
+    "tipo": "Planta",
+    "hp": 240,
+    "ataque": [
+      {
+        "nomeataque": "Critical Bloom",
+        "dano": "120",
+        "custoataque": [
+          "planta",
+          "planta",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Your opponent's Active PokÃƒÂ©mon is now Poisoned and Asleep."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "76 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-076.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013100_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rrzi6tnpxivf6mx-mega-venusaur-ex"
+  },
+  {
+    "id": "b1a-077",
+    "categoria": "Pokemon",
+    "nome": "Mega Charizard Y ex",
+    "estagio": "2",
+    "evolucao": "Charmeleon",
+    "tipo": "Fogo",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Crimson Dive",
+        "dano": "250",
+        "custoataque": [
+          "fogo",
+          "fogo",
+          "fogo",
+          "incolor"
+        ],
+        "efeito": "This PokÃƒÂ©mon also does 50 damage to itself."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "77 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-077.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/euukz0om2ybbwba-mega-charizard-y-ex"
+  },
+  {
+    "id": "b1a-078",
+    "categoria": "Pokemon",
+    "nome": "Mega Blastoise ex",
+    "estagio": "2",
+    "evolucao": "Wartortle",
+    "tipo": "Agua",
+    "hp": 230,
+    "ataque": [
+      {
+        "nomeataque": "Triple Bombardment",
+        "dano": "130",
+        "custoataque": [
+          "agua",
+          "agua",
+          "incolor"
+        ],
+        "efeito": "If this PokÃƒÂ©mon has at least 3 extra Water Energy attached, this attack also does 50 damage to 2 of your opponent's Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "78 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-078.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hrhldjkpjj4oomy-mega-blastoise-ex"
+  },
+  {
+    "id": "b1a-079",
+    "categoria": "Pokemon",
+    "nome": "Mega Lopunny ex",
+    "estagio": "1",
+    "evolucao": "Buneary",
+    "tipo": "Luta",
+    "hp": 190,
+    "ataque": [
+      {
+        "nomeataque": "Rapid Smashers",
+        "dano": "90x",
+        "custoataque": [
+          "luta",
+          "luta"
+        ],
+        "efeito": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active PokÃƒÂ©mon is now Confused."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "79 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-079.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9u452tz97hzqm6g-mega-lopunny-ex"
+  },
+  {
+    "id": "b1a-080",
+    "categoria": "Pokemon",
+    "nome": "Mega Steelix ex",
+    "estagio": "1",
+    "evolucao": "Onix",
+    "tipo": "Metal",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Adamantine Rolling",
+        "dano": "120",
+        "custoataque": [
+          "metal",
+          "metal",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃƒÂ©mon takes  damage from attacks and has no Weakness."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "80 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-080.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013560_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hmk602xhsarwypf-mega-steelix-ex"
+  },
+  {
+    "id": "b1a-081",
+    "categoria": "Treinador",
+    "nome": "Clemont",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "81 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-081.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_20_001030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nemit1pytwz1ycz-clemont"
+  },
+  {
+    "id": "b1a-082",
+    "categoria": "Treinador",
+    "nome": "Serena",
+    "estagio": "Apoiador",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "82 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-082.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_20_001040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yqrex3p3lvbleo7-serena"
+  },
+  {
+    "id": "b1a-083",
+    "categoria": "Pokemon",
+    "nome": "Mega Venusaur ex",
+    "estagio": "2",
+    "evolucao": "Ivysaur",
+    "tipo": "Planta",
+    "hp": 240,
+    "ataque": [
+      {
+        "nomeataque": "Critical Bloom",
+        "dano": "120",
+        "custoataque": [
+          "planta",
+          "planta",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Your opponent's Active PokÃƒÂ©mon is now Poisoned and Asleep."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "83 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-083.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013100_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bcoq2cox6k0jcjc-mega-venusaur-ex"
+  },
+  {
+    "id": "b1a-084",
+    "categoria": "Pokemon",
+    "nome": "Mega Blastoise ex",
+    "estagio": "2",
+    "evolucao": "Wartortle",
+    "tipo": "Agua",
+    "hp": 230,
+    "ataque": [
+      {
+        "nomeataque": "Triple Bombardment",
+        "dano": "130",
+        "custoataque": [
+          "agua",
+          "agua",
+          "incolor"
+        ],
+        "efeito": "If this PokÃƒÂ©mon has at least 3 extra Water Energy attached, this attack also does 50 damage to 2 of your opponent's Benched PokÃƒÂ©mon."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "84 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-084.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013250_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4nuouby0bwxmyzy-mega-blastoise-ex"
+  },
+  {
+    "id": "b1a-085",
+    "categoria": "Pokemon",
+    "nome": "Mega Lopunny ex",
+    "estagio": "1",
+    "evolucao": "Buneary",
+    "tipo": "Luta",
+    "hp": 190,
+    "ataque": [
+      {
+        "nomeataque": "Rapid Smashers",
+        "dano": "90x",
+        "custoataque": [
+          "luta",
+          "luta"
+        ],
+        "efeito": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active PokÃƒÂ©mon is now Confused."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "85 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-085.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013460_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bammubqo5a3cfc1-mega-lopunny-ex"
+  },
+  {
+    "id": "b1a-086",
+    "categoria": "Pokemon",
+    "nome": "Mega Steelix ex",
+    "estagio": "1",
+    "evolucao": "Onix",
+    "tipo": "Metal",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Adamantine Rolling",
+        "dano": "120",
+        "custoataque": [
+          "metal",
+          "metal",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃƒÂ©mon takes  damage from attacks and has no Weakness."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "86 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-086.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013560_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e4gp5syz2ibcdzq-mega-steelix-ex"
+  },
+  {
+    "id": "b1a-087",
+    "categoria": "Pokemon",
+    "nome": "Mega Charizard Y ex",
+    "estagio": "2",
+    "evolucao": "Charmeleon",
+    "tipo": "Fogo",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Crimson Dive",
+        "dano": "250",
+        "custoataque": [
+          "fogo",
+          "fogo",
+          "fogo",
+          "incolor"
+        ],
+        "efeito": "This PokÃƒÂ©mon also does 50 damage to itself."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Raro Imersivo",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "87 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-087.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013190_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lgvyipn64uh2f7i-mega-charizard-y-ex"
+  },
+  {
+    "id": "b1a-088",
+    "categoria": "Pokemon",
+    "nome": "Oddish",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Poison Powder",
+        "dano": "10",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": "Your opponent's Active PokÃƒÂ©mon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "88 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-088.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_008570_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7dmwtkkcizk1ejr-oddish"
+  },
+  {
+    "id": "b1a-089",
+    "categoria": "Pokemon",
+    "nome": "Gloom",
+    "estagio": "1",
+    "evolucao": "Oddish",
+    "tipo": "Planta",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Leaf Step",
+        "dano": "40",
+        "custoataque": [
+          "planta",
+          "planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "89 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-089.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_008580_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nlljp7kjmxnglpr-gloom"
+  },
+  {
+    "id": "b1a-090",
+    "categoria": "Pokemon",
+    "nome": "Vileplume",
+    "estagio": "2",
+    "evolucao": "Gloom",
+    "tipo": "Planta",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Soothing Scent",
+        "dano": "80",
+        "custoataque": [
+          "planta",
+          "planta",
+          "incolor"
+        ],
+        "efeito": "Your opponent's Active PokÃƒÂ©mon is now Asleep."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "90 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-090.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_000130_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mzigqv0y2gkgx7k-vileplume"
+  },
+  {
+    "id": "b1a-091",
+    "categoria": "Pokemon",
+    "nome": "Charizard",
+    "estagio": "2",
+    "evolucao": "Charmeleon",
+    "tipo": "Fogo",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Inferno Onrush",
+        "dano": "150",
+        "custoataque": [
+          "fogo",
+          "fogo",
+          "fogo",
+          "incolor"
+        ],
+        "efeito": "This PokÃƒÂ©mon also does 30 damage to itself."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "91 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-091.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013180_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fh4kvtvb91wt58u-charizard"
+  },
+  {
+    "id": "b1a-092",
+    "categoria": "Pokemon",
+    "nome": "Shellder",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Tackle",
+        "dano": "10",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "92 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-092.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_006230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f71ndwot97s38fl-shellder"
+  },
+  {
+    "id": "b1a-093",
+    "categoria": "Pokemon",
+    "nome": "Cloyster",
+    "estagio": "1",
+    "evolucao": "Shellder",
+    "tipo": "Agua",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Guard Press",
+        "dano": "50",
+        "custoataque": [
+          "agua",
+          "agua"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃƒÂ©mon takes Ã¢Ë†â€™20 damage from attacks."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "93 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-093.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_006240_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/edo6c09q9lvb95i-cloyster"
+  },
+  {
+    "id": "b1a-094",
+    "categoria": "Pokemon",
+    "nome": "Sandshrew",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Sand Spray",
+        "dano": "20",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "94 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-094.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_012040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zih1x6fo5u97wnl-sandshrew"
+  },
+  {
+    "id": "b1a-095",
+    "categoria": "Pokemon",
+    "nome": "Sandslash",
+    "estagio": "1",
+    "evolucao": "Sandshrew",
+    "tipo": "Luta",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Cut",
+        "dano": "50",
+        "custoataque": [
+          "luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "95 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-095.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_012050_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/47petli8suwtknl-sandslash"
+  },
+  {
+    "id": "b1a-096",
+    "categoria": "Pokemon",
+    "nome": "Type: Null",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Quick Blow",
+        "dano": "20+",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "96 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-096.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007940_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/msnpi5wnwzdrrr7-tipo-nulo"
+  },
+  {
+    "id": "b1a-097",
+    "categoria": "Pokemon",
+    "nome": "Silvally",
+    "estagio": "1",
+    "evolucao": "Type: Null",
+    "tipo": "Incolor",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Brave Buddies",
+        "dano": "50+",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "97 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-097.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007950_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ficailgowmzhxhb-silvally"
+  },
+  {
+    "id": "b1a-098",
+    "categoria": "Pokemon",
+    "nome": "Buzzwole ex",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Punch",
+        "dano": "30",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Big Beat",
+        "dano": "120",
+        "custoataque": [
+          "planta",
+          "planta",
+          "incolor"
+        ],
+        "efeito": "During your next turn, this PokÃƒÂ©mon can't use Big Beat."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "98 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-098.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007480_03_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/farch7aokfga9h8-buzzwole-ex"
+  },
+  {
+    "id": "b1a-099",
+    "categoria": "Pokemon",
+    "nome": "Lunala ex",
+    "estagio": "2",
+    "evolucao": "Cosmoem",
+    "tipo": "Psiquico",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Lunar Blast",
+        "dano": "100",
+        "custoataque": [
+          "psiquico",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "99 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-099.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_006680_04_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71z7etq1qsjk7fh-lunala-ex"
+  },
+  {
+    "id": "b1a-100",
+    "categoria": "Pokemon",
+    "nome": "Guzzlord ex",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Grindcore",
+        "dano": "30",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active PokÃƒÂ©mon."
+      },
+      {
+        "nomeataque": "Tyrannical Hole",
+        "dano": "120",
+        "custoataque": [
+          "escuridao",
+          "escuridao",
+          "escuridao",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 4,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "100 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-100.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007800_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dm05ywmcvsoqtdm-guzzlord-ex"
+  },
+  {
+    "id": "b1a-101",
+    "categoria": "Pokemon",
+    "nome": "Solgaleo ex",
+    "estagio": "2",
+    "evolucao": "Cosmoem",
+    "tipo": "Metal",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Sol Breaker",
+        "dano": "120",
+        "custoataque": [
+          "metal",
+          "metal"
+        ],
+        "efeito": "This PokÃƒÂ©mon also does 10 damage to itself."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "101 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-101.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007030_04_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jtce5sdy0bu1c9b-solgaleo-ex"
+  },
+  {
+    "id": "b1a-102",
+    "categoria": "Pokemon",
+    "nome": "Aegislash",
+    "estagio": "2",
+    "evolucao": "Doublade",
+    "tipo": "Metal",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Slicing Blade",
+        "dano": "70",
+        "custoataque": [
+          "metal",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Coroa Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "102 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-102.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_012540_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9kfvx8g17faimdx-aegislash"
+  },
+  {
+    "id": "b1a-103",
+    "categoria": "Treinador",
+    "nome": "Quick-Grow Extract",
+    "estagio": "Item",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Coroa Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "expansao": "Chama Carmesim (B1a)",
+    "numero": "103 / 103",
+    "pacote": "",
+    "imageLocal": "./assets/cards/b1a-103.jpg",
+    "custoDeck": 1,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_20_001020_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mfxhxjyj9ikb855-extrato-de-adubo"
+  }
+]

@@ -1,80 +1,23 @@
-﻿{
+{
     "expansions":  [
-                       {
-                           "name":  "Dominacao Genetica",
-                           "code":  "A1"
-                       },
-                       {
-                           "name":  "Ilha Mitica",
-                           "code":  "A1a"
-                       },
-                       {
-                           "name":  "Embate do Tempo e Espaco",
-                           "code":  "A2"
-                       },
-                       {
-                           "name":  "Luz Triunfante",
-                           "code":  "A2a"
-                       },
-                       {
-                           "name":  "Festival Brilhante",
-                           "code":  "A2b"
-                       },
-                       {
-                           "name":  "Guardioes Celestiais",
-                           "code":  "A3"
-                       },
-                       {
-                           "name":  "Crise Extradimensional",
-                           "code":  "A3a"
-                       },
-                       {
-                           "name":  "Bosque dos Eevee",
-                           "code":  "A3b"
-                       },
-                       {
-                           "name":  "Sabedoria dos Ceus e Mares",
-                           "code":  "A4"
-                       },
-                       {
-                           "name":  "Nascentes Reclusas",
-                           "code":  "A4a"
-                       },
-                       {
-                           "name":  "Pacote Deluxe ex",
-                           "code":  "A4b"
-                       },
-                       {
-                           "name":  "PROMO-A",
-                           "code":  "PROMO-A"
-                       },
-                       {
-                           "name":  "Mega Ascensao",
-                           "code":  "B1"
-                       },
-                       {
-                           "name":  "Chama Carmesim",
-                           "code":  "B1a"
-                       },
-                       {
-                           "name":  "Desfile Onirico",
-                           "code":  "B2"
-                       },
-                       {
-                           "name":  "Maravilhas de Paldea",
-                           "code":  "B2a"
-                       },
-                       {
-                           "name":  "Mega Brilho",
-                           "code":  "B2b"
-                       },
-                       {
-                           "name":  "Aura Pulsante",
-                           "code":  "B3"
-                       },
-                       {
-                           "name":  "PROMO-B",
-                           "code":  "PROMO-B"
-                       }
+                       {"name":  "PROMO-A",                    "code":  "PROMO-A"},
+                       {"name":  "Dominacao Genetica",         "code":  "A1"},
+                       {"name":  "Ilha Mitica",                "code":  "A1a"},
+                       {"name":  "Embate do Tempo e Espaco",   "code":  "A2"},
+                       {"name":  "Luz Triunfante",             "code":  "A2a"},
+                       {"name":  "Festival Brilhante",         "code":  "A2b"},
+                       {"name":  "Guardioes Celestiais",       "code":  "A3"},
+                       {"name":  "Crise Extradimensional",     "code":  "A3a"},
+                       {"name":  "Bosque dos Eevee",           "code":  "A3b"},
+                       {"name":  "Sabedoria dos Ceus e Mares", "code":  "A4"},
+                       {"name":  "Nascentes Reclusas",         "code":  "A4a"},
+                       {"name":  "Pacote Deluxe ex",           "code":  "A4b"},
+                       {"name":  "PROMO-B",                    "code":  "PROMO-B"},
+                       {"name":  "Mega Ascensao",              "code":  "B1"},
+                       {"name":  "Chama Carmesim",             "code":  "B1a"},
+                       {"name":  "Desfile Onirico",            "code":  "B2"},
+                       {"name":  "Maravilhas de Paldea",       "code":  "B2a"},
+                       {"name":  "Mega Brilho",                "code":  "B2b"},
+                       {"name":  "Aura Pulsante",              "code":  "B3"}
                    ]
 }

@@ -4,8 +4,9 @@ const maxDeck = 20;
 const maxCopies = 2;
 let renderToken = 0;
 const FAVORITES_KEY = "pocketia_favorites_v1";
+let metaDecks = [];
 const favorites = new Set();
-const FALLBACK_IMAGE_SRC = "./assets/cards/o416iiwlr5ayncv-bulbasaur.jpg";
+const FALLBACK_IMAGE_SRC = "./assets/cards/pokemon_pocket_card_back.png";
 
 let expansionOrder = [];
 let normalizedExpansionOrder = [];
@@ -27,6 +28,12 @@ const el = {
   simResults: document.getElementById("simResults"),
   loadStatus: document.getElementById("loadStatus"),
   suggestionsList: document.getElementById("suggestionsList"),
+  mostUsedList: document.getElementById("mostUsedList"),
+  metaDecksList: document.getElementById("metaDecksList"),
+  metaDeckModal: document.getElementById("metaDeckModal"),
+  metaDeckModalTitle: document.getElementById("metaDeckModalTitle"),
+  metaDeckModalGrid: document.getElementById("metaDeckModalGrid"),
+  metaDeckModalLoadBtn: document.getElementById("metaDeckModalLoadBtn"),
 
   searchInput: document.getElementById("searchInput"),
   tipoFilter: document.getElementById("tipoFilter"),
@@ -35,6 +42,7 @@ const el = {
   estagioFilter: document.getElementById("estagioFilter"),
   expansaoFilter: document.getElementById("expansaoFilter"),
   fraquezaFilter: document.getElementById("fraquezaFilter"),
+  attackEnergyFilter: document.getElementById("attackEnergyFilter"),
   habilidadeFilter: document.getElementById("habilidadeFilter"),
   recuoFilter: document.getElementById("recuoFilter"),
   recuoLabel: document.getElementById("recuoLabel"),
@@ -64,7 +72,8 @@ function canInit() {
     "cardsGrid","deckList","deckCount","simResults","loadStatus","searchInput","tipoFilter","elementoFilter",
     "raridadeFilter","estagioFilter","expansaoFilter","fraquezaFilter","habilidadeFilter",
     "recuoFilter","recuoLabel","vidaSlider","ataqueSlider","vidaMinLabel","vidaMaxLabel","ataqueMinLabel","ataqueMaxLabel","custoAtaqueSlider","custoAtaqueMinLabel","custoAtaqueMaxLabel","formatoFilter","sortField","sortDir","imageOnlyToggle",
-    "favoriteOnlyToggle",
+    "favoriteOnlyToggle","attackEnergyFilter","mostUsedList","metaDecksList",
+    "metaDeckModal","metaDeckModalTitle","metaDeckModalGrid","metaDeckModalLoadBtn",
     "simCount","aiProfile","runSimBtn"
   ];
   return required.every((k) => el[k]);
@@ -83,6 +92,10 @@ function normalizeKey(value) {
     .trim();
 }
 
+function normalizeSetCode(value) {
+  return String(value || "").trim().toUpperCase();
+}
+
 function configureExpansions(expansions) {
   expansionOrder = expansions.map((e) => String(e.name || "").trim()).filter(Boolean);
   normalizedExpansionOrder = expansionOrder.map((name) => normalizeKey(name));
@@ -91,7 +104,7 @@ function configureExpansions(expansions) {
 
   expansions.forEach((entry, index) => {
     const name = String(entry.name || "").trim();
-    const code = String(entry.code || "").trim();
+    const code = normalizeSetCode(entry.code);
     if (!name || !code) return;
     expansionToSetCode[name] = code;
     setSortIndex[code] = index;
@@ -118,12 +131,305 @@ function selectedValues(selectEl) {
   return new Set([...selectEl.selectedOptions].map((opt) => opt.value).filter(Boolean));
 }
 
+function normalizeEnergyType(value) {
+  return normalizeKey(value)
+    .replace(/^lightning$/, "raio")
+    .replace(/^electrico$|^eletrico$/, "raio")
+    .replace(/^grass$|^grama$/, "planta")
+    .replace(/^fighting$|^lutador$/, "luta")
+    .replace(/^dark$|^noturno$/, "escuridao")
+    .replace(/^steel$|^metalico$/, "metal")
+    .replace(/^psychic$/, "psiquico")
+    .replace(/^water$/, "agua")
+    .replace(/^fire$/, "fogo")
+    .replace(/^dragon$/, "dragao")
+    .replace(/^colorless$|^colourless$/, "incolor");
+}
+
+function cardHasAttackType(card, selectedAttackTypes) {
+  if (!selectedAttackTypes.size) return true;
+  const ataques = Array.isArray(card.ataqueLista) ? card.ataqueLista : [];
+  for (const atk of ataques) {
+    const custos = Array.isArray(atk?.custoataque) ? atk.custoataque : [];
+    for (const custo of custos) {
+      if (selectedAttackTypes.has(normalizeEnergyType(custo))) return true;
+    }
+  }
+  return false;
+}
+
+function findCardByName(name) {
+  const n = String(name || "").trim().toLowerCase();
+  if (!n) return null;
+  return cards.find((c) => String(c.nome || "").trim().toLowerCase() === n) || null;
+}
+
+/**
+ * Resolve uma carta de meta-decks.json: string (nome), id unico, ou objeto com criterios.
+ * Objeto aceito: { id }, { nome, expansao?, raridade?, numero? } — use o mesmo texto de `expansao`/`raridade`/`numero` da base.
+ */
+function findCardByMetaRef(ref) {
+  if (ref == null) return null;
+  if (typeof ref === "string") {
+    return findCardByName(ref);
+  }
+  if (typeof ref === "object" && !Array.isArray(ref)) {
+    const idRaw = ref.id;
+    if (idRaw != null && String(idRaw).trim() !== "") {
+      const id = String(idRaw).trim();
+      return cards.find((c) => String(c.id) === id) || null;
+    }
+    const nome = String(ref.nome || ref.name || "").trim();
+    if (!nome) return null;
+    const nKey = nome.toLowerCase();
+    let candidates = cards.filter((c) => String(c.nome || "").trim().toLowerCase() === nKey);
+    const expWanted = ref.expansao != null ? String(ref.expansao).trim() : "";
+    if (expWanted) {
+      const next = candidates.filter((c) => String(c.expansao || "").trim() === expWanted);
+      if (next.length) candidates = next;
+    }
+    const rarWanted = ref.raridade != null ? String(ref.raridade).trim() : "";
+    if (rarWanted) {
+      const next = candidates.filter((c) => String(c.raridade || "").trim() === rarWanted);
+      if (next.length) candidates = next;
+    }
+    const numWanted = ref.numero != null ? String(ref.numero).trim() : "";
+    if (numWanted) {
+      const next = candidates.filter((c) => String(c.numero || "").trim() === numWanted);
+      if (next.length) candidates = next;
+    }
+    if (candidates.length) return candidates[0];
+    return null;
+  }
+  return null;
+}
+
+function metaRefLabel(ref) {
+  if (ref == null) return "";
+  if (typeof ref === "string") return ref;
+  if (typeof ref === "object" && !Array.isArray(ref)) {
+    if (ref.id != null && String(ref.id).trim() !== "") return String(ref.id).trim();
+    const nome = String(ref.nome || ref.name || "").trim();
+    if (!nome) return "";
+    const bits = [nome];
+    if (ref.expansao) bits.push(String(ref.expansao).trim());
+    if (ref.raridade) bits.push(String(ref.raridade).trim());
+    return bits.join(" · ");
+  }
+  return String(ref);
+}
+
+function escapeHtml(value) {
+  return String(value ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+let metaModalDeckIndex = -1;
+
+function getMetaDeckPrincipalCard(def) {
+  if (!def) return null;
+  let explicitRef = def.principal ?? def.capa ?? null;
+  if (explicitRef == null && def.capaId != null && String(def.capaId).trim() !== "") {
+    explicitRef = { id: String(def.capaId).trim() };
+  }
+  if (explicitRef != null) {
+    const c = findCardByMetaRef(explicitRef);
+    if (c) return c;
+  }
+  const list = Array.isArray(def.cartas) ? def.cartas : [];
+  for (const ref of list) {
+    const c = findCardByMetaRef(ref);
+    if (c && normalizeKey(c.categoria) === "pokemon") return c;
+  }
+  for (const ref of list) {
+    const c = findCardByMetaRef(ref);
+    if (c) return c;
+  }
+  return null;
+}
+
+function renderMetaDeckModalGrid(index) {
+  if (!el.metaDeckModalGrid) return;
+  const def = metaDecks[index];
+  if (!def || !Array.isArray(def.cartas)) {
+    el.metaDeckModalGrid.innerHTML = "";
+    return;
+  }
+
+  const orderKeys = [];
+  const agg = new Map();
+
+  for (const ref of def.cartas) {
+    const card = findCardByMetaRef(ref);
+    const label = metaRefLabel(ref);
+    if (card) {
+      const key = `id:${String(card.id)}`;
+      if (!agg.has(key)) {
+        agg.set(key, { kind: "card", card, count: 0 });
+        orderKeys.push(key);
+      }
+      agg.get(key).count += 1;
+    } else {
+      const ukey = `miss:${label || ""}`;
+      if (!agg.has(ukey)) {
+        agg.set(ukey, { kind: "missing", label: label || "Carta desconhecida", count: 0 });
+        orderKeys.push(ukey);
+      }
+      agg.get(ukey).count += 1;
+    }
+  }
+
+  const parts = [];
+  for (const key of orderKeys) {
+    const row = agg.get(key);
+    const qtyBadge =
+      row.count > 1 ? `<span class="meta-modal-qty">${row.count}x</span>` : "";
+    if (row.kind === "card") {
+      const { card } = row;
+      const imgSrc = getCardImageSrc(card);
+      const nomeEsc = escapeHtml(card.nome);
+      parts.push(`
+        <div class="meta-modal-slot">
+          <div class="meta-modal-slot-thumb">
+            ${qtyBadge}
+            <img class="deck-thumb" src="${imgSrc}" alt="${nomeEsc}" loading="lazy"
+              onload="if(this.naturalWidth>this.naturalHeight){this.classList.add('is-wallpaper')}"
+              onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
+          </div>
+          <span class="meta-modal-slot-name">${nomeEsc}</span>
+        </div>`);
+    } else {
+      const labelEsc = escapeHtml(row.label);
+      parts.push(`
+        <div class="meta-modal-slot">
+          <div class="meta-modal-slot-thumb meta-modal-slot-missing">
+            ${qtyBadge}
+            <span>?</span>
+          </div>
+          <span class="meta-modal-slot-name meta-modal-slot-unknown">${labelEsc}</span>
+        </div>`);
+    }
+  }
+  el.metaDeckModalGrid.innerHTML = parts.join("");
+}
+
+function openMetaDeckModal(index) {
+  if (!el.metaDeckModal) return;
+  if (!Number.isFinite(index) || index < 0 || index >= metaDecks.length) return;
+  metaModalDeckIndex = index;
+  const def = metaDecks[index];
+  const title = def?.nome || `Deck ${index + 1}`;
+  if (el.metaDeckModalTitle) el.metaDeckModalTitle.textContent = title;
+  renderMetaDeckModalGrid(index);
+  el.metaDeckModal.classList.add("open");
+  el.metaDeckModal.setAttribute("aria-hidden", "false");
+  document.body.classList.add("meta-modal-open");
+  queueMicrotask(() => el.metaDeckModalLoadBtn?.focus({ preventScroll: true }));
+}
+
+function closeMetaDeckModal() {
+  if (!el.metaDeckModal) return;
+  el.metaDeckModal.classList.remove("open");
+  el.metaDeckModal.setAttribute("aria-hidden", "true");
+  document.body.classList.remove("meta-modal-open");
+  metaModalDeckIndex = -1;
+}
+
+function getMostUsedCards(limit = 20) {
+  const counts = new Map();
+  for (const deckDef of metaDecks) {
+    const list = Array.isArray(deckDef?.cartas) ? deckDef.cartas : [];
+    for (const ref of list) {
+      const card = findCardByMetaRef(ref);
+      if (!card) continue;
+      const k = String(card.id);
+      counts.set(k, (counts.get(k) || 0) + 1);
+    }
+  }
+  return [...counts.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, limit)
+    .map(([id, usos]) => ({ card: cards.find((c) => String(c.id) === String(id)), usos }))
+    .filter((x) => x.card);
+}
+
+function renderMostUsedCards() {
+  if (!el.mostUsedList) return;
+  el.mostUsedList.innerHTML = "";
+  const mostUsed = getMostUsedCards(20);
+  if (!mostUsed.length) {
+    el.mostUsedList.innerHTML = "<p>Nenhum dado de uso disponivel.</p>";
+    return;
+  }
+  mostUsed.forEach(({ card }) => {
+    const item = document.createElement("div");
+    item.className = "deck-item";
+    const imageSrc = getCardImageSrc(card);
+    item.innerHTML = `
+      <div class="deck-item-main" style="width:72px;aspect-ratio:63/88;">
+        <img class="deck-thumb" src="${imageSrc}" alt="${card.nome}" title="${card.nome}" onload="if(this.naturalWidth>this.naturalHeight){this.classList.add('is-wallpaper')}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
+        <button class="deck-add" data-add="${card.id}" title="Adicionar ao deck">+</button>
+      </div>
+    `;
+    el.mostUsedList.appendChild(item);
+  });
+}
+
+function renderMetaDecks() {
+  if (!el.metaDecksList) return;
+  el.metaDecksList.innerHTML = "";
+  if (!metaDecks.length) {
+    el.metaDecksList.innerHTML = "<p>Nenhum deck de meta carregado.</p>";
+    return;
+  }
+  metaDecks.forEach((d, i) => {
+    const principal = getMetaDeckPrincipalCard(d);
+    const title = d.nome || `Deck ${i + 1}`;
+    const imageSrc = principal ? getCardImageSrc(principal) : FALLBACK_IMAGE_SRC;
+    const article = document.createElement("article");
+    article.className = "meta-deck-tile";
+    article.setAttribute("role", "listitem");
+    article.dataset.openMeta = String(i);
+    article.tabIndex = 0;
+    article.setAttribute("aria-label", `Abrir deck ${title}`);
+    article.innerHTML = `
+      <div class="meta-deck-tile-visual">
+        <img class="meta-deck-tile-img deck-thumb" src="${imageSrc}" alt="" loading="lazy"
+          onload="if(this.naturalWidth>this.naturalHeight){this.classList.add('is-wallpaper')}"
+          onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
+      </div>
+      <h3 class="meta-deck-tile-name">${escapeHtml(title)}</h3>
+      <button type="button" class="meta-deck-load-btn" data-load-meta="${i}">Carregar no Seu Deck</button>
+    `;
+    el.metaDecksList.appendChild(article);
+  });
+}
+
+function loadMetaDeckIntoDeck(index) {
+  const def = metaDecks[index];
+  if (!def || !Array.isArray(def.cartas)) return;
+  deck.length = 0;
+  const copyCounter = new Map();
+  for (const ref of def.cartas) {
+    const card = findCardByMetaRef(ref);
+    if (!card) continue;
+    const id = String(card.id);
+    const copies = copyCounter.get(id) || 0;
+    if (copies >= maxCopies || deck.length >= maxDeck) continue;
+    copyCounter.set(id, copies + 1);
+    deck.push(id);
+  }
+  renderDeck();
+}
 function expansionRank(expansao) {
   const canonical = canonicalExpansionName(expansao);
   const codeMatch = canonical.match(/\(([A-Za-z0-9-]+)\)\s*$/);
-  const codeFromName = codeMatch ? codeMatch[1].toUpperCase() : "";
+  const codeFromName = codeMatch ? normalizeSetCode(codeMatch[1]) : "";
   if (codeFromName && setSortIndex[codeFromName] !== undefined) return setSortIndex[codeFromName];
-  const setCode = expansionToSetCodeNormalized[normalizeKey(canonical)] || "";
+  const setCode = normalizeSetCode(expansionToSetCodeNormalized[normalizeKey(canonical)] || "");
   if (setCode && setSortIndex[setCode] !== undefined) return setSortIndex[setCode];
   const key = normalizeKey(canonical);
   const idx = normalizedExpansionOrder.indexOf(key);
@@ -164,19 +470,29 @@ function normalizeCard(card) {
 }
 
 function hasValidImage(card) {
-  return Boolean(String(card?.imageLocal || "").trim());
+  const local = String(card?.imageLocal || "").trim();
+  const remote = String(card?.imageUrl || "").trim();
+  return Boolean(local || remote);
+}
+
+function getPrimaryCardImage(card) {
+  if (!card) return "";
+  const local = String(card.imageLocal || "").trim();
+  if (local) return local;
+  const remote = String(card.imageUrl || "").trim();
+  if (remote) return remote;
+  return "";
 }
 
 function getCardImageSrc(card) {
   if (!card) return FALLBACK_IMAGE_SRC;
-  if (hasValidImage(card)) return card.imageLocal;
+  const image = getPrimaryCardImage(card);
+  if (image) return image;
   return FALLBACK_IMAGE_SRC;
 }
 
 function getCardImageSrcStrict(card) {
-  if (!card) return "";
-  if (hasValidImage(card)) return card.imageLocal;
-  return "";
+  return getPrimaryCardImage(card);
 }
 
 function getSuggestionImageSrc(card, suggestionName) {
@@ -255,6 +571,7 @@ function getFilteredCards() {
   const estagios = selectedValues(el.estagioFilter);
   const expansoes = selectedValues(el.expansaoFilter);
   const fraquezas = selectedValues(el.fraquezaFilter);
+  const attackTypes = new Set([...selectedValues(el.attackEnergyFilter)].map(normalizeEnergyType));
   const habilidade = el.habilidadeFilter.value;
   const recuoMax = safeNumber(el.recuoFilter.value, 5);
   const vidaValues = el.vidaSlider?.noUiSlider ? el.vidaSlider.noUiSlider.get() : [0, 300];
@@ -284,6 +601,7 @@ function getFilteredCards() {
       if (estagios.size && !estagios.has(card.estagio)) return false;
       if (expansoes.size && !expansoes.has(card.expansao)) return false;
       if (fraquezas.size && !fraquezas.has(card.fraqueza)) return false;
+      if (!cardHasAttackType(card, attackTypes)) return false;
       if (habilidade === "tem" && !card.habilidade) return false;
       if (habilidade === "nao-tem" && card.habilidade) return false;
       if (card.recuo > recuoMax) return false;
@@ -434,6 +752,7 @@ function renderDeck() {
   if (!deck.length) {
     el.deckList.innerHTML = "<p>Seu deck esta vazio.</p>";
     el.suggestionsList.innerHTML = "<p>Adicione cartas ao deck para ver sugestoes.</p>";
+    renderMostUsedCards();
     return;
   }
 
@@ -460,6 +779,7 @@ function renderDeck() {
   });
 
   renderSuggestions();
+  renderMostUsedCards();
 }
 
 function renderSuggestions() {
@@ -611,7 +931,7 @@ function bindInputLabels() {
 function bindCustomMultiSelects() {
   const multiSelects = [
     el.tipoFilter, el.elementoFilter, el.raridadeFilter, el.estagioFilter,
-    el.expansaoFilter, el.fraquezaFilter, el.formatoFilter
+    el.expansaoFilter, el.fraquezaFilter, el.attackEnergyFilter, el.formatoFilter
   ].filter(Boolean);
 
   const closeAll = (exceptPanel = null) => {
@@ -777,7 +1097,7 @@ function init() {
   });
   populateFilter(el.raridadeFilter, rarityValues);
   populateFilter(el.estagioFilter, stageOrder);
-  const expansionValues = uniqueValues("expansao").sort((a, b) => expansionRank(b) - expansionRank(a));
+  const expansionValues = uniqueValues("expansao").sort((a, b) => expansionRank(a) - expansionRank(b));
   for (const exp of expansionValues) {
     const option = document.createElement("option");
     option.value = exp;
@@ -785,9 +1105,10 @@ function init() {
     el.expansaoFilter.appendChild(option);
   }
   populateFilter(el.fraquezaFilter, tipoDisplayOrder);
+  populateFilter(el.attackEnergyFilter, tipoDisplayOrder);
 
   [
-    el.searchInput, el.tipoFilter, el.elementoFilter, el.raridadeFilter, el.estagioFilter, el.expansaoFilter, el.fraquezaFilter,
+    el.searchInput, el.tipoFilter, el.elementoFilter, el.raridadeFilter, el.estagioFilter, el.expansaoFilter, el.fraquezaFilter, el.attackEnergyFilter,
     el.habilidadeFilter, el.formatoFilter, el.sortField, el.sortDir, el.imageOnlyToggle, el.favoriteOnlyToggle
   ].filter(Boolean).forEach((node) => node.addEventListener("input", renderCards));
 
@@ -798,8 +1119,17 @@ function init() {
   el.cardsGrid?.addEventListener("click", (event) => {
     const favBtn = event.target.closest(".card-fav");
     if (favBtn?.dataset.favorite) {
-      toggleFavorite(favBtn.dataset.favorite);
-      renderCards();
+      const cardId = String(favBtn.dataset.favorite);
+      toggleFavorite(cardId);
+      if (el.favoriteOnlyToggle?.checked) {
+        renderCards();
+        return;
+      }
+      const nowFavorite = isFavorite(cardId);
+      favBtn.classList.toggle("active", nowFavorite);
+      const label = nowFavorite ? "Remover dos favoritos" : "Adicionar aos favoritos";
+      favBtn.title = label;
+      favBtn.setAttribute("aria-label", label);
       return;
     }
     const cardEl = event.target.closest(".card-clickable");
@@ -822,24 +1152,94 @@ function init() {
       return;
     }
   });
+  el.mostUsedList?.addEventListener("click", (event) => {
+    const addId = event.target.dataset.add;
+    if (addId) addCard(addId);
+  });
+
+  el.metaDecksList?.addEventListener("click", (event) => {
+    const loadBtn = event.target.closest("[data-load-meta]");
+    if (loadBtn) {
+      event.stopPropagation();
+      const idx = Number(loadBtn.dataset.loadMeta);
+      if (Number.isFinite(idx)) loadMetaDeckIntoDeck(idx);
+      return;
+    }
+    const tile = event.target.closest("[data-open-meta]");
+    if (tile) {
+      const idx = Number(tile.dataset.openMeta);
+      if (Number.isFinite(idx)) openMetaDeckModal(idx);
+    }
+  });
+  el.metaDecksList?.addEventListener("keydown", (event) => {
+    const tile = event.target.closest("[data-open-meta]");
+    if (!tile || event.target.closest("[data-load-meta]")) return;
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      const idx = Number(tile.dataset.openMeta);
+      if (Number.isFinite(idx)) openMetaDeckModal(idx);
+    }
+  });
+
+  el.metaDeckModal?.addEventListener("click", (event) => {
+    if (event.target.closest("[data-meta-modal-close]")) closeMetaDeckModal();
+  });
+  el.metaDeckModalLoadBtn?.addEventListener("click", () => {
+    if (metaModalDeckIndex < 0) return;
+    loadMetaDeckIntoDeck(metaModalDeckIndex);
+    closeMetaDeckModal();
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && el.metaDeckModal?.classList.contains("open")) closeMetaDeckModal();
+  });
+
   el.runSimBtn?.addEventListener("click", renderSimulation);
 
   renderCards();
   renderDeck();
+  renderMetaDecks();
 }
 
+async function loadMetaDecksData() {
+  try {
+    const response = await fetch("./data/meta-decks.json", { cache: "no-store" });
+    if (!response.ok) {
+      metaDecks = [];
+      return;
+    }
+    const payload = await response.json();
+    metaDecks = Array.isArray(payload) ? payload : (Array.isArray(payload?.decks) ? payload.decks : []);
+  } catch {
+    metaDecks = [];
+  }
+}
 async function loadCardsData() {
   if (Array.isArray(window.POCKETIA_CARDS) && window.POCKETIA_CARDS.length) {
     cards = window.POCKETIA_CARDS;
     return;
   }
+
+  // Preferimos o JSON consolidado/adaptado para manter fontes originais separadas.
   try {
-    const indexResponse = await fetch("./data/cards/index.json", { cache: "no-store" });
+    const adaptedResponse = await fetch("./data/consolidated/cards-adapted.json", { cache: "no-store" });
+    if (adaptedResponse.ok) {
+      const adapted = await adaptedResponse.json();
+      if (Array.isArray(adapted) && adapted.length) {
+        cards = adapted;
+        return;
+      }
+    }
+  } catch {
+    // fallback para carregamento por arquivos de expansao
+  }
+
+  try {
+    const indexResponse = await fetch("./data/consolidated/index.json", { cache: "no-store" });
     if (!indexResponse.ok) throw new Error(`HTTP ${indexResponse.status}`);
     const indexPayload = await indexResponse.json();
     const files = Array.isArray(indexPayload) ? indexPayload : indexPayload?.files;
     if (!Array.isArray(files) || !files.length) {
-      throw new Error("data/cards/index.json vazio ou invalido.");
+      throw new Error("data/consolidated/index.json vazio ou invalido.");
     }
 
     const chunks = await Promise.all(
@@ -912,6 +1312,7 @@ async function loadTypesData() {
   await loadStagesData();
   await loadTypesData();
   await loadCardsData();
+  await loadMetaDecksData();
 
   try {
     init();
@@ -927,4 +1328,18 @@ async function loadTypesData() {
     }
   }
 })();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,0 +1,1581 @@
+[
+  {
+    "id": "p-b-001",
+    "categoria": "Pokemon",
+    "nome": "Pikachu",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Spark",
+        "dano": "10",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": "This attack also does 10 damage to 1 of your opponent's Benched PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "1 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-001.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_004490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q1tfwlvwdlkljoi-pikachu"
+  },
+  {
+    "id": "p-b-002",
+    "categoria": "Pokemon",
+    "nome": "Petilil",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Surprise Attack",
+        "dano": "30",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "2 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-002.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012930_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wdybr2holcydfus-petilil"
+  },
+  {
+    "id": "p-b-003",
+    "categoria": "Pokemon",
+    "nome": "Froakie",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Bubble",
+        "dano": "20",
+        "custoataque": [
+          "agua",
+          "agua"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active PokÃ©mon is now Paralyzed."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "3 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-003.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012940_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zaj08ss1r1avtta-froakie"
+  },
+  {
+    "id": "p-b-004",
+    "categoria": "Pokemon",
+    "nome": "Luxray",
+    "estagio": "2",
+    "evolucao": "Luxio",
+    "tipo": "Raio",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Flash Impact",
+        "dano": "110",
+        "custoataque": [
+          "raio",
+          "incolor"
+        ],
+        "efeito": "This attack also does 20 damage to 1 of your Benched PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "4 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-004.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_011700_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rbx1as8z7ds3fo9-luxray"
+  },
+  {
+    "id": "p-b-005",
+    "categoria": "Pokemon",
+    "nome": "Pidgey",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Peck",
+        "dano": "30",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "5 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-005.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012620_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fafruj6y6d9rjnu-pidgey"
+  },
+  {
+    "id": "p-b-006",
+    "categoria": "Pokemon",
+    "nome": "Mega Pidgeot ex",
+    "estagio": "2",
+    "evolucao": "Pidgeotto",
+    "tipo": "Incolor",
+    "hp": 210,
+    "ataque": [
+      {
+        "nomeataque": "Giant Twister",
+        "dano": "100",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Flip 3 coins. For each heads, discard a random Energy from your opponent's Active PokÃ©mon. If all of them are tails, this attack does nothing."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "ex",
+    "expansao": "PROMO-B",
+    "numero": "6 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-006.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012950_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o8blf9obavtch63-mega-pidgeot-ex"
+  },
+  {
+    "id": "p-b-007",
+    "categoria": "Pokemon",
+    "nome": "Torchic",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Peck",
+        "dano": "20",
+        "custoataque": [
+          "fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "7 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-007.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_011150_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cqsa5krmiam9qdt-torchic"
+  },
+  {
+    "id": "p-b-008",
+    "categoria": "Pokemon",
+    "nome": "Psyduck",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Rain Splash",
+        "dano": "20",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "8 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-008.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_011300_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/673uuaanjttyojg-psyduck"
+  },
+  {
+    "id": "p-b-009",
+    "categoria": "Pokemon",
+    "nome": "Mega Absol ex",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Darkness Claw",
+        "dano": "80",
+        "custoataque": [
+          "escuridao",
+          "escuridao"
+        ],
+        "efeito": "Your opponent reveals their hand. Choose a Supporter card you find there and discard it."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "ex",
+    "expansao": "PROMO-B",
+    "numero": "9 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-009.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012330_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gjpvvcksjmdc2us-mega-absol-ex"
+  },
+  {
+    "id": "p-b-010",
+    "categoria": "Pokemon",
+    "nome": "Drifblim",
+    "estagio": "1",
+    "evolucao": "Drifloon",
+    "tipo": "Psiquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Balloon Barrage",
+        "dano": "20+",
+        "custoataque": [
+          "psiquico",
+          "incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Energy attached to this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "10 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-010.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_011900_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/07wcbha12eqkksu-drifblim"
+  },
+  {
+    "id": "p-b-011",
+    "categoria": "Pokemon",
+    "nome": "Eevee",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Stampede",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": true,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "11 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-011.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012660_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/skcoyccpwl8qftr-eevee"
+  },
+  {
+    "id": "p-b-012",
+    "categoria": "Pokemon",
+    "nome": "Ditto",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Copy a Friend",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Choose 1 of your Benched PokÃ©mon's attacks, except any PokÃ©mon ex, and use it as this attack. If this PokÃ©mon doesn't have the necessary Energy to use that attack, this attack does nothing."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "12 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-012.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013060_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t4kbjez31khnr4z-ditto"
+  },
+  {
+    "id": "p-b-013",
+    "categoria": "Pokemon",
+    "nome": "Arcanine",
+    "estagio": "1",
+    "evolucao": "Growlithe",
+    "tipo": "Fogo",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Fire Fang",
+        "dano": "50",
+        "custoataque": [
+          "fogo",
+          "fogo"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active PokÃ©mon is now Burned."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "13 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-013.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_011110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/91ahdupmo3zf07p-arcanine"
+  },
+  {
+    "id": "p-b-014",
+    "categoria": "Pokemon",
+    "nome": "Magikarp",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 30,
+    "ataque": [
+      {
+        "nomeataque": "Expert Splasher",
+        "dano": "10+",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": "Flip 2 coins. If both of them are heads, this attack does 20 more damage."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "14 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-014.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012960_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/83hy6282lkr2j1y-magikarp"
+  },
+  {
+    "id": "p-b-015",
+    "categoria": "Pokemon",
+    "nome": "Mareep",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Rear Kick",
+        "dano": "10",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "15 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-015.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_011640_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/elplzgbsll4996t-mareep"
+  },
+  {
+    "id": "p-b-016",
+    "categoria": "Pokemon",
+    "nome": "Krookodile",
+    "estagio": "2",
+    "evolucao": "Krokorok",
+    "tipo": "Luta",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Chomp Chomp Bite",
+        "dano": "90",
+        "custoataque": [
+          "luta",
+          "luta",
+          "incolor"
+        ],
+        "efeito": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "16 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-016.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012140_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5iwgh75cjzdqsz5-krookodile"
+  },
+  {
+    "id": "p-b-017",
+    "categoria": "Pokemon",
+    "nome": "Swablu",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Find a Friend",
+        "dano": "",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Put a random PokÃ©mon from your deck into your hand."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "17 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-017.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012970_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q0060a7orzlzc5h-swablu"
+  },
+  {
+    "id": "p-b-018",
+    "categoria": "Pokemon",
+    "nome": "Heliolisk",
+    "estagio": "1",
+    "evolucao": "Helioptile",
+    "tipo": "Raio",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Thunderbolt",
+        "dano": "120",
+        "custoataque": [
+          "raio",
+          "raio"
+        ],
+        "efeito": "Discard all Energy from this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "18 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-018.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9a0bktcf0avobs1-heliolisk"
+  },
+  {
+    "id": "p-b-019",
+    "categoria": "Pokemon",
+    "nome": "Buneary",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Double Kick",
+        "dano": "20x",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "19 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-019.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w1ecfdpgljuv5e1-buneary"
+  },
+  {
+    "id": "p-b-020",
+    "categoria": "Pokemon",
+    "nome": "Charmeleon",
+    "estagio": "1",
+    "evolucao": "Charmander",
+    "tipo": "Fogo",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Steady Firebreathing",
+        "dano": "50",
+        "custoataque": [
+          "fogo",
+          "fogo",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Promo",
+    "habilidade": true,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "20 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-020.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012980_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z8oxx1fkcrnmptu-charmeleon"
+  },
+  {
+    "id": "p-b-021",
+    "categoria": "Pokemon",
+    "nome": "Onix",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Tail Smash",
+        "dano": "90",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "21 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-021.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012990_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6o1in6w379hl202-onix"
+  },
+  {
+    "id": "p-b-022",
+    "categoria": "Pokemon",
+    "nome": "Hawlucha",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Luta",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Aerial Ace",
+        "dano": "40+",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "22 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-022.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013000_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/65u796vdbx20s3i-hawlucha"
+  },
+  {
+    "id": "p-b-023",
+    "categoria": "Pokemon",
+    "nome": "Genesect",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Metal",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Metal Blast",
+        "dano": "10+",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Metal Energy attached to this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "23 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-023.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013010_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gl22rzu1n6jzr33-genesect"
+  },
+  {
+    "id": "p-b-024",
+    "categoria": "Pokemon",
+    "nome": "Mega Latios ex",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Dragao",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Sonic Impulse",
+        "dano": "160",
+        "custoataque": [
+          "agua",
+          "agua",
+          "psiquico"
+        ],
+        "efeito": "Discard all Energy from this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "ex",
+    "expansao": "PROMO-B",
+    "numero": "24 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-024.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013020_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/guhvamed9q5auym-mega-latios-ex"
+  },
+  {
+    "id": "p-b-025",
+    "categoria": "Pokemon",
+    "nome": "Jirachi",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Star Drop",
+        "dano": "",
+        "custoataque": [
+          "psiquico"
+        ],
+        "efeito": "This attack does 30 damage to 1 of your opponent's PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "25 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-025.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_011880_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gkg0tb529gfxvw3-jirachi"
+  },
+  {
+    "id": "p-b-026",
+    "categoria": "Pokemon",
+    "nome": "Mudkip",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Surprise Attack",
+        "dano": "40",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "26 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-026.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015950_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sm60c7dg28eugp3-mudkip"
+  },
+  {
+    "id": "p-b-027",
+    "categoria": "Pokemon",
+    "nome": "Plusle",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Electric Tail",
+        "dano": "10",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active PokÃ©mon is now Paralyzed."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "27 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-027.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_014180_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/30cfg1vxxe20xpg-plusle"
+  },
+  {
+    "id": "p-b-028",
+    "categoria": "Pokemon",
+    "nome": "Ralts",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Psiquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Draining Kiss",
+        "dano": "10",
+        "custoataque": [
+          "psiquico"
+        ],
+        "efeito": "Heal 10 damage from this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "28 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-028.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015960_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/noh2iwgm4is6o38-ralts"
+  },
+  {
+    "id": "p-b-029",
+    "categoria": "Pokemon",
+    "nome": "Mega Medicham ex",
+    "estagio": "1",
+    "evolucao": "Meditite",
+    "tipo": "Luta",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Chakra Fist",
+        "dano": "100+",
+        "custoataque": [
+          "luta",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "If this PokÃ©mon has any Psychic Energy attached, this attack does 40 more damage. This attack's damage isn't affected by any effects on your opponent's Active PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "ex",
+    "expansao": "PROMO-B",
+    "numero": "29 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-029.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015970_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v1zc6ns6qshn4bz-mega-medicham-ex"
+  },
+  {
+    "id": "p-b-030",
+    "categoria": "Pokemon",
+    "nome": "Tornadus",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Blow Through",
+        "dano": "40+",
+        "custoataque": [
+          "incolor",
+          "incolor"
+        ],
+        "efeito": "If a Stadium is in play, this attack does 40 more damage."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "30 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-030.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9mmrr99ythkvit1-tornadus"
+  },
+  {
+    "id": "p-b-031",
+    "categoria": "Pokemon",
+    "nome": "Cinderace",
+    "estagio": "2",
+    "evolucao": "Raboot",
+    "tipo": "Fogo",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Fireball Shot",
+        "dano": "120",
+        "custoataque": [
+          "fogo",
+          "fogo"
+        ],
+        "efeito": "During your next turn, this PokÃ©mon can't attack."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 0,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "31 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-031.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013920_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mngr3ua19e4iuxo-cinderace"
+  },
+  {
+    "id": "p-b-032",
+    "categoria": "Pokemon",
+    "nome": "Alolan Vulpix",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Gnaw",
+        "dano": "20",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "32 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-032.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013940_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/subupmfi14gnrhr-vulpix-de-alola"
+  },
+  {
+    "id": "p-b-033",
+    "categoria": "Pokemon",
+    "nome": "Quaxly",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Splashing Dodge",
+        "dano": "10",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": "Flip a coin. If heads, during your opponent's next turn, prevent all damage fromâ€”and effects ofâ€”attacks done to this PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "33 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-033.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015310_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/67rs6rwavpjxt0p-quaxly"
+  },
+  {
+    "id": "p-b-034",
+    "categoria": "Pokemon",
+    "nome": "Smoliv",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Planta",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Nutrients",
+        "dano": "",
+        "custoataque": [
+          "planta"
+        ],
+        "efeito": "Heal 20 damage from 1 of your PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "34 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-034.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015980_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tjwc0r9xcdi9u4s-smoliv"
+  },
+  {
+    "id": "p-b-035",
+    "categoria": "Pokemon",
+    "nome": "Charcadet",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Punch",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "35 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-035.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5mjkiv4dp8xk1j3-charcadet"
+  },
+  {
+    "id": "p-b-036",
+    "categoria": "Pokemon",
+    "nome": "Tatsugiri",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Rally Back",
+        "dano": "20+",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": "If any of your PokÃ©mon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "36 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-036.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v0q0j60enjm4la8-tatsugiri"
+  },
+  {
+    "id": "p-b-037",
+    "categoria": "Pokemon",
+    "nome": "Frigibax",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Stiffen",
+        "dano": "",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": "During your opponent's next turn, this PokÃ©mon takes âˆ’20 damage from attacks."
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "37 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-037.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015990_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/58te37ka0eo62hf-frigibax"
+  },
+  {
+    "id": "p-b-038",
+    "categoria": "Pokemon",
+    "nome": "Tinkaton",
+    "estagio": "2",
+    "evolucao": "Tinkatuff",
+    "tipo": "Metal",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Gigaton Hammer",
+        "dano": "140",
+        "custoataque": [
+          "metal",
+          "metal",
+          "incolor"
+        ],
+        "efeito": "During your next turn, this PokÃ©mon can't use Gigaton Hammer."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "38 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-038.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015830_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q5og3kyplqv7qad-tinkaton"
+  },
+  {
+    "id": "p-b-039",
+    "categoria": "Pokemon",
+    "nome": "Pawmi",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Random Spark",
+        "dano": "",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": "This attack does 10 damage to 1 of your opponent's PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "39 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-039.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z0ku3znx9rpxdi9-pawmi"
+  },
+  {
+    "id": "p-b-040",
+    "categoria": "Pokemon",
+    "nome": "Paldean Clodsire",
+    "estagio": "1",
+    "evolucao": "Paldean Wooper",
+    "tipo": "Escuridao",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Muddy Hammer",
+        "dano": "70",
+        "custoataque": [
+          "escuridao",
+          "escuridao",
+          "incolor"
+        ],
+        "efeito": "Discard the top card of your opponent's deck."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "40 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-040.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015740_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ffg65nsc0un2loa-clodsire-de-paldea"
+  },
+  {
+    "id": "p-b-041",
+    "categoria": "Pokemon",
+    "nome": "Chien-Pao ex",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Icicle",
+        "dano": "20",
+        "custoataque": [
+          "agua"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Diving Icicles",
+        "dano": "",
+        "custoataque": [
+          "agua",
+          "agua",
+          "agua"
+        ],
+        "efeito": "Discard all Water Energy from this PokÃ©mon. This attack does 130 damage to 1 of your opponent's PokÃ©mon."
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "ex",
+    "expansao": "PROMO-B",
+    "numero": "41 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-041.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/owxq2ezoaay7j4h-chien-pao-ex"
+  },
+  {
+    "id": "p-b-042",
+    "categoria": "Pokemon",
+    "nome": "Slowpoke",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Agua",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Headbutt",
+        "dano": "30",
+        "custoataque": [
+          "agua",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "42 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-042.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016000_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wbr5jihaufynge6-slowpoke"
+  },
+  {
+    "id": "p-b-043",
+    "categoria": "Pokemon",
+    "nome": "Electrike",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Raio",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Reckless Charge",
+        "dano": "30",
+        "custoataque": [
+          "raio"
+        ],
+        "efeito": "This PokÃ©mon also does 10 damage to itself."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "43 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-043.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016010_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/czzpzlggxlcvzue-electrike"
+  },
+  {
+    "id": "p-b-044",
+    "categoria": "Pokemon",
+    "nome": "Varoom",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Metal",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Poison Gas",
+        "dano": "",
+        "custoataque": [
+          "metal"
+        ],
+        "efeito": "Your opponent's Active PokÃ©mon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "44 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-044.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016020_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e3gtefv9diml3ws-varoom"
+  },
+  {
+    "id": "p-b-045",
+    "categoria": "Pokemon",
+    "nome": "Haxorus",
+    "estagio": "2",
+    "evolucao": "Fraxure",
+    "tipo": "Dragao",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Frenzied Blade",
+        "dano": "50+",
+        "custoataque": [
+          "luta",
+          "metal",
+          "incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Benched PokÃ©mon (both yours and your opponent's)."
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "45 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-045.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r7ql31d0o9yajd6-haxorus"
+  },
+  {
+    "id": "p-b-046",
+    "categoria": "Pokemon",
+    "nome": "Chatot",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Spinning Draw",
+        "dano": "10",
+        "custoataque": [
+          "incolor"
+        ],
+        "efeito": "Draw a card."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "46 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-046.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i7he2klc100228x-chatot"
+  },
+  {
+    "id": "p-b-047",
+    "categoria": "Pokemon",
+    "nome": "Gastly",
+    "estagio": "basic",
+    "evolucao": "",
+    "tipo": "Escuridao",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Mumble",
+        "dano": "20",
+        "custoataque": [
+          "escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "47 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-047.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016050_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e5bxyy8ac7lpjdq-gastly"
+  },
+  {
+    "id": "p-b-048",
+    "categoria": "Pokemon",
+    "nome": "Wigglytuff",
+    "estagio": "1",
+    "evolucao": "Jigglypuff",
+    "tipo": "Incolor",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Hammer In",
+        "dano": "80",
+        "custoataque": [
+          "incolor",
+          "incolor",
+          "incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Promo",
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "expansao": "PROMO-B",
+    "numero": "48 / 48",
+    "pacote": "",
+    "imageLocal": "./assets/cards/p-b-048.jpg",
+    "custoDeck": 2,
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016060_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xct8ch8qd3vghcu-wigglytuff"
+  }
+]

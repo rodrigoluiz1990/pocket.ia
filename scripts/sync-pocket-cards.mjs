@@ -1,4 +1,4 @@
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, writeFile, readFile } from "node:fs/promises";
 import { resolve } from "node:path";
 
 const BASE_URL = "https://pocket.pokemongohub.net";
@@ -11,8 +11,25 @@ function argValue(name, fallback = "") {
 
 const OUTPUT_PATH = resolve(
   process.cwd(),
-  argValue("--out", "data/incoming/cards-synced.json")
+  argValue("--out", "data/raw/pokemongohub/all/cards-synced.json")
 );
+const EXPANSIONS_PATH = resolve(process.cwd(), "data/expansions.json");
+const RAW_SITE_ROOT = resolve(process.cwd(), "data/raw/pokemongohub");
+
+function normalizeKey(value) {
+  return String(value || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .trim();
+}
+
+function seriesFromCode(code) {
+  const c = String(code || "").toUpperCase();
+  if (/^A/.test(c) || c === "PROMO-A") return "a";
+  if (/^B/.test(c) || c === "PROMO-B") return "b";
+  return "misc";
+}
 
 function abs(url) {
   return url.startsWith("http") ? url : `${BASE_URL}${url}`;
@@ -169,6 +186,51 @@ async function run() {
   );
   await writeFile(OUTPUT_PATH, JSON.stringify(unique, null, 2), "utf8");
   console.log(`Finalizado. ${unique.length} cartas salvas em ${OUTPUT_PATH}`);
+
+  // Split por site/serie/colecao para uso como dados brutos organizados
+  try {
+    const expansionsRaw = await readFile(EXPANSIONS_PATH, "utf8");
+    const payload = JSON.parse(expansionsRaw.replace(/^\uFEFF/, ""));
+    const expansions = Array.isArray(payload) ? payload : payload?.expansions || [];
+    const codeByExpansion = new Map(
+      expansions.map((e) => [normalizeKey(e.name), String(e.code || "").trim()])
+    );
+
+    const byCode = new Map();
+    for (const card of unique) {
+      const code = codeByExpansion.get(normalizeKey(card.expansao));
+      if (!code) continue;
+      if (!byCode.has(code)) byCode.set(code, []);
+      byCode.get(code).push(card);
+    }
+
+    const rawFiles = [];
+    for (const [code, items] of byCode.entries()) {
+      const series = seriesFromCode(code);
+      const codeFile = String(code).toLowerCase();
+      const dir = resolve(RAW_SITE_ROOT, series);
+      await mkdir(dir, { recursive: true });
+      const outPath = resolve(dir, `${codeFile}.json`);
+      await writeFile(outPath, `${JSON.stringify(items, null, 2)}\n`, "utf8");
+      rawFiles.push({
+        code,
+        series,
+        path: `./data/raw/pokemongohub/${series}/${codeFile}.json`,
+        count: items.length
+      });
+    }
+
+    rawFiles.sort((a, b) => String(a.code).localeCompare(String(b.code)));
+    await mkdir(RAW_SITE_ROOT, { recursive: true });
+    await writeFile(
+      resolve(RAW_SITE_ROOT, "index.json"),
+      `${JSON.stringify({ site: "pokemongohub", files: rawFiles }, null, 2)}\n`,
+      "utf8"
+    );
+    console.log(`Raw por colecao atualizado em ${RAW_SITE_ROOT}`);
+  } catch (error) {
+    console.warn(`Aviso ao gerar raw por colecao: ${error.message}`);
+  }
 }
 
 run().catch((error) => {
