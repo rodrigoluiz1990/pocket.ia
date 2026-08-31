@@ -1,0 +1,4553 @@
+[
+  {
+    "id": "a3b-001",
+    "sourceId": "93yb6cdd566bp5v-tropius",
+    "categoria": "Pokemon",
+    "nome": "Tropius",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Vento Dilacerante",
+        "dano": "60",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "1 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-001.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007970_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/93yb6cdd566bp5v-tropius",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#1",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-002",
+    "sourceId": "49wilt7757hgizt-leafeon",
+    "categoria": "Pokemon",
+    "nome": "Leafeon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Folhas Bombásticas",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 damage for each Grass Energy attached to this Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "2 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-002.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007980_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/49wilt7757hgizt-leafeon",
+    "custoDeck": 3,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#2",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-003",
+    "sourceId": "7217nelxkwt3otl-bounsweet",
+    "categoria": "Pokemon",
+    "nome": "Bounsweet",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Baque",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "3 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-003.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007990_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7217nelxkwt3otl-bounsweet",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#3",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-004",
+    "sourceId": "g3c83z90ll6426m-steenee",
+    "categoria": "Pokemon",
+    "nome": "Steenee",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Passo de Folha",
+        "dano": "40",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "4 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-004.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008000_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g3c83z90ll6426m-steenee",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#4",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-005",
+    "sourceId": "5z63o4u3az71zm9-tsareena",
+    "categoria": "Pokemon",
+    "nome": "Tsareena",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Chute Precipitante",
+        "dano": "50",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Your opponent reveals a random card from their hand and shuffles it into their deck"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "5 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-005.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008010_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5z63o4u3az71zm9-tsareena",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#5",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-006",
+    "sourceId": "2nrwr2c352zk0f6-applin",
+    "categoria": "Pokemon",
+    "nome": "Applin",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 40,
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "20",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "6 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-006.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008020_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2nrwr2c352zk0f6-applin",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#6",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-007",
+    "sourceId": "e2053hv93o4kma4-appletun",
+    "categoria": "Pokemon",
+    "nome": "Appletun",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Revezamento Doce",
+        "dano": "40 +",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "7 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-007.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e2053hv93o4kma4-appletun",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#7",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-008",
+    "sourceId": "01q1u7gv07f9il0-flareon",
+    "categoria": "Pokemon",
+    "nome": "Flareon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Caldeira de Apoio",
+        "dano": "40",
+        "custoataque": [
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "8 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-008.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/01q1u7gv07f9il0-flareon",
+    "custoDeck": 3,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#8",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-009",
+    "sourceId": "m0800qm1tuktmzt-flareon-ex",
+    "categoria": "Pokemon",
+    "nome": "Flareon ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Chama Furacão",
+        "dano": "130",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "Discard 2 Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "9 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-009.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008050_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m0800qm1tuktmzt-flareon-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#9",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-010",
+    "sourceId": "0l4ux6lv243yga2-torkoal",
+    "categoria": "Pokemon",
+    "nome": "Torkoal",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Lança-chamas",
+        "dano": "70",
+        "custoataque": [
+          "Fogo",
+          "Fogo"
+        ],
+        "efeito": "Discard a Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "10 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-010.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008060_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0l4ux6lv243yga2-torkoal",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#10",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-011",
+    "sourceId": "f5yw75px3lv9k97-litten",
+    "categoria": "Pokemon",
+    "nome": "Litten",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Chama",
+        "dano": "40",
+        "custoataque": [
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "11 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-011.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008070_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f5yw75px3lv9k97-litten",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#11",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-012",
+    "sourceId": "87cj1h581l7v861-torracat",
+    "categoria": "Pokemon",
+    "nome": "Torracat",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Golpe de Garra",
+        "dano": "50",
+        "custoataque": [
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "12 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-012.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008080_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/87cj1h581l7v861-torracat",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#12",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-013",
+    "sourceId": "ld9jv931b13aa0p-incineroar",
+    "categoria": "Pokemon",
+    "nome": "Incineroar",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Lariat Escuro",
+        "dano": "100 ×",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 100 damage for each heads"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "13 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-013.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008090_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ld9jv931b13aa0p-incineroar",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#13",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-014",
+    "sourceId": "z3jstp6aw5pb1ii-salandit",
+    "categoria": "Pokemon",
+    "nome": "Salandit",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Brasa",
+        "dano": "30",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Discard a Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "14 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-014.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008100_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z3jstp6aw5pb1ii-salandit",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#14",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-015",
+    "sourceId": "83r5rkb9gmb8zr7-salazzle",
+    "categoria": "Pokemon",
+    "nome": "Salazzle",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Combustão",
+        "dano": "40",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "15 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-015.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/83r5rkb9gmb8zr7-salazzle",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#15",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-016",
+    "sourceId": "sasd21zinms6132-vaporeon",
+    "categoria": "Pokemon",
+    "nome": "Vaporeon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Hiper Redemoinho",
+        "dano": "70",
+        "custoataque": [
+          "Agua",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin until you get a tails. For each heads, discard a random Energy from your opponent's Active Pokénon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "16 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-016.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008120_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sasd21zinms6132-vaporeon",
+    "custoDeck": 3,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#16",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-017",
+    "sourceId": "8rblrm451g0211o-glaceon",
+    "categoria": "Pokemon",
+    "nome": "Glaceon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 100,
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "17 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-017.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008130_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8rblrm451g0211o-glaceon",
+    "custoDeck": 3,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#17",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-018",
+    "sourceId": "1r3njew9s4t02vx-vanillite",
+    "categoria": "Pokemon",
+    "nome": "Vanillite",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Revezamento Doce",
+        "dano": "10 +",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "18 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-018.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007320_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1r3njew9s4t02vx-vanillite",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#18",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-019",
+    "sourceId": "9m28k0053z9z39l-vanillish",
+    "categoria": "Pokemon",
+    "nome": "Vanillish",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Revezamento Doce",
+        "dano": "30 +",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "19 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-019.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008140_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9m28k0053z9z39l-vanillish",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#19",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-020",
+    "sourceId": "i85cl562z336lj4-vanilluxe",
+    "categoria": "Pokemon",
+    "nome": "Vanilluxe",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Giro Duplo",
+        "dano": "80 ×",
+        "custoataque": [
+          "Agua",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 80 damage for each heads"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "20 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-020.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008150_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i85cl562z336lj4-vanilluxe",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#20",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-021",
+    "sourceId": "x0rp3mqt13289hy-alomomola",
+    "categoria": "Pokemon",
+    "nome": "Alomomola",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Pulso d’Água",
+        "dano": "50",
+        "custoataque": [
+          "Agua",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "21 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-021.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008160_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x0rp3mqt13289hy-alomomola",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#21",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-022",
+    "sourceId": "ae8v2dd2512l05m-popplio",
+    "categoria": "Pokemon",
+    "nome": "Popplio",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Irrigação",
+        "dano": "30",
+        "custoataque": [
+          "Agua",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "22 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-022.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008170_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ae8v2dd2512l05m-popplio",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#22",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-023",
+    "sourceId": "910v79584356zc5-brionne",
+    "categoria": "Pokemon",
+    "nome": "Brionne",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Revólver d’Água",
+        "dano": "40",
+        "custoataque": [
+          "Agua",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "23 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-023.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008180_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/910v79584356zc5-brionne",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#23",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-024",
+    "sourceId": "4w04i8y2b1o737f-primarina-ex",
+    "categoria": "Pokemon",
+    "nome": "Primarina ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Jato d’Água",
+        "dano": "40 +",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "If this Pokémon has at least 1 extra Water Energy attached, this attack does 40 more damage"
+      },
+      {
+        "nomeataque": "Aria Cintilante",
+        "dano": "100",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "efeito": "Heal 20 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "24 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-024.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4w04i8y2b1o737f-primarina-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#24",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-025",
+    "sourceId": "ydu7dkdg1omhb88-jolteon",
+    "categoria": "Pokemon",
+    "nome": "Jolteon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Raio Inicial",
+        "dano": "40 +",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "If this Pokémon evolved during this turn, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "25 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-025.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007330_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ydu7dkdg1omhb88-jolteon",
+    "custoDeck": 3,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#25",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-026",
+    "sourceId": "1i11uwnx6er7s4t-joltik",
+    "categoria": "Pokemon",
+    "nome": "Joltik",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 40,
+    "ataque": [
+      {
+        "nomeataque": "Choque",
+        "dano": "10",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "26 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-026.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008200_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1i11uwnx6er7s4t-joltik",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#26",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-027",
+    "sourceId": "e69obpxg7xsq8g0-galvantula",
+    "categoria": "Pokemon",
+    "nome": "Galvantula",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Choque Elétrico",
+        "dano": "70",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "27 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-027.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e69obpxg7xsq8g0-galvantula",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#27",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-028",
+    "sourceId": "178s2bi0dkj2dnu-espeon",
+    "categoria": "Pokemon",
+    "nome": "Espeon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Esmagamento de Energia",
+        "dano": "20 +",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "This attack does 20 damage for each Energy atached to all your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "28 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-028.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/178s2bi0dkj2dnu-espeon",
+    "custoDeck": 3,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#28",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-029",
+    "sourceId": "f760s9px11gs9bt-woobat",
+    "categoria": "Pokemon",
+    "nome": "Woobat",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Lufada de Vento",
+        "dano": "20",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "29 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-029.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f760s9px11gs9bt-woobat",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#29",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-030",
+    "sourceId": "401apq126qea9jr-swoobat",
+    "categoria": "Pokemon",
+    "nome": "Swoobat",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "40",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "30 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-030.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008240_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/401apq126qea9jr-swoobat",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#30",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-031",
+    "sourceId": "mc8up980u0eof9t-swirlix",
+    "categoria": "Pokemon",
+    "nome": "Swirlix",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Revezamento Doce",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "31 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-031.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mc8up980u0eof9t-swirlix",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#31",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-032",
+    "sourceId": "aaeozq89o92528f-slurpuff",
+    "categoria": "Pokemon",
+    "nome": "Slurpuff",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Revezamento Doce",
+        "dano": "30 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "32 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-032.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008260_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aaeozq89o92528f-slurpuff",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#32",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-033",
+    "sourceId": "d5z46aexlcyt69h-sylveon",
+    "categoria": "Pokemon",
+    "nome": "Sylveon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Harmonia Evolutiva",
+        "dano": "30 +",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "This attack does 30 more damage for each Evolution Pokémon on your Bench"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "33 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-033.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d5z46aexlcyt69h-sylveon",
+    "custoDeck": 3,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#33",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-034",
+    "sourceId": "75zm3a0uzx4f74r-sylveon-ex",
+    "categoria": "Pokemon",
+    "nome": "Sylveon ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Vento de Fada",
+        "dano": "70",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "34 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-034.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/75zm3a0uzx4f74r-sylveon-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#34",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-035",
+    "sourceId": "398zmsudxc81p6r-mimikyu",
+    "categoria": "Pokemon",
+    "nome": "Mimikyu",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 70,
+    "ataque": [],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "35 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-035.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008290_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/398zmsudxc81p6r-mimikyu",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#35",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-036",
+    "sourceId": "1klb3b011552y39-milcery",
+    "categoria": "Pokemon",
+    "nome": "Milcery",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Revezamento Doce",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "36 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-036.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008300_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1klb3b011552y39-milcery",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#36",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-037",
+    "sourceId": "j905ii831785t65-alcremie",
+    "categoria": "Pokemon",
+    "nome": "Alcremie",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Sobrecarga Açucarada",
+        "dano": "40 ×",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "This attack does 40 damage for each time you used Sweets Relay during this game"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "37 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-037.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007340_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j905ii831785t65-alcremie",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#37",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-038",
+    "sourceId": "lzc07258ilk561h-barboach",
+    "categoria": "Pokemon",
+    "nome": "Barboach",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Tiro de Lama",
+        "dano": "20",
+        "custoataque": [
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "38 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-038.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008310_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lzc07258ilk561h-barboach",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#38",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-039",
+    "sourceId": "lhv5do522e7z99a-whiscash",
+    "categoria": "Pokemon",
+    "nome": "Whiscash",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Terremoto",
+        "dano": "130",
+        "custoataque": [
+          "Luta",
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 10 damagr to each of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "39 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-039.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008320_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lhv5do522e7z99a-whiscash",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#39",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-040",
+    "sourceId": "jo8w0seu72uam7w-mienfoo",
+    "categoria": "Pokemon",
+    "nome": "Mienfoo",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Chute Tiro",
+        "dano": "40",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "40 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-040.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008330_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jo8w0seu72uam7w-mienfoo",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#40",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-041",
+    "sourceId": "phohwgq49z196h7-mienshao",
+    "categoria": "Pokemon",
+    "nome": "Mienshao",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Rasteira",
+        "dano": "70",
+        "custoataque": [
+          "Luta",
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "41 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-041.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008340_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/phohwgq49z196h7-mienshao",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#41",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-042",
+    "sourceId": "ms3a8n039w605j5-carbink",
+    "categoria": "Pokemon",
+    "nome": "Carbink",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 80,
+    "ataque": [],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "42 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-042.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008350_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ms3a8n039w605j5-carbink",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#42",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-043",
+    "sourceId": "b9b215n12l7o924-umbreon",
+    "categoria": "Pokemon",
+    "nome": "Umbreon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Detenção Sombria",
+        "dano": "40",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "43 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-043.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008360_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b9b215n12l7o924-umbreon",
+    "custoDeck": 3,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#43",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-044",
+    "sourceId": "7ytp8j7f7s65j40-sableye",
+    "categoria": "Pokemon",
+    "nome": "Sableye",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Arranhão",
+        "dano": "30",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "44 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-044.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008370_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7ytp8j7f7s65j40-sableye",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#44",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-045",
+    "sourceId": "7b0qtyd4t4rl9ka-purrloin",
+    "categoria": "Pokemon",
+    "nome": "Purrloin",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "45 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-045.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008380_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7b0qtyd4t4rl9ka-purrloin",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#45",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-046",
+    "sourceId": "19q3xs29178wu97-liepard",
+    "categoria": "Pokemon",
+    "nome": "Liepard",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 90,
+    "ataque": [],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "46 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-046.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/19q3xs29178wu97-liepard",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#46",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-047",
+    "sourceId": "z7f7b4f3q7623e5-mawile",
+    "categoria": "Pokemon",
+    "nome": "Mawile",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Compressão Potente",
+        "dano": "30",
+        "custoataque": [
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "47 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-047.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008400_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z7f7b4f3q7623e5-mawile",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#47",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-048",
+    "sourceId": "iilo9s3v36e2964-togedemaru",
+    "categoria": "Pokemon",
+    "nome": "Togedemaru",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Espinhos Eriçados",
+        "dano": "30",
+        "custoataque": [
+          "Metal",
+          "Metal"
+        ],
+        "efeito": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "48 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-048.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iilo9s3v36e2964-togedemaru",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#48",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-049",
+    "sourceId": "y5870523q7od4bl-meltan",
+    "categoria": "Pokemon",
+    "nome": "Meltan",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "20",
+        "custoataque": [
+          "Metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "49 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-049.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y5870523q7od4bl-meltan",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#49",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-050",
+    "sourceId": "o4s59y8y7uas6e8-melmetal",
+    "categoria": "Pokemon",
+    "nome": "Melmetal",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Megassoco",
+        "dano": "90",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "50 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-050.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o4s59y8y7uas6e8-melmetal",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#50",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-051",
+    "sourceId": "6j28rq9305m87gy-dratini",
+    "categoria": "Pokemon",
+    "nome": "Dratini",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Pulso",
+        "dano": "20",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "51 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-051.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6j28rq9305m87gy-dratini",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#51",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-052",
+    "sourceId": "l2cbv3a7704s0nw-dragonair",
+    "categoria": "Pokemon",
+    "nome": "Dragonair",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Cachoeira",
+        "dano": "60",
+        "custoataque": [
+          "Agua",
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "52 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-052.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008440_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l2cbv3a7704s0nw-dragonair",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#52",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-053",
+    "sourceId": "7o62l41lma5wuue-dragonite-ex",
+    "categoria": "Pokemon",
+    "nome": "Dragonite ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Gigaimpacto",
+        "dano": "180",
+        "custoataque": [
+          "Agua",
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": "During your next turn, this Pokémon can't attack"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "53 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-053.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7o62l41lma5wuue-dragonite-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#53",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-054",
+    "sourceId": "1o5w92780zan52i-drampa",
+    "categoria": "Pokemon",
+    "nome": "Drampa",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Sopro do Dragão",
+        "dano": "70",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "54 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-054.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1o5w92780zan52i-drampa",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#54",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-055",
+    "sourceId": "p7e69ggmbb04z93-eevee",
+    "categoria": "Pokemon",
+    "nome": "Eevee",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "55 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-055.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p7e69ggmbb04z93-eevee",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#55",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-056",
+    "sourceId": "5nd3m7y1e8qax04-eevee-ex",
+    "categoria": "Pokemon",
+    "nome": "Eevee ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "30",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "56 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-056.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008480_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5nd3m7y1e8qax04-eevee-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#56",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-057",
+    "sourceId": "4436u9edc15qt61-snorlax-ex",
+    "categoria": "Pokemon",
+    "nome": "Snorlax ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Sopapo Adormecedor",
+        "dano": "130",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 4,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "57 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-057.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4436u9edc15qt61-snorlax-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#57",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-058",
+    "sourceId": "26lzc93wel0wq1o-aipom",
+    "categoria": "Pokemon",
+    "nome": "Aipom",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Golpe Duplo",
+        "dano": "20 ×",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "58 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-058.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008500_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/26lzc93wel0wq1o-aipom",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#58",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-059",
+    "sourceId": "sd53a4mn00k40d5-ambipom",
+    "categoria": "Pokemon",
+    "nome": "Ambipom",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Soco Saca-rolha",
+        "dano": "50",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "59 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-059.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sd53a4mn00k40d5-ambipom",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#59",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-060",
+    "sourceId": "i7i69fgn1438wp8-chatot",
+    "categoria": "Pokemon",
+    "nome": "Chatot",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Desafinar",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "60 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-060.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008520_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i7i69fgn1438wp8-chatot",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#60",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-061",
+    "sourceId": "dyh09s2p89yc44w-audino",
+    "categoria": "Pokemon",
+    "nome": "Audino",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Fazer a \"Ola\"",
+        "dano": "20 ×",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 damage for each of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "61 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-061.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008530_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dyh09s2p89yc44w-audino",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#61",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-062",
+    "sourceId": "4lb066qs17ow7ye-minccino",
+    "categoria": "Pokemon",
+    "nome": "Minccino",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Pancada",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "62 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-062.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008540_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4lb066qs17ow7ye-minccino",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#62",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-063",
+    "sourceId": "300w9sj1f2lvj6l-cinccino",
+    "categoria": "Pokemon",
+    "nome": "Cinccino",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Tapa",
+        "dano": "40",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "63 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-063.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008550_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/300w9sj1f2lvj6l-cinccino",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#63",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-064",
+    "sourceId": "0h1qk3i319mhd66-skwovet",
+    "categoria": "Pokemon",
+    "nome": "Skwovet",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "30",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "64 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-064.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008560_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0h1qk3i319mhd66-skwovet",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#64",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-065",
+    "sourceId": "djbum2806n3usp6-greedent",
+    "categoria": "Pokemon",
+    "nome": "Greedent",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Presa Acentuada",
+        "dano": "50 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "65 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-065.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007400_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/djbum2806n3usp6-greedent",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#65",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-066",
+    "sourceId": "867l17246h84ab5-eevee-bag",
+    "categoria": "Treinador",
+    "nome": "Bolsa de Eevee",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "66 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-066.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_10_000670_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/867l17246h84ab5-eevee-bag",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#66",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-067",
+    "sourceId": "8vucu9lh6taqf8n-leftovers",
+    "categoria": "Treinador",
+    "nome": "Sobras",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "67 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-067.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_10_000680_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8vucu9lh6taqf8n-leftovers",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#67",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-068",
+    "sourceId": "2239h87h20x54lt-hau",
+    "categoria": "Treinador",
+    "nome": "Hibi",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "68 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-068.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_10_000690_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2239h87h20x54lt-hau",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#68",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-069",
+    "sourceId": "25y9530c76rk6wc-penny",
+    "categoria": "Treinador",
+    "nome": "Penélope",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "69 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-069.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_10_000700_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/25y9530c76rk6wc-penny",
+    "custoDeck": 1,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#69",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-070",
+    "sourceId": "19s19676r6bl5io-leafeon",
+    "categoria": "Pokemon",
+    "nome": "Leafeon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Folhas Bombásticas",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 damage for each Grass Energy attached to this Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "70 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-070.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_007980_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/19s19676r6bl5io-leafeon",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#70",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-071",
+    "sourceId": "8e1k14s9u7w83c3-flareon",
+    "categoria": "Pokemon",
+    "nome": "Flareon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Caldeira de Apoio",
+        "dano": "40",
+        "custoataque": [
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "71 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-071.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8e1k14s9u7w83c3-flareon",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#71",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-072",
+    "sourceId": "6x1zl9fcm81w0i6-vaporeon",
+    "categoria": "Pokemon",
+    "nome": "Vaporeon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Hiper Redemoinho",
+        "dano": "70",
+        "custoataque": [
+          "Agua",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin until you get a tails. For each heads, discard a random Energy from your opponent's Active Pokénon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "72 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-072.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008120_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6x1zl9fcm81w0i6-vaporeon",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#72",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-073",
+    "sourceId": "0yc3a713ga52m28-glaceon",
+    "categoria": "Pokemon",
+    "nome": "Glaceon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 100,
+    "ataque": [],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "73 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-073.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008130_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0yc3a713ga52m28-glaceon",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#73",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-074",
+    "sourceId": "9fpu5v6l38y5033-jolteon",
+    "categoria": "Pokemon",
+    "nome": "Jolteon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Raio Inicial",
+        "dano": "40 +",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "If this Pokémon evolved during this turn, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "74 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-074.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_007330_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9fpu5v6l38y5033-jolteon",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#74",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-075",
+    "sourceId": "lhoq27rtw2661ve-espeon",
+    "categoria": "Pokemon",
+    "nome": "Espeon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Esmagamento de Energia",
+        "dano": "20 +",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "This attack does 20 damage for each Energy atached to all your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "75 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-075.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lhoq27rtw2661ve-espeon",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#75",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-076",
+    "sourceId": "r7uq9s41d9m638w-sylveon",
+    "categoria": "Pokemon",
+    "nome": "Sylveon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Harmonia Evolutiva",
+        "dano": "30 +",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "This attack does 30 more damage for each Evolution Pokémon on your Bench"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "76 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-076.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r7uq9s41d9m638w-sylveon",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#76",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-077",
+    "sourceId": "84c3u76tue67o44-umbreon",
+    "categoria": "Pokemon",
+    "nome": "Umbreon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Detenção Sombria",
+        "dano": "40",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "77 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-077.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008360_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/84c3u76tue67o44-umbreon",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#77",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-078",
+    "sourceId": "duria2jmbx04s77-eevee",
+    "categoria": "Pokemon",
+    "nome": "Eevee",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "78 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-078.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/duria2jmbx04s77-eevee",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#78",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-079",
+    "sourceId": "80pv8bh454lj484-flareon-ex",
+    "categoria": "Pokemon",
+    "nome": "Flareon ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Chama Furacão",
+        "dano": "130",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "Discard 2 Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "79 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-079.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008050_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/80pv8bh454lj484-flareon-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#79",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-080",
+    "sourceId": "gd76xufi5h41a2q-primarina-ex",
+    "categoria": "Pokemon",
+    "nome": "Primarina ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Jato d’Água",
+        "dano": "40 +",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "If this Pokémon has at least 1 extra Water Energy attached, this attack does 40 more damage"
+      },
+      {
+        "nomeataque": "Aria Cintilante",
+        "dano": "100",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "efeito": "Heal 20 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "80 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-080.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gd76xufi5h41a2q-primarina-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#80",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-081",
+    "sourceId": "49c484986582r31-sylveon-ex",
+    "categoria": "Pokemon",
+    "nome": "Sylveon ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Vento de Fada",
+        "dano": "70",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "81 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-081.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/49c484986582r31-sylveon-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#81",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-082",
+    "sourceId": "6iu3la6ro74z5ue-dragonite-ex",
+    "categoria": "Pokemon",
+    "nome": "Dragonite ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Gigaimpacto",
+        "dano": "180",
+        "custoataque": [
+          "Agua",
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": "During your next turn, this Pokémon can't attack"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "82 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-082.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6iu3la6ro74z5ue-dragonite-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#82",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-083",
+    "sourceId": "pu0i76f4oj41461-eevee-ex",
+    "categoria": "Pokemon",
+    "nome": "Eevee ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "30",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "83 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-083.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008480_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pu0i76f4oj41461-eevee-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#83",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-084",
+    "sourceId": "pesv5700id43yze-snorlax-ex",
+    "categoria": "Pokemon",
+    "nome": "Snorlax ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Sopapo Adormecedor",
+        "dano": "130",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 4,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "84 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-084.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pesv5700id43yze-snorlax-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#84",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-085",
+    "sourceId": "y6395ib8n44y953-hau",
+    "categoria": "Treinador",
+    "nome": "Hibi",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "85 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-085.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_20_000690_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y6395ib8n44y953-hau",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#85",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-086",
+    "sourceId": "r61bdo8e516ui96-penny",
+    "categoria": "Treinador",
+    "nome": "Penélope",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "86 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-086.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_20_000700_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r61bdo8e516ui96-penny",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#86",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-087",
+    "sourceId": "9x8g9dq7t9aj08t-flareon-ex",
+    "categoria": "Pokemon",
+    "nome": "Flareon ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Chama Furacão",
+        "dano": "130",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "Discard 2 Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "87 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-087.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008050_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9x8g9dq7t9aj08t-flareon-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#87",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-088",
+    "sourceId": "923pf68t8k41k81-primarina-ex",
+    "categoria": "Pokemon",
+    "nome": "Primarina ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Jato d’Água",
+        "dano": "40 +",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "If this Pokémon has at least 1 extra Water Energy attached, this attack does 40 more damage"
+      },
+      {
+        "nomeataque": "Aria Cintilante",
+        "dano": "100",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "efeito": "Heal 20 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "88 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-088.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008190_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/923pf68t8k41k81-primarina-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#88",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-089",
+    "sourceId": "d350e8046ctwf25-sylveon-ex",
+    "categoria": "Pokemon",
+    "nome": "Sylveon ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Vento de Fada",
+        "dano": "70",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "89 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-089.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008280_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d350e8046ctwf25-sylveon-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#89",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-090",
+    "sourceId": "k2n3cn231ok9b48-dragonite-ex",
+    "categoria": "Pokemon",
+    "nome": "Dragonite ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Gigaimpacto",
+        "dano": "180",
+        "custoataque": [
+          "Agua",
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": "During your next turn, this Pokémon can't attack"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "90 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-090.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008450_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k2n3cn231ok9b48-dragonite-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#90",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-091",
+    "sourceId": "1c1m0538zo0d0t5-snorlax-ex",
+    "categoria": "Pokemon",
+    "nome": "Snorlax ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Sopapo Adormecedor",
+        "dano": "130",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 4,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "91 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-091.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008490_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1c1m0538zo0d0t5-snorlax-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#91",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-092",
+    "sourceId": "0ui6s935zrc22kr-eevee-ex",
+    "categoria": "Pokemon",
+    "nome": "Eevee ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "30",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "92 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-092.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008480_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0ui6s935zrc22kr-eevee-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#92",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-093",
+    "sourceId": "erk112w949q5387-pinsir",
+    "categoria": "Pokemon",
+    "nome": "Pinsir",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Guilhotina Descontrolada",
+        "dano": "50 +",
+        "custoataque": [
+          "Planta",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin until you get a tails. This attack does 40 more damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "93 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-093.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_005240_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/erk112w949q5387-pinsir",
+    "custoDeck": 2,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#93",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-094",
+    "sourceId": "c81h36e4sx7tz68-lapras",
+    "categoria": "Pokemon",
+    "nome": "Lapras",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Jato d’Água",
+        "dano": "20 +",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "If this Pokémon has at least 1 extra Water Energy attached, this attack does 70 more damage"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "94 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-094.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_000790_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c81h36e4sx7tz68-lapras",
+    "custoDeck": 2,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#94",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-095",
+    "sourceId": "f007ym57osh40g5-voltorb",
+    "categoria": "Pokemon",
+    "nome": "Voltorb",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Grande Explosão",
+        "dano": "30",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "95 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-095.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_003350_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f007ym57osh40g5-voltorb",
+    "custoDeck": 2,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#95",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-096",
+    "sourceId": "6pecbj070j13377-electrode",
+    "categoria": "Pokemon",
+    "nome": "Electrode",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Golpe Rolador",
+        "dano": "50",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "96 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-096.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_003360_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6pecbj070j13377-electrode",
+    "custoDeck": 2,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#96",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-097",
+    "sourceId": "p7p0atb5f2a1202-ralts",
+    "categoria": "Pokemon",
+    "nome": "Ralts",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "97 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-097.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_003490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p7p0atb5f2a1202-ralts",
+    "custoDeck": 2,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#97",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-098",
+    "sourceId": "5t973u4632j0hr6-kirlia",
+    "categoria": "Pokemon",
+    "nome": "Kirlia",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Tapa",
+        "dano": "20",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "98 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-098.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_003500_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5t973u4632j0hr6-kirlia",
+    "custoDeck": 2,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#98",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-099",
+    "sourceId": "ohm2840la24173a-gardevoir",
+    "categoria": "Pokemon",
+    "nome": "Gardevoir",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "60",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "99 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-099.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001320_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ohm2840la24173a-gardevoir",
+    "custoDeck": 2,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#99",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-100",
+    "sourceId": "0s7yha05lxyt7jg-ekans",
+    "categoria": "Pokemon",
+    "nome": "Ekans",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "20",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "100 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-100.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001640_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0s7yha05lxyt7jg-ekans",
+    "custoDeck": 2,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#100",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-101",
+    "sourceId": "suf8vy088796313-arbok",
+    "categoria": "Pokemon",
+    "nome": "Arbok",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 100,
+    "ataque": [],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "101 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-101.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001650_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/suf8vy088796313-arbok",
+    "custoDeck": 2,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#101",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-102",
+    "sourceId": "nj05d375g3886aw-farfetchd",
+    "categoria": "Pokemon",
+    "nome": "Farfetch’d",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Golpe Alho Poró",
+        "dano": "40",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "102 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-102.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001980_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nj05d375g3886aw-farfetchd",
+    "custoDeck": 2,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#102",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-103",
+    "sourceId": "b2qi6oqu6q2v5yl-moltres-ex",
+    "categoria": "Pokemon",
+    "nome": "Moltres ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Dança Infernal",
+        "dano": "70",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "103 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-103.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_000470_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b2qi6oqu6q2v5yl-moltres-ex",
+    "custoDeck": 2,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#103",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-104",
+    "sourceId": "3i5azi19yzqjm01-articuno-ex",
+    "categoria": "Pokemon",
+    "nome": "Articuno ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Asa de Gelo",
+        "dano": "40",
+        "custoataque": [
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "This attack does 10 damage to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "104 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-104.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_000840_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3i5azi19yzqjm01-articuno-ex",
+    "custoDeck": 2,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#104",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-105",
+    "sourceId": "upls14kic2177pj-zapdos-ex",
+    "categoria": "Pokemon",
+    "nome": "Zapdos ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Bicada",
+        "dano": "20",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "Flip 4 coins. This attack does 50 damage for each head"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "105 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-105.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001040_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/upls14kic2177pj-zapdos-ex",
+    "custoDeck": 2,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#105",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-106",
+    "sourceId": "ii012704wr84413-gallade-ex",
+    "categoria": "Pokemon",
+    "nome": "Gallade ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Lâmina Energizada",
+        "dano": "70 +",
+        "custoataque": [
+          "Luta",
+          "Luta"
+        ],
+        "efeito": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "106 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-106.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_003760_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ii012704wr84413-gallade-ex",
+    "custoDeck": 2,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#106",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a3b-107",
+    "sourceId": "jjos1689pg6d891-eevee-bag",
+    "categoria": "Treinador",
+    "nome": "Bolsa de Eevee",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Bosque dos Eevee (A3B)",
+    "numero": "107 / 107",
+    "pacote": "Eevee",
+    "imageLocal": "./assets/cards/cartas_a3b/a3b-107.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_20_000670_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jjos1689pg6d891-eevee-bag",
+    "custoDeck": 8,
+    "releaseDate": "2025-06-26",
+    "sourceMeta": {
+      "setCode": "A3B",
+      "series": "a",
+      "matchKey": "A3B#107",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  }
+]

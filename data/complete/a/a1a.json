@@ -1,0 +1,3641 @@
+[
+  {
+    "id": "a1a-001",
+    "sourceId": "njtqzb4g1xvmyte-exeggcute",
+    "categoria": "Pokemon",
+    "nome": "Exeggcute",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "1 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-001.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002150_00_TAMATAMA_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/njtqzb4g1xvmyte-exeggcute",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#1",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-002",
+    "sourceId": "upwu4egfe8n09oe-exeggutor",
+    "categoria": "Pokemon",
+    "nome": "Exeggutor",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Psíquico",
+        "dano": "80 +",
+        "custoataque": [
+          "Planta",
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "2 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-002.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002160_00_NASSY_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/upwu4egfe8n09oe-exeggutor",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#2",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-003",
+    "sourceId": "h1lxnlhpl5zljro-celebi-ex",
+    "categoria": "Pokemon",
+    "nome": "Celebi ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Florescer Poderoso",
+        "dano": "50 ×",
+        "custoataque": [
+          "Planta",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "3 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-003.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002170_00_CELEBIex_RR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h1lxnlhpl5zljro-celebi-ex",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#3",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-004",
+    "sourceId": "9fuzldsjs86vk1y-snivy",
+    "categoria": "Pokemon",
+    "nome": "Snivy",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Chicote de Vinha",
+        "dano": "40",
+        "custoataque": [
+          "Planta",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "4 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-004.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002180_00_TSUTARJA_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9fuzldsjs86vk1y-snivy",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#4",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-005",
+    "sourceId": "24gcgk3xh24yy3c-servine",
+    "categoria": "Pokemon",
+    "nome": "Servine",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Chicote de Vinha",
+        "dano": "50",
+        "custoataque": [
+          "Planta",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "5 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-005.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002190_00_JANOVY_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/24gcgk3xh24yy3c-servine",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#5",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-006",
+    "sourceId": "ewaplkoi5ko7x9w-serperior",
+    "categoria": "Pokemon",
+    "nome": "Serperior",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Raio Solar",
+        "dano": "70",
+        "custoataque": [
+          "Planta",
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "6 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-006.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002200_00_JALORDA_R_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ewaplkoi5ko7x9w-serperior",
+    "custoDeck": 3,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#6",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-007",
+    "sourceId": "cmpiz48676erqu2-morelull",
+    "categoria": "Pokemon",
+    "nome": "Morelull",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "20",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "7 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-007.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002210_00_NEMASYU_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cmpiz48676erqu2-morelull",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#7",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-008",
+    "sourceId": "8loxhhip6gekxvr-shiinotic",
+    "categoria": "Pokemon",
+    "nome": "Shiinotic",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Esporos Tremeluzentes",
+        "dano": "50",
+        "custoataque": [
+          "Planta",
+          "Planta"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "8 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-008.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002220_00_MASHADE_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8loxhhip6gekxvr-shiinotic",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#8",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-009",
+    "sourceId": "kj9tvr5n5cjfbx9-dhelmise",
+    "categoria": "Pokemon",
+    "nome": "Dhelmise",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Chicote Energético",
+        "dano": "20 +",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "If this Pokémon has at least 3 extra Grass Energy attached, this attack does 70 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "9 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-009.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002230_00_DADARIN_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kj9tvr5n5cjfbx9-dhelmise",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#9",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-010",
+    "sourceId": "7e1adx2kf4udcld-ponyta",
+    "categoria": "Pokemon",
+    "nome": "Ponyta",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Pisotear",
+        "dano": "10 +",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "10 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-010.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002240_00_PONYTA_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7e1adx2kf4udcld-ponyta",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#10",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-011",
+    "sourceId": "z7j1kqi2e8tl06r-rapidash",
+    "categoria": "Pokemon",
+    "nome": "Rapidash",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Investida Ascendente",
+        "dano": "40 +",
+        "custoataque": [
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "11 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-011.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002250_00_GALLOP_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z7j1kqi2e8tl06r-rapidash",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#11",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-012",
+    "sourceId": "tqn51pibscr7zx2-magmar",
+    "categoria": "Pokemon",
+    "nome": "Magmar",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Rajada de Fogo",
+        "dano": "80",
+        "custoataque": [
+          "Fogo",
+          "Fogo"
+        ],
+        "efeito": "Discard 2 Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "12 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-012.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002260_00_BOOBER_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tqn51pibscr7zx2-magmar",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#12",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-013",
+    "sourceId": "aq1a8ns3zq3r3d4-larvesta",
+    "categoria": "Pokemon",
+    "nome": "Larvesta",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Combustão",
+        "dano": "30",
+        "custoataque": [
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "13 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-013.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002270_00_MERLARVA_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aq1a8ns3zq3r3d4-larvesta",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#13",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-014",
+    "sourceId": "5jsi6xvwpmx4rd8-volcarona",
+    "categoria": "Pokemon",
+    "nome": "Volcarona",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Cinza Vulcânica",
+        "dano": "80",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "Discard 2 Fire Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "14 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-014.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002280_00_ULGAMOTH_R_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5jsi6xvwpmx4rd8-volcarona",
+    "custoDeck": 3,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#14",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-015",
+    "sourceId": "tn0m919glf7p4ui-salandit",
+    "categoria": "Pokemon",
+    "nome": "Salandit",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Venochoque",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "15 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-015.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002290_00_YATOUMORI_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tn0m919glf7p4ui-salandit",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#15",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-016",
+    "sourceId": "fpax2tzmqojixxm-salazzle",
+    "categoria": "Pokemon",
+    "nome": "Salazzle",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Garras Venenosas",
+        "dano": "30",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "16 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-016.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002300_00_ENNEWT_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fpax2tzmqojixxm-salazzle",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#16",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-017",
+    "sourceId": "dkxuvrd749iha5i-magikarp",
+    "categoria": "Pokemon",
+    "nome": "Magikarp",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 30,
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "17 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-017.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002310_00_KOIKING_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dkxuvrd749iha5i-magikarp",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#17",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-018",
+    "sourceId": "hmda751busew0m6-gyarados-ex",
+    "categoria": "Pokemon",
+    "nome": "Gyarados ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 30,
+    "ataque": [
+      {
+        "nomeataque": "Redemoinho Furioso",
+        "dano": "140",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "18 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-018.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002320_00_GYARADOSex_RR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hmda751busew0m6-gyarados-ex",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#18",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-019",
+    "sourceId": "1izrnidqwlh57zf-vaporeon",
+    "categoria": "Pokemon",
+    "nome": "Vaporeon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Onda Borrifante",
+        "dano": "60",
+        "custoataque": [
+          "Agua",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "19 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-019.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002330_00_SHOWERS_R_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1izrnidqwlh57zf-vaporeon",
+    "custoDeck": 3,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#19",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-020",
+    "sourceId": "5fnq79pzk3j7ns3-finneon",
+    "categoria": "Pokemon",
+    "nome": "Finneon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Revólver d’Água",
+        "dano": "20",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "20 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-020.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002340_00_KEIKOUO_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5fnq79pzk3j7ns3-finneon",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#20",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-021",
+    "sourceId": "wb0l84qjlf8pjto-lumineon",
+    "categoria": "Pokemon",
+    "nome": "Lumineon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Projétil d’Água",
+        "dano": "50",
+        "custoataque": [
+          "Agua",
+          "Agua"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "21 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-021.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002350_00_NEOLANT_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wb0l84qjlf8pjto-lumineon",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#21",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-022",
+    "sourceId": "812ymr06ftodvyk-chewtle",
+    "categoria": "Pokemon",
+    "nome": "Chewtle",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "30",
+        "custoataque": [
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "22 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-022.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002360_00_KAMUKAME_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/812ymr06ftodvyk-chewtle",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#22",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-023",
+    "sourceId": "j3m8vyl62sk6mnp-drednaw",
+    "categoria": "Pokemon",
+    "nome": "Drednaw",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Mastigada",
+        "dano": "70",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "efeito": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "23 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-023.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002370_00_KAJIRIGAME_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j3m8vyl62sk6mnp-drednaw",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#23",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-024",
+    "sourceId": "l8ixwzd0kidm7rw-cramorant",
+    "categoria": "Pokemon",
+    "nome": "Cramorant",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Mergulho",
+        "dano": "60",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "24 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-024.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002380_00_UU_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l8ixwzd0kidm7rw-cramorant",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#24",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-025",
+    "sourceId": "4i9rpfwox9ld9yn-pikachu",
+    "categoria": "Pokemon",
+    "nome": "Pikachu",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Circuito Circular",
+        "dano": "10 ×",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "This attack does 10 damage for each of your Benched Electric Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "25 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-025.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002390_00_PIKACHU_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4i9rpfwox9ld9yn-pikachu",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#25",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-026",
+    "sourceId": "6tuaztw76k9faao-raichu",
+    "categoria": "Pokemon",
+    "nome": "Raichu",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Gigachoque",
+        "dano": "60",
+        "custoataque": [
+          "Raio",
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "This attack also does 20 damage to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "26 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-026.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002400_00_RAICHU_R_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6tuaztw76k9faao-raichu",
+    "custoDeck": 3,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#26",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-027",
+    "sourceId": "ud1jhjmo8ypor5m-electabuzz",
+    "categoria": "Pokemon",
+    "nome": "Electabuzz",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Lança do Trovão",
+        "dano": "40",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "This attack does 40 damage to 1 of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "27 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-027.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002410_00_ELEBOO_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ud1jhjmo8ypor5m-electabuzz",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#27",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-028",
+    "sourceId": "najoy11qoykq5a4-joltik",
+    "categoria": "Pokemon",
+    "nome": "Joltik",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 40,
+    "ataque": [
+      {
+        "nomeataque": "Picada",
+        "dano": "30",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "28 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-028.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002420_00_BACHURU_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/najoy11qoykq5a4-joltik",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#28",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-029",
+    "sourceId": "apn3egss9zs1oel-galvantula",
+    "categoria": "Pokemon",
+    "nome": "Galvantula",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Teia Elétrica",
+        "dano": "70",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "During your opponent's next turn, the Defending Pokémon can't retreat"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "29 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-029.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002430_00_DENTULA_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/apn3egss9zs1oel-galvantula",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#29",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-030",
+    "sourceId": "6cnxjgx3cvgf45w-dedenne",
+    "categoria": "Pokemon",
+    "nome": "Dedenne",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Trovoada de Choques",
+        "dano": "10",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "30 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-030.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002440_00_DEDENNE_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6cnxjgx3cvgf45w-dedenne",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#30",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-031",
+    "sourceId": "vf0r9kvdsazl74z-mew",
+    "categoria": "Pokemon",
+    "nome": "Mew",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Relatório Psíquico",
+        "dano": "20",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "Your opponent reveals their hand"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "31 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-031.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002140_00_MEW_R_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vf0r9kvdsazl74z-mew",
+    "custoDeck": 3,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#31",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-032",
+    "sourceId": "5yi2fgnh2xat86l-mew-ex",
+    "categoria": "Pokemon",
+    "nome": "Mew ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "20",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "32 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-032.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002450_00_MEWex_RR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5yi2fgnh2xat86l-mew-ex",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#32",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-033",
+    "sourceId": "io8pmf1np20ivkt-sigilyph",
+    "categoria": "Pokemon",
+    "nome": "Sigilyph",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Comprada Espinhosa",
+        "dano": "10",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "Draw a card."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "33 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-033.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002460_00_SYMBOLER_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/io8pmf1np20ivkt-sigilyph",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#33",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-034",
+    "sourceId": "pa4w0evig08bx6m-elgyem",
+    "categoria": "Pokemon",
+    "nome": "Elgyem",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "20",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "34 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-034.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002470_00_LIGRAY_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pa4w0evig08bx6m-elgyem",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#34",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-035",
+    "sourceId": "v8krjbv35yat9rr-beheeyem",
+    "categoria": "Pokemon",
+    "nome": "Beheeyem",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Tomada Mental",
+        "dano": "10 +",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "35 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-035.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002500_00_OHBEM_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v8krjbv35yat9rr-beheeyem",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#35",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-036",
+    "sourceId": "4rjiv5t6kgenqjp-flabeb",
+    "categoria": "Pokemon",
+    "nome": "Flabébé",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 40,
+    "ataque": [],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "36 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-036.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002510_00_FLABEBE_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4rjiv5t6kgenqjp-flabeb",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#36",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-037",
+    "sourceId": "cvxg6bdbnxhtuey-floette",
+    "categoria": "Pokemon",
+    "nome": "Floette",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Dreno Folha",
+        "dano": "40",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "Heal 10 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "37 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-037.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002520_00_FLOETTE_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cvxg6bdbnxhtuey-floette",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#37",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-038",
+    "sourceId": "zxtei9is63ll464-florges",
+    "categoria": "Pokemon",
+    "nome": "Florges",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Brilho Florido",
+        "dano": "80",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico"
+        ],
+        "efeito": "Heal 20 damage from each of your Pokémon."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "38 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-038.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002480_00_FLORGES_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zxtei9is63ll464-florges",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#38",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-039",
+    "sourceId": "clwrerk7zkp56nd-swirlix",
+    "categoria": "Pokemon",
+    "nome": "Swirlix",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Vento de Fada",
+        "dano": "20",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "39 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-039.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002490_00_PEROPPAFU_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/clwrerk7zkp56nd-swirlix",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#39",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-040",
+    "sourceId": "hmaw88f1sd4n0eg-slurpuff",
+    "categoria": "Pokemon",
+    "nome": "Slurpuff",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Mágico",
+        "dano": "60",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "40 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-040.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002530_00_PEROREAM_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hmaw88f1sd4n0eg-slurpuff",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#40",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-041",
+    "sourceId": "h3kjwqdud9vzbir-mankey",
+    "categoria": "Pokemon",
+    "nome": "Mankey",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Punho Focalizado",
+        "dano": "50",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "41 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-041.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002540_00_MANKEY_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h3kjwqdud9vzbir-mankey",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#41",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-042",
+    "sourceId": "xqlbewvndwjsv0g-primeape",
+    "categoria": "Pokemon",
+    "nome": "Primeape",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Soco",
+        "dano": "50",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "42 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-042.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002550_00_OKORIZARU_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xqlbewvndwjsv0g-primeape",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#42",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-043",
+    "sourceId": "lfi58nyo9hdyeg9-geodude",
+    "categoria": "Pokemon",
+    "nome": "Geodude",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Soco de Luz",
+        "dano": "30",
+        "custoataque": [
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "43 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-043.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002560_00_ISITSUBUTE_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lfi58nyo9hdyeg9-geodude",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#43",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-044",
+    "sourceId": "nuop96e51iiwngw-graveler",
+    "categoria": "Pokemon",
+    "nome": "Graveler",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Bote",
+        "dano": "40",
+        "custoataque": [
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "44 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-044.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002570_00_GOLONE_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nuop96e51iiwngw-graveler",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#44",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-045",
+    "sourceId": "aeybbymedewzboe-golem",
+    "categoria": "Pokemon",
+    "nome": "Golem",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Aperto Protetor",
+        "dano": "120",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, this Pokémon takes -30 damage from attacks"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "45 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-045.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002580_00_GOLONYA_R_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aeybbymedewzboe-golem",
+    "custoDeck": 3,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#45",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-046",
+    "sourceId": "z13co4oge3d8vwt-aerodactyl-ex",
+    "categoria": "Pokemon",
+    "nome": "Aerodactyl ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Aperto de Terra",
+        "dano": "80",
+        "custoataque": [
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "46 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-046.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002590_00_PTERAex_RR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z13co4oge3d8vwt-aerodactyl-ex",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#46",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-047",
+    "sourceId": "wxa0dmxiysjkh19-marshadow",
+    "categoria": "Pokemon",
+    "nome": "Marshadow",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Vingança",
+        "dano": "40 +",
+        "custoataque": [
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": "If any of your Pokémon were knocked out by damage from an attack during your opponent's last turn, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "47 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-047.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002600_00_MARSHADOW_R_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wxa0dmxiysjkh19-marshadow",
+    "custoDeck": 3,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#47",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-048",
+    "sourceId": "oif9hc1l2182yck-stonjourner",
+    "categoria": "Pokemon",
+    "nome": "Stonjourner",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Megachute",
+        "dano": "90",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "48 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-048.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002610_00_ISHIHENGIN_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oif9hc1l2182yck-stonjourner",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#48",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-049",
+    "sourceId": "3rytiasmgwj4dll-koffing",
+    "categoria": "Pokemon",
+    "nome": "Koffing",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 70,
+    "ataque": [],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "49 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-049.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002620_00_DOGARS_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3rytiasmgwj4dll-koffing",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#49",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-050",
+    "sourceId": "yeya26y0p6b1urk-weezing",
+    "categoria": "Pokemon",
+    "nome": "Weezing",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Cortina de Fumaça",
+        "dano": "50",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "50 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-050.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002630_00_MATADOGAS_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yeya26y0p6b1urk-weezing",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#50",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-051",
+    "sourceId": "loj95zzm39lc9s5-purrloin",
+    "categoria": "Pokemon",
+    "nome": "Purrloin",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Arranhão",
+        "dano": "20",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "51 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-051.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002640_00_CHORONEKO_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/loj95zzm39lc9s5-purrloin",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#51",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-052",
+    "sourceId": "nkd9f2amdhd657e-liepard",
+    "categoria": "Pokemon",
+    "nome": "Liepard",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Talho",
+        "dano": "40",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "52 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-052.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002650_00_LEPARDAS_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nkd9f2amdhd657e-liepard",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#52",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-053",
+    "sourceId": "var7rxly2080w98-venipede",
+    "categoria": "Pokemon",
+    "nome": "Venipede",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "20",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "53 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-053.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002660_00_FUSHIDE_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/var7rxly2080w98-venipede",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#53",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-054",
+    "sourceId": "yi4ngt04jh845m9-whirlipede",
+    "categoria": "Pokemon",
+    "nome": "Whirlipede",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Ferrão Venenoso",
+        "dano": "20",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "54 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-054.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002670_00_WHEEGA_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yi4ngt04jh845m9-whirlipede",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#54",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-055",
+    "sourceId": "qvb758zb4ijhjg4-scolipede",
+    "categoria": "Pokemon",
+    "nome": "Scolipede",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Venochoque",
+        "dano": "70 +",
+        "custoataque": [
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "55 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-055.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002680_00_PENDROR_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qvb758zb4ijhjg4-scolipede",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#55",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-056",
+    "sourceId": "e21ldsyk80arifk-druddigon",
+    "categoria": "Pokemon",
+    "nome": "Druddigon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Garra de Dragão",
+        "dano": "90",
+        "custoataque": [
+          "Fogo",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "56 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-056.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002690_00_CRIMGAN_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e21ldsyk80arifk-druddigon",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#56",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-057",
+    "sourceId": "fwowr179gwvn0wi-pidgey",
+    "categoria": "Pokemon",
+    "nome": "Pidgey",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Asa",
+        "dano": "20",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "57 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-057.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002700_00_POPPO_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fwowr179gwvn0wi-pidgey",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#57",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-058",
+    "sourceId": "7y5t30djskzt031-pidgeotto",
+    "categoria": "Pokemon",
+    "nome": "Pidgeotto",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Ataque de Asa",
+        "dano": "50",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "58 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-058.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002710_00_PIGEON_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7y5t30djskzt031-pidgeotto",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#58",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-059",
+    "sourceId": "5o5naaasoda63qt-pidgeot-ex",
+    "categoria": "Pokemon",
+    "nome": "Pidgeot ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Ciclone Disperso",
+        "dano": "80 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "59 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-059.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002720_00_PIGEOTex_RR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5o5naaasoda63qt-pidgeot-ex",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#59",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-060",
+    "sourceId": "mk4yq4bmy9p73ij-tauros",
+    "categoria": "Pokemon",
+    "nome": "Tauros",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Investida de Luta",
+        "dano": "40 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 80 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "60 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-060.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002730_00_KENTAUROS_R_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mk4yq4bmy9p73ij-tauros",
+    "custoDeck": 3,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#60",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-061",
+    "sourceId": "awn64f65f1m7k6n-eevee",
+    "categoria": "Pokemon",
+    "nome": "Eevee",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Passos Contínuos",
+        "dano": "20 ×",
+        "custoataque": [],
+        "efeito": "Flip a coin until you get a tails. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "61 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-061.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002740_00_EIEVUI_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/awn64f65f1m7k6n-eevee",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#61",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-062",
+    "sourceId": "1s1tq7sqqgvq8tc-chatot",
+    "categoria": "Pokemon",
+    "nome": "Chatot",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "62 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-062.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002750_00_PERAP_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1s1tq7sqqgvq8tc-chatot",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#62",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-063",
+    "sourceId": "fo7ec02e0ucc7x8-old-amber",
+    "categoria": "Treinador",
+    "nome": "Âmbar Velho",
+    "estagio": "Item",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "63 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-063.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000100_00_HIMITSUNOKOHAKU_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fo7ec02e0ucc7x8-old-amber",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#63",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-064",
+    "sourceId": "0afyr6z43839idd-pokemon-flute",
+    "categoria": "Treinador",
+    "nome": "Flauta Pokémon",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "64 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-064.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000200_00_POKEMONNOFUE_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0afyr6z43839idd-pokemon-flute",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#64",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-065",
+    "sourceId": "tzfcmr5r03hyksk-mythical-slab",
+    "categoria": "Treinador",
+    "nome": "Placa Mística",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "65 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-065.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000190_00_MABOROSHINOSEKIBAN_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tzfcmr5r03hyksk-mythical-slab",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#65",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-066",
+    "sourceId": "59y3ogqwlc7t1q6-budding-expeditioner",
+    "categoria": "Treinador",
+    "nome": "Expedicionário Principiante",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "66 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-066.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000220_00_KAKEDASHICHOSAIN_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/59y3ogqwlc7t1q6-budding-expeditioner",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#66",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-067",
+    "sourceId": "j197ch2entsxdup-blue",
+    "categoria": "Treinador",
+    "nome": "Blue",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "67 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-067.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000210_00_GREEN_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j197ch2entsxdup-blue",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#67",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-068",
+    "sourceId": "z2ofwxxu6bb8z6n-leaf",
+    "categoria": "Treinador",
+    "nome": "Leaf",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "68 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-068.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000230_00_LEAF_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z2ofwxxu6bb8z6n-leaf",
+    "custoDeck": 1,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#68",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-069",
+    "sourceId": "b210ploeuw8kc3o-exeggutor",
+    "categoria": "Pokemon",
+    "nome": "Exeggutor",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Psíquico",
+        "dano": "80 +",
+        "custoataque": [
+          "Planta",
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "69 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-069.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002160_00_NASSY_AR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b210ploeuw8kc3o-exeggutor",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#69",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-070",
+    "sourceId": "c59pgs3a6gf02su-serperior",
+    "categoria": "Pokemon",
+    "nome": "Serperior",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Raio Solar",
+        "dano": "70",
+        "custoataque": [
+          "Planta",
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "70 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-070.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002200_00_JALORDA_AR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c59pgs3a6gf02su-serperior",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#70",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-071",
+    "sourceId": "vm8rykfyesi8psj-salandit",
+    "categoria": "Pokemon",
+    "nome": "Salandit",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Venochoque",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "71 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-071.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002290_00_YATOUMORI_AR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vm8rykfyesi8psj-salandit",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#71",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-072",
+    "sourceId": "fgzqfijb00tqiy2-vaporeon",
+    "categoria": "Pokemon",
+    "nome": "Vaporeon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Onda Borrifante",
+        "dano": "60",
+        "custoataque": [
+          "Agua",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "72 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-072.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002330_00_SHOWERS_AR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fgzqfijb00tqiy2-vaporeon",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#72",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-073",
+    "sourceId": "ijpqniv1h7k4uzs-dedenne",
+    "categoria": "Pokemon",
+    "nome": "Dedenne",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Trovoada de Choques",
+        "dano": "10",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "73 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-073.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002440_00_DEDENNE_AR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ijpqniv1h7k4uzs-dedenne",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#73",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-074",
+    "sourceId": "zm3n389x9y6o1as-marshadow",
+    "categoria": "Pokemon",
+    "nome": "Marshadow",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Vingança",
+        "dano": "40 +",
+        "custoataque": [
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": "If any of your Pokémon were knocked out by damage from an attack during your opponent's last turn, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "74 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-074.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002600_00_MARSHADOW_AR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zm3n389x9y6o1as-marshadow",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#74",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-075",
+    "sourceId": "kz21cxjbnl78n7k-celebi-ex",
+    "categoria": "Pokemon",
+    "nome": "Celebi ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Florescer Poderoso",
+        "dano": "50 ×",
+        "custoataque": [
+          "Planta",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "75 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-075.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002170_00_CELEBIex_SR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kz21cxjbnl78n7k-celebi-ex",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#75",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-076",
+    "sourceId": "k4hllj09hixdi6m-gyarados-ex",
+    "categoria": "Pokemon",
+    "nome": "Gyarados ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 30,
+    "ataque": [
+      {
+        "nomeataque": "Redemoinho Furioso",
+        "dano": "140",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "76 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-076.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002320_00_GYARADOSex_SR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k4hllj09hixdi6m-gyarados-ex",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#76",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-077",
+    "sourceId": "5eatuaiywrs77bc-mew-ex",
+    "categoria": "Pokemon",
+    "nome": "Mew ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "20",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "77 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-077.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_00_MEWex_SR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5eatuaiywrs77bc-mew-ex",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#77",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-078",
+    "sourceId": "v0z6lar0cdel1ay-aerodactyl-ex",
+    "categoria": "Pokemon",
+    "nome": "Aerodactyl ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Aperto de Terra",
+        "dano": "80",
+        "custoataque": [
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "78 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-078.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002590_00_PTERAex_SR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v0z6lar0cdel1ay-aerodactyl-ex",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#78",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-079",
+    "sourceId": "5y62vvr58pxazez-pidgeot-ex",
+    "categoria": "Pokemon",
+    "nome": "Pidgeot ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Ciclone Disperso",
+        "dano": "80 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "79 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-079.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002720_00_PIGEOTex_SR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5y62vvr58pxazez-pidgeot-ex",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#79",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-080",
+    "sourceId": "30koqtat89as3os-budding-expeditioner",
+    "categoria": "Treinador",
+    "nome": "Expedicionário Principiante",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "80 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-080.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_20_000220_00_KAKEDASHICHOSAIN_SR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/30koqtat89as3os-budding-expeditioner",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#80",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-081",
+    "sourceId": "a91f9i3l5do91lu-blue",
+    "categoria": "Treinador",
+    "nome": "Blue",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "81 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-081.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_20_000210_00_GREEN_SR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a91f9i3l5do91lu-blue",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#81",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-082",
+    "sourceId": "9cvnctq71ts6ocj-leaf",
+    "categoria": "Treinador",
+    "nome": "Leaf",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "82 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-082.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_20_000230_00_LEAF_SR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9cvnctq71ts6ocj-leaf",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#82",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-083",
+    "sourceId": "1qfj5pkve2jtpx1-mew-ex",
+    "categoria": "Pokemon",
+    "nome": "Mew ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "20",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "83 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-083.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_01_MEWex_SAR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1qfj5pkve2jtpx1-mew-ex",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#83",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-084",
+    "sourceId": "trsczskf0z2z12p-aerodactyl-ex",
+    "categoria": "Pokemon",
+    "nome": "Aerodactyl ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Aperto de Terra",
+        "dano": "80",
+        "custoataque": [
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "84 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-084.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002590_01_PTERAex_SAR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/trsczskf0z2z12p-aerodactyl-ex",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#84",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-085",
+    "sourceId": "xpv0hpyt1z1rz7f-celebi-ex",
+    "categoria": "Pokemon",
+    "nome": "Celebi ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Florescer Poderoso",
+        "dano": "50 ×",
+        "custoataque": [
+          "Planta",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "85 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-085.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002170_01_CELEBIex_IM_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xpv0hpyt1z1rz7f-celebi-ex",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#85",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a1a-086",
+    "sourceId": "98f36d2k9cqin6s-mew-ex",
+    "categoria": "Pokemon",
+    "nome": "Mew ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "20",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Ilha Mitica (A1A)",
+    "numero": "86 / 86",
+    "pacote": "Mew",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-086.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_02_MEWex_UR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/98f36d2k9cqin6s-mew-ex",
+    "custoDeck": 8,
+    "releaseDate": "2024-12-17",
+    "sourceMeta": {
+      "setCode": "A1A",
+      "series": "a",
+      "matchKey": "A1A#86",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  }
+]

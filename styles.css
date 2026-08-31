@@ -505,6 +505,9 @@ button:hover {
   padding: 10px;
   box-shadow: -5px -5px 12px var(--light-shadow), 5px 5px 12px var(--dark-shadow);
   position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .card-clickable {
@@ -519,11 +522,10 @@ button:hover {
 }
 
 .card img {
-  width: 100%;
   height: 160px;
   object-fit: cover;
   border-radius: 10px;
-  margin-bottom: 8px;
+  margin-bottom: 5px;
   background: #dbe5f0;
   border: 1px solid rgba(255, 255, 255, 0.9);
   box-shadow: inset 2px 2px 5px #c6d3e1, inset -2px -2px 5px #f9fcff;
@@ -848,15 +850,29 @@ button:hover {
 
 .meta-decks-list {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 12px;
   margin-top: 12px;
   align-items: stretch;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-bottom: 6px;
+  scrollbar-width: thin;
+}
+
+.meta-decks-list::-webkit-scrollbar {
+  height: 8px;
+}
+
+.meta-decks-list::-webkit-scrollbar-thumb {
+  background: rgba(95, 118, 143, 0.38);
+  border-radius: 999px;
 }
 
 .meta-deck-tile {
   flex: 0 0 auto;
   width: min(160px, 42vw);
+  min-width: 160px;
   background: var(--bg-soft);
   border: 1px solid rgba(255, 255, 255, 0.82);
   border-radius: 16px;

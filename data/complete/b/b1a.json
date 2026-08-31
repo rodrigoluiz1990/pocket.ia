@@ -1,0 +1,4419 @@
+[
+  {
+    "id": "b1a-001",
+    "sourceId": "vovbdgd95gcppnr-bulbasaur",
+    "categoria": "Pokemon",
+    "nome": "Bulbasaur",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "20",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "1 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-001.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013070_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vovbdgd95gcppnr-bulbasaur",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#1",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-002",
+    "sourceId": "wx7l4ow5cw3agx7-ivysaur",
+    "categoria": "Pokemon",
+    "nome": "Ivysaur",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 100,
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "2 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-002.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013080_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wx7l4ow5cw3agx7-ivysaur",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#2",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-003",
+    "sourceId": "tq6uj96ra8yddm5-venusaur",
+    "categoria": "Pokemon",
+    "nome": "Venusaur",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Chicote Venenoso",
+        "dano": "90",
+        "custoataque": [
+          "Planta",
+          "Planta",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "3 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-003.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013090_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tq6uj96ra8yddm5-venusaur",
+    "custoDeck": 3,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#3",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-004",
+    "sourceId": "gnf4sl35ncow7an-mega-venusaur-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Venusaur ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 240,
+    "ataque": [
+      {
+        "nomeataque": "Florescimento Crítico",
+        "dano": "120",
+        "custoataque": [
+          "Planta",
+          "Planta",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned and Asleep"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "4 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-004.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013100_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gnf4sl35ncow7an-mega-venusaur-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#4",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-005",
+    "sourceId": "u9tg79utb1ih2gw-spinarak",
+    "categoria": "Pokemon",
+    "nome": "Spinarak",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Ferroada",
+        "dano": "20",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "5 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-005.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u9tg79utb1ih2gw-spinarak",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#5",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-006",
+    "sourceId": "o62at0a9zua1v07-ariados",
+    "categoria": "Pokemon",
+    "nome": "Ariados",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Perfurar",
+        "dano": "30",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "6 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-006.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013120_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o62at0a9zua1v07-ariados",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#6",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-007",
+    "sourceId": "ih93dveco9lfkc7-sunkern",
+    "categoria": "Pokemon",
+    "nome": "Sunkern",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Bomba de Sementes",
+        "dano": "20",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "7 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-007.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013130_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ih93dveco9lfkc7-sunkern",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#7",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-008",
+    "sourceId": "91si0fgxzbljg85-sunflora",
+    "categoria": "Pokemon",
+    "nome": "Sunflora",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Feixe de Adubo",
+        "dano": "30 +",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "If Quick-Grow Extract is in your discard pile, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "8 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-008.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013140_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/91si0fgxzbljg85-sunflora",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#8",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-009",
+    "sourceId": "6kwrgl9k4835nqj-burmy",
+    "categoria": "Pokemon",
+    "nome": "Burmy",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Dependurar",
+        "dano": "30",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "9 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-009.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013150_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6kwrgl9k4835nqj-burmy",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#9",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-010",
+    "sourceId": "y64tf10zqf16isj-mothim",
+    "categoria": "Pokemon",
+    "nome": "Mothim",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Vento Dilacerante",
+        "dano": "70",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "10 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-010.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013160_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y64tf10zqf16isj-mothim",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#10",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-011",
+    "sourceId": "zvkc9ir2satck5n-charmander",
+    "categoria": "Pokemon",
+    "nome": "Charmander",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "40",
+        "custoataque": [
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "11 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-011.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013170_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zvkc9ir2satck5n-charmander",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#11",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-012",
+    "sourceId": "itrm24c0i5wfn8v-charmeleon",
+    "categoria": "Pokemon",
+    "nome": "Charmeleon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Hálito de Fogo Constante",
+        "dano": "50",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "12 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-012.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_012980_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/itrm24c0i5wfn8v-charmeleon",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#12",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-013",
+    "sourceId": "lew2qh6a28iqm6b-charizard",
+    "categoria": "Pokemon",
+    "nome": "Charizard",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Investida Infernal",
+        "dano": "150",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 30 damage to itself"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "13 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-013.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013180_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lew2qh6a28iqm6b-charizard",
+    "custoDeck": 3,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#13",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-014",
+    "sourceId": "9u3c93opeaybnt9-mega-charizard-y-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Charizard Y ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Mergulho Carmim",
+        "dano": "250",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 50 damage to itself"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "14 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-014.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9u3c93opeaybnt9-mega-charizard-y-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#14",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-015",
+    "sourceId": "lvq4e1d6ieu959u-houndour",
+    "categoria": "Pokemon",
+    "nome": "Houndour",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "15 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-015.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013200_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lvq4e1d6ieu959u-houndour",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#15",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-016",
+    "sourceId": "32ncfekw0zpe2oe-houndoom",
+    "categoria": "Pokemon",
+    "nome": "Houndoom",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Presa Afiada",
+        "dano": "50",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "16 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-016.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/32ncfekw0zpe2oe-houndoom",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#16",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-017",
+    "sourceId": "evjkloatjbwc00f-squirtle",
+    "categoria": "Pokemon",
+    "nome": "Squirtle",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Surra de Cauda",
+        "dano": "40",
+        "custoataque": [
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "17 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-017.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/evjkloatjbwc00f-squirtle",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#17",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-018",
+    "sourceId": "rp986fbumm7pzjr-wartortle",
+    "categoria": "Pokemon",
+    "nome": "Wartortle",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Cachoeira",
+        "dano": "60",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "18 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-018.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rp986fbumm7pzjr-wartortle",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#18",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-019",
+    "sourceId": "afite7nho9jbumu-blastoise",
+    "categoria": "Pokemon",
+    "nome": "Blastoise",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Borrifada Dupla",
+        "dano": "90",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "If this Pokémon has at least 2 extra Water Energy attached, this attack does 50 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "19 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-019.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013240_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/afite7nho9jbumu-blastoise",
+    "custoDeck": 3,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#19",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-020",
+    "sourceId": "k7rxky048kvsvak-mega-blastoise-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Blastoise ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 230,
+    "ataque": [
+      {
+        "nomeataque": "Bombardeio Triplo",
+        "dano": "130",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "If this Pokémon has at least 3 extra Water Energy attached, this attack does 50 damage to 2 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "20 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-020.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k7rxky048kvsvak-mega-blastoise-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#20",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-021",
+    "sourceId": "95t2qc3ac1z2mod-basculin",
+    "categoria": "Pokemon",
+    "nome": "Basculin",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Golpe Surpresa",
+        "dano": "40 +",
+        "custoataque": [
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "21 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-021.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013260_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/95t2qc3ac1z2mod-basculin",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#21",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-022",
+    "sourceId": "r8w6ieaf2fcktl1-clauncher",
+    "categoria": "Pokemon",
+    "nome": "Clauncher",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Revólver d’Água",
+        "dano": "20",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "22 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-022.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r8w6ieaf2fcktl1-clauncher",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#22",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-023",
+    "sourceId": "uku5ed2kt3uj1ep-clawitzer",
+    "categoria": "Pokemon",
+    "nome": "Clawitzer",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 100,
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "23 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-023.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uku5ed2kt3uj1ep-clawitzer",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#23",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-024",
+    "sourceId": "8ncjzu3mrmp1nyk-magnemite",
+    "categoria": "Pokemon",
+    "nome": "Magnemite",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Bola Elétrica",
+        "dano": "30",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "24 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-024.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013290_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8ncjzu3mrmp1nyk-magnemite",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#24",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-025",
+    "sourceId": "opudiih4bakn44t-magneton",
+    "categoria": "Pokemon",
+    "nome": "Magneton",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Faísca",
+        "dano": "20",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "25 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-025.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013300_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/opudiih4bakn44t-magneton",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#25",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-026",
+    "sourceId": "zcsfydaqufso90s-magnezone",
+    "categoria": "Pokemon",
+    "nome": "Magnezone",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Tiro no Espelho",
+        "dano": "90",
+        "custoataque": [
+          "Raio",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "26 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-026.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013310_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zcsfydaqufso90s-magnezone",
+    "custoDeck": 3,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#26",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-027",
+    "sourceId": "q3r1qntm2da42jo-emolga",
+    "categoria": "Pokemon",
+    "nome": "Emolga",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Raio Supersônico",
+        "dano": "50",
+        "custoataque": [
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "27 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-027.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013320_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q3r1qntm2da42jo-emolga",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#27",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-028",
+    "sourceId": "tcp29tvhzkoeolp-helioptile",
+    "categoria": "Pokemon",
+    "nome": "Helioptile",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Trovoada de Choques",
+        "dano": "10",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "28 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-028.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013330_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tcp29tvhzkoeolp-helioptile",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#28",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-029",
+    "sourceId": "rxosv68xrvpt5o6-heliolisk",
+    "categoria": "Pokemon",
+    "nome": "Heliolisk",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Relâmpago",
+        "dano": "120",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "Discard all Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "29 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-029.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rxosv68xrvpt5o6-heliolisk",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#29",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-030",
+    "sourceId": "nj6cwie5wu1uwjd-misdreavus",
+    "categoria": "Pokemon",
+    "nome": "Misdreavus",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "30 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-030.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013340_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nj6cwie5wu1uwjd-misdreavus",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#30",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-031",
+    "sourceId": "1k2kav7potcqkan-mismagius",
+    "categoria": "Pokemon",
+    "nome": "Mismagius",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Poder Armazenado",
+        "dano": "60",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico"
+        ],
+        "efeito": "Move all Psychic Enegy from this Pokémon to 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "31 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-031.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013350_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1k2kav7potcqkan-mismagius",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#31",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-032",
+    "sourceId": "ftypxp21cgm5r4v-solosis",
+    "categoria": "Pokemon",
+    "nome": "Solosis",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 40,
+    "ataque": [
+      {
+        "nomeataque": "Rolagem",
+        "dano": "20",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "32 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-032.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013360_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ftypxp21cgm5r4v-solosis",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#32",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-033",
+    "sourceId": "loyaddtvgs69vf6-duosion",
+    "categoria": "Pokemon",
+    "nome": "Duosion",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "50",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "33 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-033.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013370_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/loyaddtvgs69vf6-duosion",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#33",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-034",
+    "sourceId": "wrdt6swf28cdc4b-reuniclus",
+    "categoria": "Pokemon",
+    "nome": "Reuniclus",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Soco Psíquico",
+        "dano": "90",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "34 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-034.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013380_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wrdt6swf28cdc4b-reuniclus",
+    "custoDeck": 3,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#34",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-035",
+    "sourceId": "zxkflptc0wxjbcr-spritzee",
+    "categoria": "Pokemon",
+    "nome": "Spritzee",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "35 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-035.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zxkflptc0wxjbcr-spritzee",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#35",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-036",
+    "sourceId": "ok1qy2ewsrrhqek-aromatisse",
+    "categoria": "Pokemon",
+    "nome": "Aromatisse",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Disparo Perfumado",
+        "dano": "60",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 Colorless more"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "36 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-036.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013400_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ok1qy2ewsrrhqek-aromatisse",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#36",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-037",
+    "sourceId": "sjjoy187ad7kc10-xerneas",
+    "categoria": "Pokemon",
+    "nome": "Xerneas",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Geoexplosão",
+        "dano": "120",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "This attack's damage is reduced by the amount of damage this Pokémon has on it"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "37 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-037.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sjjoy187ad7kc10-xerneas",
+    "custoDeck": 3,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#37",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-038",
+    "sourceId": "k9ynlyvl61nqj14-onix",
+    "categoria": "Pokemon",
+    "nome": "Onix",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Cavar",
+        "dano": "30",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, uring your opponent's next turn, prevent all damage from-and effects of-attacks done to this Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "38 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-038.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k9ynlyvl61nqj14-onix",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#38",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-039",
+    "sourceId": "7dctp811p5t2tfw-makuhita",
+    "categoria": "Pokemon",
+    "nome": "Makuhita",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Força",
+        "dano": "40",
+        "custoataque": [
+          "Luta",
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "39 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-039.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7dctp811p5t2tfw-makuhita",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#39",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-040",
+    "sourceId": "d9zv8bpjyfq8oln-hariyama",
+    "categoria": "Pokemon",
+    "nome": "Hariyama",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Tapa Empurrão Megaton",
+        "dano": "90",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "40 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-040.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013440_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d9zv8bpjyfq8oln-hariyama",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#40",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-041",
+    "sourceId": "juqbu9t6b79rjof-nosepass",
+    "categoria": "Pokemon",
+    "nome": "Nosepass",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Investida Ascendente",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "41 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-041.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/juqbu9t6b79rjof-nosepass",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#41",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-042",
+    "sourceId": "8bw6n69qcgr0awj-mega-lopunny-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Lopunny ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 190,
+    "ataque": [
+      {
+        "nomeataque": "Pancadaria Ligeira",
+        "dano": "90 ×",
+        "custoataque": [
+          "Luta",
+          "Luta"
+        ],
+        "efeito": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "42 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-042.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8bw6n69qcgr0awj-mega-lopunny-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#42",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-043",
+    "sourceId": "eebtp2j2d1w3nku-mienfoo",
+    "categoria": "Pokemon",
+    "nome": "Mienfoo",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Trincar",
+        "dano": "30",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "43 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-043.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/eebtp2j2d1w3nku-mienfoo",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#43",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-044",
+    "sourceId": "80gfdyv2j3fb4sk-mienshao",
+    "categoria": "Pokemon",
+    "nome": "Mienshao",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Movimento Baixo",
+        "dano": "50",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "44 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-044.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013480_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/80gfdyv2j3fb4sk-mienshao",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#44",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-045",
+    "sourceId": "9hmg1c2w3i85hnp-grimer",
+    "categoria": "Pokemon",
+    "nome": "Grimer",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Bomba de Lodo",
+        "dano": "40",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "45 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-045.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9hmg1c2w3i85hnp-grimer",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#45",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-046",
+    "sourceId": "iholnhjq5j1kiak-muk",
+    "categoria": "Pokemon",
+    "nome": "Muk",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Tiro de Sujeira",
+        "dano": "70",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": "Your opponent's ActiveP okémon is now Poisoned"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "46 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-046.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013500_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iholnhjq5j1kiak-muk",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#46",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-047",
+    "sourceId": "qr64jcs9qeeysz3-purrloin",
+    "categoria": "Pokemon",
+    "nome": "Purrloin",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Tropeção",
+        "dano": "10 +",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "47 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-047.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qr64jcs9qeeysz3-purrloin",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#47",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-048",
+    "sourceId": "cre549a18e7oyph-liepard",
+    "categoria": "Pokemon",
+    "nome": "Liepard",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Catar e Zarpar",
+        "dano": "60",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Your opponent reveals a random card from their hand and shuffles it into their deck. Shuffle this Pokémon into your deck."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "48 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-048.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013520_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cre549a18e7oyph-liepard",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#48",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-049",
+    "sourceId": "m9zxo834h4bbftp-trubbish",
+    "categoria": "Pokemon",
+    "nome": "Trubbish",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Babar",
+        "dano": "30",
+        "custoataque": [
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "49 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-049.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013530_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m9zxo834h4bbftp-trubbish",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#49",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-050",
+    "sourceId": "s4w2f49vc85jzk5-garbodor",
+    "categoria": "Pokemon",
+    "nome": "Garbodor",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Spray Ácido",
+        "dano": "70",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "50 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-050.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013540_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s4w2f49vc85jzk5-garbodor",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#50",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-051",
+    "sourceId": "g2ye4rf7yad0tda-steelix",
+    "categoria": "Pokemon",
+    "nome": "Steelix",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Defensor Metálico",
+        "dano": "100",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's enxt turn, this Pokémon has no Weakness"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "51 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-051.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013550_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g2ye4rf7yad0tda-steelix",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#51",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-052",
+    "sourceId": "j8xpdj0e0q1azrr-mega-steelix-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Steelix ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Rolagem Adamantina",
+        "dano": "120",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, this Pokémon takes -20 damage from attacks and has no Weakness"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "52 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-052.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013560_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j8xpdj0e0q1azrr-mega-steelix-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#52",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-053",
+    "sourceId": "fkl5zz214nh4pr9-probopass",
+    "categoria": "Pokemon",
+    "nome": "Probopass",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Turbo Metálico",
+        "dano": "40",
+        "custoataque": [
+          "Metal",
+          "Metal"
+        ],
+        "efeito": "Take 3 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "53 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-053.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013570_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fkl5zz214nh4pr9-probopass",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#53",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-054",
+    "sourceId": "zdwlm14lvijwrfu-genesect",
+    "categoria": "Pokemon",
+    "nome": "Genesect",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Explosão de Metal",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Metal Energy attached to this Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "54 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-054.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013010_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zdwlm14lvijwrfu-genesect",
+    "custoDeck": 3,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#54",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-055",
+    "sourceId": "jp2hf98eg2fyltb-ditto",
+    "categoria": "Pokemon",
+    "nome": "Ditto",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "55 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-055.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013060_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jp2hf98eg2fyltb-ditto",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#55",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-056",
+    "sourceId": "q20fy3nrsr21i84-porygon",
+    "categoria": "Pokemon",
+    "nome": "Porygon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "56 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-056.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013580_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q20fy3nrsr21i84-porygon",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#56",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-057",
+    "sourceId": "x1mm4v1w9v4jnzo-porygon2",
+    "categoria": "Pokemon",
+    "nome": "Porygon2",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Ataque em Velocidade",
+        "dano": "40",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "57 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-057.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013590_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x1mm4v1w9v4jnzo-porygon2",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#57",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-058",
+    "sourceId": "t4p6xci3hryucbz-porygon-z",
+    "categoria": "Pokemon",
+    "nome": "Porygon-Z",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Ciberataque",
+        "dano": "20 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Trainer card in your opponent's deck"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "58 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-058.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013600_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t4p6xci3hryucbz-porygon-z",
+    "custoDeck": 3,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#58",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-059",
+    "sourceId": "kmwyfawamwa6dpy-starly",
+    "categoria": "Pokemon",
+    "nome": "Starly",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "59 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-059.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013610_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kmwyfawamwa6dpy-starly",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#59",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-060",
+    "sourceId": "76spparvh56l9q2-staravia",
+    "categoria": "Pokemon",
+    "nome": "Staravia",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Ataque Rápido",
+        "dano": "30 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "60 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-060.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013620_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/76spparvh56l9q2-staravia",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#60",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-061",
+    "sourceId": "3qt212dj0iphuzb-staraptor",
+    "categoria": "Pokemon",
+    "nome": "Staraptor",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Asa do Furacão",
+        "dano": "50 ×",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip 4 coins. This attack does 50 damage for each heads"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "61 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-061.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013630_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3qt212dj0iphuzb-staraptor",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#61",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-062",
+    "sourceId": "thbielkxfykc72l-buneary",
+    "categoria": "Pokemon",
+    "nome": "Buneary",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Chute Duplo",
+        "dano": "20 ×",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "62 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-062.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/thbielkxfykc72l-buneary",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#62",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-063",
+    "sourceId": "88ralmjlcr4e3aa-lopunny",
+    "categoria": "Pokemon",
+    "nome": "Lopunny",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Chute Duplo",
+        "dano": "50 ×",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 50 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "63 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-063.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013640_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/88ralmjlcr4e3aa-lopunny",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#63",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-064",
+    "sourceId": "1tb64gmq5olfwva-bouffalant",
+    "categoria": "Pokemon",
+    "nome": "Bouffalant",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Vingança",
+        "dano": "40 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "64 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-064.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013650_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1tb64gmq5olfwva-bouffalant",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#64",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-065",
+    "sourceId": "iuk5hh6yvg2jas0-furfrou",
+    "categoria": "Pokemon",
+    "nome": "Furfrou",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "30",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "65 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-065.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013660_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iuk5hh6yvg2jas0-furfrou",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#65",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-066",
+    "sourceId": "t8vwgpxthcklr0n-clemonts-backpack",
+    "categoria": "Treinador",
+    "nome": "Mochila do Clemont",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "66 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-066.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_10_001010_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t8vwgpxthcklr0n-clemonts-backpack",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#66",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-067",
+    "sourceId": "b7417u813j8rkqv-quick-grow-extract",
+    "categoria": "Treinador",
+    "nome": "Extrato de Adubo",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "67 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-067.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_10_001020_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b7417u813j8rkqv-quick-grow-extract",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#67",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-068",
+    "sourceId": "xk6amvz3cyhwofv-clemont",
+    "categoria": "Treinador",
+    "nome": "Clemont",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "68 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-068.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_10_001030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xk6amvz3cyhwofv-clemont",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#68",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-069",
+    "sourceId": "73icq4ojw56wcd1-serena",
+    "categoria": "Treinador",
+    "nome": "Serena",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "69 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-069.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_10_001040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/73icq4ojw56wcd1-serena",
+    "custoDeck": 1,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#69",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-070",
+    "sourceId": "w7vvlgzkgqadp34-ariados",
+    "categoria": "Pokemon",
+    "nome": "Ariados",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Perfurar",
+        "dano": "30",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "70 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-070.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013120_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w7vvlgzkgqadp34-ariados",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#70",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-071",
+    "sourceId": "rmut0qrzrq6ka2l-sunflora",
+    "categoria": "Pokemon",
+    "nome": "Sunflora",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Feixe de Adubo",
+        "dano": "30 +",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "If Quick-Grow Extract is in your discard pile, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "71 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-071.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013140_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rmut0qrzrq6ka2l-sunflora",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#71",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-072",
+    "sourceId": "r8aeoauwy2lq7z1-reuniclus",
+    "categoria": "Pokemon",
+    "nome": "Reuniclus",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Soco Psíquico",
+        "dano": "90",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "72 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-072.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013380_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r8aeoauwy2lq7z1-reuniclus",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#72",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-073",
+    "sourceId": "bnoz4j8h9361bl0-xerneas",
+    "categoria": "Pokemon",
+    "nome": "Xerneas",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Geoexplosão",
+        "dano": "120",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "This attack's damage is reduced by the amount of damage this Pokémon has on it"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "73 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-073.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bnoz4j8h9361bl0-xerneas",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#73",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-074",
+    "sourceId": "dd8bpagoz0vnhnb-trubbish",
+    "categoria": "Pokemon",
+    "nome": "Trubbish",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Babar",
+        "dano": "30",
+        "custoataque": [
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "74 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-074.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013530_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dd8bpagoz0vnhnb-trubbish",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#74",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-075",
+    "sourceId": "k3xenu1expx65vc-buneary",
+    "categoria": "Pokemon",
+    "nome": "Buneary",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Chute Duplo",
+        "dano": "20 ×",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "75 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-075.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k3xenu1expx65vc-buneary",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#75",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-076",
+    "sourceId": "rrzi6tnpxivf6mx-mega-venusaur-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Venusaur ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 240,
+    "ataque": [
+      {
+        "nomeataque": "Florescimento Crítico",
+        "dano": "120",
+        "custoataque": [
+          "Planta",
+          "Planta",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned and Asleep"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "76 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-076.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013100_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rrzi6tnpxivf6mx-mega-venusaur-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#76",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-077",
+    "sourceId": "euukz0om2ybbwba-mega-charizard-y-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Charizard Y ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Mergulho Carmim",
+        "dano": "250",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 50 damage to itself"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "77 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-077.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/euukz0om2ybbwba-mega-charizard-y-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#77",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-078",
+    "sourceId": "hrhldjkpjj4oomy-mega-blastoise-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Blastoise ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 230,
+    "ataque": [
+      {
+        "nomeataque": "Bombardeio Triplo",
+        "dano": "130",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "If this Pokémon has at least 3 extra Water Energy attached, this attack does 50 damage to 2 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "78 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-078.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hrhldjkpjj4oomy-mega-blastoise-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#78",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-079",
+    "sourceId": "9u452tz97hzqm6g-mega-lopunny-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Lopunny ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 190,
+    "ataque": [
+      {
+        "nomeataque": "Pancadaria Ligeira",
+        "dano": "90 ×",
+        "custoataque": [
+          "Luta",
+          "Luta"
+        ],
+        "efeito": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "79 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-079.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9u452tz97hzqm6g-mega-lopunny-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#79",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-080",
+    "sourceId": "hmk602xhsarwypf-mega-steelix-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Steelix ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Rolagem Adamantina",
+        "dano": "120",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, this Pokémon takes -20 damage from attacks and has no Weakness"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "80 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-080.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013560_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hmk602xhsarwypf-mega-steelix-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#80",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-081",
+    "sourceId": "nemit1pytwz1ycz-clemont",
+    "categoria": "Treinador",
+    "nome": "Clemont",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "81 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-081.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_20_001030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nemit1pytwz1ycz-clemont",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#81",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-082",
+    "sourceId": "yqrex3p3lvbleo7-serena",
+    "categoria": "Treinador",
+    "nome": "Serena",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "82 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-082.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_20_001040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yqrex3p3lvbleo7-serena",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#82",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-083",
+    "sourceId": "bcoq2cox6k0jcjc-mega-venusaur-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Venusaur ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 240,
+    "ataque": [
+      {
+        "nomeataque": "Florescimento Crítico",
+        "dano": "120",
+        "custoataque": [
+          "Planta",
+          "Planta",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned and Asleep"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "83 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-083.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013100_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bcoq2cox6k0jcjc-mega-venusaur-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#83",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-084",
+    "sourceId": "4nuouby0bwxmyzy-mega-blastoise-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Blastoise ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 230,
+    "ataque": [
+      {
+        "nomeataque": "Bombardeio Triplo",
+        "dano": "130",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "If this Pokémon has at least 3 extra Water Energy attached, this attack does 50 damage to 2 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "84 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-084.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013250_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4nuouby0bwxmyzy-mega-blastoise-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#84",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-085",
+    "sourceId": "bammubqo5a3cfc1-mega-lopunny-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Lopunny ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 190,
+    "ataque": [
+      {
+        "nomeataque": "Rolagem Adamantina",
+        "dano": "120",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, this Pokémon takes -20 damage from attacks and has no Weakness"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 4,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "85 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-085.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013460_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bammubqo5a3cfc1-mega-lopunny-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#85",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-086",
+    "sourceId": "e4gp5syz2ibcdzq-mega-steelix-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Steelix ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Pancadaria Ligeira",
+        "dano": "90 ×",
+        "custoataque": [
+          "Luta",
+          "Luta"
+        ],
+        "efeito": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "86 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-086.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013560_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e4gp5syz2ibcdzq-mega-steelix-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#86",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-087",
+    "sourceId": "lgvyipn64uh2f7i-mega-charizard-y-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Charizard Y ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Mergulho Carmim",
+        "dano": "250",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 50 damage to itself"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "87 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-087.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013190_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lgvyipn64uh2f7i-mega-charizard-y-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#87",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-088",
+    "sourceId": "7dmwtkkcizk1ejr-oddish",
+    "categoria": "Pokemon",
+    "nome": "Oddish",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Pó Venenoso",
+        "dano": "10",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "88 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-088.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_008570_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7dmwtkkcizk1ejr-oddish",
+    "custoDeck": 2,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#88",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-089",
+    "sourceId": "nlljp7kjmxnglpr-gloom",
+    "categoria": "Pokemon",
+    "nome": "Gloom",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Passo de Folha",
+        "dano": "40",
+        "custoataque": [
+          "Planta",
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "89 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-089.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_008580_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nlljp7kjmxnglpr-gloom",
+    "custoDeck": 2,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#89",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-090",
+    "sourceId": "mzigqv0y2gkgx7k-vileplume",
+    "categoria": "Pokemon",
+    "nome": "Vileplume",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Odor Calmante",
+        "dano": "80",
+        "custoataque": [
+          "Planta",
+          "Planta",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "90 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-090.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_000130_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mzigqv0y2gkgx7k-vileplume",
+    "custoDeck": 2,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#90",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-091",
+    "sourceId": "fh4kvtvb91wt58u-charizard",
+    "categoria": "Pokemon",
+    "nome": "Charizard",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Investida Infernal",
+        "dano": "150",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 30 damage to itself"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "91 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-091.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013180_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fh4kvtvb91wt58u-charizard",
+    "custoDeck": 2,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#91",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-092",
+    "sourceId": "f71ndwot97s38fl-shellder",
+    "categoria": "Pokemon",
+    "nome": "Shellder",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "10",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "92 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-092.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_006230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f71ndwot97s38fl-shellder",
+    "custoDeck": 2,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#92",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-093",
+    "sourceId": "edo6c09q9lvb95i-cloyster",
+    "categoria": "Pokemon",
+    "nome": "Cloyster",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Aperto Protetor",
+        "dano": "50",
+        "custoataque": [
+          "Agua",
+          "Agua"
+        ],
+        "efeito": "During your opponent's next turn, this Pokémon takes -20 damage from attacks"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "93 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-093.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_006240_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/edo6c09q9lvb95i-cloyster",
+    "custoDeck": 2,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#93",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-094",
+    "sourceId": "zih1x6fo5u97wnl-sandshrew",
+    "categoria": "Pokemon",
+    "nome": "Sandshrew",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Spray de Areia",
+        "dano": "20",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "94 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-094.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_012040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zih1x6fo5u97wnl-sandshrew",
+    "custoDeck": 2,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#94",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-095",
+    "sourceId": "47petli8suwtknl-sandslash",
+    "categoria": "Pokemon",
+    "nome": "Sandslash",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Cortar",
+        "dano": "50",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "95 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-095.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_012050_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/47petli8suwtknl-sandslash",
+    "custoDeck": 2,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#95",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-096",
+    "sourceId": "msnpi5wnwzdrrr7-type-null",
+    "categoria": "Pokemon",
+    "nome": "Tipo Nulo",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Golpe Rápido",
+        "dano": "20 +",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "96 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-096.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007940_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/msnpi5wnwzdrrr7-type-null",
+    "custoDeck": 2,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#96",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-097",
+    "sourceId": "ficailgowmzhxhb-silvally",
+    "categoria": "Pokemon",
+    "nome": "Silvally",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Bravos Amigos",
+        "dano": "50 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "97 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-097.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007950_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ficailgowmzhxhb-silvally",
+    "custoDeck": 2,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#97",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-098",
+    "sourceId": "farch7aokfga9h8-buzzwole-ex",
+    "categoria": "Pokemon",
+    "nome": "Buzzwole ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Soco",
+        "dano": "30",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "During your next turn, this Pokémon can't use Big Beat"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "98 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-098.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007480_03_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/farch7aokfga9h8-buzzwole-ex",
+    "custoDeck": 2,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#98",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-099",
+    "sourceId": "71z7etq1qsjk7fh-lunala-ex",
+    "categoria": "Pokemon",
+    "nome": "Lunala ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Detonação Lunar",
+        "dano": "100",
+        "custoataque": [
+          "Psiquico",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "99 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-099.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_006680_04_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71z7etq1qsjk7fh-lunala-ex",
+    "custoDeck": 2,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#99",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-100",
+    "sourceId": "dm05ywmcvsoqtdm-guzzlord-ex",
+    "categoria": "Pokemon",
+    "nome": "Guzzlord ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Grindcore",
+        "dano": "30",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin until you get a tails. For each heads, discard a random Energy from your opponent's Active Pokémon"
+      },
+      {
+        "nomeataque": "Buraco de Tirano",
+        "dano": "120",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao",
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 4,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "100 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-100.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007800_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dm05ywmcvsoqtdm-guzzlord-ex",
+    "custoDeck": 2,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#100",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-101",
+    "sourceId": "jtce5sdy0bu1c9b-solgaleo-ex",
+    "categoria": "Pokemon",
+    "nome": "Solgaleo ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Quebra-sol",
+        "dano": "120",
+        "custoataque": [
+          "Metal",
+          "Metal"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "101 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-101.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007030_04_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jtce5sdy0bu1c9b-solgaleo-ex",
+    "custoDeck": 2,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#101",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-102",
+    "sourceId": "9kfvx8g17faimdx-aegislash",
+    "categoria": "Pokemon",
+    "nome": "Aegislash",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Lâmina Fatiante",
+        "dano": "70",
+        "custoataque": [
+          "Metal",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "102 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-102.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_012540_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9kfvx8g17faimdx-aegislash",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#102",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b1a-103",
+    "sourceId": "mfxhxjyj9ikb855-quick-grow-extract",
+    "categoria": "Treinador",
+    "nome": "Extrato de Adubo",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Chama Carmesim (B1A)",
+    "numero": "103 / 103",
+    "pacote": "Crimson Blaze",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-103.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_20_001020_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mfxhxjyj9ikb855-quick-grow-extract",
+    "custoDeck": 8,
+    "releaseDate": "2025-12-17",
+    "sourceMeta": {
+      "setCode": "B1A",
+      "series": "b",
+      "matchKey": "B1A#103",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  }
+]

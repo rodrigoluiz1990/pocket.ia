@@ -1,0 +1,22 @@
+id: xxxx
+categoria: pokemon/treinador
+nome: nome do pokemon
+estagio: baby/básico/estagio 1/estagio 2/ex/mega/fossil/item/apoiador/ferramenta/estadio
+evolução: nome da proxima evolução do pokemon
+tipo: planta/agua/fogo/eletrico/....
+hp: quantidade de vida do pokemon
+ataque {nomeataque: nome do ataque do pokemon
+		dano: quantidade de dano que o ataque causa
+		custoataque: energias necessarias para usar o ataque
+		efeito: descrição do efeito do ataque quando tiver}
+fraqueza: tipo de energia que causa fraqueza
+recuo: quantidade de energia necessaria para recuar
+raridade: comum/incomum/rara/dupla rara/...
+habilidade: true/false
+promo: true/false
+formato: ex/noex
+mega: true/false
+expansao: nome/codigo da expansao
+numero: numero do pokemon dentro da expansao
+pacote: nome do pacote da expansao
+imagem: local da imagem

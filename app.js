@@ -96,6 +96,13 @@ function normalizeSetCode(value) {
   return String(value || "").trim().toUpperCase();
 }
 
+function assetCodeFromSetCode(code) {
+  const normalized = normalizeSetCode(code);
+  if (normalized === "PROMO-A") return "pa";
+  if (normalized === "PROMO-B") return "pb";
+  return normalized.toLowerCase();
+}
+
 function configureExpansions(expansions) {
   expansionOrder = expansions.map((e) => String(e.name || "").trim()).filter(Boolean);
   normalizedExpansionOrder = expansionOrder.map((name) => normalizeKey(name));
@@ -122,6 +129,36 @@ function parseCardNumber(numero) {
 
 function canonicalExpansionName(expansao) {
   return String(expansao || "").trim();
+}
+
+function extractSetCodeFromExpansion(expansao) {
+  const text = String(expansao || "").trim();
+  if (!text) return "";
+  const match = text.match(/\(([A-Z0-9-]+)\)\s*$/i);
+  if (match) return normalizeSetCode(match[1]);
+  return normalizeSetCode(text);
+}
+
+function normalizeCardImagePath(card) {
+  const current = String(card?.imageLocal || "").trim();
+  if (!current) return "";
+
+  const normalized = current.replace(/\\/g, "/");
+  const fileName = normalized.split("/").pop() || "";
+  if (!fileName) return current;
+
+  const promoMatch = fileName.match(/^p-([ab])-(\d+\.[a-z0-9]+)$/i);
+  const normalizedFileName = promoMatch ? `p${promoMatch[1].toLowerCase()}-${promoMatch[2]}` : fileName.toLowerCase();
+  const setCode =
+    extractSetCodeFromExpansion(card?.expansao) ||
+    (() => {
+      const idMatch = String(card?.id || "").trim().match(/^([a-z]\d[a-z]?|p-[ab])-/i);
+      return idMatch ? idMatch[1] : "";
+    })();
+  const assetCode = assetCodeFromSetCode(setCode);
+  if (!assetCode) return `./assets/cards/${normalizedFileName}`;
+
+  return `./assets/cards/cartas_${assetCode}/${normalizedFileName}`;
 }
 
 
@@ -437,7 +474,11 @@ function expansionRank(expansao) {
 }
 
 function normalizeCard(card) {
-  const ataques = Array.isArray(card.ataque) ? card.ataque : [];
+  const ataques = Array.isArray(card.ataqueLista)
+    ? card.ataqueLista
+    : Array.isArray(card.ataque)
+      ? card.ataque
+      : [];
   const maxDano = ataques.reduce((acc, atk) => {
     const nums = String(atk?.dano || "").match(/\d+/g);
     const score = nums && nums.length ? Math.max(...nums.map(Number)) : 0;
@@ -453,10 +494,11 @@ function normalizeCard(card) {
     categoria: String(card.categoria || "").trim(),
     tipo: String(card.tipo || "").trim(),
     expansao: String(card.expansao || "").trim(),
+    pacote: String(card.pacote || "").trim(),
     estagio: String(card.estagio || "").trim(),
     raridade: String(card.raridade || "").trim(),
     fraqueza: String(card.fraqueza || "").trim(),
-    imageLocal: String(card.imageLocal || "").trim(),
+    imageLocal: normalizeCardImagePath(card),
     hp: safeNumber(card.hp, 0),
     ataque: safeNumber(maxDano, safeNumber(card.ataque, 0)),
     custoAtaque: safeNumber(maxCustoAtaque, safeNumber(card.custoAtaque, 0)),
@@ -472,7 +514,7 @@ function normalizeCard(card) {
 function hasValidImage(card) {
   const local = String(card?.imageLocal || "").trim();
   const remote = String(card?.imageUrl || "").trim();
-  return Boolean(local || remote);
+  return Boolean(local || (remote && !isWallpaperImage(remote)));
 }
 
 function getPrimaryCardImage(card) {
@@ -480,8 +522,14 @@ function getPrimaryCardImage(card) {
   const local = String(card.imageLocal || "").trim();
   if (local) return local;
   const remote = String(card.imageUrl || "").trim();
-  if (remote) return remote;
+  if (remote && !isWallpaperImage(remote)) return remote;
   return "";
+}
+
+function isWallpaperImage(src) {
+  const normalized = String(src || "").trim().toLowerCase();
+  if (!normalized) return false;
+  return normalized.includes("/wallpapers/") || /_wallpaper\.(jpg|jpeg|png|webp)$/i.test(normalized);
 }
 
 function getCardImageSrc(card) {
@@ -711,7 +759,7 @@ function renderCards() {
           <li><strong>Dano:</strong> ${danoText}</li>
           <li><strong>Fraqueza:</strong> ${card.fraqueza || "-"}</li>
           <li><strong>Recuo:</strong> ${card.recuo}</li>
-          <li><strong>Pacote:</strong> ${card.expansao}</li>
+          <li><strong>Pacote:</strong> ${card.pacote || card.expansao}</li>
         </ul>
       `;
       fragment.appendChild(cardEl);

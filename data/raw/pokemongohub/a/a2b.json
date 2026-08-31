@@ -1,47 +1,5 @@
 [
   {
-    "id": "6ftv3l4gq33u08b-sprigatito",
-    "nome": "Sprigatito",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "5 / 110",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005250_00_NYAHOJA_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6ftv3l4gq33u08b-sprigatito"
-  },
-  {
-    "id": "mssi78c8162ggzo-beedrill-ex",
-    "nome": "Beedrill ex",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 2",
-    "expansao": "Festival Brilhante",
-    "numero": "3 / 110",
-    "hp": 170,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005230_00_SPEARex_RR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mssi78c8162ggzo-beedrill-ex"
-  },
-  {
-    "id": "4m26w35x3gu53ej-weedle",
-    "nome": "Weedle",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "1 / 110",
-    "hp": 50,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005210_00_BEEDLE_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4m26w35x3gu53ej-weedle"
-  },
-  {
     "id": "lv9ccwdam68l8q6-pinsir",
     "nome": "Pinsir",
     "tipo": "Pokemon",
@@ -52,81 +10,28 @@
     "expansao": "Festival Brilhante",
     "numero": "4 / 110",
     "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Guilhotina Descontrolada",
+        "dano": "50 +",
+        "custoataque": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip a coin until you get a tails. This attack does 40 more damage for each heads."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005240_00_KAILIOS_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lv9ccwdam68l8q6-pinsir"
   },
   {
-    "id": "3n54fn1ag340x6w-kakuna",
-    "nome": "Kakuna",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "2 / 110",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005220_00_COCOON_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3n54fn1ag340x6w-kakuna"
-  },
-  {
-    "id": "puv22241m635o3h-floragato",
-    "nome": "Floragato",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "6 / 110",
-    "hp": 90,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005250_00_NYAROTE_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/puv22241m635o3h-floragato"
-  },
-  {
-    "id": "064ym579f08jcf1-meowscarada",
-    "nome": "Meowscarada",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Estágio 2",
-    "expansao": "Festival Brilhante",
-    "numero": "7 / 110",
-    "hp": 140,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005260_00_MASQUERNYA_R_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/064ym579f08jcf1-meowscarada"
-  },
-  {
-    "id": "6066ttdk5hv4or2-charmander",
-    "nome": "Charmander",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "8 / 110",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005270_00_HITOKAGE_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6066ttdk5hv4or2-charmander"
-  },
-  {
-    "id": "6vn59a029r2u643-floatzel",
-    "nome": "Floatzel",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "17 / 110",
-    "hp": 90,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005360_00_FLOAZEL_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6vn59a029r2u643-floatzel"
-  },
-  {
-    "id": "147338y6p7mygag-tauros-de-paldea",
+    "id": "147338y6p7mygag-paldean-tauros",
     "nome": "Tauros de Paldea",
     "tipo": "Pokemon",
     "elemento": "Fogo",
@@ -136,120 +41,25 @@
     "expansao": "Festival Brilhante",
     "numero": "13 / 110",
     "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Investida Incendiária",
+        "dano": "80",
+        "custoataque": [
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005320_00_PALDEAKENTAUROS_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/147338y6p7mygag-tauros-de-paldea"
-  },
-  {
-    "id": "9j70c3z44fox2br-wiglett",
-    "nome": "Wiglett",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "18 / 110",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005370_00_UMIDIGDA_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9j70c3z44fox2br-wiglett"
-  },
-  {
-    "id": "2d257p127lb548k-charmeleon",
-    "nome": "Charmeleon",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "9 / 110",
-    "hp": 90,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005280_00_LIZARDO_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2d257p127lb548k-charmeleon"
-  },
-  {
-    "id": "yq0dk6k1x26ei8c-dondozo",
-    "nome": "Dondozo",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "20 / 110",
-    "hp": 120,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005390_00_HEYRUSHER_R_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yq0dk6k1x26ei8c-dondozo"
-  },
-  {
-    "id": "g9s2f3p481h1bq7-charizard-ex",
-    "nome": "Charizard ex",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 2",
-    "expansao": "Festival Brilhante",
-    "numero": "10 / 110",
-    "hp": 180,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005290_00_LIZARDONex_RR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g9s2f3p481h1bq7-charizard-ex"
-  },
-  {
-    "id": "i0gxgte44oa61i7-wugtrio-ex",
-    "nome": "Wugtrio ex",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "19 / 110",
-    "hp": 140,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005380_00_UMITRIOex_RR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i0gxgte44oa61i7-wugtrio-ex"
-  },
-  {
-    "id": "6fzh0m15lv24w6v-magmar",
-    "nome": "Magmar",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "11 / 110",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005300_00_BOOBER_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6fzh0m15lv24w6v-magmar"
-  },
-  {
-    "id": "qzfjp205ery01x6-buizel",
-    "nome": "Buizel",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "16 / 110",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005350_00_BUOYSEL_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qzfjp205ery01x6-buizel"
-  },
-  {
-    "id": "atty1w3g3t39hhy-magmortar",
-    "nome": "Magmortar",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "12 / 110",
-    "hp": 120,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005310_00_BOOBURN_R_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/atty1w3g3t39hhy-magmortar"
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/147338y6p7mygag-paldean-tauros"
   },
   {
     "id": "z06a4d61i9e60v2-tentacruel",
@@ -262,8 +72,152 @@
     "expansao": "Festival Brilhante",
     "numero": "15 / 110",
     "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Onda Borrifante",
+        "dano": "40",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005340_00_DOKUKURAGE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z06a4d61i9e60v2-tentacruel"
+  },
+  {
+    "id": "4m26w35x3gu53ej-weedle",
+    "nome": "Weedle",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "1 / 110",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005210_00_BEEDLE_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4m26w35x3gu53ej-weedle"
+  },
+  {
+    "id": "3n54fn1ag340x6w-kakuna",
+    "nome": "Kakuna",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "2 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Estilingada",
+        "dano": "20",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005220_00_COCOON_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3n54fn1ag340x6w-kakuna"
+  },
+  {
+    "id": "mssi78c8162ggzo-beedrill-ex",
+    "nome": "Beedrill ex",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Festival Brilhante",
+    "numero": "3 / 110",
+    "hp": 170,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lança Aniquiladora",
+        "dano": "80",
+        "custoataque": [
+          "grass",
+          "grass"
+        ],
+        "efeito": "Discard a random Energy from your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005230_00_SPEARex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mssi78c8162ggzo-beedrill-ex"
+  },
+  {
+    "id": "puv22241m635o3h-floragato",
+    "nome": "Floragato",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "6 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Talho",
+        "dano": "40",
+        "custoataque": [
+          "grass",
+          "grass"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005250_00_NYAROTE_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/puv22241m635o3h-floragato"
+  },
+  {
+    "id": "6vn59a029r2u643-floatzel",
+    "nome": "Floatzel",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "17 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005360_00_FLOAZEL_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6vn59a029r2u643-floatzel"
   },
   {
     "id": "e6c70mhsfn7i0pe-tentacool",
@@ -276,8 +230,250 @@
     "expansao": "Festival Brilhante",
     "numero": "14 / 110",
     "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Chuva Borrifante",
+        "dano": "10",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005330_00_MENOKURAGE_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e6c70mhsfn7i0pe-tentacool"
+  },
+  {
+    "id": "2d257p127lb548k-charmeleon",
+    "nome": "Charmeleon",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "9 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Combustão",
+        "dano": "40",
+        "custoataque": [
+          "fire",
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005280_00_LIZARDO_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2d257p127lb548k-charmeleon"
+  },
+  {
+    "id": "atty1w3g3t39hhy-magmortar",
+    "nome": "Magmortar",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "12 / 110",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bomba de Fumaça",
+        "dano": "70",
+        "custoataque": [
+          "fire",
+          "fire",
+          "colorless"
+        ],
+        "efeito": "During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, the attack doesn't happen"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005310_00_BOOBURN_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/atty1w3g3t39hhy-magmortar"
+  },
+  {
+    "id": "064ym579f08jcf1-meowscarada",
+    "nome": "Meowscarada",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Estágio 2",
+    "expansao": "Festival Brilhante",
+    "numero": "7 / 110",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Garras de Luta",
+        "dano": "60 +",
+        "custoataque": [
+          "grass",
+          "grass"
+        ],
+        "efeito": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005260_00_MASQUERNYA_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/064ym579f08jcf1-meowscarada"
+  },
+  {
+    "id": "6ftv3l4gq33u08b-sprigatito",
+    "nome": "Sprigatito",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "5 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005250_00_NYAHOJA_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6ftv3l4gq33u08b-sprigatito"
+  },
+  {
+    "id": "6066ttdk5hv4or2-charmander",
+    "nome": "Charmander",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "8 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Combustão",
+        "dano": "20",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005270_00_HITOKAGE_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6066ttdk5hv4or2-charmander"
+  },
+  {
+    "id": "g9s2f3p481h1bq7-charizard-ex",
+    "nome": "Charizard ex",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Festival Brilhante",
+    "numero": "10 / 110",
+    "hp": 180,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Carregar",
+        "dano": "150",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005290_00_LIZARDONex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g9s2f3p481h1bq7-charizard-ex"
+  },
+  {
+    "id": "qzfjp205ery01x6-buizel",
+    "nome": "Buizel",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "16 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Revólver d’Água",
+        "dano": "10",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005350_00_BUOYSEL_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qzfjp205ery01x6-buizel"
+  },
+  {
+    "id": "6fzh0m15lv24w6v-magmar",
+    "nome": "Magmar",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "11 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Chama",
+        "dano": "20",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005300_00_BOOBER_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6fzh0m15lv24w6v-magmar"
   },
   {
     "id": "1gajf777c1ewg05-electrode",
@@ -290,92 +486,76 @@
     "expansao": "Festival Brilhante",
     "numero": "24 / 110",
     "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque Cambalhota",
+        "dano": "50 +",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005430_00_MARUMINE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1gajf777c1ewg05-electrode"
   },
   {
-    "id": "7a84guflo59f050-pawmo",
-    "nome": "Pawmo",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "27 / 110",
-    "hp": 90,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005450_00_PAMOT_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7a84guflo59f050-pawmo"
-  },
-  {
-    "id": "0039b66jy5147nw-pawmot",
-    "nome": "Pawmot",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "28 / 110",
-    "hp": 140,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005450_00_PARMOT_R_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0039b66jy5147nw-pawmot"
-  },
-  {
-    "id": "r39i4421eo639o9-alakazam",
-    "nome": "Alakazam",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Estágio 2",
-    "expansao": "Festival Brilhante",
-    "numero": "31 / 110",
-    "hp": 130,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005480_00_FOODIN_R_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r39i4421eo639o9-alakazam"
-  },
-  {
-    "id": "w71088w8g9h3a11-kadabra",
-    "nome": "Kadabra",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "30 / 110",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005470_00_YUNGERER_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w71088w8g9h3a11-kadabra"
-  },
-  {
-    "id": "pj9vua4728915mq-tatsugiri",
-    "nome": "Tatsugiri",
+    "id": "yq0dk6k1x26ei8c-dondozo",
+    "nome": "Dondozo",
     "tipo": "Pokemon",
     "elemento": "Água",
-    "raridade": "Incomum",
-    "custoDeck": 1,
+    "raridade": "Rara",
+    "custoDeck": 3,
     "estagio": "Básico",
     "expansao": "Festival Brilhante",
-    "numero": "21 / 110",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005400_00_SYARITATSU_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pj9vua4728915mq-tatsugiri"
+    "numero": "20 / 110",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ciclone Oceânico",
+        "dano": "80",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack also does 10 damage to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005390_00_HEYRUSHER_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yq0dk6k1x26ei8c-dondozo"
   },
   {
-    "id": "6ed5804rdx05505-pachirisu",
-    "nome": "Pachirisu",
+    "id": "i0gxgte44oa61i7-wugtrio-ex",
+    "nome": "Wugtrio ex",
     "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 1",
     "expansao": "Festival Brilhante",
-    "numero": "25 / 110",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005430_00_PACHIRISU_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6ed5804rdx05505-pachirisu"
+    "numero": "19 / 110",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005380_00_UMITRIOex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i0gxgte44oa61i7-wugtrio-ex"
   },
   {
     "id": "554bh23iw5589km-mr-mime",
@@ -388,36 +568,44 @@
     "expansao": "Festival Brilhante",
     "numero": "32 / 110",
     "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Malabarismo",
+        "dano": "20 ×",
+        "custoataque": [
+          "psychic",
+          "colorless"
+        ],
+        "efeito": "Flip 4 coins. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005490_00_BARRIERD_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/554bh23iw5589km-mr-mime"
   },
   {
-    "id": "15ld52lr0w6uwk6-pawmi",
-    "nome": "Pawmi",
+    "id": "9j70c3z44fox2br-wiglett",
+    "nome": "Wiglett",
     "tipo": "Pokemon",
-    "elemento": "Elétrico",
+    "elemento": "Água",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Festival Brilhante",
-    "numero": "26 / 110",
+    "numero": "18 / 110",
     "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005440_00_PAMO_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/15ld52lr0w6uwk6-pawmi"
-  },
-  {
-    "id": "5nrapi3min6e1v6-pikachu-ex",
-    "nome": "Pikachu ex",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "22 / 110",
-    "hp": 120,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005410_00_PIKACHUex_RR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5nrapi3min6e1v6-pikachu-ex"
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005370_00_UMIDIGDA_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9j70c3z44fox2br-wiglett"
   },
   {
     "id": "0z2u8c7v8cr7uq6-abra",
@@ -430,78 +618,110 @@
     "expansao": "Festival Brilhante",
     "numero": "29 / 110",
     "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "20",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005460_00_CASEY_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0z2u8c7v8cr7uq6-abra"
   },
   {
-    "id": "cup3rp590k2la09-voltorb",
-    "nome": "Voltorb",
+    "id": "w71088w8g9h3a11-kadabra",
+    "nome": "Kadabra",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "30 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "30",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005470_00_YUNGERER_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w71088w8g9h3a11-kadabra"
+  },
+  {
+    "id": "15ld52lr0w6uwk6-pawmi",
+    "nome": "Pawmi",
     "tipo": "Pokemon",
     "elemento": "Elétrico",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Festival Brilhante",
-    "numero": "23 / 110",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005420_00_BIRIRIDAMA_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cup3rp590k2la09-voltorb"
-  },
-  {
-    "id": "ca0006onh292m3o-machamp",
-    "nome": "Machamp",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Estágio 2",
-    "expansao": "Festival Brilhante",
-    "numero": "39 / 110",
-    "hp": 150,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005550_00_KAIRIKY_R_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ca0006onh292m3o-machamp"
-  },
-  {
-    "id": "q3m8y8744r0glv7-machoke",
-    "nome": "Machoke",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "38 / 110",
-    "hp": 100,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005550_00_GORIKY_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q3m8y8744r0glv7-machoke"
-  },
-  {
-    "id": "rkiqx39z0wap30g-hitmonchan",
-    "nome": "Hitmonchan",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "41 / 110",
-    "hp": 90,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005570_00_EBIWALAR_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rkiqx39z0wap30g-hitmonchan"
-  },
-  {
-    "id": "yb416dbw3341me5-drifloon",
-    "nome": "Drifloon",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "33 / 110",
+    "numero": "26 / 110",
     "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005500_00_FUWANTE_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yb416dbw3341me5-drifloon"
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco",
+        "dano": "20",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005440_00_PAMO_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/15ld52lr0w6uwk6-pawmi"
+  },
+  {
+    "id": "pj9vua4728915mq-tatsugiri",
+    "nome": "Tatsugiri",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "21 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Chuva Borrifante",
+        "dano": "20",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005400_00_SYARITATSU_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pj9vua4728915mq-tatsugiri"
   },
   {
     "id": "9a33hcf0a8dfwu8-drifblim",
@@ -514,22 +734,220 @@
     "expansao": "Festival Brilhante",
     "numero": "34 / 110",
     "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lufada de Vento",
+        "dano": "40",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005510_00_FUWARIDE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9a33hcf0a8dfwu8-drifblim"
   },
   {
-    "id": "irk3b8v34e5jlzj-flamigo",
-    "nome": "Flamigo",
+    "id": "r39i4421eo639o9-alakazam",
+    "nome": "Alakazam",
     "tipo": "Pokemon",
-    "elemento": "Lutador",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Estágio 2",
+    "expansao": "Festival Brilhante",
+    "numero": "31 / 110",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Supressão Psíquica",
+        "dano": "80",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "This attack does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005480_00_FOODIN_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r39i4421eo639o9-alakazam"
+  },
+  {
+    "id": "6ed5804rdx05505-pachirisu",
+    "nome": "Pachirisu",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Festival Brilhante",
-    "numero": "44 / 110",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005590_00_KARAMINGO_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/irk3b8v34e5jlzj-flamigo"
+    "numero": "25 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Plasma",
+        "dano": "10",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your BenchedPokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005430_00_PACHIRISU_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6ed5804rdx05505-pachirisu"
+  },
+  {
+    "id": "rkiqx39z0wap30g-hitmonchan",
+    "nome": "Hitmonchan",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "41 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005570_00_EBIWALAR_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rkiqx39z0wap30g-hitmonchan"
+  },
+  {
+    "id": "cup3rp590k2la09-voltorb",
+    "nome": "Voltorb",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "23 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bola de Raios",
+        "dano": "10",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005420_00_BIRIRIDAMA_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cup3rp590k2la09-voltorb"
+  },
+  {
+    "id": "q3m8y8744r0glv7-machoke",
+    "nome": "Machoke",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "38 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Esmurrar",
+        "dano": "30 +",
+        "custoataque": [
+          "fighting",
+          "fighting"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005550_00_GORIKY_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q3m8y8744r0glv7-machoke"
+  },
+  {
+    "id": "7a84guflo59f050-pawmo",
+    "nome": "Pawmo",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "27 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco",
+        "dano": "40",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005450_00_PAMOT_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7a84guflo59f050-pawmo"
+  },
+  {
+    "id": "yb416dbw3341me5-drifloon",
+    "nome": "Drifloon",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "33 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "20",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005500_00_FUWANTE_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yb416dbw3341me5-drifloon"
   },
   {
     "id": "3vufo794jka2neo-riolu",
@@ -542,8 +960,55 @@
     "expansao": "Festival Brilhante",
     "numero": "42 / 110",
     "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco",
+        "dano": "40",
+        "custoataque": [
+          "fighting",
+          "fighting"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005570_00_RIOLU_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3vufo794jka2neo-riolu"
+  },
+  {
+    "id": "5nrapi3min6e1v6-pikachu-ex",
+    "nome": "Pikachu ex",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "22 / 110",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Relâmpago",
+        "dano": "150",
+        "custoataque": [
+          "lightning",
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "Discard all Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005410_00_PIKACHUex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5nrapi3min6e1v6-pikachu-ex"
   },
   {
     "id": "344jira7fe582wt-hitmonlee",
@@ -556,92 +1021,14 @@
     "expansao": "Festival Brilhante",
     "numero": "40 / 110",
     "hp": 80,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005560_00_SAWAMULAR_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/344jira7fe582wt-hitmonlee"
-  },
-  {
-    "id": "127jols84aythmi-gimmighoul",
-    "nome": "Gimmighoul",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "36 / 110",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005530_00_COLLECUREI_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/127jols84aythmi-gimmighoul"
-  },
-  {
-    "id": "83vp2pyyc98u274-machop",
-    "nome": "Machop",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "37 / 110",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005540_00_WANRIKY_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/83vp2pyyc98u274-machop"
-  },
-  {
-    "id": "71p0fvmb4s3c5kb-lucario-ex",
-    "nome": "Lucario ex",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "43 / 110",
-    "hp": 150,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005580_00_LUCARIOex_RR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71p0fvmb4s3c5kb-lucario-ex"
-  },
-  {
-    "id": "79a33184gcl2659-giratina-ex",
-    "nome": "Giratina ex",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "35 / 110",
-    "hp": 150,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005520_00_GIRATINAex_RR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/79a33184gcl2659-giratina-ex"
-  },
-  {
-    "id": "t36ux8rn6mrf21v-wooper-de-paldea",
-    "nome": "Wooper de Paldea",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "47 / 110",
-    "hp": 50,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005620_00_PALDEAUPAH_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t36ux8rn6mrf21v-wooper-de-paldea"
-  },
-  {
-    "id": "878ud27629id435-grafaiai",
-    "nome": "Grafaiai",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "51 / 110",
-    "hp": 90,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005660_00_TAGGINGRU_R_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/878ud27629id435-grafaiai"
   },
   {
     "id": "tm458wbm3k3s0p0-tinkaton-ex",
@@ -654,8 +1041,289 @@
     "expansao": "Festival Brilhante",
     "numero": "54 / 110",
     "hp": 170,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Batida Extraordinária",
+        "dano": "80 +",
+        "custoataque": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 80 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005690_00_DEKANUCHANex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tm458wbm3k3s0p0-tinkaton-ex"
+  },
+  {
+    "id": "127jols84aythmi-gimmighoul",
+    "nome": "Gimmighoul",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "36 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005530_00_COLLECUREI_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/127jols84aythmi-gimmighoul"
+  },
+  {
+    "id": "0039b66jy5147nw-pawmot",
+    "nome": "Pawmot",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "28 / 110",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Murro Elétrico",
+        "dano": "70",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005450_00_PARMOT_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0039b66jy5147nw-pawmot"
+  },
+  {
+    "id": "irk3b8v34e5jlzj-flamigo",
+    "nome": "Flamigo",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "44 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Chute Duplo",
+        "dano": "50 ×",
+        "custoataque": [
+          "fighting",
+          "fighting"
+        ],
+        "efeito": "Flip 2 coins. This attack does 50 damage for each heads"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005590_00_KARAMINGO_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/irk3b8v34e5jlzj-flamigo"
+  },
+  {
+    "id": "79a33184gcl2659-giratina-ex",
+    "nome": "Giratina ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "35 / 110",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Impacto Caótico",
+        "dano": "130",
+        "custoataque": [
+          "psychic",
+          "psychic",
+          "psychic",
+          "colorless"
+        ],
+        "efeito": "This Pokémon also does 20 damage to itself"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005520_00_GIRATINAex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/79a33184gcl2659-giratina-ex"
+  },
+  {
+    "id": "m6thd7t88geee7c-paldean-clodsire-ex",
+    "nome": "Clodsire de Paldea ex",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Festival Brilhante",
+    "numero": "48 / 110",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Venochoque",
+        "dano": "60 +",
+        "custoataque": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005630_00_PALDEADOOHex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m6thd7t88geee7c-paldean-clodsire-ex"
+  },
+  {
+    "id": "71p0fvmb4s3c5kb-lucario-ex",
+    "nome": "Lucario ex",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "43 / 110",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aura Esférica",
+        "dano": "100",
+        "custoataque": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "efeito": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005580_00_LUCARIOex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71p0fvmb4s3c5kb-lucario-ex"
+  },
+  {
+    "id": "xtk4koc77ofe394-ekans",
+    "nome": "Ekans",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "45 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "30",
+        "custoataque": [
+          "darkness",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005600_00_ARBO_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xtk4koc77ofe394-ekans"
+  },
+  {
+    "id": "ca0006onh292m3o-machamp",
+    "nome": "Machamp",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Estágio 2",
+    "expansao": "Festival Brilhante",
+    "numero": "39 / 110",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Compressão Poderosa",
+        "dano": "70 +",
+        "custoataque": [
+          "fighting",
+          "fighting"
+        ],
+        "efeito": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 50 more damage"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005550_00_KAIRIKY_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ca0006onh292m3o-machamp"
+  },
+  {
+    "id": "878ud27629id435-grafaiai",
+    "nome": "Grafaiai",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "51 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "40",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005660_00_TAGGINGRU_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/878ud27629id435-grafaiai"
   },
   {
     "id": "k42o081j558g337-tinkatuff",
@@ -668,22 +1336,82 @@
     "expansao": "Festival Brilhante",
     "numero": "53 / 110",
     "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Martelo Tenaz",
+        "dano": "30 +",
+        "custoataque": [
+          "metal",
+          "metal"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005680_00_NAKANUCHAN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k42o081j558g337-tinkatuff"
   },
   {
-    "id": "7ws89006p1ikbz1-revavroom",
-    "nome": "Revavroom",
+    "id": "t36ux8rn6mrf21v-paldean-wooper",
+    "nome": "Wooper de Paldea",
     "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Incomum",
+    "elemento": "Noturno",
+    "raridade": "Comum",
     "custoDeck": 1,
-    "estagio": "Estágio 1",
+    "estagio": "Básico",
     "expansao": "Festival Brilhante",
-    "numero": "56 / 110",
-    "hp": 110,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005710_00_BUROROROOM_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7ws89006p1ikbz1-revavroom"
+    "numero": "47 / 110",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe Envenenado",
+        "dano": "10",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005620_00_PALDEAUPAH_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t36ux8rn6mrf21v-paldean-wooper"
+  },
+  {
+    "id": "83vp2pyyc98u274-machop",
+    "nome": "Machop",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "37 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Rasteira",
+        "dano": "20",
+        "custoataque": [
+          "fighting"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005540_00_WANRIKY_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/83vp2pyyc98u274-machop"
   },
   {
     "id": "47mj0jkf73pos63-tinkatink",
@@ -696,6 +1424,21 @@
     "expansao": "Festival Brilhante",
     "numero": "52 / 110",
     "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco Saca-rolha",
+        "dano": "20",
+        "custoataque": [
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005670_00_KANUCHAN_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/47mj0jkf73pos63-tinkatink"
   },
@@ -710,176 +1453,25 @@
     "expansao": "Festival Brilhante",
     "numero": "46 / 110",
     "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Dente Venenoso",
+        "dano": "70",
+        "custoataque": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005610_00_ARBOK_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/osi7y3546z2rkd5-arbok"
-  },
-  {
-    "id": "xtk4koc77ofe394-ekans",
-    "nome": "Ekans",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "45 / 110",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005600_00_ARBO_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xtk4koc77ofe394-ekans"
-  },
-  {
-    "id": "06ab9k7o776k02c-spiritomb",
-    "nome": "Spiritomb",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "49 / 110",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005640_00_MIKARUGE_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/06ab9k7o776k02c-spiritomb"
-  },
-  {
-    "id": "358tsmg6l40r8ad-varoom",
-    "nome": "Varoom",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "55 / 110",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005700_00_BURORON_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/358tsmg6l40r8ad-varoom"
-  },
-  {
-    "id": "m6thd7t88geee7c-clodsire-de-paldea-ex",
-    "nome": "Clodsire de Paldea ex",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "48 / 110",
-    "hp": 160,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005630_00_PALDEADOOHex_RR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m6thd7t88geee7c-clodsire-de-paldea-ex"
-  },
-  {
-    "id": "jhjqjjj30nc6a37-shroodle",
-    "nome": "Shroodle",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "50 / 110",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005650_00_SHIRUSHREW_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jhjqjjj30nc6a37-shroodle"
-  },
-  {
-    "id": "1n5q2u8o4uy5po6-lopunny",
-    "nome": "Lopunny",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "67 / 110",
-    "hp": 100,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005810_00_MIMILOP_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1n5q2u8o4uy5po6-lopunny"
-  },
-  {
-    "id": "6236279mma92721-lickitung",
-    "nome": "Lickitung",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "62 / 110",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005770_00_BERORINGA_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6236279mma92721-lickitung"
-  },
-  {
-    "id": "0y40868034b6d86-cyclizar",
-    "nome": "Cyclizar",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "68 / 110",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005820_00_MOTOTOKAGE_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0y40868034b6d86-cyclizar"
-  },
-  {
-    "id": "48gqj8r3fu9ui4z-bibarel-ex",
-    "nome": "Bibarel ex",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "65 / 110",
-    "hp": 160,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005790_00_BIPPA_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/48gqj8r3fu9ui4z-bibarel-ex"
-  },
-  {
-    "id": "o28c9a3vjb6lev3-raticate",
-    "nome": "Raticate",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "59 / 110",
-    "hp": 90,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005740_00_RATTA_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o28c9a3vjb6lev3-raticate"
-  },
-  {
-    "id": "eg3rg875r95cz5q-bidoof",
-    "nome": "Bidoof",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "64 / 110",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005790_00_BEADARUex_RR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/eg3rg875r95cz5q-bidoof"
-  },
-  {
-    "id": "p4aq18rab0w0rh8-jigglypuff",
-    "nome": "Jigglypuff",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "60 / 110",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005750_00_PURIN_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p4aq18rab0w0rh8-jigglypuff"
   },
   {
     "id": "su6jp5zm230f6et-gholdengo",
@@ -892,36 +1484,113 @@
     "expansao": "Festival Brilhante",
     "numero": "57 / 110",
     "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Surfe Extravagante",
+        "dano": "50 ×",
+        "custoataque": [
+          "metal",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005720_00_SURFUGO_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/su6jp5zm230f6et-gholdengo"
   },
   {
-    "id": "lb150dk982y9yj6-rattata",
-    "nome": "Rattata",
+    "id": "358tsmg6l40r8ad-varoom",
+    "nome": "Varoom",
     "tipo": "Pokemon",
-    "elemento": "Incolor",
+    "elemento": "Metálico",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Festival Brilhante",
-    "numero": "58 / 110",
-    "hp": 50,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005730_00_KORATTA_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lb150dk982y9yj6-rattata"
+    "numero": "55 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "10",
+        "custoataque": [
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005700_00_BURORON_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/358tsmg6l40r8ad-varoom"
   },
   {
-    "id": "s1x34eudlpz572x-wigglytuff",
-    "nome": "Wigglytuff",
+    "id": "06ab9k7o776k02c-spiritomb",
+    "nome": "Spiritomb",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "49 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Raio da Confusão",
+        "dano": "20",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005640_00_MIKARUGE_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/06ab9k7o776k02c-spiritomb"
+  },
+  {
+    "id": "o28c9a3vjb6lev3-raticate",
+    "nome": "Raticate",
     "tipo": "Pokemon",
     "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 3,
+    "raridade": "Comum",
+    "custoDeck": 1,
     "estagio": "Estágio 1",
     "expansao": "Festival Brilhante",
-    "numero": "61 / 110",
-    "hp": 100,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005760_00_PUKURIN_R_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s1x34eudlpz572x-wigglytuff"
+    "numero": "59 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "50",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005740_00_RATTA_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o28c9a3vjb6lev3-raticate"
   },
   {
     "id": "5313vvn13025eti-buneary",
@@ -934,64 +1603,52 @@
     "expansao": "Festival Brilhante",
     "numero": "66 / 110",
     "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Pancada",
+        "dano": "20",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005800_00_MIMIROL_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5313vvn13025eti-buneary"
   },
   {
-    "id": "k133k588521g351-kissera",
-    "nome": "Kissera",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Desconhecido",
-    "expansao": "Festival Brilhante",
-    "numero": "69 / 110",
-    "hp": 0,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000420_00_NANJYAMO_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k133k588521g351-kissera"
-  },
-  {
-    "id": "71f9oi760x3z7fl-lickilicky",
-    "nome": "Lickilicky",
+    "id": "p4aq18rab0w0rh8-jigglypuff",
+    "nome": "Jigglypuff",
     "tipo": "Pokemon",
     "elemento": "Incolor",
     "raridade": "Comum",
     "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "63 / 110",
-    "hp": 130,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005780_00_BEROBELT_C_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71f9oi760x3z7fl-lickilicky"
-  },
-  {
-    "id": "f614r1unw8odo26-buizel",
-    "nome": "Buizel",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Festival Brilhante",
-    "numero": "74 / 110",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005350_00_BUOYSEL_AR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f614r1unw8odo26-buizel"
-  },
-  {
-    "id": "6qra6567mzg1osu-recruta-da-equipe-rocket",
-    "nome": "Recruta da Equipe Rocket",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Desconhecido",
-    "expansao": "Festival Brilhante",
-    "numero": "72 / 110",
-    "hp": 0,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000450_00_ROCKETDANNOSHITAPPA_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6qra6567mzg1osu-recruta-da-equipe-rocket"
+    "numero": "60 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Rolagem",
+        "dano": "20",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005750_00_PURIN_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p4aq18rab0w0rh8-jigglypuff"
   },
   {
     "id": "29g7j18027ht1qk-tatsugiri",
@@ -1004,95 +1661,207 @@
     "expansao": "Festival Brilhante",
     "numero": "75 / 110",
     "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Chuva Borrifante",
+        "dano": "20",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005400_00_SYARITATSU_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/29g7j18027ht1qk-tatsugiri"
   },
   {
-    "id": "bh95yd89407ysi6-beedrill-ex",
-    "nome": "Beedrill ex",
+    "id": "7ws89006p1ikbz1-revavroom",
+    "nome": "Revavroom",
     "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 2",
-    "expansao": "Festival Brilhante",
-    "numero": "79 / 110",
-    "hp": 170,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005230_00_SPEARex_SR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bh95yd89407ysi6-beedrill-ex"
-  },
-  {
-    "id": "b6l12x144gn0n15-red",
-    "nome": "Red",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
+    "elemento": "Metálico",
     "raridade": "Incomum",
     "custoDeck": 1,
-    "estagio": "Desconhecido",
-    "expansao": "Festival Brilhante",
-    "numero": "71 / 110",
-    "hp": 0,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000440_00_RED_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b6l12x144gn0n15-red"
-  },
-  {
-    "id": "gh0x82873vk82r8-meowscarada",
-    "nome": "Meowscarada",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 2",
-    "expansao": "Festival Brilhante",
-    "numero": "73 / 110",
-    "hp": 140,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005260_00_MASQUERNYA_AR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gh0x82873vk82r8-meowscarada"
-  },
-  {
-    "id": "z2y93ro86212w61-wugtrio-ex",
-    "nome": "Wugtrio ex",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
     "estagio": "Estágio 1",
     "expansao": "Festival Brilhante",
-    "numero": "81 / 110",
-    "hp": 140,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005380_00_UMITRIOex_SR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z2y93ro86212w61-wugtrio-ex"
+    "numero": "56 / 110",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Derrapada Giratória",
+        "dano": "70",
+        "custoataque": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's next turn, prevent all damage from-and effects of-attacks done to this Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005710_00_BUROROROOM_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7ws89006p1ikbz1-revavroom"
   },
   {
-    "id": "05ul14xo2551hlw-wigglytuff",
-    "nome": "Wigglytuff",
+    "id": "jhjqjjj30nc6a37-shroodle",
+    "nome": "Shroodle",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "50 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Roída",
+        "dano": "20",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005650_00_SHIRUSHREW_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jhjqjjj30nc6a37-shroodle"
+  },
+  {
+    "id": "eg3rg875r95cz5q-bidoof",
+    "nome": "Bidoof",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "64 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "30",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005790_00_BEADARUex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/eg3rg875r95cz5q-bidoof"
+  },
+  {
+    "id": "lb150dk982y9yj6-rattata",
+    "nome": "Rattata",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "58 / 110",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005730_00_KORATTA_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lb150dk982y9yj6-rattata"
+  },
+  {
+    "id": "48gqj8r3fu9ui4z-bibarel-ex",
+    "nome": "Bibarel ex",
     "tipo": "Pokemon",
     "elemento": "Incolor",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Estágio 1",
     "expansao": "Festival Brilhante",
-    "numero": "78 / 110",
-    "hp": 100,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005760_00_PUKURIN_AR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/05ul14xo2551hlw-wigglytuff"
+    "numero": "65 / 110",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aperto Despreocupado",
+        "dano": "100",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Heal 30 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005790_00_BIPPA_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/48gqj8r3fu9ui4z-bibarel-ex"
   },
   {
-    "id": "tt54zm60480fc36-charizard-ex",
-    "nome": "Charizard ex",
+    "id": "6236279mma92721-lickitung",
+    "nome": "Lickitung",
     "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 2",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
     "expansao": "Festival Brilhante",
-    "numero": "80 / 110",
-    "hp": 180,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005290_00_LIZARDONex_SR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tt54zm60480fc36-charizard-ex"
+    "numero": "62 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Rolagem",
+        "dano": "30",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005770_00_BERORINGA_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6236279mma92721-lickitung"
   },
   {
-    "id": "312692089iq4b4h-dama-do-centro-pokemon",
+    "id": "312692089iq4b4h-pokemon-center-lady",
     "nome": "Dama do Centro Pokémon",
     "tipo": "Treinador",
     "elemento": "Neutro",
@@ -1102,400 +1871,94 @@
     "expansao": "Festival Brilhante",
     "numero": "70 / 110",
     "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000430_00_POKEMONCENTERNOONEESAN_U_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/312692089iq4b4h-dama-do-centro-pokemon"
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/312692089iq4b4h-pokemon-center-lady"
   },
   {
-    "id": "7mf2i3399705n70-gholdengo",
-    "nome": "Gholdengo",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "77 / 110",
-    "hp": 120,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005720_00_SURFUGO_AR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7mf2i3399705n70-gholdengo"
-  },
-  {
-    "id": "716xs43526ytp6u-red",
-    "nome": "Red",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Desconhecido",
-    "expansao": "Festival Brilhante",
-    "numero": "90 / 110",
-    "hp": 0,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000440_00_RED_SR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/716xs43526ytp6u-red"
-  },
-  {
-    "id": "2945r9s1sxw5z2s-bibarel-ex",
-    "nome": "Bibarel ex",
+    "id": "1n5q2u8o4uy5po6-lopunny",
+    "nome": "Lopunny",
     "tipo": "Pokemon",
     "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 8,
+    "raridade": "Comum",
+    "custoDeck": 1,
     "estagio": "Estágio 1",
     "expansao": "Festival Brilhante",
-    "numero": "87 / 110",
-    "hp": 160,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005790_00_BEADARUex_SR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2945r9s1sxw5z2s-bibarel-ex"
+    "numero": "67 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Disparada Saltitante",
+        "dano": "30",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005810_00_MIMILOP_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1n5q2u8o4uy5po6-lopunny"
   },
   {
-    "id": "u4enxr439t72278-dama-do-centro-pokemon",
-    "nome": "Dama do Centro Pokémon",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Desconhecido",
+    "id": "71f9oi760x3z7fl-lickilicky",
+    "nome": "Lickilicky",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
     "expansao": "Festival Brilhante",
-    "numero": "89 / 110",
-    "hp": 0,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000430_00_POKEMONCENTERNOONEESAN_SR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u4enxr439t72278-dama-do-centro-pokemon"
+    "numero": "63 / 110",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Rolagem",
+        "dano": "70",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005780_00_BEROBELT_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71f9oi760x3z7fl-lickilicky"
   },
   {
-    "id": "hv8l8m6u0415fi7-kissera",
+    "id": "k133k588521g351-iono",
     "nome": "Kissera",
     "tipo": "Treinador",
     "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
+    "raridade": "Incomum",
+    "custoDeck": 1,
     "estagio": "Desconhecido",
     "expansao": "Festival Brilhante",
-    "numero": "88 / 110",
+    "numero": "69 / 110",
     "hp": 0,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000420_00_NANJYAMO_SR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hv8l8m6u0415fi7-kissera"
-  },
-  {
-    "id": "s712sxc41cybc6n-lucario-ex",
-    "nome": "Lucario ex",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "84 / 110",
-    "hp": 150,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005580_00_LUCARIOex_SR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s712sxc41cybc6n-lucario-ex"
-  },
-  {
-    "id": "94iy7c54o8v5pdp-pikachu-ex",
-    "nome": "Pikachu ex",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "82 / 110",
-    "hp": 120,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005410_00_PIKACHUex_SR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/94iy7c54o8v5pdp-pikachu-ex"
-  },
-  {
-    "id": "0wv70hnc4jd4761-giratina-ex",
-    "nome": "Giratina ex",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "83 / 110",
-    "hp": 150,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005520_00_GIRATINAex_SR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0wv70hnc4jd4761-giratina-ex"
-  },
-  {
-    "id": "jq5tr0t9xxikwnc-clodsire-de-paldea-ex",
-    "nome": "Clodsire de Paldea ex",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "85 / 110",
-    "hp": 160,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005630_00_PALDEADOOHex_SR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jq5tr0t9xxikwnc-clodsire-de-paldea-ex"
-  },
-  {
-    "id": "5sg71d5p892f2u3-tinkaton-ex",
-    "nome": "Tinkaton ex",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 2",
-    "expansao": "Festival Brilhante",
-    "numero": "86 / 110",
-    "hp": 170,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005690_00_DEKANUCHANex_SR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5sg71d5p892f2u3-tinkaton-ex"
-  },
-  {
-    "id": "1kk643er4n0i364-recruta-da-equipe-rocket",
-    "nome": "Recruta da Equipe Rocket",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Desconhecido",
-    "expansao": "Festival Brilhante",
-    "numero": "91 / 110",
-    "hp": 0,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000450_00_ROCKETDANNOSHITAPPA_SR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1kk643er4n0i364-recruta-da-equipe-rocket"
-  },
-  {
-    "id": "s4558xjrqgn126l-weedle",
-    "nome": "Weedle",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "97 / 110",
-    "hp": 50,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005210_00_BEEDLE_S_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s4558xjrqgn126l-weedle"
-  },
-  {
-    "id": "1ybpi3v96rhakb6-tinkaton-ex",
-    "nome": "Tinkaton ex",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 2",
-    "expansao": "Festival Brilhante",
-    "numero": "94 / 110",
-    "hp": 170,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005690_00_DEKANUCHANex_SR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1ybpi3v96rhakb6-tinkaton-ex"
-  },
-  {
-    "id": "6j6d49k3516g282-charmander",
-    "nome": "Charmander",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "99 / 110",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005270_00_HITOKAGE_S_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6j6d49k3516g282-charmander"
-  },
-  {
-    "id": "0gvqn0gk5vu1438-kakuna",
-    "nome": "Kakuna",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "98 / 110",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005220_00_COCOON_S_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0gvqn0gk5vu1438-kakuna"
-  },
-  {
-    "id": "091j0p57yrg1b2a-giratina-ex",
-    "nome": "Giratina ex",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "96 / 110",
-    "hp": 150,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005520_01_GIRATINAex_IM_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/091j0p57yrg1b2a-giratina-ex"
-  },
-  {
-    "id": "596672z10cziid6-clodsire-de-paldea-ex",
-    "nome": "Clodsire de Paldea ex",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "93 / 110",
-    "hp": 160,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005630_01_PALDEADOOHex_SAR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/596672z10cziid6-clodsire-de-paldea-ex"
-  },
-  {
-    "id": "328h1587dbljbya-charmeleon",
-    "nome": "Charmeleon",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "100 / 110",
-    "hp": 90,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005280_00_LIZARDO_S_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/328h1587dbljbya-charmeleon"
-  },
-  {
-    "id": "g2th7639361254c-bibarel-ex",
-    "nome": "Bibarel ex",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "95 / 110",
-    "hp": 160,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005790_01_BEADARUex_SAR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g2th7639361254c-bibarel-ex"
-  },
-  {
-    "id": "93dz0990v835o83-wiglett",
-    "nome": "Wiglett",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "101 / 110",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005370_00_UMIDIGDA_S_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/93dz0990v835o83-wiglett"
-  },
-  {
-    "id": "ahihh34140632i8-pikachu-ex",
-    "nome": "Pikachu ex",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "92 / 110",
-    "hp": 120,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005410_01_PIKACHUex_SAR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ahihh34140632i8-pikachu-ex"
-  },
-  {
-    "id": "08lfw1y653maii5-pachirisu",
-    "nome": "Pachirisu",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "103 / 110",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005060_00_PACHIRISU_S_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/08lfw1y653maii5-pachirisu"
-  },
-  {
-    "id": "t1a3o4efdx3ssl3-beedrill-ex",
-    "nome": "Beedrill ex",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 2",
-    "expansao": "Festival Brilhante",
-    "numero": "107 / 110",
-    "hp": 170,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005230_01_SPEARex_SSR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t1a3o4efdx3ssl3-beedrill-ex"
-  },
-  {
-    "id": "259v28e64q4ni22-wugtrio-ex",
-    "nome": "Wugtrio ex",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "109 / 110",
-    "hp": 140,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005380_01_UMITRIOex_SSR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/259v28e64q4ni22-wugtrio-ex"
-  },
-  {
-    "id": "mb09ro4tja4ccc0-varoom",
-    "nome": "Varoom",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "105 / 110",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005700_00_BURORON_S_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mb09ro4tja4ccc0-varoom"
-  },
-  {
-    "id": "2br94brv9j56obh-revavroom",
-    "nome": "Revavroom",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "106 / 110",
-    "hp": 110,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005710_00_BUROROROOM_S_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2br94brv9j56obh-revavroom"
-  },
-  {
-    "id": "gs35r2407v5f04p-riolu",
-    "nome": "Riolu",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Festival Brilhante",
-    "numero": "104 / 110",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005070_00_RIOLU_S_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gs35r2407v5f04p-riolu"
-  },
-  {
-    "id": "nr08e9q23zswhyh-lucario-ex",
-    "nome": "Lucario ex",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 1",
-    "expansao": "Festival Brilhante",
-    "numero": "110 / 110",
-    "hp": 150,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005580_01_LUCARIOex_SSR_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nr08e9q23zswhyh-lucario-ex"
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000420_00_NANJYAMO_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k133k588521g351-iono"
   },
   {
     "id": "2346e23e8e609t9-grafaiai",
@@ -1508,22 +1971,1015 @@
     "expansao": "Festival Brilhante",
     "numero": "76 / 110",
     "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "40",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005660_00_TAGGINGRU_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2346e23e8e609t9-grafaiai"
   },
   {
-    "id": "5pz09fia3occ0dv-dondozo",
-    "nome": "Dondozo",
+    "id": "0y40868034b6d86-cyclizar",
+    "nome": "Cyclizar",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "68 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Superaceleração",
+        "dano": "20",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "During your next turn, this Pokémon's Overacceleration attack does +20 damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005820_00_MOTOTOKAGE_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0y40868034b6d86-cyclizar"
+  },
+  {
+    "id": "f614r1unw8odo26-buizel",
+    "nome": "Buizel",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "74 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Revólver d’Água",
+        "dano": "10",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005350_00_BUOYSEL_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f614r1unw8odo26-buizel"
+  },
+  {
+    "id": "6qra6567mzg1osu-team-rocket-grunt",
+    "nome": "Recruta da Equipe Rocket",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Desconhecido",
+    "expansao": "Festival Brilhante",
+    "numero": "72 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000450_00_ROCKETDANNOSHITAPPA_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6qra6567mzg1osu-team-rocket-grunt"
+  },
+  {
+    "id": "gh0x82873vk82r8-meowscarada",
+    "nome": "Meowscarada",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Festival Brilhante",
+    "numero": "73 / 110",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Garras de Luta",
+        "dano": "60 +",
+        "custoataque": [
+          "grass",
+          "grass"
+        ],
+        "efeito": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005260_00_MASQUERNYA_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gh0x82873vk82r8-meowscarada"
+  },
+  {
+    "id": "b6l12x144gn0n15-red",
+    "nome": "Red",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Desconhecido",
+    "expansao": "Festival Brilhante",
+    "numero": "71 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000440_00_RED_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b6l12x144gn0n15-red"
+  },
+  {
+    "id": "s1x34eudlpz572x-wigglytuff",
+    "nome": "Wigglytuff",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "61 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tapinha",
+        "dano": "50",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005760_00_PUKURIN_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s1x34eudlpz572x-wigglytuff"
+  },
+  {
+    "id": "2945r9s1sxw5z2s-bibarel-ex",
+    "nome": "Bibarel ex",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "87 / 110",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aperto Despreocupado",
+        "dano": "100",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Heal 30 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005790_00_BEADARUex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2945r9s1sxw5z2s-bibarel-ex"
+  },
+  {
+    "id": "hv8l8m6u0415fi7-iono",
+    "nome": "Kissera",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Desconhecido",
+    "expansao": "Festival Brilhante",
+    "numero": "88 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000420_00_NANJYAMO_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hv8l8m6u0415fi7-iono"
+  },
+  {
+    "id": "jq5tr0t9xxikwnc-paldean-clodsire-ex",
+    "nome": "Clodsire de Paldea ex",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Festival Brilhante",
+    "numero": "85 / 110",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Venochoque",
+        "dano": "60 +",
+        "custoataque": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005630_00_PALDEADOOHex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jq5tr0t9xxikwnc-paldean-clodsire-ex"
+  },
+  {
+    "id": "7mf2i3399705n70-gholdengo",
+    "nome": "Gholdengo",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "77 / 110",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Surfe Extravagante",
+        "dano": "50 ×",
+        "custoataque": [
+          "metal",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005720_00_SURFUGO_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7mf2i3399705n70-gholdengo"
+  },
+  {
+    "id": "z2y93ro86212w61-wugtrio-ex",
+    "nome": "Wugtrio ex",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "81 / 110",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005380_00_UMITRIOex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z2y93ro86212w61-wugtrio-ex"
+  },
+  {
+    "id": "716xs43526ytp6u-red",
+    "nome": "Red",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Desconhecido",
+    "expansao": "Festival Brilhante",
+    "numero": "90 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000440_00_RED_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/716xs43526ytp6u-red"
+  },
+  {
+    "id": "bh95yd89407ysi6-beedrill-ex",
+    "nome": "Beedrill ex",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Festival Brilhante",
+    "numero": "79 / 110",
+    "hp": 170,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lança Aniquiladora",
+        "dano": "80",
+        "custoataque": [
+          "grass",
+          "grass"
+        ],
+        "efeito": "Discard a random Energy from your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005230_00_SPEARex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bh95yd89407ysi6-beedrill-ex"
+  },
+  {
+    "id": "s712sxc41cybc6n-lucario-ex",
+    "nome": "Lucario ex",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "84 / 110",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aura Esférica",
+        "dano": "100",
+        "custoataque": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "efeito": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005580_00_LUCARIOex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s712sxc41cybc6n-lucario-ex"
+  },
+  {
+    "id": "5sg71d5p892f2u3-tinkaton-ex",
+    "nome": "Tinkaton ex",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Festival Brilhante",
+    "numero": "86 / 110",
+    "hp": 170,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Batida Extraordinária",
+        "dano": "80 +",
+        "custoataque": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 80 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005690_00_DEKANUCHANex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5sg71d5p892f2u3-tinkaton-ex"
+  },
+  {
+    "id": "tt54zm60480fc36-charizard-ex",
+    "nome": "Charizard ex",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Festival Brilhante",
+    "numero": "80 / 110",
+    "hp": 180,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Carregar",
+        "dano": "150",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005290_00_LIZARDONex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tt54zm60480fc36-charizard-ex"
+  },
+  {
+    "id": "596672z10cziid6-paldean-clodsire-ex",
+    "nome": "Clodsire de Paldea ex",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Festival Brilhante",
+    "numero": "93 / 110",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Venochoque",
+        "dano": "60 +",
+        "custoataque": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005630_01_PALDEADOOHex_SAR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/596672z10cziid6-paldean-clodsire-ex"
+  },
+  {
+    "id": "05ul14xo2551hlw-wigglytuff",
+    "nome": "Wigglytuff",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "78 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tapinha",
+        "dano": "50",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005760_00_PUKURIN_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/05ul14xo2551hlw-wigglytuff"
+  },
+  {
+    "id": "1ybpi3v96rhakb6-tinkaton-ex",
+    "nome": "Tinkaton ex",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Festival Brilhante",
+    "numero": "94 / 110",
+    "hp": 170,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Batida Extraordinária",
+        "dano": "80 +",
+        "custoataque": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 80 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005690_00_DEKANUCHANex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1ybpi3v96rhakb6-tinkaton-ex"
+  },
+  {
+    "id": "u4enxr439t72278-pokemon-center-lady",
+    "nome": "Dama do Centro Pokémon",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Desconhecido",
+    "expansao": "Festival Brilhante",
+    "numero": "89 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000430_00_POKEMONCENTERNOONEESAN_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u4enxr439t72278-pokemon-center-lady"
+  },
+  {
+    "id": "93dz0990v835o83-wiglett",
+    "nome": "Wiglett",
     "tipo": "Pokemon",
     "elemento": "Água",
     "raridade": "Ultra Rara",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Festival Brilhante",
-    "numero": "102 / 110",
+    "numero": "101 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005370_00_UMIDIGDA_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/93dz0990v835o83-wiglett"
+  },
+  {
+    "id": "nr08e9q23zswhyh-lucario-ex",
+    "nome": "Lucario ex",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "110 / 110",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aura Esférica",
+        "dano": "100",
+        "custoataque": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "efeito": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005580_01_LUCARIOex_SSR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nr08e9q23zswhyh-lucario-ex"
+  },
+  {
+    "id": "6j6d49k3516g282-charmander",
+    "nome": "Charmander",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "99 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Combustão",
+        "dano": "20",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005270_00_HITOKAGE_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6j6d49k3516g282-charmander"
+  },
+  {
+    "id": "08lfw1y653maii5-pachirisu",
+    "nome": "Pachirisu",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "103 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Plasma",
+        "dano": "10",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your BenchedPokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005060_00_PACHIRISU_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/08lfw1y653maii5-pachirisu"
+  },
+  {
+    "id": "ahihh34140632i8-pikachu-ex",
+    "nome": "Pikachu ex",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "92 / 110",
     "hp": 120,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005390_00_HEYRUSHER_S_M_en_US_UT_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5pz09fia3occ0dv-dondozo"
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Relâmpago",
+        "dano": "150",
+        "custoataque": [
+          "lightning",
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "Discard all Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005410_01_PIKACHUex_SAR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ahihh34140632i8-pikachu-ex"
+  },
+  {
+    "id": "1kk643er4n0i364-team-rocket-grunt",
+    "nome": "Recruta da Equipe Rocket",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Desconhecido",
+    "expansao": "Festival Brilhante",
+    "numero": "91 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000450_00_ROCKETDANNOSHITAPPA_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1kk643er4n0i364-team-rocket-grunt"
+  },
+  {
+    "id": "328h1587dbljbya-charmeleon",
+    "nome": "Charmeleon",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "100 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Combustão",
+        "dano": "40",
+        "custoataque": [
+          "fire",
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005280_00_LIZARDO_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/328h1587dbljbya-charmeleon"
+  },
+  {
+    "id": "t1a3o4efdx3ssl3-beedrill-ex",
+    "nome": "Beedrill ex",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Estágio 2",
+    "expansao": "Festival Brilhante",
+    "numero": "107 / 110",
+    "hp": 170,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lança Aniquiladora",
+        "dano": "80",
+        "custoataque": [
+          "grass",
+          "grass"
+        ],
+        "efeito": "Discard a random Energy from your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005230_01_SPEARex_SSR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t1a3o4efdx3ssl3-beedrill-ex"
+  },
+  {
+    "id": "0wv70hnc4jd4761-giratina-ex",
+    "nome": "Giratina ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "83 / 110",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Impacto Caótico",
+        "dano": "130",
+        "custoataque": [
+          "psychic",
+          "psychic",
+          "psychic",
+          "colorless"
+        ],
+        "efeito": "This Pokémon also does 20 damage to itself"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005520_00_GIRATINAex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0wv70hnc4jd4761-giratina-ex"
+  },
+  {
+    "id": "94iy7c54o8v5pdp-pikachu-ex",
+    "nome": "Pikachu ex",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "82 / 110",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Relâmpago",
+        "dano": "150",
+        "custoataque": [
+          "lightning",
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "Discard all Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005410_00_PIKACHUex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/94iy7c54o8v5pdp-pikachu-ex"
+  },
+  {
+    "id": "s4558xjrqgn126l-weedle",
+    "nome": "Weedle",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "97 / 110",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005210_00_BEEDLE_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s4558xjrqgn126l-weedle"
+  },
+  {
+    "id": "gs35r2407v5f04p-riolu",
+    "nome": "Riolu",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "104 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco",
+        "dano": "40",
+        "custoataque": [
+          "fighting",
+          "fighting"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005070_00_RIOLU_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gs35r2407v5f04p-riolu"
+  },
+  {
+    "id": "g2th7639361254c-bibarel-ex",
+    "nome": "Bibarel ex",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "95 / 110",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aperto Despreocupado",
+        "dano": "100",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Heal 30 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005790_01_BEADARUex_SAR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g2th7639361254c-bibarel-ex"
+  },
+  {
+    "id": "259v28e64q4ni22-wugtrio-ex",
+    "nome": "Wugtrio ex",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "109 / 110",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005380_01_UMITRIOex_SSR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/259v28e64q4ni22-wugtrio-ex"
+  },
+  {
+    "id": "091j0p57yrg1b2a-giratina-ex",
+    "nome": "Giratina ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "96 / 110",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Impacto Caótico",
+        "dano": "130",
+        "custoataque": [
+          "psychic",
+          "psychic",
+          "psychic",
+          "colorless"
+        ],
+        "efeito": "This Pokémon also does 20 damage to itself"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005520_01_GIRATINAex_IM_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/091j0p57yrg1b2a-giratina-ex"
+  },
+  {
+    "id": "mb09ro4tja4ccc0-varoom",
+    "nome": "Varoom",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "105 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "10",
+        "custoataque": [
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005700_00_BURORON_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mb09ro4tja4ccc0-varoom"
   },
   {
     "id": "zowji8byje7xq7o-charizard-ex",
@@ -1536,7 +2992,114 @@
     "expansao": "Festival Brilhante",
     "numero": "108 / 110",
     "hp": 180,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Carregar",
+        "dano": "150",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005290_01_LIZARDONex_SSR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zowji8byje7xq7o-charizard-ex"
+  },
+  {
+    "id": "5pz09fia3occ0dv-dondozo",
+    "nome": "Dondozo",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Festival Brilhante",
+    "numero": "102 / 110",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ciclone Oceânico",
+        "dano": "80",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack also does 10 damage to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005390_00_HEYRUSHER_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5pz09fia3occ0dv-dondozo"
+  },
+  {
+    "id": "2br94brv9j56obh-revavroom",
+    "nome": "Revavroom",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "106 / 110",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Derrapada Giratória",
+        "dano": "70",
+        "custoataque": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's next turn, prevent all damage from-and effects of-attacks done to this Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005710_00_BUROROROOM_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2br94brv9j56obh-revavroom"
+  },
+  {
+    "id": "0gvqn0gk5vu1438-kakuna",
+    "nome": "Kakuna",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Estágio 1",
+    "expansao": "Festival Brilhante",
+    "numero": "98 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Estilingada",
+        "dano": "20",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005220_00_COCOON_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0gvqn0gk5vu1438-kakuna"
   }
 ]

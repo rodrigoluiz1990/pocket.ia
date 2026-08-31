@@ -1,19 +1,5 @@
 [
   {
-    "id": "eidbfe4qy3lrvqr-volbeat",
-    "nome": "Volbeat",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "3 / 117",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016090_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/eidbfe4qy3lrvqr-volbeat"
-  },
-  {
     "id": "cnmu6s32ec314se-scyther",
     "nome": "Scyther",
     "tipo": "Pokemon",
@@ -24,106 +10,23 @@
     "expansao": "Mega Brilho",
     "numero": "1 / 117",
     "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Fazer Retorno",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016070_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cnmu6s32ec314se-scyther"
-  },
-  {
-    "id": "vdpzg6o7609069z-pineco",
-    "nome": "Pineco",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "2 / 117",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016080_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vdpzg6o7609069z-pineco"
-  },
-  {
-    "id": "l3q12juh3xlvg3q-phantump",
-    "nome": "Phantump",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "5 / 117",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016110_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l3q12juh3xlvg3q-phantump"
-  },
-  {
-    "id": "ub2tix4x8rdvnkm-illumise",
-    "nome": "Illumise",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "4 / 117",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016100_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ub2tix4x8rdvnkm-illumise"
-  },
-  {
-    "id": "dekqkoh630r4jjk-charmander",
-    "nome": "Charmander",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "7 / 117",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016130_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dekqkoh630r4jjk-charmander"
-  },
-  {
-    "id": "u9zwrubzexa1jie-charmeleon",
-    "nome": "Charmeleon",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "8 / 117",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016140_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u9zwrubzexa1jie-charmeleon"
-  },
-  {
-    "id": "d5mkwkuxii28abh-mega-charizard-x-ex",
-    "nome": "Mega Charizard X ex",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "9 / 117",
-    "hp": 220,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016150_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d5mkwkuxii28abh-mega-charizard-x-ex"
-  },
-  {
-    "id": "pblbni8bowikai6-magmortar",
-    "nome": "Magmortar",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "13 / 117",
-    "hp": 130,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016190_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pblbni8bowikai6-magmortar"
   },
   {
     "id": "6g7h2nhqkgimm6e-trevenant",
@@ -136,148 +39,84 @@
     "expansao": "Mega Brilho",
     "numero": "6 / 117",
     "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Furacão Estrondoso",
+        "dano": "40 +",
+        "custoataque": [
+          "grass",
+          "colorless"
+        ],
+        "efeito": "Flip a coin until you get a tails. This attack does 40 more damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016120_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6g7h2nhqkgimm6e-trevenant"
   },
   {
-    "id": "223xvxwo7wuivjw-slowpoke",
-    "nome": "Slowpoke",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "15 / 117",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016000_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/223xvxwo7wuivjw-slowpoke"
-  },
-  {
-    "id": "tnhcplky9rorufz-rapidash",
-    "nome": "Rapidash",
+    "id": "pblbni8bowikai6-magmortar",
+    "nome": "Magmortar",
     "tipo": "Pokemon",
     "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "11 / 117",
-    "hp": 100,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016170_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tnhcplky9rorufz-rapidash"
-  },
-  {
-    "id": "r9p59vdam7cq6ho-tauros-de-paldea",
-    "nome": "Tauros de Paldea",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "14 / 117",
-    "hp": 100,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016200_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r9p59vdam7cq6ho-tauros-de-paldea"
-  },
-  {
-    "id": "74v10qg1tbskzdo-mega-slowbro-ex",
-    "nome": "Mega Slowbro ex",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "16 / 117",
-    "hp": 200,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016210_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/74v10qg1tbskzdo-mega-slowbro-ex"
-  },
-  {
-    "id": "yw3ugrzkg4to2oy-ponyta",
-    "nome": "Ponyta",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "10 / 117",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016160_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yw3ugrzkg4to2oy-ponyta"
-  },
-  {
-    "id": "gi8k618rb71cz45-lapras",
-    "nome": "Lapras",
-    "tipo": "Pokemon",
-    "elemento": "Água",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "17 / 117",
-    "hp": 100,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016220_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gi8k618rb71cz45-lapras"
-  },
-  {
-    "id": "wreklivzrtifbjm-empoleon",
-    "nome": "Empoleon",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "20 / 117",
+    "numero": "13 / 117",
     "hp": 130,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016250_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wreklivzrtifbjm-empoleon"
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Vulcão Trovejante",
+        "dano": "70",
+        "custoataque": [
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "If Electivire is on your Bench, this attack also does 20 damage to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pblbni8bowikai6-magmortar"
   },
   {
-    "id": "2nw36m3s5toc1az-electivire",
-    "nome": "Electivire",
+    "id": "vdpzg6o7609069z-pineco",
+    "nome": "Pineco",
     "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "25 / 117",
-    "hp": 130,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016300_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2nw36m3s5toc1az-electivire"
-  },
-  {
-    "id": "2clgjx4bfjc357w-electrike",
-    "nome": "Electrike",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
+    "elemento": "Grama",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "26 / 117",
+    "numero": "2 / 117",
     "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016310_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2clgjx4bfjc357w-electrike"
-  },
-  {
-    "id": "91kmj1mp555ydom-pikachu",
-    "nome": "Pikachu",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "22 / 117",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016270_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/91kmj1mp555ydom-pikachu"
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Dependurar",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016080_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vdpzg6o7609069z-pineco"
   },
   {
     "id": "gyrs8q7uvu7ypwz-magmar",
@@ -290,22 +129,224 @@
     "expansao": "Mega Brilho",
     "numero": "12 / 117",
     "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Surra de Cauda",
+        "dano": "30",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016180_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gyrs8q7uvu7ypwz-magmar"
   },
   {
-    "id": "217la8mukyazo4f-piplup",
-    "nome": "Piplup",
+    "id": "eidbfe4qy3lrvqr-volbeat",
+    "nome": "Volbeat",
     "tipo": "Pokemon",
-    "elemento": "Água",
+    "elemento": "Grama",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "18 / 117",
+    "numero": "3 / 117",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Raio da Confusão",
+        "dano": "10",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016090_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/eidbfe4qy3lrvqr-volbeat"
+  },
+  {
+    "id": "d5mkwkuxii28abh-mega-charizard-x-ex",
+    "nome": "Mega Charizard X ex",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "9 / 117",
+    "hp": 220,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Labareda Violenta",
+        "dano": "100 +",
+        "custoataque": [
+          "fire",
+          "fire",
+          "fire"
+        ],
+        "efeito": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016150_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d5mkwkuxii28abh-mega-charizard-x-ex"
+  },
+  {
+    "id": "ub2tix4x8rdvnkm-illumise",
+    "nome": "Illumise",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "4 / 117",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Esmagamento Mental",
+        "dano": "20 +",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Confused, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016100_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ub2tix4x8rdvnkm-illumise"
+  },
+  {
+    "id": "r9p59vdam7cq6ho-paldean-tauros",
+    "nome": "Tauros de Paldea",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "14 / 117",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Desmantelar",
+        "dano": "60",
+        "custoataque": [
+          "fire",
+          "fire"
+        ],
+        "efeito": "This Pokémon also does 30 damage to itself"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016200_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r9p59vdam7cq6ho-paldean-tauros"
+  },
+  {
+    "id": "yw3ugrzkg4to2oy-ponyta",
+    "nome": "Ponyta",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "10 / 117",
     "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016230_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/217la8mukyazo4f-piplup"
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016160_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yw3ugrzkg4to2oy-ponyta"
+  },
+  {
+    "id": "u9zwrubzexa1jie-charmeleon",
+    "nome": "Charmeleon",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "8 / 117",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Talho",
+        "dano": "40",
+        "custoataque": [
+          "fire",
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016140_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u9zwrubzexa1jie-charmeleon"
+  },
+  {
+    "id": "wreklivzrtifbjm-empoleon",
+    "nome": "Empoleon",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "20 / 117",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque do Imperador",
+        "dano": "80 +",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wreklivzrtifbjm-empoleon"
   },
   {
     "id": "61nat606k0i4bh8-electabuzz",
@@ -318,36 +359,111 @@
     "expansao": "Mega Brilho",
     "numero": "24 / 117",
     "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Raio de Cabeça",
+        "dano": "30",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016290_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/61nat606k0i4bh8-electabuzz"
   },
   {
-    "id": "bfk11h1b4bhs4ze-phione",
-    "nome": "Phione",
+    "id": "dekqkoh630r4jjk-charmander",
+    "nome": "Charmander",
     "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Incomum",
+    "elemento": "Fogo",
+    "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "21 / 117",
+    "numero": "7 / 117",
     "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016260_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bfk11h1b4bhs4ze-phione"
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cauda de Chamas",
+        "dano": "30",
+        "custoataque": [
+          "fire",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016130_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dekqkoh630r4jjk-charmander"
   },
   {
-    "id": "yzd4a1ymr9o4j2t-prinplup",
-    "nome": "Prinplup",
+    "id": "tnhcplky9rorufz-rapidash",
+    "nome": "Rapidash",
     "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Incomum",
+    "elemento": "Fogo",
+    "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "19 / 117",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016240_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yzd4a1ymr9o4j2t-prinplup"
+    "numero": "11 / 117",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe Exaustivo",
+        "dano": "30",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": "During your next turn, this Pokémon's Overdrive Smash attack does +30 damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016170_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tnhcplky9rorufz-rapidash"
+  },
+  {
+    "id": "217la8mukyazo4f-piplup",
+    "nome": "Piplup",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "18 / 117",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Revólver d’Água",
+        "dano": "20",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/217la8mukyazo4f-piplup"
   },
   {
     "id": "0lpkseuwhe4txjl-raichu",
@@ -360,134 +476,114 @@
     "expansao": "Mega Brilho",
     "numero": "23 / 117",
     "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Trovão",
+        "dano": "90",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "This Pokémon also does 30 damage to itself"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016280_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0lpkseuwhe4txjl-raichu"
   },
   {
-    "id": "7nto84hiayiygrt-drowzee",
-    "nome": "Drowzee",
+    "id": "2nw36m3s5toc1az-electivire",
+    "nome": "Electivire",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "28 / 117",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016330_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7nto84hiayiygrt-drowzee"
-  },
-  {
-    "id": "tiq0xbfa83ime2u-grumpig",
-    "nome": "Grumpig",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
+    "elemento": "Elétrico",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "32 / 117",
-    "hp": 110,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016370_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tiq0xbfa83ime2u-grumpig"
+    "numero": "25 / 117",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Trovão Incendiário",
+        "dano": "50 +",
+        "custoataque": [
+          "lightning",
+          "colorless"
+        ],
+        "efeito": "If Magmortar is on your Bench, this attack does 70 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016300_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2nw36m3s5toc1az-electivire"
   },
   {
-    "id": "5zatdxkogt9jqcr-hypno",
-    "nome": "Hypno",
+    "id": "74v10qg1tbskzdo-mega-slowbro-ex",
+    "nome": "Mega Slowbro ex",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "29 / 117",
-    "hp": 100,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016340_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5zatdxkogt9jqcr-hypno"
-  },
-  {
-    "id": "ul45kzx7oqevqk6-mew",
-    "nome": "Mew",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
+    "elemento": "Água",
     "raridade": "Rara",
-    "custoDeck": 3,
+    "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "30 / 117",
-    "hp": 50,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016350_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ul45kzx7oqevqk6-mew"
+    "numero": "16 / 117",
+    "hp": 200,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Carrossel Lavador",
+        "dano": "90",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/74v10qg1tbskzdo-mega-slowbro-ex"
   },
   {
-    "id": "gpkx9ql914rr2gd-dugtrio",
-    "nome": "Dugtrio",
+    "id": "2clgjx4bfjc357w-electrike",
+    "nome": "Electrike",
     "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "34 / 117",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016390_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gpkx9ql914rr2gd-dugtrio"
-  },
-  {
-    "id": "p0n9jf1ng21wtcc-gastly",
-    "nome": "Gastly",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
+    "elemento": "Elétrico",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "37 / 117",
+    "numero": "26 / 117",
     "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016050_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p0n9jf1ng21wtcc-gastly"
-  },
-  {
-    "id": "vl749dl0hjqtide-spoink",
-    "nome": "Spoink",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "31 / 117",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016360_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vl749dl0hjqtide-spoink"
-  },
-  {
-    "id": "fcm4do0vdcn24wr-haunter",
-    "nome": "Haunter",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "38 / 117",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016420_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fcm4do0vdcn24wr-haunter"
-  },
-  {
-    "id": "d03cna4hhoft9dt-hawlucha",
-    "nome": "Hawlucha",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "36 / 117",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016410_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d03cna4hhoft9dt-hawlucha"
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque Rápido",
+        "dano": "10 +",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016310_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2clgjx4bfjc357w-electrike"
   },
   {
     "id": "0y43xn1zayrosua-groudon",
@@ -500,22 +596,135 @@
     "expansao": "Mega Brilho",
     "numero": "35 / 117",
     "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Disparo de Gaia",
+        "dano": "130",
+        "custoataque": [
+          "fighting",
+          "fighting",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Discard 2 random Energy from among the Energy attached to all of your Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016400_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0y43xn1zayrosua-groudon"
   },
   {
-    "id": "2rkf2wyysyn24iz-diglett",
-    "nome": "Diglett",
+    "id": "91kmj1mp555ydom-pikachu",
+    "nome": "Pikachu",
     "tipo": "Pokemon",
-    "elemento": "Lutador",
+    "elemento": "Elétrico",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "33 / 117",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016380_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2rkf2wyysyn24iz-diglett"
+    "numero": "22 / 117",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Choque de Estática",
+        "dano": "10",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/91kmj1mp555ydom-pikachu"
+  },
+  {
+    "id": "gi8k618rb71cz45-lapras",
+    "nome": "Lapras",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "17 / 117",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Congelamento Estarrecedor",
+        "dano": "60",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gi8k618rb71cz45-lapras"
+  },
+  {
+    "id": "ul45kzx7oqevqk6-mew",
+    "nome": "Mew",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "30 / 117",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016350_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ul45kzx7oqevqk6-mew"
+  },
+  {
+    "id": "l3q12juh3xlvg3q-phantump",
+    "nome": "Phantump",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "5 / 117",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l3q12juh3xlvg3q-phantump"
   },
   {
     "id": "0b1sl69a6nrx3zi-mega-manectric-ex",
@@ -528,36 +737,251 @@
     "expansao": "Mega Brilho",
     "numero": "27 / 117",
     "hp": 180,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Acelerador de Relâmpago",
+        "dano": "80 +",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "This attack does 30 more damage for each point you have gotten."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016320_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0b1sl69a6nrx3zi-mega-manectric-ex"
   },
   {
-    "id": "x0n0wyhsgakiuu8-mega-gengar-ex",
-    "nome": "Mega Gengar ex",
+    "id": "223xvxwo7wuivjw-slowpoke",
+    "nome": "Slowpoke",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Rara",
-    "custoDeck": 8,
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "39 / 117",
-    "hp": 210,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016430_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x0n0wyhsgakiuu8-mega-gengar-ex"
+    "numero": "15 / 117",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "30",
+        "custoataque": [
+          "water",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016000_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/223xvxwo7wuivjw-slowpoke"
   },
   {
-    "id": "6gc4rji5xducq3b-darkrai",
-    "nome": "Darkrai",
+    "id": "tiq0xbfa83ime2u-grumpig",
+    "nome": "Grumpig",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Rara",
-    "custoDeck": 3,
+    "elemento": "Psíquico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "40 / 117",
-    "hp": 100,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016440_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6gc4rji5xducq3b-darkrai"
+    "numero": "32 / 117",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Dança Oscilante",
+        "dano": "40 +",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "If your opponent has exactly 2, 4, or 6 cards in their hand, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016370_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tiq0xbfa83ime2u-grumpig"
+  },
+  {
+    "id": "bfk11h1b4bhs4ze-phione",
+    "nome": "Phione",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "21 / 117",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aqua Turbo",
+        "dano": "10",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Water Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016260_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bfk11h1b4bhs4ze-phione"
+  },
+  {
+    "id": "gpkx9ql914rr2gd-dugtrio",
+    "nome": "Dugtrio",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "34 / 117",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bomba de Lama",
+        "dano": "60",
+        "custoataque": [
+          "fighting",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gpkx9ql914rr2gd-dugtrio"
+  },
+  {
+    "id": "7nto84hiayiygrt-drowzee",
+    "nome": "Drowzee",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "28 / 117",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016330_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7nto84hiayiygrt-drowzee"
+  },
+  {
+    "id": "sanrguxrsngiwfm-morpeko",
+    "nome": "Morpeko",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "45 / 117",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Roda Energizante",
+        "dano": "50",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": "Move 2 Darkness Energy from this Pokémon to 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sanrguxrsngiwfm-morpeko"
+  },
+  {
+    "id": "vl749dl0hjqtide-spoink",
+    "nome": "Spoink",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "31 / 117",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "20",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016360_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vl749dl0hjqtide-spoink"
+  },
+  {
+    "id": "yzd4a1ymr9o4j2t-prinplup",
+    "nome": "Prinplup",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "19 / 117",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Espirro d’Água",
+        "dano": "30 +",
+        "custoataque": [
+          "water",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016240_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yzd4a1ymr9o4j2t-prinplup"
   },
   {
     "id": "v4mel1b9lomqvpb-forretress",
@@ -570,6 +994,23 @@
     "expansao": "Mega Brilho",
     "numero": "46 / 117",
     "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Explosão Gigantesca",
+        "dano": "100",
+        "custoataque": [
+          "metal",
+          "metal",
+          "metal"
+        ],
+        "efeito": "This Pokémon also does 100 damage to itself and 50 damage to all Benched Pokémon (both yours and your opponent's)"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016500_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v4mel1b9lomqvpb-forretress"
   },
@@ -584,22 +1025,203 @@
     "expansao": "Mega Brilho",
     "numero": "42 / 117",
     "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Redemoinho de Lodo",
+        "dano": "70",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016460_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ldx10sw0nthmf2k-garbodor"
   },
   {
-    "id": "sanrguxrsngiwfm-morpeko",
-    "nome": "Morpeko",
+    "id": "2rkf2wyysyn24iz-diglett",
+    "nome": "Diglett",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "33 / 117",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Leve Invasão",
+        "dano": "30",
+        "custoataque": [
+          "fighting"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016380_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2rkf2wyysyn24iz-diglett"
+  },
+  {
+    "id": "p0n9jf1ng21wtcc-gastly",
+    "nome": "Gastly",
     "tipo": "Pokemon",
     "elemento": "Noturno",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "45 / 117",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016490_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sanrguxrsngiwfm-morpeko"
+    "numero": "37 / 117",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Resmungo",
+        "dano": "20",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016050_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p0n9jf1ng21wtcc-gastly"
+  },
+  {
+    "id": "fcm4do0vdcn24wr-haunter",
+    "nome": "Haunter",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "38 / 117",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Volta Giratória",
+        "dano": "40",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fcm4do0vdcn24wr-haunter"
+  },
+  {
+    "id": "5zatdxkogt9jqcr-hypno",
+    "nome": "Hypno",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "29 / 117",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Borrifada Hipnótica",
+        "dano": "60",
+        "custoataque": [
+          "psychic",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016340_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5zatdxkogt9jqcr-hypno"
+  },
+  {
+    "id": "d03cna4hhoft9dt-hawlucha",
+    "nome": "Hawlucha",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "36 / 117",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Desmantelar",
+        "dano": "50",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d03cna4hhoft9dt-hawlucha"
+  },
+  {
+    "id": "43toun35eki32rk-druddigon",
+    "nome": "Druddigon",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "57 / 117",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Agarramento",
+        "dano": "40",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016600_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/43toun35eki32rk-druddigon"
   },
   {
     "id": "0h1eju2hz9nz8ss-trubbish",
@@ -612,50 +1234,24 @@
     "expansao": "Mega Brilho",
     "numero": "41 / 117",
     "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Arremesso de Lodo",
+        "dano": "40",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016450_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0h1eju2hz9nz8ss-trubbish"
-  },
-  {
-    "id": "jr0wi14d1opovnp-mega-scizor-ex",
-    "nome": "Mega Scizor ex",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "47 / 117",
-    "hp": 200,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016510_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jr0wi14d1opovnp-mega-scizor-ex"
-  },
-  {
-    "id": "756f0kyzeddizhc-zorua",
-    "nome": "Zorua",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "43 / 117",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016470_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/756f0kyzeddizhc-zorua"
-  },
-  {
-    "id": "q5c2ajca1ib598l-kartana",
-    "nome": "Kartana",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "48 / 117",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016520_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q5c2ajca1ib598l-kartana"
   },
   {
     "id": "y9srqbpz8pyxwo5-zoroark",
@@ -668,8 +1264,146 @@
     "expansao": "Mega Brilho",
     "numero": "44 / 117",
     "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Esmagamento de Energia",
+        "dano": "20 +",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016480_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y9srqbpz8pyxwo5-zoroark"
+  },
+  {
+    "id": "x0n0wyhsgakiuu8-mega-gengar-ex",
+    "nome": "Mega Gengar ex",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "39 / 117",
+    "hp": 210,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Labirinto das Sombras",
+        "dano": "120",
+        "custoataque": [
+          "darkness",
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "During your opponent's nex turn, they can't play any Trainer cards from their hand"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x0n0wyhsgakiuu8-mega-gengar-ex"
+  },
+  {
+    "id": "jr0wi14d1opovnp-mega-scizor-ex",
+    "nome": "Mega Scizor ex",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "47 / 117",
+    "hp": 200,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Socão Disparado",
+        "dano": "100 +",
+        "custoataque": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "efeito": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jr0wi14d1opovnp-mega-scizor-ex"
+  },
+  {
+    "id": "kclly3hc9xnqwx1-revavroom",
+    "nome": "Revavroom",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "50 / 117",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Investida Desgovernada",
+        "dano": "60",
+        "custoataque": [
+          "metal",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016540_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kclly3hc9xnqwx1-revavroom"
+  },
+  {
+    "id": "sle67qaqj9wyxng-axew",
+    "nome": "Axew",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "54 / 117",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Presa Afiada",
+        "dano": "40",
+        "custoataque": [
+          "fighting",
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016580_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sle67qaqj9wyxng-axew"
   },
   {
     "id": "qzo4n3a6a25px6n-varoom",
@@ -682,8 +1416,113 @@
     "expansao": "Mega Brilho",
     "numero": "49 / 117",
     "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Gás Asfixiante",
+        "dano": "40",
+        "custoataque": [
+          "metal",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016530_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qzo4n3a6a25px6n-varoom"
+  },
+  {
+    "id": "q5c2ajca1ib598l-kartana",
+    "nome": "Kartana",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "48 / 117",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Thrash Metal",
+        "dano": "40",
+        "custoataque": [
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016520_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q5c2ajca1ib598l-kartana"
+  },
+  {
+    "id": "r0c3smovwpkdtlu-chatot",
+    "nome": "Chatot",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "61 / 117",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Compra Giratória",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Draw a card"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r0c3smovwpkdtlu-chatot"
+  },
+  {
+    "id": "6gc4rji5xducq3b-darkrai",
+    "nome": "Darkrai",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "40 / 117",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Sono Sombrio",
+        "dano": "40",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016440_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6gc4rji5xducq3b-darkrai"
   },
   {
     "id": "l0idcfquoonb7l3-dratini",
@@ -696,22 +1535,23 @@
     "expansao": "Mega Brilho",
     "numero": "51 / 117",
     "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe de Cauda",
+        "dano": "10 +",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016550_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l0idcfquoonb7l3-dratini"
-  },
-  {
-    "id": "udo1yhtnvjo933w-haxorus",
-    "nome": "Haxorus",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "56 / 117",
-    "hp": 100,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016030_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/udo1yhtnvjo933w-haxorus"
   },
   {
     "id": "75cb51izbelx05r-dragonair",
@@ -724,8 +1564,145 @@
     "expansao": "Mega Brilho",
     "numero": "52 / 117",
     "hp": 80,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016560_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/75cb51izbelx05r-dragonair"
+  },
+  {
+    "id": "9ouhgzz0gnm3s61-wigglytuff",
+    "nome": "Wigglytuff",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "59 / 117",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Martelada",
+        "dano": "80",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016060_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9ouhgzz0gnm3s61-wigglytuff"
+  },
+  {
+    "id": "tghwaenwraiupoh-maintenance",
+    "nome": "Manutenção",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "66 / 117",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_10_001240_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tghwaenwraiupoh-maintenance"
+  },
+  {
+    "id": "756f0kyzeddizhc-zorua",
+    "nome": "Zorua",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "43 / 117",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque Surpresa",
+        "dano": "40",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/756f0kyzeddizhc-zorua"
+  },
+  {
+    "id": "aa3qqzbxkvtwycq-nasty-notice",
+    "nome": "Aviso Antipático",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "65 / 117",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_10_001230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aa3qqzbxkvtwycq-nasty-notice"
+  },
+  {
+    "id": "udo1yhtnvjo933w-haxorus",
+    "nome": "Haxorus",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "56 / 117",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lâmina Alucinada",
+        "dano": "50 +",
+        "custoataque": [
+          "fighting",
+          "metal",
+          "colorless"
+        ],
+        "efeito": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/udo1yhtnvjo933w-haxorus"
   },
   {
     "id": "1aa6gw7b5r8n5s4-dragonite",
@@ -738,8 +1715,84 @@
     "expansao": "Mega Brilho",
     "numero": "53 / 117",
     "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Onda de Dragão",
+        "dano": "150",
+        "custoataque": [
+          "water",
+          "lightning",
+          "colorless"
+        ],
+        "efeito": "Discard a Water and a Lightning Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016570_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1aa6gw7b5r8n5s4-dragonite"
+  },
+  {
+    "id": "vkpgbade3h7kmet-minccino",
+    "nome": "Minccino",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "62 / 117",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Jogo Duro",
+        "dano": "10 +",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016630_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vkpgbade3h7kmet-minccino"
+  },
+  {
+    "id": "synjum8k70sigi3-fraxure",
+    "nome": "Fraxure",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "55 / 117",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Garra de Dragão",
+        "dano": "60",
+        "custoataque": [
+          "fighting",
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016590_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/synjum8k70sigi3-fraxure"
   },
   {
     "id": "k0ac24e7sfw2eva-miltank",
@@ -752,8 +1805,134 @@
     "expansao": "Mega Brilho",
     "numero": "60 / 117",
     "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Efeito Cascata",
+        "dano": "10 +",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016620_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k0ac24e7sfw2eva-miltank"
+  },
+  {
+    "id": "4tn6zcxsotiyy04-hiking-trail",
+    "nome": "Trilha de Caminhada",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "69 / 117",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_10_001270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4tn6zcxsotiyy04-hiking-trail"
+  },
+  {
+    "id": "1aseo6dt7qogi62-morpeko",
+    "nome": "Morpeko",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "73 / 117",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Roda Energizante",
+        "dano": "50",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": "Move 2 Darkness Energy from this Pokémon to 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1aseo6dt7qogi62-morpeko"
+  },
+  {
+    "id": "w7rpy94g0y1acr4-furfrou",
+    "nome": "Furfrou",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "64 / 117",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe Rápido",
+        "dano": "40 +",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016650_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w7rpy94g0y1acr4-furfrou"
+  },
+  {
+    "id": "75uxmywtsaocka7-mega-manectric-ex",
+    "nome": "Mega Manectric ex",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "78 / 117",
+    "hp": 180,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Acelerador de Relâmpago",
+        "dano": "80 +",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "This attack does 30 more damage for each point you have gotten."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016320_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/75uxmywtsaocka7-mega-manectric-ex"
   },
   {
     "id": "gvkqibd1rws92j5-jigglypuff",
@@ -766,6 +1945,22 @@
     "expansao": "Mega Brilho",
     "numero": "58 / 117",
     "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Estouro",
+        "dano": "30",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016610_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gvkqibd1rws92j5-jigglypuff"
   },
@@ -780,204 +1975,14 @@
     "expansao": "Mega Brilho",
     "numero": "67 / 117",
     "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_10_001250_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0cszn5l7a1lct86-iris"
-  },
-  {
-    "id": "tghwaenwraiupoh-manuteno",
-    "nome": "Manutenção",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "66 / 117",
-    "hp": 0,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_10_001240_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tghwaenwraiupoh-manuteno"
-  },
-  {
-    "id": "wt3x5erpblg6sdw-cinccino",
-    "nome": "Cinccino",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "63 / 117",
-    "hp": 90,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016640_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wt3x5erpblg6sdw-cinccino"
-  },
-  {
-    "id": "aa3qqzbxkvtwycq-aviso-antiptico",
-    "nome": "Aviso Antipático",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "65 / 117",
-    "hp": 0,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_10_001230_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aa3qqzbxkvtwycq-aviso-antiptico"
-  },
-  {
-    "id": "w7rpy94g0y1acr4-furfrou",
-    "nome": "Furfrou",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "64 / 117",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016650_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w7rpy94g0y1acr4-furfrou"
-  },
-  {
-    "id": "sle67qaqj9wyxng-axew",
-    "nome": "Axew",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "54 / 117",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016580_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sle67qaqj9wyxng-axew"
-  },
-  {
-    "id": "9ouhgzz0gnm3s61-wigglytuff",
-    "nome": "Wigglytuff",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "59 / 117",
-    "hp": 110,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016060_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9ouhgzz0gnm3s61-wigglytuff"
-  },
-  {
-    "id": "43toun35eki32rk-druddigon",
-    "nome": "Druddigon",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "57 / 117",
-    "hp": 150,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016600_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/43toun35eki32rk-druddigon"
-  },
-  {
-    "id": "synjum8k70sigi3-fraxure",
-    "nome": "Fraxure",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "55 / 117",
-    "hp": 90,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016590_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/synjum8k70sigi3-fraxure"
-  },
-  {
-    "id": "r0c3smovwpkdtlu-chatot",
-    "nome": "Chatot",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "61 / 117",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016040_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r0c3smovwpkdtlu-chatot"
-  },
-  {
-    "id": "kclly3hc9xnqwx1-revavroom",
-    "nome": "Revavroom",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "50 / 117",
-    "hp": 110,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016540_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kclly3hc9xnqwx1-revavroom"
-  },
-  {
-    "id": "vkpgbade3h7kmet-minccino",
-    "nome": "Minccino",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "62 / 117",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016630_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vkpgbade3h7kmet-minccino"
-  },
-  {
-    "id": "4tn6zcxsotiyy04-trilha-de-caminhada",
-    "nome": "Trilha de Caminhada",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "69 / 117",
-    "hp": 0,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_10_001270_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4tn6zcxsotiyy04-trilha-de-caminhada"
-  },
-  {
-    "id": "cpnksrzdwom020g-miltank",
-    "nome": "Miltank",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "75 / 117",
-    "hp": 110,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016620_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cpnksrzdwom020g-miltank"
-  },
-  {
-    "id": "xbohz0p7ipff122-lapras",
-    "nome": "Lapras",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "70 / 117",
-    "hp": 100,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016220_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xbohz0p7ipff122-lapras"
   },
   {
     "id": "9k96wrkbs3vf1pg-groudon",
@@ -990,22 +1995,56 @@
     "expansao": "Mega Brilho",
     "numero": "72 / 117",
     "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Disparo de Gaia",
+        "dano": "130",
+        "custoataque": [
+          "fighting",
+          "fighting",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Discard 2 random Energy from among the Energy attached to all of your Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016400_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9k96wrkbs3vf1pg-groudon"
   },
   {
-    "id": "juymp8rid9bstta-revavroom",
-    "nome": "Revavroom",
+    "id": "wt3x5erpblg6sdw-cinccino",
+    "nome": "Cinccino",
     "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Rara",
-    "custoDeck": 8,
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "74 / 117",
-    "hp": 110,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016540_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/juymp8rid9bstta-revavroom"
+    "numero": "63 / 117",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tapinha",
+        "dano": "60",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016640_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wt3x5erpblg6sdw-cinccino"
   },
   {
     "id": "gkhinfm3ch286s2-calem",
@@ -1018,25 +2057,47 @@
     "expansao": "Mega Brilho",
     "numero": "68 / 117",
     "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_10_001260_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gkhinfm3ch286s2-calem"
   },
   {
-    "id": "7u0t6dnuy88jsxx-mega-gengar-ex",
-    "nome": "Mega Gengar ex",
+    "id": "juymp8rid9bstta-revavroom",
+    "nome": "Revavroom",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
+    "elemento": "Metálico",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "79 / 117",
-    "hp": 210,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016430_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7u0t6dnuy88jsxx-mega-gengar-ex"
+    "numero": "74 / 117",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Investida Desgovernada",
+        "dano": "60",
+        "custoataque": [
+          "metal",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016540_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/juymp8rid9bstta-revavroom"
   },
   {
-    "id": "z0ph5r284d567kk-mega-slowbro-ex",
+    "id": "uyka8h8m7g94yvw-mega-slowbro-ex",
     "nome": "Mega Slowbro ex",
     "tipo": "Pokemon",
     "elemento": "Água",
@@ -1044,38 +2105,27 @@
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "77 / 117",
+    "numero": "83 / 117",
     "hp": 200,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016210_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z0ph5r284d567kk-mega-slowbro-ex"
-  },
-  {
-    "id": "75uxmywtsaocka7-mega-manectric-ex",
-    "nome": "Mega Manectric ex",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "78 / 117",
-    "hp": 180,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016320_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/75uxmywtsaocka7-mega-manectric-ex"
-  },
-  {
-    "id": "1aseo6dt7qogi62-morpeko",
-    "nome": "Morpeko",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "73 / 117",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016490_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1aseo6dt7qogi62-morpeko"
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Carrossel Lavador",
+        "dano": "90",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016210_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uyka8h8m7g94yvw-mega-slowbro-ex"
   },
   {
     "id": "v4x9orud549h33u-mega-charizard-x-ex",
@@ -1088,6 +2138,23 @@
     "expansao": "Mega Brilho",
     "numero": "76 / 117",
     "hp": 220,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Labareda Violenta",
+        "dano": "100 +",
+        "custoataque": [
+          "fire",
+          "fire",
+          "fire"
+        ],
+        "efeito": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016150_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v4x9orud549h33u-mega-charizard-x-ex"
   },
@@ -1102,25 +2169,89 @@
     "expansao": "Mega Brilho",
     "numero": "71 / 117",
     "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque do Imperador",
+        "dano": "80 +",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016250_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u16146omvrn4p84-empoleon"
   },
   {
-    "id": "30px3x25y0ao4tf-iris",
-    "nome": "Iris",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
+    "id": "cpnksrzdwom020g-miltank",
+    "nome": "Miltank",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "81 / 117",
-    "hp": 0,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_20_001250_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/30px3x25y0ao4tf-iris"
+    "numero": "75 / 117",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Efeito Cascata",
+        "dano": "10 +",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016620_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cpnksrzdwom020g-miltank"
   },
   {
-    "id": "uyka8h8m7g94yvw-mega-slowbro-ex",
+    "id": "xbohz0p7ipff122-lapras",
+    "nome": "Lapras",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "70 / 117",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Congelamento Estarrecedor",
+        "dano": "60",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xbohz0p7ipff122-lapras"
+  },
+  {
+    "id": "z0ph5r284d567kk-mega-slowbro-ex",
     "nome": "Mega Slowbro ex",
     "tipo": "Pokemon",
     "elemento": "Água",
@@ -1128,10 +2259,27 @@
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "83 / 117",
+    "numero": "77 / 117",
     "hp": 200,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016210_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uyka8h8m7g94yvw-mega-slowbro-ex"
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Carrossel Lavador",
+        "dano": "90",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z0ph5r284d567kk-mega-slowbro-ex"
   },
   {
     "id": "jaa3pb1ar56bzc8-mega-manectric-ex",
@@ -1144,8 +2292,44 @@
     "expansao": "Mega Brilho",
     "numero": "84 / 117",
     "hp": 180,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Acelerador de Relâmpago",
+        "dano": "80 +",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "This attack does 30 more damage for each point you have gotten."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016320_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jaa3pb1ar56bzc8-mega-manectric-ex"
+  },
+  {
+    "id": "30px3x25y0ao4tf-iris",
+    "nome": "Iris",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "81 / 117",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_20_001250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/30px3x25y0ao4tf-iris"
   },
   {
     "id": "gdu6r8eza2qpupf-calem",
@@ -1158,134 +2342,14 @@
     "expansao": "Mega Brilho",
     "numero": "82 / 117",
     "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_20_001260_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gdu6r8eza2qpupf-calem"
-  },
-  {
-    "id": "ubd8qdnfh9w2eao-mega-scizor-ex",
-    "nome": "Mega Scizor ex",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "80 / 117",
-    "hp": 200,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016510_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ubd8qdnfh9w2eao-mega-scizor-ex"
-  },
-  {
-    "id": "67bey4rvb0yh7oj-charmeleon",
-    "nome": "Charmeleon",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "92 / 117",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016140_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/67bey4rvb0yh7oj-charmeleon"
-  },
-  {
-    "id": "m4hmcrtlu6mq4wr-trevenant",
-    "nome": "Trevenant",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "90 / 117",
-    "hp": 120,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016120_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m4hmcrtlu6mq4wr-trevenant"
-  },
-  {
-    "id": "isne2mc3km81hlf-pineco",
-    "nome": "Pineco",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "88 / 117",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016080_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/isne2mc3km81hlf-pineco"
-  },
-  {
-    "id": "0anfqpi0fliwss2-charmander",
-    "nome": "Charmander",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "91 / 117",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016130_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0anfqpi0fliwss2-charmander"
-  },
-  {
-    "id": "1r7bwlzqku79di4-mew",
-    "nome": "Mew",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "86 / 117",
-    "hp": 50,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016350_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1r7bwlzqku79di4-mew"
-  },
-  {
-    "id": "71f3zy2i4b4k1ls-rapidash",
-    "nome": "Rapidash",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "94 / 117",
-    "hp": 100,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016170_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71f3zy2i4b4k1ls-rapidash"
-  },
-  {
-    "id": "jrtg7nbd522wywj-phantump",
-    "nome": "Phantump",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "89 / 117",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016110_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jrtg7nbd522wywj-phantump"
-  },
-  {
-    "id": "yfhkwz43odtqit0-ponyta",
-    "nome": "Ponyta",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "93 / 117",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016160_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yfhkwz43odtqit0-ponyta"
   },
   {
     "id": "4uthy2q7d6b7rx5-mew",
@@ -1298,8 +2362,75 @@
     "expansao": "Mega Brilho",
     "numero": "85 / 117",
     "hp": 50,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016350_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4uthy2q7d6b7rx5-mew"
+  },
+  {
+    "id": "ubd8qdnfh9w2eao-mega-scizor-ex",
+    "nome": "Mega Scizor ex",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "80 / 117",
+    "hp": 200,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Socão Disparado",
+        "dano": "100 +",
+        "custoataque": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "efeito": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ubd8qdnfh9w2eao-mega-scizor-ex"
+  },
+  {
+    "id": "0anfqpi0fliwss2-charmander",
+    "nome": "Charmander",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "91 / 117",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cauda de Chamas",
+        "dano": "30",
+        "custoataque": [
+          "fire",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016130_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0anfqpi0fliwss2-charmander"
   },
   {
     "id": "nuc65wa461rsre6-scyther",
@@ -1312,8 +2443,124 @@
     "expansao": "Mega Brilho",
     "numero": "87 / 117",
     "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Fazer Retorno",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016070_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nuc65wa461rsre6-scyther"
+  },
+  {
+    "id": "7u0t6dnuy88jsxx-mega-gengar-ex",
+    "nome": "Mega Gengar ex",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "79 / 117",
+    "hp": 210,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Labirinto das Sombras",
+        "dano": "120",
+        "custoataque": [
+          "darkness",
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "During your opponent's nex turn, they can't play any Trainer cards from their hand"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7u0t6dnuy88jsxx-mega-gengar-ex"
+  },
+  {
+    "id": "isne2mc3km81hlf-pineco",
+    "nome": "Pineco",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "88 / 117",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Dependurar",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016080_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/isne2mc3km81hlf-pineco"
+  },
+  {
+    "id": "1r7bwlzqku79di4-mew",
+    "nome": "Mew",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "86 / 117",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016350_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1r7bwlzqku79di4-mew"
+  },
+  {
+    "id": "yfhkwz43odtqit0-ponyta",
+    "nome": "Ponyta",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "93 / 117",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016160_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yfhkwz43odtqit0-ponyta"
   },
   {
     "id": "9zue7tutdnv4epn-zoroark",
@@ -1326,6 +2573,21 @@
     "expansao": "Mega Brilho",
     "numero": "103 / 117",
     "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Esmagamento de Energia",
+        "dano": "20 +",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016480_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9zue7tutdnv4epn-zoroark"
   },
@@ -1340,64 +2602,24 @@
     "expansao": "Mega Brilho",
     "numero": "95 / 117",
     "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "30",
+        "custoataque": [
+          "water",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016000_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dnhpagxbeqb3kst-slowpoke"
-  },
-  {
-    "id": "axyln8i8ev5jqqc-raichu",
-    "nome": "Raichu",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "97 / 117",
-    "hp": 100,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016280_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/axyln8i8ev5jqqc-raichu"
-  },
-  {
-    "id": "oso224hwaqfd7hm-dratini",
-    "nome": "Dratini",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "105 / 117",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016550_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oso224hwaqfd7hm-dratini"
-  },
-  {
-    "id": "2cxuc4rdqvhe31z-forretress",
-    "nome": "Forretress",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "104 / 117",
-    "hp": 100,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016500_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2cxuc4rdqvhe31z-forretress"
-  },
-  {
-    "id": "th54mkp4b75iypv-zorua",
-    "nome": "Zorua",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "102 / 117",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016470_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/th54mkp4b75iypv-zorua"
   },
   {
     "id": "w0jt8bwsf1tzyi9-electrike",
@@ -1410,50 +2632,143 @@
     "expansao": "Mega Brilho",
     "numero": "98 / 117",
     "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque Rápido",
+        "dano": "10 +",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016310_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w0jt8bwsf1tzyi9-electrike"
   },
   {
-    "id": "klo7oioaoz5q51f-gastly",
-    "nome": "Gastly",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "100 / 117",
-    "hp": 60,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016050_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/klo7oioaoz5q51f-gastly"
-  },
-  {
-    "id": "m19v3wcxw2kn0am-pikachu",
-    "nome": "Pikachu",
+    "id": "axyln8i8ev5jqqc-raichu",
+    "nome": "Raichu",
     "tipo": "Pokemon",
     "elemento": "Elétrico",
     "raridade": "Ultra Rara",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "96 / 117",
-    "hp": 70,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016270_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m19v3wcxw2kn0am-pikachu"
+    "numero": "97 / 117",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Trovão",
+        "dano": "90",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "This Pokémon also does 30 damage to itself"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/axyln8i8ev5jqqc-raichu"
   },
   {
-    "id": "09hfgjwcvlprv18-haunter",
-    "nome": "Haunter",
+    "id": "2cxuc4rdqvhe31z-forretress",
+    "nome": "Forretress",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
+    "elemento": "Metálico",
     "raridade": "Ultra Rara",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "101 / 117",
+    "numero": "104 / 117",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Explosão Gigantesca",
+        "dano": "100",
+        "custoataque": [
+          "metal",
+          "metal",
+          "metal"
+        ],
+        "efeito": "This Pokémon also does 100 damage to itself and 50 damage to all Benched Pokémon (both yours and your opponent's)"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016500_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2cxuc4rdqvhe31z-forretress"
+  },
+  {
+    "id": "jrtg7nbd522wywj-phantump",
+    "nome": "Phantump",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "89 / 117",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jrtg7nbd522wywj-phantump"
+  },
+  {
+    "id": "67bey4rvb0yh7oj-charmeleon",
+    "nome": "Charmeleon",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "92 / 117",
     "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016420_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/09hfgjwcvlprv18-haunter"
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Talho",
+        "dano": "40",
+        "custoataque": [
+          "fire",
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016140_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/67bey4rvb0yh7oj-charmeleon"
   },
   {
     "id": "h810givzw0nmxco-hawlucha",
@@ -1466,64 +2781,142 @@
     "expansao": "Mega Brilho",
     "numero": "99 / 117",
     "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Desmantelar",
+        "dano": "50",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016410_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h810givzw0nmxco-hawlucha"
   },
   {
-    "id": "9yhienjsbod6u45-dragonair",
-    "nome": "Dragonair",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "106 / 117",
-    "hp": 80,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016560_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9yhienjsbod6u45-dragonair"
-  },
-  {
-    "id": "xrkfkuv2nqcy0g5-haxorus",
-    "nome": "Haxorus",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "110 / 117",
-    "hp": 150,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016030_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xrkfkuv2nqcy0g5-haxorus"
-  },
-  {
-    "id": "el9axu2bffp38q6-mega-charizard-x-ex",
-    "nome": "Mega Charizard X ex",
+    "id": "71f3zy2i4b4k1ls-rapidash",
+    "nome": "Rapidash",
     "tipo": "Pokemon",
     "elemento": "Fogo",
     "raridade": "Ultra Rara",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "111 / 117",
-    "hp": 220,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016150_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/el9axu2bffp38q6-mega-charizard-x-ex"
+    "numero": "94 / 117",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe Exaustivo",
+        "dano": "30",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": "During your next turn, this Pokémon's Overdrive Smash attack does +30 damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016170_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71f3zy2i4b4k1ls-rapidash"
   },
   {
-    "id": "kchnjou11qw2kkm-mega-gengar-ex",
-    "nome": "Mega Gengar ex",
+    "id": "m4hmcrtlu6mq4wr-trevenant",
+    "nome": "Trevenant",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "90 / 117",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Furacão Estrondoso",
+        "dano": "40 +",
+        "custoataque": [
+          "grass",
+          "colorless"
+        ],
+        "efeito": "Flip a coin until you get a tails. This attack does 40 more damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016120_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m4hmcrtlu6mq4wr-trevenant"
+  },
+  {
+    "id": "09hfgjwcvlprv18-haunter",
+    "nome": "Haunter",
     "tipo": "Pokemon",
     "elemento": "Noturno",
     "raridade": "Ultra Rara",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "114 / 117",
-    "hp": 210,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016430_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kchnjou11qw2kkm-mega-gengar-ex"
+    "numero": "101 / 117",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Volta Giratória",
+        "dano": "40",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/09hfgjwcvlprv18-haunter"
+  },
+  {
+    "id": "m19v3wcxw2kn0am-pikachu",
+    "nome": "Pikachu",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "96 / 117",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Choque de Estática",
+        "dano": "10",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m19v3wcxw2kn0am-pikachu"
   },
   {
     "id": "cnx509n7ln2vicw-mega-manectric-ex",
@@ -1536,11 +2929,27 @@
     "expansao": "Mega Brilho",
     "numero": "113 / 117",
     "hp": 180,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Acelerador de Relâmpago",
+        "dano": "80 +",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "This attack does 30 more damage for each point you have gotten."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016320_02_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cnx509n7ln2vicw-mega-manectric-ex"
   },
   {
-    "id": "ltnq378eq7o5x3s-barreira-de-ncleo-metlico",
+    "id": "ltnq378eq7o5x3s-metal-core-barrier",
     "nome": "Barreira de Núcleo Metálico",
     "tipo": "Treinador",
     "elemento": "Neutro",
@@ -1550,8 +2959,14 @@
     "expansao": "Mega Brilho",
     "numero": "117 / 117",
     "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_20_001090_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ltnq378eq7o5x3s-barreira-de-ncleo-metlico"
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ltnq378eq7o5x3s-metal-core-barrier"
   },
   {
     "id": "sjlx66liu2oosnb-mega-slowbro-ex",
@@ -1564,50 +2979,166 @@
     "expansao": "Mega Brilho",
     "numero": "112 / 117",
     "hp": 200,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Carrossel Lavador",
+        "dano": "90",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016210_02_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sjlx66liu2oosnb-mega-slowbro-ex"
   },
   {
-    "id": "igwe44m5ndqiae3-mega-scizor-ex",
-    "nome": "Mega Scizor ex",
+    "id": "kchnjou11qw2kkm-mega-gengar-ex",
+    "nome": "Mega Gengar ex",
     "tipo": "Pokemon",
-    "elemento": "Metálico",
+    "elemento": "Noturno",
     "raridade": "Ultra Rara",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "115 / 117",
-    "hp": 200,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016510_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/igwe44m5ndqiae3-mega-scizor-ex"
+    "numero": "114 / 117",
+    "hp": 210,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Labirinto das Sombras",
+        "dano": "120",
+        "custoataque": [
+          "darkness",
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "During your opponent's nex turn, they can't play any Trainer cards from their hand"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016430_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kchnjou11qw2kkm-mega-gengar-ex"
   },
   {
-    "id": "rykieu9hqtxd824-dragonite",
-    "nome": "Dragonite",
+    "id": "klo7oioaoz5q51f-gastly",
+    "nome": "Gastly",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "100 / 117",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Resmungo",
+        "dano": "20",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016050_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/klo7oioaoz5q51f-gastly"
+  },
+  {
+    "id": "9yhienjsbod6u45-dragonair",
+    "nome": "Dragonair",
     "tipo": "Pokemon",
     "elemento": "Dragão",
     "raridade": "Ultra Rara",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Mega Brilho",
-    "numero": "107 / 117",
+    "numero": "106 / 117",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016560_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9yhienjsbod6u45-dragonair"
+  },
+  {
+    "id": "th54mkp4b75iypv-zorua",
+    "nome": "Zorua",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "102 / 117",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque Surpresa",
+        "dano": "40",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/th54mkp4b75iypv-zorua"
+  },
+  {
+    "id": "xrkfkuv2nqcy0g5-haxorus",
+    "nome": "Haxorus",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "110 / 117",
     "hp": 150,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016570_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rykieu9hqtxd824-dragonite"
-  },
-  {
-    "id": "7d5ii9r6779ij7k-fraxure",
-    "nome": "Fraxure",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Mega Brilho",
-    "numero": "109 / 117",
-    "hp": 90,
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016590_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7d5ii9r6779ij7k-fraxure"
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lâmina Alucinada",
+        "dano": "50 +",
+        "custoataque": [
+          "fighting",
+          "metal",
+          "colorless"
+        ],
+        "efeito": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xrkfkuv2nqcy0g5-haxorus"
   },
   {
     "id": "y1nk2dyx6mpshuu-axew",
@@ -1620,8 +3151,176 @@
     "expansao": "Mega Brilho",
     "numero": "108 / 117",
     "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Presa Afiada",
+        "dano": "40",
+        "custoataque": [
+          "fighting",
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016580_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y1nk2dyx6mpshuu-axew"
+  },
+  {
+    "id": "rykieu9hqtxd824-dragonite",
+    "nome": "Dragonite",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "107 / 117",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Onda de Dragão",
+        "dano": "150",
+        "custoataque": [
+          "water",
+          "lightning",
+          "colorless"
+        ],
+        "efeito": "Discard a Water and a Lightning Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016570_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rykieu9hqtxd824-dragonite"
+  },
+  {
+    "id": "oso224hwaqfd7hm-dratini",
+    "nome": "Dratini",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "105 / 117",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe de Cauda",
+        "dano": "10 +",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016550_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oso224hwaqfd7hm-dratini"
+  },
+  {
+    "id": "7d5ii9r6779ij7k-fraxure",
+    "nome": "Fraxure",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "109 / 117",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Garra de Dragão",
+        "dano": "60",
+        "custoataque": [
+          "fighting",
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016590_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7d5ii9r6779ij7k-fraxure"
+  },
+  {
+    "id": "el9axu2bffp38q6-mega-charizard-x-ex",
+    "nome": "Mega Charizard X ex",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "111 / 117",
+    "hp": 220,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Labareda Violenta",
+        "dano": "100 +",
+        "custoataque": [
+          "fire",
+          "fire",
+          "fire"
+        ],
+        "efeito": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016150_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/el9axu2bffp38q6-mega-charizard-x-ex"
+  },
+  {
+    "id": "igwe44m5ndqiae3-mega-scizor-ex",
+    "nome": "Mega Scizor ex",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Ultra Rara",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Mega Brilho",
+    "numero": "115 / 117",
+    "hp": 200,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Socão Disparado",
+        "dano": "100 +",
+        "custoataque": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "efeito": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016510_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/igwe44m5ndqiae3-mega-scizor-ex"
   },
   {
     "id": "qpbjktwqcomjh0f-arboliva",
@@ -1634,6 +3333,22 @@
     "expansao": "Mega Brilho",
     "numero": "116 / 117",
     "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bomba de Sementes",
+        "dano": "70",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_015180_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qpbjktwqcomjh0f-arboliva"
   }

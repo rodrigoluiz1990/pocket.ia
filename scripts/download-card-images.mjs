@@ -30,6 +30,13 @@ async function fetchBuffer(url) {
   return Buffer.from(ab);
 }
 
+function assetCodeFromEntry(entry) {
+  const normalizedCode = String(entry?.code || "").trim().toUpperCase();
+  if (normalizedCode === "PROMO-A") return "pa";
+  if (normalizedCode === "PROMO-B") return "pb";
+  return normalizedCode.toLowerCase();
+}
+
 async function run() {
   const code = argValue("--code", "");
   const { files } = await loadIndexFiles();
@@ -54,15 +61,20 @@ async function run() {
     const withImages = cards.filter((c) => c.imageUrl);
     const concurrency = 10;
     let cursor = 0;
+    const assetCode = assetCodeFromEntry(entry);
+    const targetDir = resolve(OUT_DIR, `cartas_${assetCode}`);
+
+    await mkdir(targetDir, { recursive: true });
 
     async function worker() {
       while (cursor < withImages.length) {
         const i = cursor++;
         const card = withImages[i];
         const rawExt = extname(new URL(card.imageUrl).pathname) || ".jpg";
-        const fileName = `${sanitizeFileName(card.id)}${rawExt}`;
-        const outPath = resolve(OUT_DIR, fileName);
-        const relPath = `./assets/cards/${fileName}`;
+        const normalizedId = sanitizeFileName(card.id).replace(/^p-a-/i, "pa-").replace(/^p-b-/i, "pb-");
+        const fileName = `${normalizedId}${rawExt}`.toLowerCase();
+        const outPath = resolve(targetDir, fileName);
+        const relPath = `./assets/cards/cartas_${assetCode}/${fileName}`;
 
         try {
           if (!(await exists(outPath))) {

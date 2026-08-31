@@ -5,6 +5,9 @@
   "type": "module",
   "scripts": {
     "sync:cards": "node scripts/sync-pocket-cards.mjs",
+    "sync:flibustier": "node scripts/sync-flibustier-data.mjs",
+    "sync:raw-to-consolidated": "node scripts/import-raw-to-consolidated.mjs",
+    "build:complete-cards": "node scripts/build-complete-cards.mjs",
     "merge:image-urls": "node scripts/merge-raw-image-urls.mjs",
     "sync:images": "node scripts/download-card-images.mjs",
     "build:site-cards": "node scripts/build-site-cards.mjs",

@@ -1,8 +1,9 @@
-import { mkdir, writeFile, readFile } from "node:fs/promises";
+import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
 
 const BASE_URL = "https://pocket.pokemongohub.net";
 const START_URL = `${BASE_URL}/pt`;
+
 function argValue(name, fallback = "") {
   const index = process.argv.indexOf(name);
   if (index === -1) return fallback;
@@ -14,6 +15,7 @@ const OUTPUT_PATH = resolve(
   argValue("--out", "data/raw/pokemongohub/all/cards-synced.json")
 );
 const EXPANSIONS_PATH = resolve(process.cwd(), "data/expansions.json");
+const FLIBUSTIER_SETS_PATH = resolve(process.cwd(), "data/raw/flibustier/sets.json");
 const RAW_SITE_ROOT = resolve(process.cwd(), "data/raw/pokemongohub");
 
 function normalizeKey(value) {
@@ -42,33 +44,218 @@ function findAll(html, regex) {
   return [...new Set(out)];
 }
 
-function clean(text) {
-  return fixEncoding(text.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim());
+async function loadExistingCardUrls() {
+  const urls = new Set();
+  const seriesDirs = ["a", "b", "misc"];
+
+  for (const series of seriesDirs) {
+    const dir = resolve(RAW_SITE_ROOT, series);
+    let entries = [];
+    try {
+      entries = await readdir(dir, { withFileTypes: true });
+    } catch {
+      continue;
+    }
+
+    for (const entry of entries) {
+      if (!entry.isFile() || !/\.json$/i.test(String(entry.name || ""))) continue;
+      const absPath = resolve(dir, entry.name);
+      const raw = await readFile(absPath, "utf8");
+      const cards = JSON.parse(raw.replace(/^\uFEFF/, ""));
+      if (!Array.isArray(cards)) continue;
+
+      for (const card of cards) {
+        const url = String(card?.sourceUrl || "").trim();
+        if (url) urls.add(abs(url));
+      }
+    }
+  }
+
+  return [...urls];
 }
 
 function fixEncoding(text) {
-  return text
-    .replace(/Ã¡/g, "á")
-    .replace(/Ã /g, "à")
-    .replace(/Ã¢/g, "â")
-    .replace(/Ã£/g, "ã")
-    .replace(/Ã©/g, "é")
-    .replace(/Ãª/g, "ê")
-    .replace(/Ã­/g, "í")
-    .replace(/Ã³/g, "ó")
-    .replace(/Ã´/g, "ô")
-    .replace(/Ãµ/g, "õ")
-    .replace(/Ãº/g, "ú")
-    .replace(/Ã§/g, "ç")
-    .replace(/Ã‰/g, "É")
-    .replace(/Ã‡/g, "Ç");
+  return String(text || "")
+    .replace(/ÃƒÂ¡/g, "á")
+    .replace(/Ãƒ /g, "à")
+    .replace(/ÃƒÂ¢/g, "â")
+    .replace(/ÃƒÂ£/g, "ã")
+    .replace(/ÃƒÂ©/g, "é")
+    .replace(/ÃƒÂª/g, "ê")
+    .replace(/ÃƒÂ­/g, "í")
+    .replace(/ÃƒÂ³/g, "ó")
+    .replace(/ÃƒÂ´/g, "ô")
+    .replace(/ÃƒÂµ/g, "õ")
+    .replace(/ÃƒÂº/g, "ú")
+    .replace(/ÃƒÂ§/g, "ç")
+    .replace(/Ãƒâ€°/g, "É")
+    .replace(/Ãƒâ€¡/g, "Ç");
+}
+
+function decodeHtmlEntities(text) {
+  return String(text || "")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&amp;/g, "&")
+    .replace(/&quot;/g, "\"")
+    .replace(/&#x27;|&#39;/g, "'")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">");
+}
+
+function clean(text) {
+  return decodeHtmlEntities(fixEncoding(String(text || "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim()));
+}
+
+function decodeEscapedUnicode(text) {
+  return String(text || "").replace(/\\u([0-9a-fA-F]{4})/g, (_, hex) => String.fromCharCode(parseInt(hex, 16)));
 }
 
 function findField(html, label) {
   const esc = label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-  const rx = new RegExp(`${esc}\\s*<\\/[^>]+>\\s*<[^>]+>([\\s\\S]*?)<\\/[^>]+>`, "i");
-  const m = html.match(rx);
-  return m ? clean(m[1]) : "";
+  const rowRegex = new RegExp(`<th[^>]*>${esc}<\\/th><td[^>]*>([\\s\\S]*?)<\\/td>`, "i");
+  const rowMatch = html.match(rowRegex);
+  if (rowMatch) return clean(rowMatch[1]);
+
+  const genericRegex = new RegExp(`${esc}\\s*<\\/[^>]+>\\s*<[^>]+>([\\s\\S]*?)<\\/[^>]+>`, "i");
+  const genericMatch = html.match(genericRegex);
+  return genericMatch ? clean(genericMatch[1]) : "";
+}
+
+function findFieldHtml(html, label) {
+  const esc = label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const rowRegex = new RegExp(`<th[^>]*>${esc}<\\/th><td[^>]*>([\\s\\S]*?)<\\/td>`, "i");
+  const rowMatch = html.match(rowRegex);
+  return rowMatch ? String(rowMatch[1] || "") : "";
+}
+
+function extractSection(html, labelId) {
+  const marker = `aria-labelledby="${labelId}"`;
+  const start = html.indexOf(marker);
+  if (start === -1) return "";
+
+  if (labelId === "section-moves") {
+    const nextMarker = html.indexOf('aria-labelledby="section-card-stats"', start);
+    return nextMarker === -1 ? html.slice(start) : html.slice(start, nextMarker);
+  }
+
+  if (labelId === "section-abilities") {
+    const nextMarker = html.indexOf('aria-labelledby="section-moves"', start);
+    return nextMarker === -1 ? html.slice(start) : html.slice(start, nextMarker);
+  }
+
+  return html.slice(start);
+}
+
+function parseMoves(html) {
+  const section = extractSection(html, "section-moves");
+  if (!section) return [];
+
+  const out = [];
+  const moveRegex =
+    /<ul[^>]*aria-label="Tipo de Energia"[^>]*>([\s\S]*?)<\/ul>\s*<h3[^>]*>\s*(?:<a[^>]*href="\/(?:pt\/)?attack\/[^"]+"[^>]*>)?([^<]+)(?:<\/a>)?\s*<\/h3>[\s\S]*?<span[^>]*class="[^"]*shrink-0 font-bold[^"]*"[^>]*>([\s\S]*?)<\/span>(?:[\s\S]*?<p[^>]*class="[^"]*text-sm[^"]*"[^>]*>([\s\S]*?)<\/p>)?/gi;
+  let itemMatch;
+  while ((itemMatch = moveRegex.exec(section)) !== null) {
+    const costsBlock = itemMatch[1] || "";
+    const name = clean(itemMatch[2] || "");
+    const damage = clean((itemMatch[3] || "").replace(/<!--[\s\S]*?-->/g, ""));
+    const effect = clean(itemMatch[4] || "");
+    const costs = [...costsBlock.matchAll(/<img[^>]+alt="([^"]+)"/gi)].map((match) => normalizeKey(match[1]));
+
+    if (!name) continue;
+    out.push({
+      nomeataque: name,
+      dano: damage,
+      custoataque: costs,
+      efeito: effect
+    });
+  }
+
+  if (out.length) return out;
+
+  const serializedMoves = [];
+  const blocks = section.split(/\\"move-\d+\\"/g).slice(1);
+  for (const block of blocks) {
+    const untilNextSection = block.split('section-card-stats')[0] || block;
+    const nameMatch = untilNextSection.match(/\\"href\\":\\"\/attack\/[^"]+\\",\\"className\\":\\"[^"]*\\",\\"children\\":\\"([^"]+)\\"/);
+    const name = clean(decodeEscapedUnicode(nameMatch?.[1] || ""));
+    if (!name) continue;
+
+    const preName = nameMatch ? untilNextSection.slice(0, nameMatch.index) : untilNextSection;
+    const costs = [...preName.matchAll(/\\"alt\\":\\"([^"]+)\\"/g)].map((match) => normalizeKey(match[1]));
+    const damageMatch = untilNextSection.match(/\\"className\\":\\"shrink-0 font-bold\\",\\"children\\":\\[(.*?)\\]/);
+    const damageToken = String(damageMatch?.[1] || "").split(",")[0]?.trim() || "";
+    const damage = damageToken.replace(/^"|"$/g, "");
+    const effectMatch = untilNextSection.match(/\\"className\\":\\"text-sm pt-1\\",\\"children\\":\\"([^"]*)\\"/);
+    const effect = clean(decodeEscapedUnicode(effectMatch?.[1] || ""));
+
+    serializedMoves.push({
+      nomeataque: name,
+      dano: clean(decodeEscapedUnicode(damage)),
+      custoataque: costs,
+      efeito: effect
+    });
+  }
+
+  return serializedMoves;
+}
+
+const energyLabelMap = {
+  grass: "Planta",
+  grama: "Planta",
+  fire: "Fogo",
+  water: "Agua",
+  agua: "Agua",
+  lightning: "Raio",
+  electric: "Raio",
+  eletrico: "Raio",
+  electrico: "Raio",
+  psychic: "Psiquico",
+  psiquico: "Psiquico",
+  fighting: "Luta",
+  darkness: "Escuridao",
+  dark: "Escuridao",
+  metal: "Metal",
+  steel: "Metal",
+  dragon: "Dragao",
+  colorless: "Incolor",
+  incolor: "Incolor",
+  neutral: "Incolor",
+  neutro: "Incolor"
+};
+
+function mapEnergyLabel(value) {
+  const key = normalizeKey(value).replace(/\+\d+/g, "").trim();
+  return energyLabelMap[key] || clean(value);
+}
+
+function parseWeakness(html) {
+  const weaknessHtml = findFieldHtml(html, "Fraqueza");
+  if (!weaknessHtml) return "";
+  const altMatch = weaknessHtml.match(/alt="([^"]+)"/i);
+  if (altMatch) return mapEnergyLabel(altMatch[1]);
+  return mapEnergyLabel(weaknessHtml);
+}
+
+function parseRetreatCost(html) {
+  const retreatHtml = findFieldHtml(html, "Custo de Recuo");
+  if (!retreatHtml) return 0;
+  const iconMatches = [...retreatHtml.matchAll(/alt="([^"]+)"/gi)];
+  if (iconMatches.length) {
+    return iconMatches.filter((match) => normalizeKey(match[1]) === "colorless").length || iconMatches.length;
+  }
+  const numericMatch = clean(retreatHtml).match(/(\d+)/);
+  return numericMatch ? Number(numericMatch[1]) : 0;
+}
+
+function parsePackName(html) {
+  const introMatch = html.match(/a partir de\s+[^:]+:\s+([^<]+?)\s+pacote no conjunto/i);
+  return introMatch ? clean(introMatch[1]) : "";
+}
+
+function inferSetCodeFromImageUrl(url) {
+  const value = String(url || "").trim().toLowerCase();
+  const match = value.match(/\/wallpapers\/([a-z0-9-]+)\//i);
+  return match ? String(match[1] || "").toUpperCase() : "";
 }
 
 function rarityToTier(r) {
@@ -127,6 +314,12 @@ function parseCardPage(html, url) {
     expansao,
     numero: numeroTxt,
     hp,
+    evolucao: findField(html, "Evolui de") || findField(html, "Evolves From"),
+    ataque: parseMoves(html),
+    fraqueza: parseWeakness(html),
+    recuo: parseRetreatCost(html),
+    temHabilidade: /aria-labelledby="section-abilities"/i.test(html),
+    pacote: parsePackName(html),
     imageUrl: imageMatch ? imageMatch[1] : "",
     sourceUrl: url
   };
@@ -149,7 +342,15 @@ async function run() {
     console.log(`Cartas acumuladas: ${cardUrlSet.size}`);
   }
 
-  const cardUrls = [...cardUrlSet];
+  let cardUrls = [...cardUrlSet];
+  if (!cardUrls.length) {
+    console.warn("Nenhum link de carta encontrado nas paginas de set. Usando sourceUrl salvos localmente como fallback.");
+    cardUrls = await loadExistingCardUrls();
+  }
+  if (!cardUrls.length) {
+    throw new Error("Nenhuma URL de carta encontrada nem nas paginas de set nem nos arquivos raw locais.");
+  }
+
   const cardsOut = [];
   console.log(`Extraindo detalhes de ${cardUrls.length} cartas...`);
   const concurrency = 12;
@@ -179,28 +380,50 @@ async function run() {
 
   await mkdir(resolve(OUTPUT_PATH, ".."), { recursive: true });
   const unique = Object.values(
-    cardsOut.reduce((acc, c) => {
-      acc[c.id] = c;
+    cardsOut.reduce((acc, card) => {
+      acc[card.id] = card;
       return acc;
     }, {})
   );
-  await writeFile(OUTPUT_PATH, JSON.stringify(unique, null, 2), "utf8");
+  await writeFile(OUTPUT_PATH, `${JSON.stringify(unique, null, 2)}\n`, "utf8");
   console.log(`Finalizado. ${unique.length} cartas salvas em ${OUTPUT_PATH}`);
 
-  // Split por site/serie/colecao para uso como dados brutos organizados
   try {
     const expansionsRaw = await readFile(EXPANSIONS_PATH, "utf8");
     const payload = JSON.parse(expansionsRaw.replace(/^\uFEFF/, ""));
     const expansions = Array.isArray(payload) ? payload : payload?.expansions || [];
-    const codeByExpansion = new Map(
-      expansions.map((e) => [normalizeKey(e.name), String(e.code || "").trim()])
-    );
+    const codeByExpansion = new Map();
+    for (const entry of expansions) {
+      const code = String(entry.code || "").trim();
+      const name = String(entry.name || "").trim();
+      if (code && name) codeByExpansion.set(normalizeKey(name), code);
+    }
+
+    try {
+      const setsRaw = await readFile(FLIBUSTIER_SETS_PATH, "utf8");
+      const setsPayload = JSON.parse(setsRaw.replace(/^\uFEFF/, ""));
+      const setEntries = Object.values(setsPayload || {}).flat().filter(Boolean);
+      for (const entry of setEntries) {
+        const code = String(entry.code || "").trim();
+        const names = entry?.name && typeof entry.name === "object" ? Object.values(entry.name) : [];
+        for (const name of names) {
+          const key = normalizeKey(name);
+          if (code && key && !codeByExpansion.has(key)) codeByExpansion.set(key, code);
+        }
+      }
+    } catch {
+      // Continua apenas com nomes locais quando o cache do flibustier ainda nao existe.
+    }
 
     const byCode = new Map();
     for (const card of unique) {
-      const code = codeByExpansion.get(normalizeKey(card.expansao));
+      const code = codeByExpansion.get(normalizeKey(card.expansao)) || inferSetCodeFromImageUrl(card.imageUrl);
       if (!code) continue;
       if (!byCode.has(code)) byCode.set(code, []);
+      if (card.expansao === "{setName}") {
+        const expansionEntry = expansions.find((entry) => String(entry.code || "").trim().toUpperCase() === code);
+        if (expansionEntry?.name) card.expansao = String(expansionEntry.name).trim();
+      }
       byCode.get(code).push(card);
     }
 
@@ -227,9 +450,9 @@ async function run() {
       `${JSON.stringify({ site: "pokemongohub", files: rawFiles }, null, 2)}\n`,
       "utf8"
     );
-    console.log(`Raw por colecao atualizado em ${RAW_SITE_ROOT}`);
+    console.log(`Raw por coleção atualizado em ${RAW_SITE_ROOT}`);
   } catch (error) {
-    console.warn(`Aviso ao gerar raw por colecao: ${error.message}`);
+    console.warn(`Aviso ao gerar raw por coleção: ${error.message}`);
   }
 }
 

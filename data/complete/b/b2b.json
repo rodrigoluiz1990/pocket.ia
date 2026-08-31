@@ -1,0 +1,4993 @@
+[
+  {
+    "id": "b2b-001",
+    "sourceId": "cnmu6s32ec314se-scyther",
+    "categoria": "Pokemon",
+    "nome": "Scyther",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Fazer Retorno",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "1 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-001.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016070_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cnmu6s32ec314se-scyther",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#1",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-002",
+    "sourceId": "vdpzg6o7609069z-pineco",
+    "categoria": "Pokemon",
+    "nome": "Pineco",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Dependurar",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "2 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-002.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016080_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vdpzg6o7609069z-pineco",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#2",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-003",
+    "sourceId": "eidbfe4qy3lrvqr-volbeat",
+    "categoria": "Pokemon",
+    "nome": "Volbeat",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Raio da Confusão",
+        "dano": "10",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "3 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-003.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016090_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/eidbfe4qy3lrvqr-volbeat",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#3",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-004",
+    "sourceId": "ub2tix4x8rdvnkm-illumise",
+    "categoria": "Pokemon",
+    "nome": "Illumise",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Esmagamento Mental",
+        "dano": "20 +",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Confused, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "4 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-004.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016100_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ub2tix4x8rdvnkm-illumise",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#4",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-005",
+    "sourceId": "l3q12juh3xlvg3q-phantump",
+    "categoria": "Pokemon",
+    "nome": "Phantump",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "5 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-005.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l3q12juh3xlvg3q-phantump",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#5",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-006",
+    "sourceId": "6g7h2nhqkgimm6e-trevenant",
+    "categoria": "Pokemon",
+    "nome": "Trevenant",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Furacão Estrondoso",
+        "dano": "40 +",
+        "custoataque": [
+          "Planta",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin until you get a tails. This attack does 40 more damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "6 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-006.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016120_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6g7h2nhqkgimm6e-trevenant",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#6",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-007",
+    "sourceId": "dekqkoh630r4jjk-charmander",
+    "categoria": "Pokemon",
+    "nome": "Charmander",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Cauda de Chamas",
+        "dano": "30",
+        "custoataque": [
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "7 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-007.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016130_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dekqkoh630r4jjk-charmander",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#7",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-008",
+    "sourceId": "u9zwrubzexa1jie-charmeleon",
+    "categoria": "Pokemon",
+    "nome": "Charmeleon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Talho",
+        "dano": "40",
+        "custoataque": [
+          "Fogo",
+          "Fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "8 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-008.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016140_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u9zwrubzexa1jie-charmeleon",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#8",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-009",
+    "sourceId": "d5mkwkuxii28abh-mega-charizard-x-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Charizard X ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Labareda Violenta",
+        "dano": "100 +",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo"
+        ],
+        "efeito": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "9 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-009.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016150_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d5mkwkuxii28abh-mega-charizard-x-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#9",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-010",
+    "sourceId": "yw3ugrzkg4to2oy-ponyta",
+    "categoria": "Pokemon",
+    "nome": "Ponyta",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "10 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-010.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016160_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yw3ugrzkg4to2oy-ponyta",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#10",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-011",
+    "sourceId": "tnhcplky9rorufz-rapidash",
+    "categoria": "Pokemon",
+    "nome": "Rapidash",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Golpe Exaustivo",
+        "dano": "30",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "During your next turn, this Pokémon's Overdrive Smash attack does +30 damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "11 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-011.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016170_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tnhcplky9rorufz-rapidash",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#11",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-012",
+    "sourceId": "gyrs8q7uvu7ypwz-magmar",
+    "categoria": "Pokemon",
+    "nome": "Magmar",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Surra de Cauda",
+        "dano": "30",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "12 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-012.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016180_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gyrs8q7uvu7ypwz-magmar",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#12",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-013",
+    "sourceId": "pblbni8bowikai6-magmortar",
+    "categoria": "Pokemon",
+    "nome": "Magmortar",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Vulcão Trovejante",
+        "dano": "70",
+        "custoataque": [
+          "Fogo",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "If Electivire is on your Bench, this attack also does 20 damage to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "13 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-013.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pblbni8bowikai6-magmortar",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#13",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-014",
+    "sourceId": "r9p59vdam7cq6ho-paldean-tauros",
+    "categoria": "Pokemon",
+    "nome": "Tauros de Paldea",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Desmantelar",
+        "dano": "60",
+        "custoataque": [
+          "Fogo",
+          "Fogo"
+        ],
+        "efeito": "This Pokémon also does 30 damage to itself"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "14 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-014.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016200_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r9p59vdam7cq6ho-paldean-tauros",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#14",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-015",
+    "sourceId": "223xvxwo7wuivjw-slowpoke",
+    "categoria": "Pokemon",
+    "nome": "Slowpoke",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "30",
+        "custoataque": [
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "15 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-015.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016000_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/223xvxwo7wuivjw-slowpoke",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#15",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-016",
+    "sourceId": "74v10qg1tbskzdo-mega-slowbro-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Slowbro ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 200,
+    "ataque": [
+      {
+        "nomeataque": "Carrossel Lavador",
+        "dano": "90",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "16 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-016.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/74v10qg1tbskzdo-mega-slowbro-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#16",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-017",
+    "sourceId": "gi8k618rb71cz45-lapras",
+    "categoria": "Pokemon",
+    "nome": "Lapras",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Congelamento Estarrecedor",
+        "dano": "60",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "17 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-017.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gi8k618rb71cz45-lapras",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#17",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-018",
+    "sourceId": "217la8mukyazo4f-piplup",
+    "categoria": "Pokemon",
+    "nome": "Piplup",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Revólver d’Água",
+        "dano": "20",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "18 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-018.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/217la8mukyazo4f-piplup",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#18",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-019",
+    "sourceId": "yzd4a1ymr9o4j2t-prinplup",
+    "categoria": "Pokemon",
+    "nome": "Prinplup",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Espirro d’Água",
+        "dano": "30 +",
+        "custoataque": [
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "19 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-019.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016240_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yzd4a1ymr9o4j2t-prinplup",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#19",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-020",
+    "sourceId": "wreklivzrtifbjm-empoleon",
+    "categoria": "Pokemon",
+    "nome": "Empoleon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Ataque do Imperador",
+        "dano": "80 +",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "20 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-020.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wreklivzrtifbjm-empoleon",
+    "custoDeck": 3,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#20",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-021",
+    "sourceId": "bfk11h1b4bhs4ze-phione",
+    "categoria": "Pokemon",
+    "nome": "Phione",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Aqua Turbo",
+        "dano": "10",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Water Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "21 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-021.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016260_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bfk11h1b4bhs4ze-phione",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#21",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-022",
+    "sourceId": "91kmj1mp555ydom-pikachu",
+    "categoria": "Pokemon",
+    "nome": "Pikachu",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Choque de Estática",
+        "dano": "10",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "22 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-022.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/91kmj1mp555ydom-pikachu",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#22",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-023",
+    "sourceId": "0lpkseuwhe4txjl-raichu",
+    "categoria": "Pokemon",
+    "nome": "Raichu",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Trovão",
+        "dano": "90",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "This Pokémon also does 30 damage to itself"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "23 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-023.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0lpkseuwhe4txjl-raichu",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#23",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-024",
+    "sourceId": "61nat606k0i4bh8-electabuzz",
+    "categoria": "Pokemon",
+    "nome": "Electabuzz",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Raio de Cabeça",
+        "dano": "30",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "24 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-024.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016290_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/61nat606k0i4bh8-electabuzz",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#24",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-025",
+    "sourceId": "2nw36m3s5toc1az-electivire",
+    "categoria": "Pokemon",
+    "nome": "Electivire",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Trovão Incendiário",
+        "dano": "50 +",
+        "custoataque": [
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": "If Magmortar is on your Bench, this attack does 70 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "25 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-025.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016300_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2nw36m3s5toc1az-electivire",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#25",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-026",
+    "sourceId": "2clgjx4bfjc357w-electrike",
+    "categoria": "Pokemon",
+    "nome": "Electrike",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Ataque Rápido",
+        "dano": "10 +",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "26 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-026.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016310_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2clgjx4bfjc357w-electrike",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#26",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-027",
+    "sourceId": "0b1sl69a6nrx3zi-mega-manectric-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Manectric ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Acelerador de Relâmpago",
+        "dano": "80 +",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "This attack does 30 more damage for each point you have gotten."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "27 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-027.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016320_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0b1sl69a6nrx3zi-mega-manectric-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#27",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-028",
+    "sourceId": "7nto84hiayiygrt-drowzee",
+    "categoria": "Pokemon",
+    "nome": "Drowzee",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "28 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-028.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016330_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7nto84hiayiygrt-drowzee",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#28",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-029",
+    "sourceId": "5zatdxkogt9jqcr-hypno",
+    "categoria": "Pokemon",
+    "nome": "Hypno",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Borrifada Hipnótica",
+        "dano": "60",
+        "custoataque": [
+          "Psiquico",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "29 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-029.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016340_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5zatdxkogt9jqcr-hypno",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#29",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-030",
+    "sourceId": "ul45kzx7oqevqk6-mew",
+    "categoria": "Pokemon",
+    "nome": "Mew",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "30 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-030.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016350_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ul45kzx7oqevqk6-mew",
+    "custoDeck": 3,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#30",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-031",
+    "sourceId": "vl749dl0hjqtide-spoink",
+    "categoria": "Pokemon",
+    "nome": "Spoink",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "20",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "31 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-031.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016360_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vl749dl0hjqtide-spoink",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#31",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-032",
+    "sourceId": "tiq0xbfa83ime2u-grumpig",
+    "categoria": "Pokemon",
+    "nome": "Grumpig",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Dança Oscilante",
+        "dano": "40 +",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "If your opponent has exactly 2, 4, or 6 cards in their hand, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "32 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-032.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016370_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tiq0xbfa83ime2u-grumpig",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#32",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-033",
+    "sourceId": "2rkf2wyysyn24iz-diglett",
+    "categoria": "Pokemon",
+    "nome": "Diglett",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Leve Invasão",
+        "dano": "30",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "33 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-033.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016380_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2rkf2wyysyn24iz-diglett",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#33",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-034",
+    "sourceId": "gpkx9ql914rr2gd-dugtrio",
+    "categoria": "Pokemon",
+    "nome": "Dugtrio",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Bomba de Lama",
+        "dano": "60",
+        "custoataque": [
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "34 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-034.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gpkx9ql914rr2gd-dugtrio",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#34",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-035",
+    "sourceId": "0y43xn1zayrosua-groudon",
+    "categoria": "Pokemon",
+    "nome": "Groudon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Disparo de Gaia",
+        "dano": "130",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Discard 2 random Energy from among the Energy attached to all of your Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "35 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-035.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016400_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0y43xn1zayrosua-groudon",
+    "custoDeck": 3,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#35",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-036",
+    "sourceId": "d03cna4hhoft9dt-hawlucha",
+    "categoria": "Pokemon",
+    "nome": "Hawlucha",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Desmantelar",
+        "dano": "50",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "36 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-036.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d03cna4hhoft9dt-hawlucha",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#36",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-037",
+    "sourceId": "p0n9jf1ng21wtcc-gastly",
+    "categoria": "Pokemon",
+    "nome": "Gastly",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Resmungo",
+        "dano": "20",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "37 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-037.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016050_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p0n9jf1ng21wtcc-gastly",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#37",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-038",
+    "sourceId": "fcm4do0vdcn24wr-haunter",
+    "categoria": "Pokemon",
+    "nome": "Haunter",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Volta Giratória",
+        "dano": "40",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "38 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-038.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fcm4do0vdcn24wr-haunter",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#38",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-039",
+    "sourceId": "x0n0wyhsgakiuu8-mega-gengar-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Gengar ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 210,
+    "ataque": [
+      {
+        "nomeataque": "Labirinto das Sombras",
+        "dano": "120",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao",
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's nex turn, they can't play any Trainer cards from their hand"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "39 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-039.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x0n0wyhsgakiuu8-mega-gengar-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#39",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-040",
+    "sourceId": "6gc4rji5xducq3b-darkrai",
+    "categoria": "Pokemon",
+    "nome": "Darkrai",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Sono Sombrio",
+        "dano": "40",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "40 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-040.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016440_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6gc4rji5xducq3b-darkrai",
+    "custoDeck": 3,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#40",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-041",
+    "sourceId": "0h1eju2hz9nz8ss-trubbish",
+    "categoria": "Pokemon",
+    "nome": "Trubbish",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Arremesso de Lodo",
+        "dano": "40",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "41 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-041.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0h1eju2hz9nz8ss-trubbish",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#41",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-042",
+    "sourceId": "ldx10sw0nthmf2k-garbodor",
+    "categoria": "Pokemon",
+    "nome": "Garbodor",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Redemoinho de Lodo",
+        "dano": "70",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "42 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-042.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ldx10sw0nthmf2k-garbodor",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#42",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-043",
+    "sourceId": "756f0kyzeddizhc-zorua",
+    "categoria": "Pokemon",
+    "nome": "Zorua",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Ataque Surpresa",
+        "dano": "40",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "43 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-043.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/756f0kyzeddizhc-zorua",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#43",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-044",
+    "sourceId": "y9srqbpz8pyxwo5-zoroark",
+    "categoria": "Pokemon",
+    "nome": "Zoroark",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Esmagamento de Energia",
+        "dano": "20 +",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "44 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-044.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016480_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y9srqbpz8pyxwo5-zoroark",
+    "custoDeck": 3,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#44",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-045",
+    "sourceId": "sanrguxrsngiwfm-morpeko",
+    "categoria": "Pokemon",
+    "nome": "Morpeko",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Roda Energizante",
+        "dano": "50",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": "Move 2 Darkness Energy from this Pokémon to 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "45 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-045.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sanrguxrsngiwfm-morpeko",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#45",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-046",
+    "sourceId": "v4mel1b9lomqvpb-forretress",
+    "categoria": "Pokemon",
+    "nome": "Forretress",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Explosão Gigantesca",
+        "dano": "100",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "efeito": "This Pokémon also does 100 damage to itself and 50 damage to all Benched Pokémon (both yours and your opponent's)"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "46 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-046.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016500_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v4mel1b9lomqvpb-forretress",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#46",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-047",
+    "sourceId": "jr0wi14d1opovnp-mega-scizor-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Scizor ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 200,
+    "ataque": [
+      {
+        "nomeataque": "Socão Disparado",
+        "dano": "100 +",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "47 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-047.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jr0wi14d1opovnp-mega-scizor-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#47",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-048",
+    "sourceId": "q5c2ajca1ib598l-kartana",
+    "categoria": "Pokemon",
+    "nome": "Kartana",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Thrash Metal",
+        "dano": "40",
+        "custoataque": [
+          "Metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "48 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-048.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016520_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q5c2ajca1ib598l-kartana",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#48",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-049",
+    "sourceId": "qzo4n3a6a25px6n-varoom",
+    "categoria": "Pokemon",
+    "nome": "Varoom",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Gás Asfixiante",
+        "dano": "40",
+        "custoataque": [
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "49 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-049.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016530_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qzo4n3a6a25px6n-varoom",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#49",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-050",
+    "sourceId": "kclly3hc9xnqwx1-revavroom",
+    "categoria": "Pokemon",
+    "nome": "Revavroom",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Investida Desgovernada",
+        "dano": "60",
+        "custoataque": [
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "50 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-050.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016540_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kclly3hc9xnqwx1-revavroom",
+    "custoDeck": 3,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#50",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-051",
+    "sourceId": "l0idcfquoonb7l3-dratini",
+    "categoria": "Pokemon",
+    "nome": "Dratini",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Golpe de Cauda",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "51 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-051.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016550_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l0idcfquoonb7l3-dratini",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#51",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-052",
+    "sourceId": "75cb51izbelx05r-dragonair",
+    "categoria": "Pokemon",
+    "nome": "Dragonair",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 80,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "52 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-052.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016560_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/75cb51izbelx05r-dragonair",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#52",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-053",
+    "sourceId": "1aa6gw7b5r8n5s4-dragonite",
+    "categoria": "Pokemon",
+    "nome": "Dragonite",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Onda de Dragão",
+        "dano": "150",
+        "custoataque": [
+          "Agua",
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": "Discard a Water and a Lightning Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "53 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-053.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016570_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1aa6gw7b5r8n5s4-dragonite",
+    "custoDeck": 3,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#53",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-054",
+    "sourceId": "sle67qaqj9wyxng-axew",
+    "categoria": "Pokemon",
+    "nome": "Axew",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Presa Afiada",
+        "dano": "40",
+        "custoataque": [
+          "Luta",
+          "Metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "54 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-054.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016580_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sle67qaqj9wyxng-axew",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#54",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-055",
+    "sourceId": "synjum8k70sigi3-fraxure",
+    "categoria": "Pokemon",
+    "nome": "Fraxure",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Garra de Dragão",
+        "dano": "60",
+        "custoataque": [
+          "Luta",
+          "Metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "55 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-055.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016590_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/synjum8k70sigi3-fraxure",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#55",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-056",
+    "sourceId": "udo1yhtnvjo933w-haxorus",
+    "categoria": "Pokemon",
+    "nome": "Haxorus",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Lâmina Alucinada",
+        "dano": "50 +",
+        "custoataque": [
+          "Luta",
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "56 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-056.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/udo1yhtnvjo933w-haxorus",
+    "custoDeck": 3,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#56",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-057",
+    "sourceId": "43toun35eki32rk-druddigon",
+    "categoria": "Pokemon",
+    "nome": "Druddigon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Agarramento",
+        "dano": "40",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "57 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-057.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016600_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/43toun35eki32rk-druddigon",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#57",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-058",
+    "sourceId": "gvkqibd1rws92j5-jigglypuff",
+    "categoria": "Pokemon",
+    "nome": "Jigglypuff",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Estouro",
+        "dano": "30",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "58 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-058.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016610_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gvkqibd1rws92j5-jigglypuff",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#58",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-059",
+    "sourceId": "9ouhgzz0gnm3s61-wigglytuff",
+    "categoria": "Pokemon",
+    "nome": "Wigglytuff",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Martelada",
+        "dano": "80",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "59 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-059.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016060_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9ouhgzz0gnm3s61-wigglytuff",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#59",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-060",
+    "sourceId": "k0ac24e7sfw2eva-miltank",
+    "categoria": "Pokemon",
+    "nome": "Miltank",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Efeito Cascata",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "60 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-060.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016620_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k0ac24e7sfw2eva-miltank",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#60",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-061",
+    "sourceId": "r0c3smovwpkdtlu-chatot",
+    "categoria": "Pokemon",
+    "nome": "Chatot",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Compra Giratória",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Draw a card"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "61 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-061.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r0c3smovwpkdtlu-chatot",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#61",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-062",
+    "sourceId": "vkpgbade3h7kmet-minccino",
+    "categoria": "Pokemon",
+    "nome": "Minccino",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Jogo Duro",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "62 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-062.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016630_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vkpgbade3h7kmet-minccino",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#62",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-063",
+    "sourceId": "wt3x5erpblg6sdw-cinccino",
+    "categoria": "Pokemon",
+    "nome": "Cinccino",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Tapinha",
+        "dano": "60",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "63 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-063.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016640_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wt3x5erpblg6sdw-cinccino",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#63",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-064",
+    "sourceId": "w7rpy94g0y1acr4-furfrou",
+    "categoria": "Pokemon",
+    "nome": "Furfrou",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Golpe Rápido",
+        "dano": "40 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "64 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-064.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_10_016650_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w7rpy94g0y1acr4-furfrou",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#64",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-065",
+    "sourceId": "aa3qqzbxkvtwycq-nasty-notice",
+    "categoria": "Treinador",
+    "nome": "Aviso Antipático",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "65 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-065.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_10_001230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aa3qqzbxkvtwycq-nasty-notice",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#65",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-066",
+    "sourceId": "tghwaenwraiupoh-maintenance",
+    "categoria": "Treinador",
+    "nome": "Manutenção",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "66 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-066.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_10_001240_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tghwaenwraiupoh-maintenance",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#66",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-067",
+    "sourceId": "0cszn5l7a1lct86-iris",
+    "categoria": "Treinador",
+    "nome": "Iris",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "67 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-067.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_10_001250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0cszn5l7a1lct86-iris",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#67",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-068",
+    "sourceId": "gkhinfm3ch286s2-calem",
+    "categoria": "Treinador",
+    "nome": "Calem",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "68 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-068.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_10_001260_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gkhinfm3ch286s2-calem",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#68",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-069",
+    "sourceId": "4tn6zcxsotiyy04-hiking-trail",
+    "categoria": "Treinador",
+    "nome": "Trilha de Caminhada",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "69 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-069.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_10_001270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4tn6zcxsotiyy04-hiking-trail",
+    "custoDeck": 1,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#69",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-070",
+    "sourceId": "xbohz0p7ipff122-lapras",
+    "categoria": "Pokemon",
+    "nome": "Lapras",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Congelamento Estarrecedor",
+        "dano": "60",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "70 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-070.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xbohz0p7ipff122-lapras",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#70",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-071",
+    "sourceId": "u16146omvrn4p84-empoleon",
+    "categoria": "Pokemon",
+    "nome": "Empoleon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Ataque do Imperador",
+        "dano": "80 +",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "71 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-071.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u16146omvrn4p84-empoleon",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#71",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-072",
+    "sourceId": "9k96wrkbs3vf1pg-groudon",
+    "categoria": "Pokemon",
+    "nome": "Groudon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Disparo de Gaia",
+        "dano": "130",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Discard 2 random Energy from among the Energy attached to all of your Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "72 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-072.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016400_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9k96wrkbs3vf1pg-groudon",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#72",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-073",
+    "sourceId": "1aseo6dt7qogi62-morpeko",
+    "categoria": "Pokemon",
+    "nome": "Morpeko",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Roda Energizante",
+        "dano": "50",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": "Move 2 Darkness Energy from this Pokémon to 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "73 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-073.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1aseo6dt7qogi62-morpeko",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#73",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-074",
+    "sourceId": "juymp8rid9bstta-revavroom",
+    "categoria": "Pokemon",
+    "nome": "Revavroom",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Investida Desgovernada",
+        "dano": "60",
+        "custoataque": [
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "74 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-074.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016540_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/juymp8rid9bstta-revavroom",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#74",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-075",
+    "sourceId": "cpnksrzdwom020g-miltank",
+    "categoria": "Pokemon",
+    "nome": "Miltank",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Efeito Cascata",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "75 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-075.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016620_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cpnksrzdwom020g-miltank",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#75",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-076",
+    "sourceId": "v4x9orud549h33u-mega-charizard-x-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Charizard X ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Labareda Violenta",
+        "dano": "100 +",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo"
+        ],
+        "efeito": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "76 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-076.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016150_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v4x9orud549h33u-mega-charizard-x-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#76",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-077",
+    "sourceId": "z0ph5r284d567kk-mega-slowbro-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Slowbro ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 200,
+    "ataque": [
+      {
+        "nomeataque": "Carrossel Lavador",
+        "dano": "90",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "77 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-077.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z0ph5r284d567kk-mega-slowbro-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#77",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-078",
+    "sourceId": "75uxmywtsaocka7-mega-manectric-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Manectric ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Acelerador de Relâmpago",
+        "dano": "80 +",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "This attack does 30 more damage for each point you have gotten."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "78 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-078.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016320_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/75uxmywtsaocka7-mega-manectric-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#78",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-079",
+    "sourceId": "7u0t6dnuy88jsxx-mega-gengar-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Gengar ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 210,
+    "ataque": [
+      {
+        "nomeataque": "Labirinto das Sombras",
+        "dano": "120",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao",
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's nex turn, they can't play any Trainer cards from their hand"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "79 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-079.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7u0t6dnuy88jsxx-mega-gengar-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#79",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-080",
+    "sourceId": "ubd8qdnfh9w2eao-mega-scizor-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Scizor ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 200,
+    "ataque": [
+      {
+        "nomeataque": "Socão Disparado",
+        "dano": "100 +",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "80 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-080.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ubd8qdnfh9w2eao-mega-scizor-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#80",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-081",
+    "sourceId": "30px3x25y0ao4tf-iris",
+    "categoria": "Treinador",
+    "nome": "Iris",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "81 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-081.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_20_001250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/30px3x25y0ao4tf-iris",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#81",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-082",
+    "sourceId": "gdu6r8eza2qpupf-calem",
+    "categoria": "Treinador",
+    "nome": "Calem",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "82 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-082.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_20_001260_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gdu6r8eza2qpupf-calem",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#82",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-083",
+    "sourceId": "uyka8h8m7g94yvw-mega-slowbro-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Slowbro ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 200,
+    "ataque": [
+      {
+        "nomeataque": "Carrossel Lavador",
+        "dano": "90",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "83 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-083.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016210_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uyka8h8m7g94yvw-mega-slowbro-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#83",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-084",
+    "sourceId": "jaa3pb1ar56bzc8-mega-manectric-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Manectric ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Acelerador de Relâmpago",
+        "dano": "80 +",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "This attack does 30 more damage for each point you have gotten."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "84 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-084.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016320_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jaa3pb1ar56bzc8-mega-manectric-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#84",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-085",
+    "sourceId": "4uthy2q7d6b7rx5-mew",
+    "categoria": "Pokemon",
+    "nome": "Mew",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "85 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-085.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016350_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4uthy2q7d6b7rx5-mew",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#85",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-086",
+    "sourceId": "1r7bwlzqku79di4-mew",
+    "categoria": "Pokemon",
+    "nome": "Mew",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "86 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-086.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016350_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1r7bwlzqku79di4-mew",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#86",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-087",
+    "sourceId": "nuc65wa461rsre6-scyther",
+    "categoria": "Pokemon",
+    "nome": "Scyther",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Fazer Retorno",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "87 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-087.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016070_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nuc65wa461rsre6-scyther",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#87",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-088",
+    "sourceId": "isne2mc3km81hlf-pineco",
+    "categoria": "Pokemon",
+    "nome": "Pineco",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Dependurar",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "88 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-088.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016080_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/isne2mc3km81hlf-pineco",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#88",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-089",
+    "sourceId": "jrtg7nbd522wywj-phantump",
+    "categoria": "Pokemon",
+    "nome": "Phantump",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "89 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-089.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jrtg7nbd522wywj-phantump",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#89",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-090",
+    "sourceId": "m4hmcrtlu6mq4wr-trevenant",
+    "categoria": "Pokemon",
+    "nome": "Trevenant",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Furacão Estrondoso",
+        "dano": "40 +",
+        "custoataque": [
+          "Planta",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin until you get a tails. This attack does 40 more damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "90 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-090.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016120_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m4hmcrtlu6mq4wr-trevenant",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#90",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-091",
+    "sourceId": "0anfqpi0fliwss2-charmander",
+    "categoria": "Pokemon",
+    "nome": "Charmander",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Cauda de Chamas",
+        "dano": "30",
+        "custoataque": [
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "91 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-091.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016130_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0anfqpi0fliwss2-charmander",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#91",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-092",
+    "sourceId": "67bey4rvb0yh7oj-charmeleon",
+    "categoria": "Pokemon",
+    "nome": "Charmeleon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Talho",
+        "dano": "40",
+        "custoataque": [
+          "Fogo",
+          "Fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "92 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-092.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016140_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/67bey4rvb0yh7oj-charmeleon",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#92",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-093",
+    "sourceId": "yfhkwz43odtqit0-ponyta",
+    "categoria": "Pokemon",
+    "nome": "Ponyta",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "93 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-093.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016160_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yfhkwz43odtqit0-ponyta",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#93",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-094",
+    "sourceId": "71f3zy2i4b4k1ls-rapidash",
+    "categoria": "Pokemon",
+    "nome": "Rapidash",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Golpe Exaustivo",
+        "dano": "30",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "During your next turn, this Pokémon's Overdrive Smash attack does +30 damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "94 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-094.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016170_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71f3zy2i4b4k1ls-rapidash",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#94",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-095",
+    "sourceId": "dnhpagxbeqb3kst-slowpoke",
+    "categoria": "Pokemon",
+    "nome": "Slowpoke",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "30",
+        "custoataque": [
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "95 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-095.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016000_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dnhpagxbeqb3kst-slowpoke",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#95",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-096",
+    "sourceId": "m19v3wcxw2kn0am-pikachu",
+    "categoria": "Pokemon",
+    "nome": "Pikachu",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Choque de Estática",
+        "dano": "10",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "96 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-096.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m19v3wcxw2kn0am-pikachu",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#96",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-097",
+    "sourceId": "axyln8i8ev5jqqc-raichu",
+    "categoria": "Pokemon",
+    "nome": "Raichu",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Trovão",
+        "dano": "90",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "This Pokémon also does 30 damage to itself"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "97 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-097.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/axyln8i8ev5jqqc-raichu",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#97",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-098",
+    "sourceId": "w0jt8bwsf1tzyi9-electrike",
+    "categoria": "Pokemon",
+    "nome": "Electrike",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Ataque Rápido",
+        "dano": "10 +",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "98 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-098.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016310_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w0jt8bwsf1tzyi9-electrike",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#98",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-099",
+    "sourceId": "h810givzw0nmxco-hawlucha",
+    "categoria": "Pokemon",
+    "nome": "Hawlucha",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Desmantelar",
+        "dano": "50",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "99 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-099.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h810givzw0nmxco-hawlucha",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#99",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-100",
+    "sourceId": "klo7oioaoz5q51f-gastly",
+    "categoria": "Pokemon",
+    "nome": "Gastly",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Resmungo",
+        "dano": "20",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "100 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-100.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016050_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/klo7oioaoz5q51f-gastly",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#100",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-101",
+    "sourceId": "09hfgjwcvlprv18-haunter",
+    "categoria": "Pokemon",
+    "nome": "Haunter",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Volta Giratória",
+        "dano": "40",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "101 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-101.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/09hfgjwcvlprv18-haunter",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#101",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-102",
+    "sourceId": "th54mkp4b75iypv-zorua",
+    "categoria": "Pokemon",
+    "nome": "Zorua",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Ataque Surpresa",
+        "dano": "40",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "102 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-102.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/th54mkp4b75iypv-zorua",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#102",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-103",
+    "sourceId": "9zue7tutdnv4epn-zoroark",
+    "categoria": "Pokemon",
+    "nome": "Zoroark",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Esmagamento de Energia",
+        "dano": "20 +",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "103 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-103.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016480_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9zue7tutdnv4epn-zoroark",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#103",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-104",
+    "sourceId": "2cxuc4rdqvhe31z-forretress",
+    "categoria": "Pokemon",
+    "nome": "Forretress",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Explosão Gigantesca",
+        "dano": "100",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "efeito": "This Pokémon also does 100 damage to itself and 50 damage to all Benched Pokémon (both yours and your opponent's)"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "104 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-104.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016500_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2cxuc4rdqvhe31z-forretress",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#104",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-105",
+    "sourceId": "oso224hwaqfd7hm-dratini",
+    "categoria": "Pokemon",
+    "nome": "Dratini",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Golpe de Cauda",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "105 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-105.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016550_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oso224hwaqfd7hm-dratini",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#105",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-106",
+    "sourceId": "9yhienjsbod6u45-dragonair",
+    "categoria": "Pokemon",
+    "nome": "Dragonair",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 80,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "106 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-106.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016560_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9yhienjsbod6u45-dragonair",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#106",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-107",
+    "sourceId": "rykieu9hqtxd824-dragonite",
+    "categoria": "Pokemon",
+    "nome": "Dragonite",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Onda de Dragão",
+        "dano": "150",
+        "custoataque": [
+          "Agua",
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": "Discard a Water and a Lightning Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "107 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-107.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016570_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rykieu9hqtxd824-dragonite",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#107",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-108",
+    "sourceId": "y1nk2dyx6mpshuu-axew",
+    "categoria": "Pokemon",
+    "nome": "Axew",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Presa Afiada",
+        "dano": "40",
+        "custoataque": [
+          "Luta",
+          "Metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "108 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-108.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016580_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y1nk2dyx6mpshuu-axew",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#108",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-109",
+    "sourceId": "7d5ii9r6779ij7k-fraxure",
+    "categoria": "Pokemon",
+    "nome": "Fraxure",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Garra de Dragão",
+        "dano": "60",
+        "custoataque": [
+          "Luta",
+          "Metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "109 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-109.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016590_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7d5ii9r6779ij7k-fraxure",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#109",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-110",
+    "sourceId": "xrkfkuv2nqcy0g5-haxorus",
+    "categoria": "Pokemon",
+    "nome": "Haxorus",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Lâmina Alucinada",
+        "dano": "50 +",
+        "custoataque": [
+          "Luta",
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "110 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-110.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xrkfkuv2nqcy0g5-haxorus",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#110",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-111",
+    "sourceId": "el9axu2bffp38q6-mega-charizard-x-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Charizard X ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Labareda Violenta",
+        "dano": "100 +",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo"
+        ],
+        "efeito": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "111 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-111.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016150_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/el9axu2bffp38q6-mega-charizard-x-ex",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#111",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-112",
+    "sourceId": "sjlx66liu2oosnb-mega-slowbro-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Slowbro ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 200,
+    "ataque": [
+      {
+        "nomeataque": "Carrossel Lavador",
+        "dano": "90",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "112 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-112.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016210_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sjlx66liu2oosnb-mega-slowbro-ex",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#112",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-113",
+    "sourceId": "cnx509n7ln2vicw-mega-manectric-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Manectric ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Acelerador de Relâmpago",
+        "dano": "80 +",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "This attack does 30 more damage for each point you have gotten."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "113 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-113.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016320_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cnx509n7ln2vicw-mega-manectric-ex",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#113",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-114",
+    "sourceId": "kchnjou11qw2kkm-mega-gengar-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Gengar ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 210,
+    "ataque": [
+      {
+        "nomeataque": "Labirinto das Sombras",
+        "dano": "120",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao",
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's nex turn, they can't play any Trainer cards from their hand"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "114 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-114.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016430_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kchnjou11qw2kkm-mega-gengar-ex",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#114",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-115",
+    "sourceId": "igwe44m5ndqiae3-mega-scizor-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Scizor ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 200,
+    "ataque": [
+      {
+        "nomeataque": "Socão Disparado",
+        "dano": "100 +",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "115 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-115.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_016510_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/igwe44m5ndqiae3-mega-scizor-ex",
+    "custoDeck": 2,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#115",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-116",
+    "sourceId": "qpbjktwqcomjh0f-arboliva",
+    "categoria": "Pokemon",
+    "nome": "Arboliva",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Bomba de Sementes",
+        "dano": "70",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "116 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-116.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/PK_20_015180_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qpbjktwqcomjh0f-arboliva",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#116",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b2b-117",
+    "sourceId": "ltnq378eq7o5x3s-metal-core-barrier",
+    "categoria": "Treinador",
+    "nome": "Barreira de Núcleo Metálico",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Mega Brilho (B2B)",
+    "numero": "117 / 117",
+    "pacote": "Mega Shine",
+    "imageLocal": "./assets/cards/cartas_b2b/b2b-117.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2b/TR_20_001090_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ltnq378eq7o5x3s-metal-core-barrier",
+    "custoDeck": 8,
+    "releaseDate": "2026-03-26",
+    "sourceMeta": {
+      "setCode": "B2B",
+      "series": "b",
+      "matchKey": "B2B#117",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  }
+]

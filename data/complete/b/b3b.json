@@ -1,0 +1,4479 @@
+[
+  {
+    "id": "b3b-001",
+    "sourceId": "m3zm7tlbg9oqmlq-caterpie",
+    "categoria": "Pokemon",
+    "nome": "Caterpie",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 40,
+    "ataque": [
+      {
+        "nomeataque": "Gancho",
+        "dano": "20",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "1 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-001.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m3zm7tlbg9oqmlq-caterpie",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#1",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-002",
+    "sourceId": "lxicv43um72myub-metapod",
+    "categoria": "Pokemon",
+    "nome": "Metapod",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "30",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "2 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-002.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019050_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lxicv43um72myub-metapod",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#2",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-003",
+    "sourceId": "9ycjw1hgb8gvrn1-butterfree",
+    "categoria": "Pokemon",
+    "nome": "Butterfree",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Vento Ensolarado",
+        "dano": "60",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Heal 20 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "3 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-003.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019060_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9ycjw1hgb8gvrn1-butterfree",
+    "custoDeck": 3,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#3",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-004",
+    "sourceId": "3c4nowydkq7o74m-cacnea",
+    "categoria": "Pokemon",
+    "nome": "Cacnea",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Ferroada de Espinhos",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "4 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-004.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019070_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3c4nowydkq7o74m-cacnea",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#4",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-005",
+    "sourceId": "y2lefhlt9ptmei9-tropius",
+    "categoria": "Pokemon",
+    "nome": "Tropius",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Raio Solar",
+        "dano": "50",
+        "custoataque": [
+          "Planta",
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "5 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-005.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019080_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y2lefhlt9ptmei9-tropius",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#5",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-006",
+    "sourceId": "df8ufk0q0beucyb-petilil",
+    "categoria": "Pokemon",
+    "nome": "Petilil",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Giro Duplo",
+        "dano": "20 ×",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Flip 2 coins. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "6 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-006.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019090_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/df8ufk0q0beucyb-petilil",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#6",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-007",
+    "sourceId": "a6uk01sma6o41k7-hisuian-lilligant",
+    "categoria": "Pokemon",
+    "nome": "Lilligant de Hisui",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Vestir-se",
+        "dano": "40 +",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "If this Pokémon has a Pokémon Tool attached, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "7 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-007.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019100_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a6uk01sma6o41k7-hisuian-lilligant",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#7",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-008",
+    "sourceId": "mbduxwhsf72z59z-vulpix",
+    "categoria": "Pokemon",
+    "nome": "Vulpix",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "8 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-008.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mbduxwhsf72z59z-vulpix",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#8",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-009",
+    "sourceId": "00sajf63t9nzuw9-ninetales",
+    "categoria": "Pokemon",
+    "nome": "Ninetales",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Brasas Dançantes",
+        "dano": "20 ×",
+        "custoataque": [
+          "Fogo",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "9 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-009.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019120_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/00sajf63t9nzuw9-ninetales",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#9",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-010",
+    "sourceId": "izim2cqmka00tst-growlithe",
+    "categoria": "Pokemon",
+    "nome": "Growlithe",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Pilha de Filhotes",
+        "dano": "20 ×",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Reveal all of your pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "10 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-010.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019010_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/izim2cqmka00tst-growlithe",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#10",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-011",
+    "sourceId": "jq84lz34dqzgn9s-psyduck",
+    "categoria": "Pokemon",
+    "nome": "Psyduck",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 70,
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "11 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-011.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jq84lz34dqzgn9s-psyduck",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#11",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-012",
+    "sourceId": "crkzrs6l05ciekk-goldeen",
+    "categoria": "Pokemon",
+    "nome": "Goldeen",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Ataque de Chifre",
+        "dano": "30",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "12 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-012.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019130_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/crkzrs6l05ciekk-goldeen",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#12",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-013",
+    "sourceId": "c6vkgk4tkys3edn-seaking",
+    "categoria": "Pokemon",
+    "nome": "Seaking",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Projétil de Água",
+        "dano": "30",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "13 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-013.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019140_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c6vkgk4tkys3edn-seaking",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#13",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-014",
+    "sourceId": "21woikcz9wgfgrm-feebas",
+    "categoria": "Pokemon",
+    "nome": "Feebas",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 30,
+    "ataque": [
+      {
+        "nomeataque": "Borrifada",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "14 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-014.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019150_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/21woikcz9wgfgrm-feebas",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#14",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-015",
+    "sourceId": "5zo9b81grq9812v-milotic-ex",
+    "categoria": "Pokemon",
+    "nome": "Milotic ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Pulso d’Água",
+        "dano": "80",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "15 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-015.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019160_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5zo9b81grq9812v-milotic-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#15",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-016",
+    "sourceId": "d01rhhw69pc4lr1-snorunt",
+    "categoria": "Pokemon",
+    "nome": "Snorunt",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "16 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-016.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019170_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d01rhhw69pc4lr1-snorunt",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#16",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-017",
+    "sourceId": "5r0ymxm7l4n60w0-froslass",
+    "categoria": "Pokemon",
+    "nome": "Froslass",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Disparo da Alma",
+        "dano": "70",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "Discard a card from your hand. If you can't, this attack does nothing"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "17 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-017.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_018970_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5r0ymxm7l4n60w0-froslass",
+    "custoDeck": 3,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#17",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-018",
+    "sourceId": "583oqtrrubs13x6-luvdisc",
+    "categoria": "Pokemon",
+    "nome": "Luvdisc",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Revólver d’Água",
+        "dano": "30",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "18 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-018.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019180_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/583oqtrrubs13x6-luvdisc",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#18",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-019",
+    "sourceId": "br771k5z38hujm3-piplup",
+    "categoria": "Pokemon",
+    "nome": "Piplup",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Jato de Bolhas",
+        "dano": "20",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "19 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-019.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/br771k5z38hujm3-piplup",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#19",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-020",
+    "sourceId": "uxqfnoa5fx5555b-iron-bundle",
+    "categoria": "Pokemon",
+    "nome": "Pacote Férreo",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Jato Empacotado",
+        "dano": "50 +",
+        "custoataque": [
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 50 more damage. If tails, this Pokémon also does 50 damage to itself"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "20 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-020.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019200_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uxqfnoa5fx5555b-iron-bundle",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#20",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-021",
+    "sourceId": "cb1efk3o3es0ed9-pikachu",
+    "categoria": "Pokemon",
+    "nome": "Pikachu",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Bola Elétrica",
+        "dano": "40",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "21 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-021.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cb1efk3o3es0ed9-pikachu",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#21",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-022",
+    "sourceId": "nuopte5kv172brh-raichu",
+    "categoria": "Pokemon",
+    "nome": "Raichu",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Raio Supersônico",
+        "dano": "70",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "22 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-022.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_018980_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nuopte5kv172brh-raichu",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#22",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-023",
+    "sourceId": "a29hlibr7qamois-emolga",
+    "categoria": "Pokemon",
+    "nome": "Emolga",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Trovão de Corda",
+        "dano": "30 ×",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "This attack does 30 damage for each Pokémon Tool attached to all of your Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "23 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-023.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019020_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a29hlibr7qamois-emolga",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#23",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-024",
+    "sourceId": "bmzjfsj1b1kz2cb-dedenne-ex",
+    "categoria": "Pokemon",
+    "nome": "Dedenne ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Dedecircuito",
+        "dano": "40 ×",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "This attack does 40 damage for each Pokémon Tool attached to all of your Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "24 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-024.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bmzjfsj1b1kz2cb-dedenne-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#24",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-025",
+    "sourceId": "jnfytpui1kxztjq-yamper",
+    "categoria": "Pokemon",
+    "nome": "Yamper",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Pilha de Filhotes",
+        "dano": "20 ×",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Reveal all of your pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "25 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-025.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jnfytpui1kxztjq-yamper",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#25",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-026",
+    "sourceId": "l8hhd2helqt7vq7-slowpoke",
+    "categoria": "Pokemon",
+    "nome": "Slowpoke",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 70,
+    "ataque": [],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "26 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-026.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019240_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l8hhd2helqt7vq7-slowpoke",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#26",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-027",
+    "sourceId": "5owq80nkdfrip3y-slowbro",
+    "categoria": "Pokemon",
+    "nome": "Slowbro",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Feixe Psíquico",
+        "dano": "70",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "27 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-027.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5owq80nkdfrip3y-slowbro",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#27",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-028",
+    "sourceId": "n9lu9hqkbc54iwg-munna",
+    "categoria": "Pokemon",
+    "nome": "Munna",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "20",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "28 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-028.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019260_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/n9lu9hqkbc54iwg-munna",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#28",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-029",
+    "sourceId": "jng5av5lgs07b5g-musharna",
+    "categoria": "Pokemon",
+    "nome": "Musharna",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada Zen",
+        "dano": "50",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "29 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-029.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jng5av5lgs07b5g-musharna",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#29",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-030",
+    "sourceId": "v6fxthtdsjj8dj5-sylveon",
+    "categoria": "Pokemon",
+    "nome": "Sylveon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Mágico",
+        "dano": "60",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "30 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-030.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v6fxthtdsjj8dj5-sylveon",
+    "custoDeck": 3,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#30",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-031",
+    "sourceId": "7biym52hssackr1-carbink",
+    "categoria": "Pokemon",
+    "nome": "Carbink",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "31 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-031.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019290_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7biym52hssackr1-carbink",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#31",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-032",
+    "sourceId": "l2sh7z9u7aoqpl1-mega-diancie-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Diancie ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Tempestade Brilhante",
+        "dano": "40 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Psychic Energy attached to all of your Pokémon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "32 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-032.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019300_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l2sh7z9u7aoqpl1-mega-diancie-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#32",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-033",
+    "sourceId": "y6vtaiuyrg91tvt-enamorus",
+    "categoria": "Pokemon",
+    "nome": "Enamorus",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Golpe Enamorado",
+        "dano": "60 +",
+        "custoataque": [
+          "Psiquico",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "If this Pokémon and your opponent's ACtiveP okémon have 1 or more of the same type of Energy attached, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "33 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-033.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019310_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y6vtaiuyrg91tvt-enamorus",
+    "custoDeck": 3,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#33",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-034",
+    "sourceId": "dbm78p4zdkaombb-fidough",
+    "categoria": "Pokemon",
+    "nome": "Fidough",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 40,
+    "ataque": [
+      {
+        "nomeataque": "Pilha de Filhotes",
+        "dano": "20 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Reveal all of your pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 0,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "34 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-034.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019320_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dbm78p4zdkaombb-fidough",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#34",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-035",
+    "sourceId": "ll1ynvhfw6t8s9w-flutter-mane",
+    "categoria": "Pokemon",
+    "nome": "Juba Sopro",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Voo Enfeitiçado",
+        "dano": "90",
+        "custoataque": [
+          "Psiquico",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "If this Pokémon didn't move from the Bench to the Active Spot this turn, this attack does nothing"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "35 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-035.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019330_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ll1ynvhfw6t8s9w-flutter-mane",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#35",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-036",
+    "sourceId": "gg3x06dafnga72g-wooper",
+    "categoria": "Pokemon",
+    "nome": "Wooper",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Tiro de Lama",
+        "dano": "30",
+        "custoataque": [
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "36 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-036.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019340_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gg3x06dafnga72g-wooper",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#36",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-037",
+    "sourceId": "crm2x9cfxssb0z7-quagsire",
+    "categoria": "Pokemon",
+    "nome": "Quagsire",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Amnésia",
+        "dano": "60",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": "1 of your opponent's Active Pokémon's attacks is chosen at random. During your opponent's next turn, that Pokémon can't use the chosen attack"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "37 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-037.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019350_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/crm2x9cfxssb0z7-quagsire",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#37",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-038",
+    "sourceId": "nnly6xkx1lyrkfz-rockruff",
+    "categoria": "Pokemon",
+    "nome": "Rockruff",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Pilha de Filhotes",
+        "dano": "20 ×",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Reveal all of your pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "38 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-038.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019360_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nnly6xkx1lyrkfz-rockruff",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#38",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-039",
+    "sourceId": "5bdj1ltt1v767ji-sandygast",
+    "categoria": "Pokemon",
+    "nome": "Sandygast",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Spray de Areia",
+        "dano": "20",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "39 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-039.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019370_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5bdj1ltt1v767ji-sandygast",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#39",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-040",
+    "sourceId": "o995q63j75wb0wh-palossand",
+    "categoria": "Pokemon",
+    "nome": "Palossand",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Abismar",
+        "dano": "30 +",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "40 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-040.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019380_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o995q63j75wb0wh-palossand",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#40",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-041",
+    "sourceId": "ai0j7fhgdmenipe-mega-sableye-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Sableye ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Joia Amaldiçoada",
+        "dano": "80",
+        "custoataque": [
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "41 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-041.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ai0j7fhgdmenipe-mega-sableye-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#41",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-042",
+    "sourceId": "sp4t0ponsx7l581-cacturne",
+    "categoria": "Pokemon",
+    "nome": "Cacturne",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Golpe Final",
+        "dano": "10 +",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "42 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-042.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019400_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sp4t0ponsx7l581-cacturne",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#42",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-043",
+    "sourceId": "s1unitt1tnvqw6u-spiritomb",
+    "categoria": "Pokemon",
+    "nome": "Spiritomb",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Sono Sombrio",
+        "dano": "30",
+        "custoataque": [
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "43 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-043.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s1unitt1tnvqw6u-spiritomb",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#43",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-044",
+    "sourceId": "9ncvvr7mhx5ti9v-scraggy",
+    "categoria": "Pokemon",
+    "nome": "Scraggy",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Rasteira",
+        "dano": "10",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "44 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-044.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9ncvvr7mhx5ti9v-scraggy",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#44",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-045",
+    "sourceId": "6het1u4c8qeikul-scrafty",
+    "categoria": "Pokemon",
+    "nome": "Scrafty",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Chute de Pulo Alto",
+        "dano": "70",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "45 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-045.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6het1u4c8qeikul-scrafty",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#45",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-046",
+    "sourceId": "uo5gn4qjjxj6d1z-mareanie",
+    "categoria": "Pokemon",
+    "nome": "Mareanie",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Venochoque",
+        "dano": "20 +",
+        "custoataque": [
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "46 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-046.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019440_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uo5gn4qjjxj6d1z-mareanie",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#46",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-047",
+    "sourceId": "uaimvzrg70n2ujt-toxapex",
+    "categoria": "Pokemon",
+    "nome": "Toxapex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 110,
+    "ataque": [],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "47 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-047.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uaimvzrg70n2ujt-toxapex",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#47",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-048",
+    "sourceId": "l3arhvlswge17od-goomy",
+    "categoria": "Pokemon",
+    "nome": "Goomy",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Estouro",
+        "dano": "20",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "48 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-048.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l3arhvlswge17od-goomy",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#48",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-049",
+    "sourceId": "eoyaztieu69zvvu-hisuian-sliggoo",
+    "categoria": "Pokemon",
+    "nome": "Sliggoo de Hisui",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Martelada",
+        "dano": "60",
+        "custoataque": [
+          "Agua",
+          "Metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "49 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-049.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/eoyaztieu69zvvu-hisuian-sliggoo",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#49",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-050",
+    "sourceId": "els5oa59n3scr4u-hisuian-goodra",
+    "categoria": "Pokemon",
+    "nome": "Goodra de Hisui",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Impacto Pesado",
+        "dano": "120",
+        "custoataque": [
+          "Agua",
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "50 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-050.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019480_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/els5oa59n3scr4u-hisuian-goodra",
+    "custoDeck": 3,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#50",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-051",
+    "sourceId": "f2izczfm0yn1945-jigglypuff",
+    "categoria": "Pokemon",
+    "nome": "Jigglypuff",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Pisada",
+        "dano": "30 ×",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 30 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "51 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-051.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f2izczfm0yn1945-jigglypuff",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#51",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-052",
+    "sourceId": "zbuqtdbsdld88qo-wigglytuff",
+    "categoria": "Pokemon",
+    "nome": "Wigglytuff",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Expandir",
+        "dano": "50",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, this Pokémon takes -20 damage from attacks"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "52 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-052.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019500_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zbuqtdbsdld88qo-wigglytuff",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#52",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-053",
+    "sourceId": "ji9c0oz594wbyb3-eevee",
+    "categoria": "Pokemon",
+    "nome": "Eevee",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Roída",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "53 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-053.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ji9c0oz594wbyb3-eevee",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#53",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-054",
+    "sourceId": "wa2a5f951rbvvy1-munchlax",
+    "categoria": "Pokemon",
+    "nome": "Munchlax",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Fome de Comprar",
+        "dano": "10",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "Draw a card"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "54 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-054.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019520_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wa2a5f951rbvvy1-munchlax",
+    "custoDeck": 3,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#54",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-055",
+    "sourceId": "59d1yt4ss1tgo3d-snorlax",
+    "categoria": "Pokemon",
+    "nome": "Snorlax",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Megassoco",
+        "dano": "70",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "55 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-055.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019530_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/59d1yt4ss1tgo3d-snorlax",
+    "custoDeck": 3,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#55",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-056",
+    "sourceId": "l92bcuz137sacjo-teddiursa",
+    "categoria": "Pokemon",
+    "nome": "Teddiursa",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "56 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-056.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019540_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l92bcuz137sacjo-teddiursa",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#56",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-057",
+    "sourceId": "j6mmlidov3axwq8-ursaring",
+    "categoria": "Pokemon",
+    "nome": "Ursaring",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Confrontar",
+        "dano": "70",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "57 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-057.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019550_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j6mmlidov3axwq8-ursaring",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#57",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-058",
+    "sourceId": "bc98zwbzo9xr8e2-ursaluna",
+    "categoria": "Pokemon",
+    "nome": "Ursaluna",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Braço de Martelo",
+        "dano": "110",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Discard the top card of your opponent's deck"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "58 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-058.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019560_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bc98zwbzo9xr8e2-ursaluna",
+    "custoDeck": 3,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#58",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-059",
+    "sourceId": "yi3pq2iqyfvlaov-hisuian-zorua",
+    "categoria": "Pokemon",
+    "nome": "Zorua de Hisui",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "59 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-059.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019000_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yi3pq2iqyfvlaov-hisuian-zorua",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#59",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-060",
+    "sourceId": "wtsaq1g2kgzzuot-hisuian-zoroark-ex",
+    "categoria": "Pokemon",
+    "nome": "Zoroark de Hisui ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Ilusão Rancorosa",
+        "dano": "80 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Pokémon in your discardp ile."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "60 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-060.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019570_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wtsaq1g2kgzzuot-hisuian-zoroark-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#60",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-061",
+    "sourceId": "mzdabj0v9e7m7gw-furfrou",
+    "categoria": "Pokemon",
+    "nome": "Furfrou",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada Dupla",
+        "dano": "30 ×",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 30 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "61 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-061.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019580_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mzdabj0v9e7m7gw-furfrou",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#61",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-062",
+    "sourceId": "wtci5cdwvjmgfyw-skwovet",
+    "categoria": "Pokemon",
+    "nome": "Skwovet",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "20",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "62 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-062.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019590_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wtci5cdwvjmgfyw-skwovet",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#62",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-063",
+    "sourceId": "o7e944vr45ww8yq-greedent",
+    "categoria": "Pokemon",
+    "nome": "Greedent",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Colapso",
+        "dano": "100",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "63 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-063.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019600_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o7e944vr45ww8yq-greedent",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#63",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-064",
+    "sourceId": "xfrvmw9821fgwp2-small-balloon",
+    "categoria": "Treinador",
+    "nome": "Balão Pequeno",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "64 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-064.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_10_001430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xfrvmw9821fgwp2-small-balloon",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#64",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-065",
+    "sourceId": "oyzxdujgdta64c3-elegant-cape",
+    "categoria": "Treinador",
+    "nome": "Capa Elegante",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "65 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-065.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_10_001440_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oyzxdujgdta64c3-elegant-cape",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#65",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-066",
+    "sourceId": "iwk0kmsswxor7st-elesa",
+    "categoria": "Treinador",
+    "nome": "Elesa",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "66 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-066.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_10_001450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iwk0kmsswxor7st-elesa",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#66",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-067",
+    "sourceId": "81fnyfg2it1aumi-puppy-loving-girl",
+    "categoria": "Treinador",
+    "nome": "Fã de Filhotes",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "67 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-067.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_10_001460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/81fnyfg2it1aumi-puppy-loving-girl",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#67",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-068",
+    "sourceId": "peyyubj8uakw955-wallace",
+    "categoria": "Treinador",
+    "nome": "Wallace",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "68 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-068.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_10_001470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/peyyubj8uakw955-wallace",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#68",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-069",
+    "sourceId": "chnckvj5uo9nynl-kids-room",
+    "categoria": "Treinador",
+    "nome": "Quarto de Criança",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "69 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-069.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_10_001480_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/chnckvj5uo9nynl-kids-room",
+    "custoDeck": 1,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#69",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-070",
+    "sourceId": "2gk4hzpnp39jdgp-vulpix",
+    "categoria": "Pokemon",
+    "nome": "Vulpix",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "70 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-070.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2gk4hzpnp39jdgp-vulpix",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#70",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-071",
+    "sourceId": "s59ziojb4ekw5yl-piplup",
+    "categoria": "Pokemon",
+    "nome": "Piplup",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Jato de Bolhas",
+        "dano": "20",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "71 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-071.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s59ziojb4ekw5yl-piplup",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#71",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-072",
+    "sourceId": "1atd6orpacx7zt1-pikachu",
+    "categoria": "Pokemon",
+    "nome": "Pikachu",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Bola Elétrica",
+        "dano": "40",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "72 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-072.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1atd6orpacx7zt1-pikachu",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#72",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-073",
+    "sourceId": "zne7746icg5g4po-sylveon",
+    "categoria": "Pokemon",
+    "nome": "Sylveon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Mágico",
+        "dano": "60",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "73 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-073.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zne7746icg5g4po-sylveon",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#73",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-074",
+    "sourceId": "88tpxxjuc847bie-mareanie",
+    "categoria": "Pokemon",
+    "nome": "Mareanie",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Venochoque",
+        "dano": "20 +",
+        "custoataque": [
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "74 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-074.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019440_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/88tpxxjuc847bie-mareanie",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#74",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-075",
+    "sourceId": "d0xn0hbkr6iodpg-jigglypuff",
+    "categoria": "Pokemon",
+    "nome": "Jigglypuff",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Pisada",
+        "dano": "30 ×",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip 2 coins. This attack does 30 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "75 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-075.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d0xn0hbkr6iodpg-jigglypuff",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#75",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-076",
+    "sourceId": "cix7prbd1spdt8i-snorlax",
+    "categoria": "Pokemon",
+    "nome": "Snorlax",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Megassoco",
+        "dano": "70",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "76 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-076.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019530_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cix7prbd1spdt8i-snorlax",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#76",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-077",
+    "sourceId": "njgocl8ftvszv2b-greedent",
+    "categoria": "Pokemon",
+    "nome": "Greedent",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Colapso",
+        "dano": "100",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "77 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-077.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019600_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/njgocl8ftvszv2b-greedent",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#77",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-078",
+    "sourceId": "wo7nl9c1lmccqyk-milotic-ex",
+    "categoria": "Pokemon",
+    "nome": "Milotic ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Pulso d’Água",
+        "dano": "80",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "78 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-078.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019160_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wo7nl9c1lmccqyk-milotic-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#78",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-079",
+    "sourceId": "3ppxmhv4u995ws2-dedenne-ex",
+    "categoria": "Pokemon",
+    "nome": "Dedenne ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Dedecircuito",
+        "dano": "40 ×",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "This attack does 40 damage for each Pokémon Tool attached to all of your Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "79 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-079.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3ppxmhv4u995ws2-dedenne-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#79",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-080",
+    "sourceId": "giwa2j7j83ua5pk-mega-diancie-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Diancie ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Tempestade Brilhante",
+        "dano": "40 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Psychic Energy attached to all of your Pokémon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "80 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-080.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019300_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/giwa2j7j83ua5pk-mega-diancie-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#80",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-081",
+    "sourceId": "7nc3jtv9ps2nvx9-mega-sableye-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Sableye ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Joia Amaldiçoada",
+        "dano": "80",
+        "custoataque": [
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "81 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-081.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7nc3jtv9ps2nvx9-mega-sableye-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#81",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-082",
+    "sourceId": "16ad3gy4zyu4utk-hisuian-zoroark-ex",
+    "categoria": "Pokemon",
+    "nome": "Zoroark de Hisui ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Ilusão Rancorosa",
+        "dano": "80 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Pokémon in your discardp ile."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "82 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-082.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019570_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/16ad3gy4zyu4utk-hisuian-zoroark-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#82",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-083",
+    "sourceId": "d0g9pimx63qompl-elesa",
+    "categoria": "Treinador",
+    "nome": "Elesa",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "83 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-083.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_20_001450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d0g9pimx63qompl-elesa",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#83",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-084",
+    "sourceId": "4180vhspkv38igz-puppy-loving-girl",
+    "categoria": "Treinador",
+    "nome": "Fã de Filhotes",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "84 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-084.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_20_001460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4180vhspkv38igz-puppy-loving-girl",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#84",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-085",
+    "sourceId": "9p15bpnzwyyf0m4-wallace",
+    "categoria": "Treinador",
+    "nome": "Wallace",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "85 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-085.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_20_001470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9p15bpnzwyyf0m4-wallace",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#85",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-086",
+    "sourceId": "zzplofs9a0t8dbu-milotic-ex",
+    "categoria": "Pokemon",
+    "nome": "Milotic ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Pulso d’Água",
+        "dano": "80",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "86 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-086.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019160_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zzplofs9a0t8dbu-milotic-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#86",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-087",
+    "sourceId": "gjzsn9rxiin307r-mega-diancie-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Diancie ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Tempestade Brilhante",
+        "dano": "40 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Psychic Energy attached to all of your Pokémon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "87 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-087.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019300_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gjzsn9rxiin307r-mega-diancie-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#87",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-088",
+    "sourceId": "z5mx7jj6yjlt5fd-mega-sableye-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Sableye ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Joia Amaldiçoada",
+        "dano": "80",
+        "custoataque": [
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "88 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-088.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019390_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z5mx7jj6yjlt5fd-mega-sableye-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#88",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-089",
+    "sourceId": "5qzx58ioia70gf2-hisuian-zoroark-ex",
+    "categoria": "Pokemon",
+    "nome": "Zoroark de Hisui ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Ilusão Rancorosa",
+        "dano": "80 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 more damage for each Pokémon in your discardp ile."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "89 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-089.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019570_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5qzx58ioia70gf2-hisuian-zoroark-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#89",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-090",
+    "sourceId": "a9pyw4yg1tm0fsr-dedenne-ex",
+    "categoria": "Pokemon",
+    "nome": "Dedenne ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Dedecircuito",
+        "dano": "40 ×",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "This attack does 40 damage for each Pokémon Tool attached to all of your Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "90 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-090.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019220_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a9pyw4yg1tm0fsr-dedenne-ex",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#90",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-091",
+    "sourceId": "etlfeziejmp4tct-caterpie",
+    "categoria": "Pokemon",
+    "nome": "Caterpie",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 40,
+    "ataque": [
+      {
+        "nomeataque": "Gancho",
+        "dano": "20",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "91 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-091.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/etlfeziejmp4tct-caterpie",
+    "custoDeck": 2,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#91",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-092",
+    "sourceId": "5wi3zex3khrolyb-metapod",
+    "categoria": "Pokemon",
+    "nome": "Metapod",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "30",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "92 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-092.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019050_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5wi3zex3khrolyb-metapod",
+    "custoDeck": 2,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#92",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-093",
+    "sourceId": "dk8cczrej11r778-butterfree",
+    "categoria": "Pokemon",
+    "nome": "Butterfree",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Vento Ensolarado",
+        "dano": "60",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Heal 20 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "93 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-093.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019060_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dk8cczrej11r778-butterfree",
+    "custoDeck": 2,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#93",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-094",
+    "sourceId": "s4cytw23tqib6d3-mareep",
+    "categoria": "Pokemon",
+    "nome": "Mareep",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Chute Traseiro",
+        "dano": "10",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "94 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-094.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_011640_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s4cytw23tqib6d3-mareep",
+    "custoDeck": 2,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#94",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-095",
+    "sourceId": "4ggmlpml1cwqbol-flaaffy",
+    "categoria": "Pokemon",
+    "nome": "Flaaffy",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Murro Elétrico",
+        "dano": "40",
+        "custoataque": [
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "95 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-095.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_011650_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4ggmlpml1cwqbol-flaaffy",
+    "custoDeck": 2,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#95",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-096",
+    "sourceId": "y32921znh7fvznx-ampharos",
+    "categoria": "Pokemon",
+    "nome": "Ampharos",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Projétil Eletrizante",
+        "dano": "90",
+        "custoataque": [
+          "Raio",
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 20 damage to it"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "96 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-096.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_011660_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y32921znh7fvznx-ampharos",
+    "custoDeck": 2,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#96",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-097",
+    "sourceId": "sb3rsg2b28io4nx-slowbro",
+    "categoria": "Pokemon",
+    "nome": "Slowbro",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Feixe Psíquico",
+        "dano": "70",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "97 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-097.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sb3rsg2b28io4nx-slowbro",
+    "custoDeck": 2,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#97",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-098",
+    "sourceId": "64xnj74cbkw129i-kangaskhan",
+    "categoria": "Pokemon",
+    "nome": "Kangaskhan",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Soco Firme",
+        "dano": "60 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "98 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-098.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_014920_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/64xnj74cbkw129i-kangaskhan",
+    "custoDeck": 2,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#98",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-099",
+    "sourceId": "9aqz45uclt8clic-ditto",
+    "categoria": "Pokemon",
+    "nome": "Ditto",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "99 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-099.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_013060_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9aqz45uclt8clic-ditto",
+    "custoDeck": 2,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#99",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-100",
+    "sourceId": "uhtn403y2wcu1nb-snorlax",
+    "categoria": "Pokemon",
+    "nome": "Snorlax",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Megassoco",
+        "dano": "70",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "raridade": "Ultra Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "100 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-100.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019530_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uhtn403y2wcu1nb-snorlax",
+    "custoDeck": 2,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#100",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-101",
+    "sourceId": "1o7lsytq3hagl8b-mega-gyarados-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Gyarados ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 210,
+    "ataque": [
+      {
+        "nomeataque": "Megadetonador",
+        "dano": "140",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "Discard the top 3 cards of your opponent's deck"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "101 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-101.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_011340_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1o7lsytq3hagl8b-mega-gyarados-ex",
+    "custoDeck": 2,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#101",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-102",
+    "sourceId": "pc6ycznaq1vyd50-vaporeon-ex",
+    "categoria": "Pokemon",
+    "nome": "Vaporeon ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Onda Borrifante",
+        "dano": "80",
+        "custoataque": [
+          "Agua",
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "raridade": "Ultra Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "102 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-102.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_017020_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pc6ycznaq1vyd50-vaporeon-ex",
+    "custoDeck": 2,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#102",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-103",
+    "sourceId": "nfipdfyhyo8rzud-mega-ampharos-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Ampharos ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 210,
+    "ataque": [
+      {
+        "nomeataque": "Lanceiro Relâmpago",
+        "dano": "100",
+        "custoataque": [
+          "Raio",
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": "1 of your opponent's Benched Pokémon is chosen at random3 times. For each time a Pokémon was chosen, also do 20 damage to it"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "103 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-103.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_011670_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nfipdfyhyo8rzud-mega-ampharos-ex",
+    "custoDeck": 2,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#103",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-104",
+    "sourceId": "15191e7meiu7sgl-indeedee-ex",
+    "categoria": "Pokemon",
+    "nome": "Indeedee ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Psíquico",
+        "dano": "30 +",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico"
+        ],
+        "efeito": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "104 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-104.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_012030_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/15191e7meiu7sgl-indeedee-ex",
+    "custoDeck": 2,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#104",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-105",
+    "sourceId": "aynpbzxzfm76hqg-munchlax",
+    "categoria": "Pokemon",
+    "nome": "Munchlax",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Fome de Comprar",
+        "dano": "10",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "Draw a card"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "105 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-105.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019520_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aynpbzxzfm76hqg-munchlax",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#105",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b3b-106",
+    "sourceId": "8rxcr9qd09y1ui9-small-balloon",
+    "categoria": "Treinador",
+    "nome": "Balão Pequeno",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Everyday Wonders (B3B)",
+    "numero": "106 / 106",
+    "pacote": "Everyday Wonders",
+    "imageLocal": "./assets/cards/cartas_b3b/b3b-106.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_20_001430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8rxcr9qd09y1ui9-small-balloon",
+    "custoDeck": 8,
+    "releaseDate": "2026-06-30",
+    "sourceMeta": {
+      "setCode": "B3B",
+      "series": "b",
+      "matchKey": "B3B#106",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  }
+]

@@ -8,7 +8,7 @@
       "count": 286
     },
     {
-      "code": "A1a",
+      "code": "A1A",
       "series": "a",
       "path": "./data/raw/pokemongohub/a/a1a.json",
       "count": 86
@@ -20,13 +20,13 @@
       "count": 207
     },
     {
-      "code": "A2a",
+      "code": "A2A",
       "series": "a",
       "path": "./data/raw/pokemongohub/a/a2a.json",
       "count": 95
     },
     {
-      "code": "A2b",
+      "code": "A2B",
       "series": "a",
       "path": "./data/raw/pokemongohub/a/a2b.json",
       "count": 110
@@ -38,7 +38,13 @@
       "count": 239
     },
     {
-      "code": "A3b",
+      "code": "A3A",
+      "series": "a",
+      "path": "./data/raw/pokemongohub/a/a3a.json",
+      "count": 103
+    },
+    {
+      "code": "A3B",
       "series": "a",
       "path": "./data/raw/pokemongohub/a/a3b.json",
       "count": 107
@@ -50,13 +56,13 @@
       "count": 241
     },
     {
-      "code": "A4a",
+      "code": "A4A",
       "series": "a",
       "path": "./data/raw/pokemongohub/a/a4a.json",
       "count": 105
     },
     {
-      "code": "A4b",
+      "code": "A4B",
       "series": "a",
       "path": "./data/raw/pokemongohub/a/a4b.json",
       "count": 379
@@ -68,7 +74,7 @@
       "count": 331
     },
     {
-      "code": "B1a",
+      "code": "B1A",
       "series": "b",
       "path": "./data/raw/pokemongohub/b/b1a.json",
       "count": 103
@@ -80,13 +86,13 @@
       "count": 234
     },
     {
-      "code": "B2a",
+      "code": "B2A",
       "series": "b",
       "path": "./data/raw/pokemongohub/b/b2a.json",
       "count": 131
     },
     {
-      "code": "B2b",
+      "code": "B2B",
       "series": "b",
       "path": "./data/raw/pokemongohub/b/b2b.json",
       "count": 117
@@ -96,6 +102,24 @@
       "series": "b",
       "path": "./data/raw/pokemongohub/b/b3.json",
       "count": 234
+    },
+    {
+      "code": "B3A",
+      "series": "b",
+      "path": "./data/raw/pokemongohub/b/b3a.json",
+      "count": 109
+    },
+    {
+      "code": "B3B",
+      "series": "b",
+      "path": "./data/raw/pokemongohub/b/b3b.json",
+      "count": 106
+    },
+    {
+      "code": "B4",
+      "series": "b",
+      "path": "./data/raw/pokemongohub/b/b4.json",
+      "count": 233
     },
     {
       "code": "PROMO-A",

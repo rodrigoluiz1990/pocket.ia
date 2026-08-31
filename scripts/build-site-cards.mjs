@@ -1,9 +1,35 @@
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { access, mkdir, readFile, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
 
-const INDEX_PATH = resolve(process.cwd(), "data", "consolidated", "index.json");
 const EXPANSIONS_PATH = resolve(process.cwd(), "data", "expansions.json");
 const OUT_PATH = resolve(process.cwd(), "data", "consolidated", "cards-adapted.json");
+function argValue(name, fallback = "") {
+  const index = process.argv.indexOf(name);
+  if (index === -1) return fallback;
+  return process.argv[index + 1] || fallback;
+}
+
+async function resolveIndexPath() {
+  const explicit = argValue("--index", "");
+  if (explicit) return resolve(process.cwd(), explicit.replace(/^\.\//, ""));
+
+  const completePath = resolve(process.cwd(), "data", "complete", "index.json");
+  try {
+    await access(completePath);
+    return completePath;
+  } catch {
+    return resolve(process.cwd(), "data", "consolidated", "index.json");
+  }
+}
+
+async function exists(path) {
+  try {
+    await access(path);
+    return true;
+  } catch {
+    return false;
+  }
+}
 
 function normalizeKey(value) {
   return String(value || "")
@@ -57,7 +83,76 @@ function deriveAttackStats(card, ataqueLista) {
   };
 }
 
+function sourceTokenFromCard(card) {
+  const sourceId = String(card?.sourceId || "").trim();
+  if (!sourceId) return "";
+  return sourceId.split("-")[0] || "";
+}
+
+function assetCodeFromSetCode(code) {
+  const normalized = String(code || "").trim().toUpperCase();
+  if (normalized === "PROMO-A") return "pa";
+  if (normalized === "PROMO-B") return "pb";
+  return normalized.toLowerCase();
+}
+
+function extractSetCodeFromCard(card) {
+  const expansionMatch = String(card?.expansao || "").match(/\(([A-Z0-9-]+)\)\s*$/i);
+  if (expansionMatch) return String(expansionMatch[1] || "").toUpperCase();
+
+  const idMatch = String(card?.id || "").match(/^([a-z]\d[a-z]?|p-[ab])-/i);
+  if (idMatch) {
+    const idToken = String(idMatch[1] || "");
+    if (/^p-a$/i.test(idToken)) return "PROMO-A";
+    if (/^p-b$/i.test(idToken)) return "PROMO-B";
+    return idToken.toUpperCase();
+  }
+
+  return "";
+}
+
+function normalizeImageFileName(fileName) {
+  const value = String(fileName || "").trim();
+  const shortPromoMatch = value.match(/^p-([ab])-(\d+\.[a-z0-9]+)$/i);
+  if (shortPromoMatch) return `p${String(shortPromoMatch[1]).toLowerCase()}-${shortPromoMatch[2]}`;
+
+  const fullPromoMatch = value.match(/^promo-([ab])-(\d+\.[a-z0-9]+)$/i);
+  if (fullPromoMatch) return `p${String(fullPromoMatch[1]).toLowerCase()}-${fullPromoMatch[2]}`;
+
+  const compactPromoMatch = value.match(/^p([ab])-(\d+\.[a-z0-9]+)$/i);
+  if (compactPromoMatch) return `p${String(compactPromoMatch[1]).toLowerCase()}-${compactPromoMatch[2]}`;
+
+  return String(fileName || "").trim().toLowerCase();
+}
+
+function buildImageLocalFromCard(card, fileName = "") {
+  const name = normalizeImageFileName(fileName);
+  const setCode = extractSetCodeFromCard(card);
+  const assetCode = assetCodeFromSetCode(setCode);
+  if (!assetCode || !name) return "";
+  return `./assets/cards/cartas_${assetCode}/${name}`;
+}
+
+async function resolveImageLocal(card) {
+  const preferred = String(card?.imageLocal || "").trim();
+  if (preferred) {
+    const normalizedPreferred = preferred.replace(/\\/g, "/");
+    const preferredFileName = normalizedPreferred.split("/").pop() || "";
+    const nextPreferred = buildImageLocalFromCard(card, preferredFileName) || preferred;
+    const abs = resolve(process.cwd(), nextPreferred.replace(/^\.\//, ""));
+    if (await exists(abs)) return nextPreferred;
+  }
+
+  const token = sourceTokenFromCard(card);
+  if (!token) return preferred;
+  const fallbackPath = buildImageLocalFromCard(card, `${token.toLowerCase()}.jpg`);
+  if (!fallbackPath) return preferred;
+  const abs = resolve(process.cwd(), fallbackPath.replace(/^\.\//, ""));
+  return (await exists(abs)) ? fallbackPath : preferred;
+}
+
 async function run() {
+  const INDEX_PATH = await resolveIndexPath();
   const [indexRaw, expansionsRaw] = await Promise.all([
     readFile(INDEX_PATH, "utf8"),
     readFile(EXPANSIONS_PATH, "utf8")
@@ -70,7 +165,7 @@ async function run() {
   const expansions = Array.isArray(expansionsPayload) ? expansionsPayload : expansionsPayload?.expansions || [];
 
   const expansionByCode = new Map(
-    expansions.map((e) => [String(e.code || "").toUpperCase(), String(e.name || "").trim()])
+    expansions.map((entry) => [String(entry.code || "").toUpperCase(), String(entry.name || "").trim()])
   );
 
   const out = [];
@@ -88,8 +183,10 @@ async function run() {
     for (const card of cards) {
       const ataqueLista = normalizeAttackList(card);
       const stats = deriveAttackStats(card, ataqueLista);
+      const imageLocal = await resolveImageLocal(card);
       out.push({
         id: String(card?.id || "").trim(),
+        sourceId: String(card?.sourceId || "").trim(),
         categoria: String(card?.categoria || card?.tipo || "").trim(),
         nome: String(card?.nome || "").trim(),
         estagio: normalizeStage(card?.estagio),
@@ -108,7 +205,7 @@ async function run() {
         expansao: expansionLabel,
         numero: String(card?.numero || "").trim(),
         pacote: String(card?.pacote || "").trim(),
-        imageLocal: String(card?.imageLocal || "").trim(),
+        imageLocal,
         imageUrl: String(card?.imageUrl || "").trim(),
         custoDeck: safeNumber(card?.custoDeck ?? card?.custo, 0)
       });
@@ -126,6 +223,7 @@ async function run() {
   await mkdir(resolve(OUT_PATH, ".."), { recursive: true });
   await writeFile(OUT_PATH, `${JSON.stringify(out, null, 2)}\n`, "utf8");
   console.log(`Cartas adaptadas geradas: ${out.length}`);
+  console.log(`Origem: ${INDEX_PATH}`);
   console.log(`Arquivo: ${OUT_PATH}`);
 }
 

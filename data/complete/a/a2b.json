@@ -1,0 +1,4645 @@
+[
+  {
+    "id": "a2b-001",
+    "sourceId": "4m26w35x3gu53ej-weedle",
+    "categoria": "Pokemon",
+    "nome": "Weedle",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "1 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-001.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005210_00_BEEDLE_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4m26w35x3gu53ej-weedle",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#1",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-002",
+    "sourceId": "3n54fn1ag340x6w-kakuna",
+    "categoria": "Pokemon",
+    "nome": "Kakuna",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Estilingada",
+        "dano": "20",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "2 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-002.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005220_00_COCOON_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3n54fn1ag340x6w-kakuna",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#2",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-003",
+    "sourceId": "mssi78c8162ggzo-beedrill-ex",
+    "categoria": "Pokemon",
+    "nome": "Beedrill ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Lança Aniquiladora",
+        "dano": "80",
+        "custoataque": [
+          "Planta",
+          "Planta"
+        ],
+        "efeito": "Discard a random Energy from your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "3 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-003.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005230_00_SPEARex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mssi78c8162ggzo-beedrill-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#3",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-004",
+    "sourceId": "lv9ccwdam68l8q6-pinsir",
+    "categoria": "Pokemon",
+    "nome": "Pinsir",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Guilhotina Descontrolada",
+        "dano": "50 +",
+        "custoataque": [
+          "Planta",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin until you get a tails. This attack does 40 more damage for each heads."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "4 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-004.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005240_00_KAILIOS_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lv9ccwdam68l8q6-pinsir",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#4",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-005",
+    "sourceId": "6ftv3l4gq33u08b-sprigatito",
+    "categoria": "Pokemon",
+    "nome": "Sprigatito",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "5 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-005.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005250_00_NYAHOJA_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6ftv3l4gq33u08b-sprigatito",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#5",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-006",
+    "sourceId": "puv22241m635o3h-floragato",
+    "categoria": "Pokemon",
+    "nome": "Floragato",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Talho",
+        "dano": "40",
+        "custoataque": [
+          "Planta",
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "6 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-006.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005250_00_NYAROTE_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/puv22241m635o3h-floragato",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#6",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-007",
+    "sourceId": "064ym579f08jcf1-meowscarada",
+    "categoria": "Pokemon",
+    "nome": "Meowscarada",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Garras de Luta",
+        "dano": "60 +",
+        "custoataque": [
+          "Planta",
+          "Planta"
+        ],
+        "efeito": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "7 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-007.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005260_00_MASQUERNYA_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/064ym579f08jcf1-meowscarada",
+    "custoDeck": 3,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#7",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-008",
+    "sourceId": "6066ttdk5hv4or2-charmander",
+    "categoria": "Pokemon",
+    "nome": "Charmander",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Combustão",
+        "dano": "20",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "8 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-008.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005270_00_HITOKAGE_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6066ttdk5hv4or2-charmander",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#8",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-009",
+    "sourceId": "2d257p127lb548k-charmeleon",
+    "categoria": "Pokemon",
+    "nome": "Charmeleon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Combustão",
+        "dano": "40",
+        "custoataque": [
+          "Fogo",
+          "Fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "9 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-009.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005280_00_LIZARDO_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2d257p127lb548k-charmeleon",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#9",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-010",
+    "sourceId": "g9s2f3p481h1bq7-charizard-ex",
+    "categoria": "Pokemon",
+    "nome": "Charizard ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Carregar",
+        "dano": "150",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "10 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-010.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005290_00_LIZARDONex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g9s2f3p481h1bq7-charizard-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#10",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-011",
+    "sourceId": "6fzh0m15lv24w6v-magmar",
+    "categoria": "Pokemon",
+    "nome": "Magmar",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Chama",
+        "dano": "20",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "11 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-011.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005300_00_BOOBER_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6fzh0m15lv24w6v-magmar",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#11",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-012",
+    "sourceId": "atty1w3g3t39hhy-magmortar",
+    "categoria": "Pokemon",
+    "nome": "Magmortar",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Bomba de Fumaça",
+        "dano": "70",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, the attack doesn't happen"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "12 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-012.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005310_00_BOOBURN_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/atty1w3g3t39hhy-magmortar",
+    "custoDeck": 3,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#12",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-013",
+    "sourceId": "147338y6p7mygag-paldean-tauros",
+    "categoria": "Pokemon",
+    "nome": "Tauros de Paldea",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Investida Incendiária",
+        "dano": "80",
+        "custoataque": [
+          "Fogo",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "13 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-013.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005320_00_PALDEAKENTAUROS_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/147338y6p7mygag-paldean-tauros",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#13",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-014",
+    "sourceId": "e6c70mhsfn7i0pe-tentacool",
+    "categoria": "Pokemon",
+    "nome": "Tentacool",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Chuva Borrifante",
+        "dano": "10",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "14 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-014.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005330_00_MENOKURAGE_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e6c70mhsfn7i0pe-tentacool",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#14",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-015",
+    "sourceId": "z06a4d61i9e60v2-tentacruel",
+    "categoria": "Pokemon",
+    "nome": "Tentacruel",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Onda Borrifante",
+        "dano": "40",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "15 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-015.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005340_00_DOKUKURAGE_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z06a4d61i9e60v2-tentacruel",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#15",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-016",
+    "sourceId": "qzfjp205ery01x6-buizel",
+    "categoria": "Pokemon",
+    "nome": "Buizel",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Revólver d’Água",
+        "dano": "10",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "16 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-016.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005350_00_BUOYSEL_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qzfjp205ery01x6-buizel",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#16",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-017",
+    "sourceId": "6vn59a029r2u643-floatzel",
+    "categoria": "Pokemon",
+    "nome": "Floatzel",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 90,
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "17 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-017.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005360_00_FLOAZEL_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6vn59a029r2u643-floatzel",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#17",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-018",
+    "sourceId": "9j70c3z44fox2br-wiglett",
+    "categoria": "Pokemon",
+    "nome": "Wiglett",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "18 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-018.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005370_00_UMIDIGDA_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9j70c3z44fox2br-wiglett",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#18",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-019",
+    "sourceId": "i0gxgte44oa61i7-wugtrio-ex",
+    "categoria": "Pokemon",
+    "nome": "Wugtrio ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 140,
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "19 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-019.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005380_00_UMITRIOex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i0gxgte44oa61i7-wugtrio-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#19",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-020",
+    "sourceId": "yq0dk6k1x26ei8c-dondozo",
+    "categoria": "Pokemon",
+    "nome": "Dondozo",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Ciclone Oceânico",
+        "dano": "80",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack also does 10 damage to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "20 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-020.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005390_00_HEYRUSHER_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yq0dk6k1x26ei8c-dondozo",
+    "custoDeck": 3,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#20",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-021",
+    "sourceId": "pj9vua4728915mq-tatsugiri",
+    "categoria": "Pokemon",
+    "nome": "Tatsugiri",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Chuva Borrifante",
+        "dano": "20",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "21 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-021.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005400_00_SYARITATSU_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pj9vua4728915mq-tatsugiri",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#21",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-022",
+    "sourceId": "5nrapi3min6e1v6-pikachu-ex",
+    "categoria": "Pokemon",
+    "nome": "Pikachu ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Relâmpago",
+        "dano": "150",
+        "custoataque": [
+          "Raio",
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "Discard all Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "22 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-022.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005410_00_PIKACHUex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5nrapi3min6e1v6-pikachu-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#22",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-023",
+    "sourceId": "cup3rp590k2la09-voltorb",
+    "categoria": "Pokemon",
+    "nome": "Voltorb",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Bola de Raios",
+        "dano": "10",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "23 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-023.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005420_00_BIRIRIDAMA_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cup3rp590k2la09-voltorb",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#23",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-024",
+    "sourceId": "1gajf777c1ewg05-electrode",
+    "categoria": "Pokemon",
+    "nome": "Electrode",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Ataque Cambalhota",
+        "dano": "50 +",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "24 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-024.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005430_00_MARUMINE_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1gajf777c1ewg05-electrode",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#24",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-025",
+    "sourceId": "6ed5804rdx05505-pachirisu",
+    "categoria": "Pokemon",
+    "nome": "Pachirisu",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Plasma",
+        "dano": "10",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your BenchedPokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "25 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-025.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005430_00_PACHIRISU_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6ed5804rdx05505-pachirisu",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#25",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-026",
+    "sourceId": "15ld52lr0w6uwk6-pawmi",
+    "categoria": "Pokemon",
+    "nome": "Pawmi",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Soco",
+        "dano": "20",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "26 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-026.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005440_00_PAMO_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/15ld52lr0w6uwk6-pawmi",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#26",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-027",
+    "sourceId": "7a84guflo59f050-pawmo",
+    "categoria": "Pokemon",
+    "nome": "Pawmo",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Soco",
+        "dano": "40",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "27 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-027.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005450_00_PAMOT_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7a84guflo59f050-pawmo",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#27",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-028",
+    "sourceId": "0039b66jy5147nw-pawmot",
+    "categoria": "Pokemon",
+    "nome": "Pawmot",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Murro Elétrico",
+        "dano": "70",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "28 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-028.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005450_00_PARMOT_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0039b66jy5147nw-pawmot",
+    "custoDeck": 3,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#28",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-029",
+    "sourceId": "0z2u8c7v8cr7uq6-abra",
+    "categoria": "Pokemon",
+    "nome": "Abra",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "20",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "29 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-029.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005460_00_CASEY_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0z2u8c7v8cr7uq6-abra",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#29",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-030",
+    "sourceId": "w71088w8g9h3a11-kadabra",
+    "categoria": "Pokemon",
+    "nome": "Kadabra",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "30",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "30 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-030.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005470_00_YUNGERER_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w71088w8g9h3a11-kadabra",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#30",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-031",
+    "sourceId": "r39i4421eo639o9-alakazam",
+    "categoria": "Pokemon",
+    "nome": "Alakazam",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Supressão Psíquica",
+        "dano": "80",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico"
+        ],
+        "efeito": "This attack does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "31 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-031.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005480_00_FOODIN_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r39i4421eo639o9-alakazam",
+    "custoDeck": 3,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#31",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-032",
+    "sourceId": "554bh23iw5589km-mr-mime",
+    "categoria": "Pokemon",
+    "nome": "Mr. Mime",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Malabarismo",
+        "dano": "20 ×",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "Flip 4 coins. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "32 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-032.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005490_00_BARRIERD_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/554bh23iw5589km-mr-mime",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#32",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-033",
+    "sourceId": "yb416dbw3341me5-drifloon",
+    "categoria": "Pokemon",
+    "nome": "Drifloon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "20",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "33 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-033.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005500_00_FUWANTE_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yb416dbw3341me5-drifloon",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#33",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-034",
+    "sourceId": "9a33hcf0a8dfwu8-drifblim",
+    "categoria": "Pokemon",
+    "nome": "Drifblim",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Lufada de Vento",
+        "dano": "40",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "34 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-034.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005510_00_FUWARIDE_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9a33hcf0a8dfwu8-drifblim",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#34",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-035",
+    "sourceId": "79a33184gcl2659-giratina-ex",
+    "categoria": "Pokemon",
+    "nome": "Giratina ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Impacto Caótico",
+        "dano": "130",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico",
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 20 damage to itself"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "35 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-035.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005520_00_GIRATINAex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/79a33184gcl2659-giratina-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#35",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-036",
+    "sourceId": "127jols84aythmi-gimmighoul",
+    "categoria": "Pokemon",
+    "nome": "Gimmighoul",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "36 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-036.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005530_00_COLLECUREI_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/127jols84aythmi-gimmighoul",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#36",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-037",
+    "sourceId": "83vp2pyyc98u274-machop",
+    "categoria": "Pokemon",
+    "nome": "Machop",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Rasteira",
+        "dano": "20",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "37 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-037.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005540_00_WANRIKY_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/83vp2pyyc98u274-machop",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#37",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-038",
+    "sourceId": "q3m8y8744r0glv7-machoke",
+    "categoria": "Pokemon",
+    "nome": "Machoke",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Esmurrar",
+        "dano": "30 +",
+        "custoataque": [
+          "Luta",
+          "Luta"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "38 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-038.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005550_00_GORIKY_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q3m8y8744r0glv7-machoke",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#38",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-039",
+    "sourceId": "ca0006onh292m3o-machamp",
+    "categoria": "Pokemon",
+    "nome": "Machamp",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Compressão Poderosa",
+        "dano": "70 +",
+        "custoataque": [
+          "Luta",
+          "Luta"
+        ],
+        "efeito": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 50 more damage"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "39 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-039.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005550_00_KAIRIKY_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ca0006onh292m3o-machamp",
+    "custoDeck": 3,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#39",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-040",
+    "sourceId": "344jira7fe582wt-hitmonlee",
+    "categoria": "Pokemon",
+    "nome": "Hitmonlee",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 80,
+    "ataque": [],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "40 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-040.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005560_00_SAWAMULAR_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/344jira7fe582wt-hitmonlee",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#40",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-041",
+    "sourceId": "rkiqx39z0wap30g-hitmonchan",
+    "categoria": "Pokemon",
+    "nome": "Hitmonchan",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 90,
+    "ataque": [],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "41 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-041.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005570_00_EBIWALAR_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rkiqx39z0wap30g-hitmonchan",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#41",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-042",
+    "sourceId": "3vufo794jka2neo-riolu",
+    "categoria": "Pokemon",
+    "nome": "Riolu",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Soco",
+        "dano": "40",
+        "custoataque": [
+          "Luta",
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "42 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-042.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005570_00_RIOLU_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3vufo794jka2neo-riolu",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#42",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-043",
+    "sourceId": "71p0fvmb4s3c5kb-lucario-ex",
+    "categoria": "Pokemon",
+    "nome": "Lucario ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Aura Esférica",
+        "dano": "100",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Luta"
+        ],
+        "efeito": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "43 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-043.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005580_00_LUCARIOex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71p0fvmb4s3c5kb-lucario-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#43",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-044",
+    "sourceId": "irk3b8v34e5jlzj-flamigo",
+    "categoria": "Pokemon",
+    "nome": "Flamigo",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Chute Duplo",
+        "dano": "50 ×",
+        "custoataque": [
+          "Luta",
+          "Luta"
+        ],
+        "efeito": "Flip 2 coins. This attack does 50 damage for each heads"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "44 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-044.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005590_00_KARAMINGO_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/irk3b8v34e5jlzj-flamigo",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#44",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-045",
+    "sourceId": "xtk4koc77ofe394-ekans",
+    "categoria": "Pokemon",
+    "nome": "Ekans",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "30",
+        "custoataque": [
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "45 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-045.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005600_00_ARBO_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xtk4koc77ofe394-ekans",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#45",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-046",
+    "sourceId": "osi7y3546z2rkd5-arbok",
+    "categoria": "Pokemon",
+    "nome": "Arbok",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Dente Venenoso",
+        "dano": "70",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "46 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-046.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005610_00_ARBOK_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/osi7y3546z2rkd5-arbok",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#46",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-047",
+    "sourceId": "t36ux8rn6mrf21v-paldean-wooper",
+    "categoria": "Pokemon",
+    "nome": "Wooper de Paldea",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Golpe Envenenado",
+        "dano": "10",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "47 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-047.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005620_00_PALDEAUPAH_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t36ux8rn6mrf21v-paldean-wooper",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#47",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-048",
+    "sourceId": "m6thd7t88geee7c-paldean-clodsire-ex",
+    "categoria": "Pokemon",
+    "nome": "Clodsire de Paldea ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Venochoque",
+        "dano": "60 +",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "48 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-048.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005630_00_PALDEADOOHex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m6thd7t88geee7c-paldean-clodsire-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#48",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-049",
+    "sourceId": "06ab9k7o776k02c-spiritomb",
+    "categoria": "Pokemon",
+    "nome": "Spiritomb",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Raio da Confusão",
+        "dano": "20",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "49 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-049.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005640_00_MIKARUGE_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/06ab9k7o776k02c-spiritomb",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#49",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-050",
+    "sourceId": "jhjqjjj30nc6a37-shroodle",
+    "categoria": "Pokemon",
+    "nome": "Shroodle",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Roída",
+        "dano": "20",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "50 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-050.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005650_00_SHIRUSHREW_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jhjqjjj30nc6a37-shroodle",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#50",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-051",
+    "sourceId": "878ud27629id435-grafaiai",
+    "categoria": "Pokemon",
+    "nome": "Grafaiai",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "40",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "51 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-051.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005660_00_TAGGINGRU_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/878ud27629id435-grafaiai",
+    "custoDeck": 3,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#51",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-052",
+    "sourceId": "47mj0jkf73pos63-tinkatink",
+    "categoria": "Pokemon",
+    "nome": "Tinkatink",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Soco Saca-rolha",
+        "dano": "20",
+        "custoataque": [
+          "Metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "52 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-052.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005670_00_KANUCHAN_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/47mj0jkf73pos63-tinkatink",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#52",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-053",
+    "sourceId": "k42o081j558g337-tinkatuff",
+    "categoria": "Pokemon",
+    "nome": "Tinkatuff",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Martelo Tenaz",
+        "dano": "30 +",
+        "custoataque": [
+          "Metal",
+          "Metal"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "53 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-053.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005680_00_NAKANUCHAN_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k42o081j558g337-tinkatuff",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#53",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-054",
+    "sourceId": "tm458wbm3k3s0p0-tinkaton-ex",
+    "categoria": "Pokemon",
+    "nome": "Tinkaton ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Batida Extraordinária",
+        "dano": "80 +",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 80 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "54 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-054.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005690_00_DEKANUCHANex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tm458wbm3k3s0p0-tinkaton-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#54",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-055",
+    "sourceId": "358tsmg6l40r8ad-varoom",
+    "categoria": "Pokemon",
+    "nome": "Varoom",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "10",
+        "custoataque": [
+          "Metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "55 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-055.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005700_00_BURORON_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/358tsmg6l40r8ad-varoom",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#55",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-056",
+    "sourceId": "7ws89006p1ikbz1-revavroom",
+    "categoria": "Pokemon",
+    "nome": "Revavroom",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Derrapada Giratória",
+        "dano": "70",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's next turn, prevent all damage from-and effects of-attacks done to this Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "56 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-056.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005710_00_BUROROROOM_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7ws89006p1ikbz1-revavroom",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#56",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-057",
+    "sourceId": "su6jp5zm230f6et-gholdengo",
+    "categoria": "Pokemon",
+    "nome": "Gholdengo",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Surfe Extravagante",
+        "dano": "50 ×",
+        "custoataque": [
+          "Metal",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "57 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-057.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005720_00_SURFUGO_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/su6jp5zm230f6et-gholdengo",
+    "custoDeck": 3,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#57",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-058",
+    "sourceId": "lb150dk982y9yj6-rattata",
+    "categoria": "Pokemon",
+    "nome": "Rattata",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "58 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-058.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005730_00_KORATTA_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lb150dk982y9yj6-rattata",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#58",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-059",
+    "sourceId": "o28c9a3vjb6lev3-raticate",
+    "categoria": "Pokemon",
+    "nome": "Raticate",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "50",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "59 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-059.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005740_00_RATTA_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o28c9a3vjb6lev3-raticate",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#59",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-060",
+    "sourceId": "p4aq18rab0w0rh8-jigglypuff",
+    "categoria": "Pokemon",
+    "nome": "Jigglypuff",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Rolagem",
+        "dano": "20",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "60 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-060.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005750_00_PURIN_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p4aq18rab0w0rh8-jigglypuff",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#60",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-061",
+    "sourceId": "s1x34eudlpz572x-wigglytuff",
+    "categoria": "Pokemon",
+    "nome": "Wigglytuff",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Tapinha",
+        "dano": "50",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "61 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-061.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005760_00_PUKURIN_R_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s1x34eudlpz572x-wigglytuff",
+    "custoDeck": 3,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#61",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-062",
+    "sourceId": "6236279mma92721-lickitung",
+    "categoria": "Pokemon",
+    "nome": "Lickitung",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Rolagem",
+        "dano": "30",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "62 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-062.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005770_00_BERORINGA_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6236279mma92721-lickitung",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#62",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-063",
+    "sourceId": "71f9oi760x3z7fl-lickilicky",
+    "categoria": "Pokemon",
+    "nome": "Lickilicky",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Rolagem",
+        "dano": "70",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "63 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-063.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005780_00_BEROBELT_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71f9oi760x3z7fl-lickilicky",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#63",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-064",
+    "sourceId": "eg3rg875r95cz5q-bidoof",
+    "categoria": "Pokemon",
+    "nome": "Bidoof",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "30",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "64 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-064.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005790_00_BEADARUex_RR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/eg3rg875r95cz5q-bidoof",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#64",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-065",
+    "sourceId": "48gqj8r3fu9ui4z-bibarel-ex",
+    "categoria": "Pokemon",
+    "nome": "Bibarel ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Aperto Despreocupado",
+        "dano": "100",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Heal 30 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "65 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-065.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005790_00_BIPPA_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/48gqj8r3fu9ui4z-bibarel-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#65",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-066",
+    "sourceId": "5313vvn13025eti-buneary",
+    "categoria": "Pokemon",
+    "nome": "Buneary",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Pancada",
+        "dano": "20",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "66 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-066.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005800_00_MIMIROL_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5313vvn13025eti-buneary",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#66",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-067",
+    "sourceId": "1n5q2u8o4uy5po6-lopunny",
+    "categoria": "Pokemon",
+    "nome": "Lopunny",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Disparada Saltitante",
+        "dano": "30",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "67 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-067.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005810_00_MIMILOP_C_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1n5q2u8o4uy5po6-lopunny",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#67",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-068",
+    "sourceId": "0y40868034b6d86-cyclizar",
+    "categoria": "Pokemon",
+    "nome": "Cyclizar",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Superaceleração",
+        "dano": "20",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "During your next turn, this Pokémon's Overacceleration attack does +20 damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "68 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-068.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005820_00_MOTOTOKAGE_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0y40868034b6d86-cyclizar",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#68",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-069",
+    "sourceId": "k133k588521g351-iono",
+    "categoria": "Treinador",
+    "nome": "Kissera",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "69 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-069.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000420_00_NANJYAMO_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k133k588521g351-iono",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#69",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-070",
+    "sourceId": "312692089iq4b4h-pokemon-center-lady",
+    "categoria": "Treinador",
+    "nome": "Dama do Centro Pokémon",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "70 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-070.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000430_00_POKEMONCENTERNOONEESAN_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/312692089iq4b4h-pokemon-center-lady",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#70",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-071",
+    "sourceId": "b6l12x144gn0n15-red",
+    "categoria": "Treinador",
+    "nome": "Red",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "71 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-071.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000440_00_RED_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b6l12x144gn0n15-red",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#71",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-072",
+    "sourceId": "6qra6567mzg1osu-team-rocket-grunt",
+    "categoria": "Treinador",
+    "nome": "Recruta da Equipe Rocket",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "72 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-072.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000450_00_ROCKETDANNOSHITAPPA_U_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6qra6567mzg1osu-team-rocket-grunt",
+    "custoDeck": 1,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#72",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-073",
+    "sourceId": "gh0x82873vk82r8-meowscarada",
+    "categoria": "Pokemon",
+    "nome": "Meowscarada",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Garras de Luta",
+        "dano": "60 +",
+        "custoataque": [
+          "Planta",
+          "Planta"
+        ],
+        "efeito": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "73 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-073.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005260_00_MASQUERNYA_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gh0x82873vk82r8-meowscarada",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#73",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-074",
+    "sourceId": "f614r1unw8odo26-buizel",
+    "categoria": "Pokemon",
+    "nome": "Buizel",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Revólver d’Água",
+        "dano": "10",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "74 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-074.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005350_00_BUOYSEL_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f614r1unw8odo26-buizel",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#74",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-075",
+    "sourceId": "29g7j18027ht1qk-tatsugiri",
+    "categoria": "Pokemon",
+    "nome": "Tatsugiri",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Chuva Borrifante",
+        "dano": "20",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "75 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-075.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005400_00_SYARITATSU_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/29g7j18027ht1qk-tatsugiri",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#75",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-076",
+    "sourceId": "2346e23e8e609t9-grafaiai",
+    "categoria": "Pokemon",
+    "nome": "Grafaiai",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "40",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "76 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-076.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005660_00_TAGGINGRU_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2346e23e8e609t9-grafaiai",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#76",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-077",
+    "sourceId": "7mf2i3399705n70-gholdengo",
+    "categoria": "Pokemon",
+    "nome": "Gholdengo",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Surfe Extravagante",
+        "dano": "50 ×",
+        "custoataque": [
+          "Metal",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "77 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-077.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005720_00_SURFUGO_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7mf2i3399705n70-gholdengo",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#77",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-078",
+    "sourceId": "05ul14xo2551hlw-wigglytuff",
+    "categoria": "Pokemon",
+    "nome": "Wigglytuff",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Tapinha",
+        "dano": "50",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "78 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-078.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005760_00_PUKURIN_AR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/05ul14xo2551hlw-wigglytuff",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#78",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-079",
+    "sourceId": "bh95yd89407ysi6-beedrill-ex",
+    "categoria": "Pokemon",
+    "nome": "Beedrill ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Lança Aniquiladora",
+        "dano": "80",
+        "custoataque": [
+          "Planta",
+          "Planta"
+        ],
+        "efeito": "Discard a random Energy from your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "79 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-079.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005230_00_SPEARex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bh95yd89407ysi6-beedrill-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#79",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-080",
+    "sourceId": "tt54zm60480fc36-charizard-ex",
+    "categoria": "Pokemon",
+    "nome": "Charizard ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Carregar",
+        "dano": "150",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "80 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-080.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005290_00_LIZARDONex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tt54zm60480fc36-charizard-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#80",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-081",
+    "sourceId": "z2y93ro86212w61-wugtrio-ex",
+    "categoria": "Pokemon",
+    "nome": "Wugtrio ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 140,
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "81 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-081.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005380_00_UMITRIOex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z2y93ro86212w61-wugtrio-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#81",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-082",
+    "sourceId": "94iy7c54o8v5pdp-pikachu-ex",
+    "categoria": "Pokemon",
+    "nome": "Pikachu ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Relâmpago",
+        "dano": "150",
+        "custoataque": [
+          "Raio",
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "Discard all Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "82 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-082.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005410_00_PIKACHUex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/94iy7c54o8v5pdp-pikachu-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#82",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-083",
+    "sourceId": "0wv70hnc4jd4761-giratina-ex",
+    "categoria": "Pokemon",
+    "nome": "Giratina ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Impacto Caótico",
+        "dano": "130",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico",
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 20 damage to itself"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "83 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-083.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005520_00_GIRATINAex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0wv70hnc4jd4761-giratina-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#83",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-084",
+    "sourceId": "s712sxc41cybc6n-lucario-ex",
+    "categoria": "Pokemon",
+    "nome": "Lucario ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Aura Esférica",
+        "dano": "100",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Luta"
+        ],
+        "efeito": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "84 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-084.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005580_00_LUCARIOex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s712sxc41cybc6n-lucario-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#84",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-085",
+    "sourceId": "jq5tr0t9xxikwnc-paldean-clodsire-ex",
+    "categoria": "Pokemon",
+    "nome": "Clodsire de Paldea ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Venochoque",
+        "dano": "60 +",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "85 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-085.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005630_00_PALDEADOOHex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jq5tr0t9xxikwnc-paldean-clodsire-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#85",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-086",
+    "sourceId": "5sg71d5p892f2u3-tinkaton-ex",
+    "categoria": "Pokemon",
+    "nome": "Tinkaton ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Batida Extraordinária",
+        "dano": "80 +",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 80 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "86 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-086.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005690_00_DEKANUCHANex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5sg71d5p892f2u3-tinkaton-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#86",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-087",
+    "sourceId": "2945r9s1sxw5z2s-bibarel-ex",
+    "categoria": "Pokemon",
+    "nome": "Bibarel ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Aperto Despreocupado",
+        "dano": "100",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Heal 30 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "87 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-087.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005790_00_BEADARUex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2945r9s1sxw5z2s-bibarel-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#87",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-088",
+    "sourceId": "hv8l8m6u0415fi7-iono",
+    "categoria": "Treinador",
+    "nome": "Kissera",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "88 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-088.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000420_00_NANJYAMO_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hv8l8m6u0415fi7-iono",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#88",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-089",
+    "sourceId": "u4enxr439t72278-pokemon-center-lady",
+    "categoria": "Treinador",
+    "nome": "Dama do Centro Pokémon",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "89 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-089.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000430_00_POKEMONCENTERNOONEESAN_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u4enxr439t72278-pokemon-center-lady",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#89",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-090",
+    "sourceId": "716xs43526ytp6u-red",
+    "categoria": "Treinador",
+    "nome": "Red",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "90 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-090.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000440_00_RED_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/716xs43526ytp6u-red",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#90",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-091",
+    "sourceId": "1kk643er4n0i364-team-rocket-grunt",
+    "categoria": "Treinador",
+    "nome": "Recruta da Equipe Rocket",
+    "estagio": "Desconhecido",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "91 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-091.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000450_00_ROCKETDANNOSHITAPPA_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1kk643er4n0i364-team-rocket-grunt",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#91",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-092",
+    "sourceId": "ahihh34140632i8-pikachu-ex",
+    "categoria": "Pokemon",
+    "nome": "Pikachu ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Relâmpago",
+        "dano": "150",
+        "custoataque": [
+          "Raio",
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "Discard all Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "92 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-092.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005410_01_PIKACHUex_SAR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ahihh34140632i8-pikachu-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#92",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-093",
+    "sourceId": "596672z10cziid6-paldean-clodsire-ex",
+    "categoria": "Pokemon",
+    "nome": "Clodsire de Paldea ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Venochoque",
+        "dano": "60 +",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "93 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-093.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005630_01_PALDEADOOHex_SAR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/596672z10cziid6-paldean-clodsire-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#93",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-094",
+    "sourceId": "1ybpi3v96rhakb6-tinkaton-ex",
+    "categoria": "Pokemon",
+    "nome": "Tinkaton ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Batida Extraordinária",
+        "dano": "80 +",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 80 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "94 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-094.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005690_00_DEKANUCHANex_SR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1ybpi3v96rhakb6-tinkaton-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#94",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-095",
+    "sourceId": "g2th7639361254c-bibarel-ex",
+    "categoria": "Pokemon",
+    "nome": "Bibarel ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Aperto Despreocupado",
+        "dano": "100",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Heal 30 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "95 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-095.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005790_01_BEADARUex_SAR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g2th7639361254c-bibarel-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#95",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-096",
+    "sourceId": "091j0p57yrg1b2a-giratina-ex",
+    "categoria": "Pokemon",
+    "nome": "Giratina ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Impacto Caótico",
+        "dano": "130",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico",
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 20 damage to itself"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "96 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-096.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005520_01_GIRATINAex_IM_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/091j0p57yrg1b2a-giratina-ex",
+    "custoDeck": 8,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#96",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-097",
+    "sourceId": "s4558xjrqgn126l-weedle",
+    "categoria": "Pokemon",
+    "nome": "Weedle",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 50,
+    "ataque": [],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "97 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-097.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005210_00_BEEDLE_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s4558xjrqgn126l-weedle",
+    "custoDeck": 2,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#97",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-098",
+    "sourceId": "0gvqn0gk5vu1438-kakuna",
+    "categoria": "Pokemon",
+    "nome": "Kakuna",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Estilingada",
+        "dano": "20",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "98 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-098.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005220_00_COCOON_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0gvqn0gk5vu1438-kakuna",
+    "custoDeck": 2,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#98",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-099",
+    "sourceId": "6j6d49k3516g282-charmander",
+    "categoria": "Pokemon",
+    "nome": "Charmander",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Combustão",
+        "dano": "20",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "99 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-099.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005270_00_HITOKAGE_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6j6d49k3516g282-charmander",
+    "custoDeck": 2,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#99",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-100",
+    "sourceId": "328h1587dbljbya-charmeleon",
+    "categoria": "Pokemon",
+    "nome": "Charmeleon",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Combustão",
+        "dano": "40",
+        "custoataque": [
+          "Fogo",
+          "Fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "100 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-100.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005280_00_LIZARDO_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/328h1587dbljbya-charmeleon",
+    "custoDeck": 2,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#100",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-101",
+    "sourceId": "93dz0990v835o83-wiglett",
+    "categoria": "Pokemon",
+    "nome": "Wiglett",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 60,
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "101 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-101.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005370_00_UMIDIGDA_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/93dz0990v835o83-wiglett",
+    "custoDeck": 2,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#101",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-102",
+    "sourceId": "5pz09fia3occ0dv-dondozo",
+    "categoria": "Pokemon",
+    "nome": "Dondozo",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Ciclone Oceânico",
+        "dano": "80",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack also does 10 damage to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "102 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-102.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005390_00_HEYRUSHER_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5pz09fia3occ0dv-dondozo",
+    "custoDeck": 2,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#102",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-103",
+    "sourceId": "08lfw1y653maii5-pachirisu",
+    "categoria": "Pokemon",
+    "nome": "Pachirisu",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Plasma",
+        "dano": "10",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your BenchedPokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "103 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-103.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005060_00_PACHIRISU_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/08lfw1y653maii5-pachirisu",
+    "custoDeck": 2,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#103",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-104",
+    "sourceId": "gs35r2407v5f04p-riolu",
+    "categoria": "Pokemon",
+    "nome": "Riolu",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Soco",
+        "dano": "40",
+        "custoataque": [
+          "Luta",
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "104 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-104.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005070_00_RIOLU_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gs35r2407v5f04p-riolu",
+    "custoDeck": 2,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#104",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-105",
+    "sourceId": "mb09ro4tja4ccc0-varoom",
+    "categoria": "Pokemon",
+    "nome": "Varoom",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "10",
+        "custoataque": [
+          "Metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "105 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-105.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005700_00_BURORON_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mb09ro4tja4ccc0-varoom",
+    "custoDeck": 2,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#105",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-106",
+    "sourceId": "2br94brv9j56obh-revavroom",
+    "categoria": "Pokemon",
+    "nome": "Revavroom",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Derrapada Giratória",
+        "dano": "70",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's next turn, prevent all damage from-and effects of-attacks done to this Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "106 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-106.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005710_00_BUROROROOM_S_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2br94brv9j56obh-revavroom",
+    "custoDeck": 2,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#106",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-107",
+    "sourceId": "t1a3o4efdx3ssl3-beedrill-ex",
+    "categoria": "Pokemon",
+    "nome": "Beedrill ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Lança Aniquiladora",
+        "dano": "80",
+        "custoataque": [
+          "Planta",
+          "Planta"
+        ],
+        "efeito": "Discard a random Energy from your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "107 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-107.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005230_01_SPEARex_SSR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t1a3o4efdx3ssl3-beedrill-ex",
+    "custoDeck": 2,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#107",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-108",
+    "sourceId": "zowji8byje7xq7o-charizard-ex",
+    "categoria": "Pokemon",
+    "nome": "Charizard ex",
+    "estagio": "Estágio 2",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 180,
+    "ataque": [
+      {
+        "nomeataque": "Carregar",
+        "dano": "150",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "108 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-108.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005290_01_LIZARDONex_SSR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zowji8byje7xq7o-charizard-ex",
+    "custoDeck": 2,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#108",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-109",
+    "sourceId": "259v28e64q4ni22-wugtrio-ex",
+    "categoria": "Pokemon",
+    "nome": "Wugtrio ex",
+    "estagio": "Estágio 1",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 140,
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "109 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-109.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005380_01_UMITRIOex_SSR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/259v28e64q4ni22-wugtrio-ex",
+    "custoDeck": 2,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#109",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "a2b-110",
+    "sourceId": "nr08e9q23zswhyh-lucario-ex",
+    "categoria": "Pokemon",
+    "nome": "Lucario ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Aura Esférica",
+        "dano": "100",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Luta"
+        ],
+        "efeito": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "raridade": "Ultra Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "expansao": "Festival Brilhante (A2B)",
+    "numero": "110 / 110",
+    "pacote": "Shining",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-110.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005580_01_LUCARIOex_SSR_M_en_US_UT_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nr08e9q23zswhyh-lucario-ex",
+    "custoDeck": 2,
+    "releaseDate": "2025-03-27",
+    "sourceMeta": {
+      "setCode": "A2B",
+      "series": "a",
+      "matchKey": "A2B#110",
+      "flibustierMin": false,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  }
+]
