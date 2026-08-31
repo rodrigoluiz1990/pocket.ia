@@ -1,15 +1,15 @@
 {
   "stages": [
-    "Baby",
-    "Basico",
-    "Estagio 1",
-    "Estagio 2",
-    "ex",
-    "Mega",
-    "Fossil",
-    "Item",
-    "Apoiador",
-    "Ferramenta",
-    "Estadio"
+    { "value": "baby", "label": "Baby" },
+    { "value": "basic", "label": "Basico" },
+    { "value": "1", "label": "Estagio 1" },
+    { "value": "2", "label": "Estagio 2" },
+    { "value": "ex", "label": "ex" },
+    { "value": "mega", "label": "Mega" },
+    { "value": "fossil", "label": "Fossil" },
+    { "value": "item", "label": "Item" },
+    { "value": "apoiador", "label": "Apoiador" },
+    { "value": "ferramenta", "label": "Ferramenta" },
+    { "value": "estadio", "label": "Estadio" }
   ]
 }

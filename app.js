@@ -7,6 +7,7 @@ const FAVORITES_KEY = "pocketia_favorites_v1";
 const DECK_QUERY_PARAM = "deck";
 let metaDecks = [];
 const favorites = new Set();
+const deckEnergySelection = new Set();
 const FALLBACK_IMAGE_SRC = "./assets/cards/pokemon_pocket_card_back.png";
 
 let expansionOrder = [];
@@ -26,6 +27,7 @@ const el = {
   cardsGrid: document.getElementById("cardsGrid"),
   deckList: document.getElementById("deckList"),
   deckCount: document.getElementById("deckCount"),
+  deckEnergyOptions: document.getElementById("deckEnergyOptions"),
   deckQrBtn: document.getElementById("deckQrBtn"),
   clearDeckBtn: document.getElementById("clearDeckBtn"),
   deckQrModal: document.getElementById("deckQrModal"),
@@ -79,7 +81,7 @@ const el = {
 
 function canInit() {
   const required = [
-    "cardsGrid","deckList","deckCount","deckQrBtn","clearDeckBtn","deckQrModal","deckQrImage","deckQrNote","deckCardModal","deckCardModalTitle","deckCardModalImage","simResults","loadStatus","searchInput","tipoFilter","elementoFilter",
+    "cardsGrid","deckList","deckCount","deckEnergyOptions","deckQrBtn","clearDeckBtn","deckQrModal","deckQrImage","deckQrNote","deckCardModal","deckCardModalTitle","deckCardModalImage","simResults","loadStatus","searchInput","tipoFilter","elementoFilter",
     "raridadeFilter","estagioFilter","expansaoFilter","fraquezaFilter","habilidadeFilter",
     "recuoFilter","recuoMinLabel","recuoMaxLabel","vidaSlider","ataqueSlider","vidaMinLabel","vidaMaxLabel","ataqueMinLabel","ataqueMaxLabel","custoAtaqueSlider","custoAtaqueMinLabel","custoAtaqueMaxLabel","formatoFilter","sortField","sortDir","imageOnlyToggle",
     "favoriteOnlyToggle","attackEnergyFilter","mostUsedList","metaDecksList",
@@ -300,34 +302,107 @@ let deckQrOpen = false;
 let deckCardModalOpen = false;
 
 function updateDeckActionButtons() {
-  const disabled = deck.length === 0;
-  if (el.deckQrBtn) el.deckQrBtn.disabled = disabled;
-  if (el.clearDeckBtn) el.clearDeckBtn.disabled = disabled;
+  const validEnergyCount = deckEnergySelection.size >= 1 && deckEnergySelection.size <= 3;
+  updateDeckEnergyOptions();
+  if (el.deckQrBtn) {
+    el.deckQrBtn.disabled = deck.length !== maxDeck;
+    el.deckQrBtn.title = deck.length !== maxDeck
+      ? "Complete 20 cartas para gerar o QR Code"
+      : !validEnergyCount
+        ? "Selecione de 1 a 3 energias do deck"
+        : "QR Code para importar no jogo";
+  }
+  if (el.clearDeckBtn) el.clearDeckBtn.disabled = deck.length === 0;
 }
 
 function serializeDeckState() {
   return deck.map((id) => String(id)).join(",");
 }
 
-function buildDeckShareUrl() {
-  const url = new URL(window.location.href);
-  url.searchParams.delete(DECK_QUERY_PARAM);
-  const payload = serializeDeckState();
-  if (payload) url.searchParams.set(DECK_QUERY_PARAM, payload);
-  return url.toString();
+function updateDeckEnergyOptions() {
+  if (!el.deckEnergyOptions) return;
+  const reachedLimit = deckEnergySelection.size >= 3;
+  el.deckEnergyOptions.querySelectorAll("input[data-deck-energy]").forEach((input) => {
+    const code = Number(input.value);
+    const selected = deckEnergySelection.has(code);
+    input.checked = selected;
+    input.disabled = reachedLimit && !selected;
+  });
 }
 
-function buildDeckQrImageUrl() {
-  const shareUrl = buildDeckShareUrl();
-  return `https://api.qrserver.com/v1/create-qr-code/?size=320x320&margin=12&data=${encodeURIComponent(shareUrl)}`;
+function deckEnergyCodes() {
+  return [...deckEnergySelection];
+}
+
+function pushUint24(bytes, value) {
+  if (!Number.isSafeInteger(value) || value < 0 || value > 0xffffff) {
+    throw new Error("Uma carta do deck nao possui um identificador compativel com o jogo.");
+  }
+  bytes.push((value >> 16) & 0xff, (value >> 8) & 0xff, value & 0xff);
+}
+
+function encodeGameDeckPayload(deckCards) {
+  if (deckCards.length !== maxDeck) {
+    throw new Error("O QR Code do jogo exige exatamente 20 cartas.");
+  }
+
+  const trainers = deckCards.filter((card) => normalizeKey(card.categoria) !== "pokemon");
+  const pokemon = deckCards.filter((card) => normalizeKey(card.categoria) === "pokemon");
+  const energy = deckEnergyCodes();
+
+  if (energy.length === 0 || energy.length > 3) {
+    throw new Error("Selecione de 1 a 3 energias do deck para gerar o QR Code.");
+  }
+  if (trainers.length > 255 || pokemon.length > 255) {
+    throw new Error("O deck excede o limite do formato de compartilhamento.");
+  }
+
+  const bytes = [trainers.length];
+  trainers.forEach((card) => {
+    const deckBuilderNr = safeNumber(card.deckBuilderNr, 0);
+    if (deckBuilderNr <= 0) throw new Error(`A carta ${card.nome} nao pode ser exportada para o jogo.`);
+    pushUint24(bytes, deckBuilderNr * 10);
+  });
+  bytes.push(pokemon.length);
+  pokemon.forEach((card) => {
+    const deckBuilderNr = safeNumber(card.deckBuilderNr, 0);
+    if (deckBuilderNr <= 0) throw new Error(`A carta ${card.nome} nao pode ser exportada para o jogo.`);
+    pushUint24(bytes, deckBuilderNr * 10);
+  });
+  bytes.push(energy.length, ...energy);
+
+  return btoa(String.fromCharCode(...bytes));
+}
+
+function buildGameDeckQrDataUrl(payload) {
+  if (typeof qrcode !== "function") {
+    throw new Error("O gerador de QR Code nao foi carregado.");
+  }
+  const qr = qrcode(0, "M");
+  qr.addData(payload, "Byte");
+  qr.make();
+  return qr.createDataURL(8, 4);
 }
 
 function openDeckQrModal() {
-  if (!el.deckQrModal || !el.deckQrImage || !deck.length) return;
+  if (!el.deckQrModal || !el.deckQrImage || deck.length !== maxDeck) return;
+  const deckCards = deck.map((id) => cards.find((card) => String(card.id) === String(id))).filter(Boolean);
+  if (deckCards.length !== maxDeck) {
+    alert("Nao foi possivel localizar todas as cartas do deck.");
+    return;
+  }
+
+  try {
+    const payload = encodeGameDeckPayload(deckCards);
+    el.deckQrImage.src = buildGameDeckQrDataUrl(payload);
+  } catch (error) {
+    alert(error.message || "Nao foi possivel gerar o QR Code do jogo.");
+    return;
+  }
+
   deckQrOpen = true;
-  el.deckQrImage.src = buildDeckQrImageUrl();
   if (el.deckQrNote) {
-    el.deckQrNote.textContent = "Escaneie para abrir este deck no Pocket.IA no celular. O app oficial do jogo confirma leitura de codigos 2D em 12 de maio de 2026, mas nao publica um formato oficial de importacao de deck por QR para sites de terceiros.";
+    el.deckQrNote.textContent = "No Pokemon TCG Pocket, toque em Montar Novo e depois em Escanear Codigo para importar este deck.";
   }
   el.deckQrModal.classList.add("open");
   el.deckQrModal.setAttribute("aria-hidden", "false");
@@ -364,6 +439,7 @@ function closeDeckCardModal() {
 function clearDeck() {
   if (!deck.length) return;
   deck.length = 0;
+  deckEnergySelection.clear();
   closeDeckQrModal();
   closeDeckCardModal();
   renderDeck();
@@ -620,6 +696,19 @@ function normalizeCard(card) {
     const len = Array.isArray(atk?.custoataque) ? atk.custoataque.length : 0;
     return Math.max(acc, len);
   }, 0);
+  const estagio = String(card.estagio || "").trim();
+  const formato = String(card.formato || "noex").trim();
+  const tags = new Set(
+    (Array.isArray(card.tags) ? card.tags : [])
+      .map(normalizeKey)
+      .filter(Boolean)
+  );
+  const estagioKey = normalizeKey(estagio);
+  if (estagioKey) tags.add(estagioKey);
+  if (estagioKey === "baby") tags.add("basic");
+  const formatoKey = normalizeKey(formato);
+  if (formatoKey === "mega" || formatoKey === "ex") tags.add(formatoKey);
+
   return {
     ...card,
     nome: String(card.nome || "").trim(),
@@ -627,7 +716,7 @@ function normalizeCard(card) {
     tipo: String(card.tipo || "").trim(),
     expansao: String(card.expansao || "").trim(),
     pacote: String(card.pacote || "").trim(),
-    estagio: String(card.estagio || "").trim(),
+    estagio,
     raridade: String(card.raridade || "").trim(),
     fraqueza: String(card.fraqueza || "").trim(),
     imageLocal: normalizeCardImagePath(card),
@@ -636,7 +725,8 @@ function normalizeCard(card) {
     custoAtaque: safeNumber(maxCustoAtaque, safeNumber(card.custoAtaque, 0)),
     custoDeck: safeNumber(card.custoDeck ?? card.custo, 0),
     recuo: safeNumber(card.recuo, 0),
-    formato: String(card.formato || "noex").trim(),
+    formato,
+    tags: [...tags],
     habilidade: Boolean(card.habilidade ?? card.temHabilidade),
     promo: Boolean(card.promo ?? card.tagPromo),
     ataqueLista: ataques
@@ -694,10 +784,13 @@ function uniqueValues(key, list = cards) {
 }
 
 function populateFilter(selectEl, values) {
-  for (const value of values) {
+  for (const item of values) {
+    const value = typeof item === "object" ? String(item.value || "").trim() : String(item || "").trim();
+    const label = typeof item === "object" ? String(item.label || value).trim() : value;
+    if (!value) continue;
     const option = document.createElement("option");
     option.value = value;
-    option.textContent = value;
+    option.textContent = label;
     selectEl.appendChild(option);
   }
 }
@@ -756,10 +849,10 @@ function getFilteredCards() {
   const recuoValues = el.recuoFilter?.noUiSlider ? el.recuoFilter.noUiSlider.get() : [0, 5];
   const recuoMin = safeNumber(Array.isArray(recuoValues) ? recuoValues[0] : 0, 0);
   const recuoMax = safeNumber(Array.isArray(recuoValues) ? recuoValues[1] : recuoValues, 5);
-  const vidaValues = el.vidaSlider?.noUiSlider ? el.vidaSlider.noUiSlider.get() : [0, 300];
+  const vidaValues = el.vidaSlider?.noUiSlider ? el.vidaSlider.noUiSlider.get() : [0, 250];
   const ataqueValues = el.ataqueSlider?.noUiSlider ? el.ataqueSlider.noUiSlider.get() : [0, 250];
   const vidaMin = safeNumber(vidaValues[0], 0);
-  const vidaMax = safeNumber(vidaValues[1], 300);
+  const vidaMax = safeNumber(vidaValues[1], 250);
   const ataqueMin = safeNumber(ataqueValues[0], 0);
   const ataqueMax = safeNumber(ataqueValues[1], 250);
   const custoAtaqueValues = el.custoAtaqueSlider?.noUiSlider ? el.custoAtaqueSlider.noUiSlider.get() : [0, 5];
@@ -781,7 +874,7 @@ function getFilteredCards() {
         if (!(promoSelected && isPromo) && !normalSelected.includes(card.raridade)) return false;
       }
       if (favoriteOnly && !favorites.has(String(card.id))) return false;
-      if (estagios.size && !estagios.has(card.estagio)) return false;
+      if (estagios.size && ![card.estagio, ...card.tags].some((tag) => estagios.has(tag))) return false;
       if (expansoes.size && !expansoes.has(card.expansao)) return false;
       if (fraquezas.size && !fraquezas.has(card.fraqueza)) return false;
       if (!cardHasAttackType(card, attackTypes)) return false;
@@ -956,7 +1049,9 @@ function renderDeck() {
       <div class="deck-item-main" style="width:72px;aspect-ratio:63/88;">
         <span class="deck-qty">x${qty}</span>
         <img class="deck-thumb" src="${imageSrc}" alt="${card.nome}" title="${card.nome}" onload="if(this.naturalWidth>this.naturalHeight){this.classList.add('is-wallpaper')}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
-        <button class="deck-preview" data-preview="${card.id}" title="Ampliar carta" aria-label="Ampliar ${card.nome}">[]</button>
+        <button class="deck-preview" data-preview="${card.id}" title="Ampliar carta" aria-label="Ampliar ${card.nome}">
+          <svg class="deck-preview-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="M3 21v-6h6"/><path d="m3 21 7-7"/></svg>
+        </button>
         <div class="deck-controls">
           <button class="deck-add" data-add="${card.id}" title="Adicionar uma copia">+</button>
           <button class="deck-remove" data-remove="${card.id}" title="Remover uma copia">-</button>
@@ -1091,7 +1186,7 @@ function bindInputLabels() {
   };
 
   setupNoUi(el.recuoFilter, el.recuoMinLabel, el.recuoMaxLabel, 0, 5, 1);
-  setupNoUi(el.vidaSlider, el.vidaMinLabel, el.vidaMaxLabel, 0, 300, 10);
+  setupNoUi(el.vidaSlider, el.vidaMinLabel, el.vidaMaxLabel, 0, 250, 10);
   setupNoUi(el.ataqueSlider, el.ataqueMinLabel, el.ataqueMaxLabel, 0, 250, 10);
   setupNoUi(el.custoAtaqueSlider, el.custoAtaqueMinLabel, el.custoAtaqueMaxLabel, 0, 5, 1);
 }
@@ -1305,7 +1400,7 @@ function init() {
     if (id) addCard(id);
   });
   el.deckList?.addEventListener("click", (event) => {
-    const previewId = event.target.dataset.preview;
+    const previewId = event.target.closest("[data-preview]")?.dataset.preview;
     if (previewId) {
       const card = cards.find((c) => String(c.id) === String(previewId));
       if (card) openDeckCardModal(card);
@@ -1364,6 +1459,15 @@ function init() {
     closeMetaDeckModal();
   });
   el.deckQrBtn?.addEventListener("click", openDeckQrModal);
+  el.deckEnergyOptions?.addEventListener("change", (event) => {
+    const input = event.target.closest("input[data-deck-energy]");
+    if (!input) return;
+    const energyCode = Number(input.value);
+    if (!Number.isInteger(energyCode)) return;
+    if (input.checked) deckEnergySelection.add(energyCode);
+    else deckEnergySelection.delete(energyCode);
+    updateDeckActionButtons();
+  });
   el.clearDeckBtn?.addEventListener("click", clearDeck);
   el.deckQrModal?.addEventListener("click", (event) => {
     if (event.target.closest("[data-deck-qr-close]")) closeDeckQrModal();
@@ -1419,12 +1523,12 @@ async function loadCardsData() {
   }
 
   try {
-    const indexResponse = await fetch("./data/consolidated/index.json", { cache: "no-store" });
+    const indexResponse = await fetch("./data/complete/index.json", { cache: "no-store" });
     if (!indexResponse.ok) throw new Error(`HTTP ${indexResponse.status}`);
     const indexPayload = await indexResponse.json();
     const files = Array.isArray(indexPayload) ? indexPayload : indexPayload?.files;
     if (!Array.isArray(files) || !files.length) {
-      throw new Error("data/consolidated/index.json vazio ou invalido.");
+      throw new Error("data/complete/index.json vazio ou invalido.");
     }
 
     const chunks = await Promise.all(
@@ -1477,7 +1581,17 @@ async function loadStagesData() {
   if (!Array.isArray(stages) || !stages.length) {
     throw new Error("data/stages.json vazio ou invalido.");
   }
-  stageOrder = stages.map((s) => String(s || "").trim()).filter(Boolean);
+  stageOrder = stages
+    .map((stage) => {
+      if (typeof stage === "object" && stage) {
+        const value = normalizeKey(stage.value);
+        const label = String(stage.label || value).trim();
+        return value ? { value, label } : null;
+      }
+      const value = normalizeKey(stage);
+      return value ? { value, label: String(stage).trim() } : null;
+    })
+    .filter(Boolean);
 }
 
 async function loadTypesData() {

@@ -40,7 +40,7 @@ const rarityLabelPt = {
   U: "Incomum",
   R: "Rara",
   RR: "Duplamente Raro",
-  AR: "Ilustracao Rara",
+  AR: "Ilustração Rara",
   SAR: "Arte Especial Raro",
   SR: "Super Raro",
   IM: "Raro Imersivo",
@@ -70,9 +70,37 @@ function safeNumber(value, fallback = 0) {
 function inferFormat(name, stage) {
   const nameKey = normalizeKey(name);
   const stageKey = normalizeKey(stage);
-  if (stageKey.includes("mega") || nameKey.includes(" mega ")) return "mega";
+  if (stageKey.includes("mega") || /\bmega\b/.test(nameKey)) return "mega";
   if (stageKey === "ex" || stageKey.includes(" ex") || nameKey.endsWith(" ex") || nameKey.includes("-ex")) return "ex";
   return "noex";
+}
+
+function buildFilterTags(stage, formato, existingTags = []) {
+  const tags = new Set(
+    (Array.isArray(existingTags) ? existingTags : [])
+      .map(normalizeKey)
+      .filter(Boolean)
+  );
+  const rawStageKey = normalizeKey(stage);
+  const stageKey = rawStageKey.includes("estagio 2") || rawStageKey.includes("stage 2")
+    ? "2"
+    : rawStageKey.includes("estagio 1") || rawStageKey.includes("stage 1")
+      ? "1"
+      : rawStageKey.includes("basico") || rawStageKey.includes("basic")
+        ? "basic"
+        : rawStageKey;
+  if (stageKey) tags.add(stageKey);
+  if (stageKey === "baby") tags.add("basic");
+  if (formato === "mega" || formato === "ex") tags.add(formato);
+  return [...tags];
+}
+
+function deckBuilderNrFromImage(image) {
+  const match = String(image || "").match(/^(cPK|cTR)_[0-9]+_([0-9]+)_/);
+  if (!match) return 0;
+  const baseNr = Number(match[2]) / 10;
+  if (!Number.isSafeInteger(baseNr) || baseNr <= 0) return 0;
+  return match[1] === "cTR" ? baseNr + 1_000_000 : baseNr;
 }
 
 function normalizeStage(stage) {
@@ -143,8 +171,12 @@ async function run() {
   const expansionByCode = new Map(
     expansions.map((entry) => [String(entry.code || "").toUpperCase(), String(entry.name || "").trim()])
   );
-  const minMap = new Map(minArray.map((card) => [`${card.set}#${Number(card.number)}`, card]));
-  const extraMap = new Map(extraArray.map((card) => [`${card.set}#${Number(card.number)}`, card]));
+  const minMap = new Map(
+    minArray.map((card) => [`${String(card.set || "").toUpperCase()}#${Number(card.number)}`, card])
+  );
+  const extraMap = new Map(
+    extraArray.map((card) => [`${String(card.set || "").toUpperCase()}#${Number(card.number)}`, card])
+  );
   const setMetaByCode = new Map(setEntries.map((entry) => [String(entry.code || "").toUpperCase(), entry]));
 
   const outIndex = [];
@@ -191,6 +223,7 @@ async function run() {
         const nome = String(rawCard.nome || min?.name || "").trim();
         const rarityCode = String(min?.rarity || extra?.rarity || "").trim().toUpperCase();
         const formato = inferFormat(nome, stage);
+        const tags = buildFilterTags(stage, formato, rawCard.tags);
 
         return {
           id: buildStableId(code, number ?? 0),
@@ -209,6 +242,7 @@ async function run() {
           promo: /^PROMO-/i.test(code) || normalizeKey(rawCard.raridade) === "promo",
           formato,
           mega: formato === "mega",
+          tags,
           expansao: `${expansionName} (${code})`,
           numero: String(rawCard.numero || "").trim(),
           pacote: buildPackLabel(code, rawCard.pacote, packs),
@@ -216,6 +250,7 @@ async function run() {
           imageUrl: String(rawCard.imageUrl || "").trim(),
           sourceUrl: String(rawCard.sourceUrl || "").trim(),
           custoDeck: safeNumber(rawCard.custoDeck, 0),
+          deckBuilderNr: deckBuilderNrFromImage(min?.image || extra?.image),
           releaseDate: String(setMeta?.releaseDate || "").trim(),
           sourceMeta: {
             setCode: code,

@@ -4,10 +4,10 @@
     "sourceId": "29vnh97pflo89se-petilil",
     "categoria": "Pokemon",
     "nome": "Petilil",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 60,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Bomba de Sementes",
@@ -25,6 +25,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "1 / 103",
     "pacote": "Extradimensional",
@@ -32,13 +35,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007430_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/29vnh97pflo89se-petilil",
     "custoDeck": 1,
+    "deckBuilderNr": 743,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#1",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -47,10 +51,10 @@
     "sourceId": "65d643wel623n77-lilligant",
     "categoria": "Pokemon",
     "nome": "Lilligant",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 110,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Cortar",
@@ -63,12 +67,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "2 / 103",
     "pacote": "Extradimensional",
@@ -76,13 +83,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007440_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/65d643wel623n77-lilligant",
     "custoDeck": 1,
+    "deckBuilderNr": 744,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#2",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -91,10 +99,10 @@
     "sourceId": "508a2e2512tdkel-rowlet",
     "categoria": "Pokemon",
     "nome": "Rowlet",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 60,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ataque de Fúria",
@@ -112,6 +120,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "3 / 103",
     "pacote": "Extradimensional",
@@ -119,13 +130,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007450_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/508a2e2512tdkel-rowlet",
     "custoDeck": 1,
+    "deckBuilderNr": 745,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#3",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -134,10 +146,10 @@
     "sourceId": "t61q216dr068x2t-dartrix",
     "categoria": "Pokemon",
     "nome": "Dartrix",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 80,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [],
     "fraqueza": "Fogo",
     "recuo": 1,
@@ -146,6 +158,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "4 / 103",
     "pacote": "Extradimensional",
@@ -153,13 +168,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007460_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t61q216dr068x2t-dartrix",
     "custoDeck": 1,
+    "deckBuilderNr": 746,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#4",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -168,18 +184,21 @@
     "sourceId": "gm0trc7un8we03k-decidueye",
     "categoria": "Pokemon",
     "nome": "Decidueye",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 130,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [],
     "fraqueza": "Fogo",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "5 / 103",
     "pacote": "Extradimensional",
@@ -187,13 +206,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007470_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gm0trc7un8we03k-decidueye",
     "custoDeck": 3,
+    "deckBuilderNr": 747,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#5",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -202,10 +222,10 @@
     "sourceId": "hv6a58apc277619-buzzwole-ex",
     "categoria": "Pokemon",
     "nome": "Buzzwole ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 140,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Soco",
@@ -218,12 +238,16 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Duplamente Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "6 / 103",
     "pacote": "Extradimensional",
@@ -231,13 +255,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007480_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hv6a58apc277619-buzzwole-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 748,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#6",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -246,10 +271,10 @@
     "sourceId": "zfvw6q4z5p5b1g4-pheromosa",
     "categoria": "Pokemon",
     "nome": "Pheromosa",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 70,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Jump Blues",
@@ -267,6 +292,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "7 / 103",
     "pacote": "Extradimensional",
@@ -274,13 +302,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007490_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zfvw6q4z5p5b1g4-pheromosa",
     "custoDeck": 1,
+    "deckBuilderNr": 749,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#7",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -289,10 +318,10 @@
     "sourceId": "146l55qu6tkjdcc-kartana",
     "categoria": "Pokemon",
     "nome": "Kartana",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 60,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Thrash Metal",
@@ -310,6 +339,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "8 / 103",
     "pacote": "Extradimensional",
@@ -317,13 +349,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007250_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/146l55qu6tkjdcc-kartana",
     "custoDeck": 1,
+    "deckBuilderNr": 725,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#8",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -332,10 +365,10 @@
     "sourceId": "63m26cd89p80204-blacephalon",
     "categoria": "Pokemon",
     "nome": "Blacephalon",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 100,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Beat Punk",
@@ -349,12 +382,15 @@
       }
     ],
     "fraqueza": "Agua",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "9 / 103",
     "pacote": "Extradimensional",
@@ -362,13 +398,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007260_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/63m26cd89p80204-blacephalon",
     "custoDeck": 1,
+    "deckBuilderNr": 726,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#9",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -377,10 +414,10 @@
     "sourceId": "0410gccd7h35765-mantine",
     "categoria": "Pokemon",
     "nome": "Mantine",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 90,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Surfar",
@@ -393,12 +430,15 @@
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "10 / 103",
     "pacote": "Extradimensional",
@@ -406,13 +446,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007500_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0410gccd7h35765-mantine",
     "custoDeck": 1,
+    "deckBuilderNr": 750,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#10",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -421,10 +462,10 @@
     "sourceId": "36ij4i0669ze24d-carvanha",
     "categoria": "Pokemon",
     "nome": "Carvanha",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 60,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Mordida",
@@ -442,6 +483,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "11 / 103",
     "pacote": "Extradimensional",
@@ -449,13 +493,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007510_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/36ij4i0669ze24d-carvanha",
     "custoDeck": 1,
+    "deckBuilderNr": 751,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#11",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -464,10 +509,10 @@
     "sourceId": "y48p8qfhmmbx48u-sharpedo",
     "categoria": "Pokemon",
     "nome": "Sharpedo",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 90,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Mastigada",
@@ -486,6 +531,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "12 / 103",
     "pacote": "Extradimensional",
@@ -493,13 +541,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007520_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y48p8qfhmmbx48u-sharpedo",
     "custoDeck": 1,
+    "deckBuilderNr": 752,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#12",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -508,10 +557,10 @@
     "sourceId": "e80008beh0exl00-shinx",
     "categoria": "Pokemon",
     "nome": "Shinx",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 60,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Mordida",
@@ -529,6 +578,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "13 / 103",
     "pacote": "Extradimensional",
@@ -536,13 +588,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007530_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e80008beh0exl00-shinx",
     "custoDeck": 1,
+    "deckBuilderNr": 753,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#13",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -551,10 +604,10 @@
     "sourceId": "3894yr8ab6udcn3-luxio",
     "categoria": "Pokemon",
     "nome": "Luxio",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 80,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Raio de Cabeça",
@@ -573,6 +626,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "14 / 103",
     "pacote": "Extradimensional",
@@ -580,13 +636,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007540_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3894yr8ab6udcn3-luxio",
     "custoDeck": 1,
+    "deckBuilderNr": 754,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#14",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -595,10 +652,10 @@
     "sourceId": "206fo2t31yejp1v-luxray",
     "categoria": "Pokemon",
     "nome": "Luxray",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 130,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Bola de Eletricidade",
@@ -618,6 +675,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "15 / 103",
     "pacote": "Extradimensional",
@@ -625,13 +685,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007550_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/206fo2t31yejp1v-luxray",
     "custoDeck": 3,
+    "deckBuilderNr": 755,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#15",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -640,10 +701,10 @@
     "sourceId": "5qn92t51fcv20rt-blitzle",
     "categoria": "Pokemon",
     "nome": "Blitzle",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 60,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Chute Traseiro",
@@ -662,6 +723,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "16 / 103",
     "pacote": "Extradimensional",
@@ -669,13 +733,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007560_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5qn92t51fcv20rt-blitzle",
     "custoDeck": 1,
+    "deckBuilderNr": 756,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#16",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -684,10 +749,10 @@
     "sourceId": "769q3i43dbv1mn9-zebstrika",
     "categoria": "Pokemon",
     "nome": "Zebstrika",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 90,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Raio de Cabeça",
@@ -706,6 +771,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "17 / 103",
     "pacote": "Extradimensional",
@@ -713,13 +781,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007570_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/769q3i43dbv1mn9-zebstrika",
     "custoDeck": 1,
+    "deckBuilderNr": 757,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#17",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -728,10 +797,10 @@
     "sourceId": "v0v57983tn4m8af-emolga",
     "categoria": "Pokemon",
     "nome": "Emolga",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 70,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Choque de Estática",
@@ -750,6 +819,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "18 / 103",
     "pacote": "Extradimensional",
@@ -757,13 +829,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007580_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v0v57983tn4m8af-emolga",
     "custoDeck": 1,
+    "deckBuilderNr": 758,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#18",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -772,10 +845,10 @@
     "sourceId": "97prw0637869k65-tapu-koko-ex",
     "categoria": "Pokemon",
     "nome": "Tapu Koko ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 130,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Furacão de Plasma",
@@ -799,11 +872,15 @@
     ],
     "fraqueza": "Luta",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Duplamente Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "19 / 103",
     "pacote": "Extradimensional",
@@ -811,13 +888,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007420_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/97prw0637869k65-tapu-koko-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 742,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#19",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -826,10 +904,10 @@
     "sourceId": "7armbs54q744wl0-xurkitree",
     "categoria": "Pokemon",
     "nome": "Xurkitree",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 100,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Eletrônica",
@@ -843,12 +921,15 @@
       }
     ],
     "fraqueza": "Luta",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "20 / 103",
     "pacote": "Extradimensional",
@@ -856,13 +937,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007270_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7armbs54q744wl0-xurkitree",
     "custoDeck": 1,
+    "deckBuilderNr": 727,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#20",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -871,10 +953,10 @@
     "sourceId": "w5c20331vx804y1-zeraora",
     "categoria": "Pokemon",
     "nome": "Zeraora",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 90,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Garra de Raio",
@@ -893,6 +975,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "21 / 103",
     "pacote": "Extradimensional",
@@ -900,13 +985,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007410_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w5c20331vx804y1-zeraora",
     "custoDeck": 3,
+    "deckBuilderNr": 741,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#21",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -915,10 +1001,10 @@
     "sourceId": "7210792gimw2u14-clefairy",
     "categoria": "Pokemon",
     "nome": "Clefairy",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 60,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Pancada",
@@ -936,6 +1022,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "22 / 103",
     "pacote": "Extradimensional",
@@ -943,13 +1032,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007590_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7210792gimw2u14-clefairy",
     "custoDeck": 1,
+    "deckBuilderNr": 759,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#22",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -958,10 +1048,10 @@
     "sourceId": "9q70g6ah9bkg7n1-clefable",
     "categoria": "Pokemon",
     "nome": "Clefable",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 100,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Chute Lunar",
@@ -980,6 +1070,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "23 / 103",
     "pacote": "Extradimensional",
@@ -987,13 +1080,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007600_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9q70g6ah9bkg7n1-clefable",
     "custoDeck": 1,
+    "deckBuilderNr": 760,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#23",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1002,10 +1096,10 @@
     "sourceId": "gf16dzsw4543xat-phantump",
     "categoria": "Pokemon",
     "nome": "Phantump",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 70,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Tiro Assustador",
@@ -1018,12 +1112,15 @@
       }
     ],
     "fraqueza": "Escuridao",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "24 / 103",
     "pacote": "Extradimensional",
@@ -1031,13 +1128,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007610_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gf16dzsw4543xat-phantump",
     "custoDeck": 1,
+    "deckBuilderNr": 761,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#24",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1046,10 +1144,10 @@
     "sourceId": "n88u5027v24jth3-trevenant",
     "categoria": "Pokemon",
     "nome": "Trevenant",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 120,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Desmoronar",
@@ -1063,12 +1161,15 @@
       }
     ],
     "fraqueza": "Escuridao",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "25 / 103",
     "pacote": "Extradimensional",
@@ -1076,13 +1177,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007620_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/n88u5027v24jth3-trevenant",
     "custoDeck": 1,
+    "deckBuilderNr": 762,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#25",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1091,9 +1193,9 @@
     "sourceId": "7co5ib49197wni9-morelull",
     "categoria": "Pokemon",
     "nome": "Morelull",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "hp": 50,
     "ataque": [
       {
@@ -1112,6 +1214,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "26 / 103",
     "pacote": "Extradimensional",
@@ -1119,13 +1224,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007630_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7co5ib49197wni9-morelull",
     "custoDeck": 1,
+    "deckBuilderNr": 763,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#26",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1134,10 +1240,10 @@
     "sourceId": "1k420u663a4gw6c-shiinotic",
     "categoria": "Pokemon",
     "nome": "Shiinotic",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 90,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Tapinha",
@@ -1150,12 +1256,15 @@
       }
     ],
     "fraqueza": "Metal",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "27 / 103",
     "pacote": "Extradimensional",
@@ -1163,13 +1272,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007640_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1k420u663a4gw6c-shiinotic",
     "custoDeck": 3,
+    "deckBuilderNr": 764,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#27",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1178,10 +1288,10 @@
     "sourceId": "j295tbc36b1uonl-meditite",
     "categoria": "Pokemon",
     "nome": "Meditite",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 60,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Tropeção",
@@ -1199,6 +1309,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "28 / 103",
     "pacote": "Extradimensional",
@@ -1206,13 +1319,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007650_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j295tbc36b1uonl-meditite",
     "custoDeck": 1,
+    "deckBuilderNr": 765,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#28",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1221,10 +1335,10 @@
     "sourceId": "f3g3m679d205in5-medicham",
     "categoria": "Pokemon",
     "nome": "Medicham",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 90,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Chute de Pulo Alto",
@@ -1236,12 +1350,15 @@
       }
     ],
     "fraqueza": "Psiquico",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "29 / 103",
     "pacote": "Extradimensional",
@@ -1249,13 +1366,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007660_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f3g3m679d205in5-medicham",
     "custoDeck": 1,
+    "deckBuilderNr": 766,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#29",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1264,10 +1382,10 @@
     "sourceId": "3lji1e6w80ucypf-baltoy",
     "categoria": "Pokemon",
     "nome": "Baltoy",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 60,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ataque Giratório",
@@ -1279,13 +1397,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "30 / 103",
     "pacote": "Extradimensional",
@@ -1293,13 +1414,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007670_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3lji1e6w80ucypf-baltoy",
     "custoDeck": 1,
+    "deckBuilderNr": 767,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#30",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1308,18 +1430,21 @@
     "sourceId": "5mzw931q6559t55-claydol",
     "categoria": "Pokemon",
     "nome": "Claydol",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 100,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [],
-    "fraqueza": "Planta",
-    "recuo": 2,
+    "fraqueza": "Psiquico",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "31 / 103",
     "pacote": "Extradimensional",
@@ -1327,13 +1452,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007680_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5mzw931q6559t55-claydol",
     "custoDeck": 1,
+    "deckBuilderNr": 768,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#31",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1342,10 +1468,10 @@
     "sourceId": "u22wmr4x33hsgc0-rockruff",
     "categoria": "Pokemon",
     "nome": "Rockruff",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 60,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Lançamento de Rocha",
@@ -1357,13 +1483,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "32 / 103",
     "pacote": "Extradimensional",
@@ -1371,13 +1500,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007690_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u22wmr4x33hsgc0-rockruff",
     "custoDeck": 1,
+    "deckBuilderNr": 769,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#32",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1386,10 +1516,10 @@
     "sourceId": "sz1912e0ii121q9-lycanroc-ex",
     "categoria": "Pokemon",
     "nome": "Lycanroc ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 150,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Lycanino",
@@ -1402,13 +1532,17 @@
         "efeito": "Discard a Fighting Energy from this Pokémon"
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 2,
-    "raridade": "Rara",
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Duplamente Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "33 / 103",
     "pacote": "Extradimensional",
@@ -1416,13 +1550,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007700_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sz1912e0ii121q9-lycanroc-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 770,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#33",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1431,10 +1566,10 @@
     "sourceId": "92r706h391248p8-passimian",
     "categoria": "Pokemon",
     "nome": "Passimian",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 100,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Joga Junto",
@@ -1447,13 +1582,16 @@
         "efeito": "If Passimian is on your Bench, this attack does 40 more damage"
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "34 / 103",
     "pacote": "Extradimensional",
@@ -1461,13 +1599,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007710_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/92r706h391248p8-passimian",
     "custoDeck": 1,
+    "deckBuilderNr": 771,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#34",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1476,10 +1615,10 @@
     "sourceId": "n82s0bc4v891a42-sandygast",
     "categoria": "Pokemon",
     "nome": "Sandygast",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 80,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Tiro de Areia",
@@ -1491,13 +1630,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 2,
+    "fraqueza": "Psiquico",
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "35 / 103",
     "pacote": "Extradimensional",
@@ -1505,13 +1647,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007720_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/n82s0bc4v891a42-sandygast",
     "custoDeck": 1,
+    "deckBuilderNr": 772,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#35",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1520,10 +1663,10 @@
     "sourceId": "c13y0tpttzb4497-palossand",
     "categoria": "Pokemon",
     "nome": "Palossand",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 130,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Fosso de Areia",
@@ -1537,13 +1680,16 @@
         "efeito": "During your opponent's next turn, the Defending Pokémon can't retreat"
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 3,
+    "fraqueza": "Psiquico",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "36 / 103",
     "pacote": "Extradimensional",
@@ -1551,13 +1697,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007730_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c13y0tpttzb4497-palossand",
     "custoDeck": 1,
+    "deckBuilderNr": 773,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#36",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1566,18 +1713,21 @@
     "sourceId": "tax5s5a8nyb740b-alolan-meowth",
     "categoria": "Pokemon",
     "nome": "Meowth de Alola",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 60,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [],
-    "fraqueza": "Planta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "37 / 103",
     "pacote": "Extradimensional",
@@ -1585,13 +1735,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007740_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tax5s5a8nyb740b-alolan-meowth",
     "custoDeck": 1,
+    "deckBuilderNr": 774,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#37",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1600,10 +1751,10 @@
     "sourceId": "4h0g44sk770x034-alolan-persian",
     "categoria": "Pokemon",
     "nome": "Persian de Alola",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 100,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Fingimento",
@@ -1615,13 +1766,16 @@
         "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "38 / 103",
     "pacote": "Extradimensional",
@@ -1629,13 +1783,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007750_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4h0g44sk770x034-alolan-persian",
     "custoDeck": 1,
+    "deckBuilderNr": 775,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#38",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1644,10 +1799,10 @@
     "sourceId": "43r9f6538vpmi98-sandile",
     "categoria": "Pokemon",
     "nome": "Sandile",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 70,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Mordida",
@@ -1658,13 +1813,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 2,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "39 / 103",
     "pacote": "Extradimensional",
@@ -1672,13 +1830,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007760_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/43r9f6538vpmi98-sandile",
     "custoDeck": 1,
+    "deckBuilderNr": 776,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#39",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1687,10 +1846,10 @@
     "sourceId": "jmzs69684wb1o4d-krokorok",
     "categoria": "Pokemon",
     "nome": "Krokorok",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 90,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Soco de Luz",
@@ -1702,13 +1861,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 2,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "40 / 103",
     "pacote": "Extradimensional",
@@ -1716,13 +1878,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007770_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jmzs69684wb1o4d-krokorok",
     "custoDeck": 1,
+    "deckBuilderNr": 777,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#40",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1731,10 +1894,10 @@
     "sourceId": "309643l85dw48y8-krookodile",
     "categoria": "Pokemon",
     "nome": "Krookodile",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 140,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Presas de Extração",
@@ -1747,13 +1910,16 @@
         "efeito": "Flip 3 coins. For each heads, a card is chosen at random from your opponent's hand. Your opponent reveals that card and shuffles it intot heir deck"
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 3,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "41 / 103",
     "pacote": "Extradimensional",
@@ -1761,13 +1927,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007780_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/309643l85dw48y8-krookodile",
     "custoDeck": 1,
+    "deckBuilderNr": 778,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#41",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1776,10 +1943,10 @@
     "sourceId": "405b4vv7y658avu-nihilego",
     "categoria": "Pokemon",
     "nome": "Nihilego",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 70,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "New Wave",
@@ -1791,13 +1958,16 @@
         "efeito": "Your opponent's Active Pokémon is now Poisoned"
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "42 / 103",
     "pacote": "Extradimensional",
@@ -1805,13 +1975,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007790_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/405b4vv7y658avu-nihilego",
     "custoDeck": 3,
+    "deckBuilderNr": 779,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#42",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1820,10 +1991,10 @@
     "sourceId": "75usn36xd77060p-guzzlord-ex",
     "categoria": "Pokemon",
     "nome": "Guzzlord ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 170,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Grindcore",
@@ -1846,13 +2017,17 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 4,
-    "raridade": "Rara",
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Duplamente Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "43 / 103",
     "pacote": "Extradimensional",
@@ -1860,13 +2035,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007800_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/75usn36xd77060p-guzzlord-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 780,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#43",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1875,10 +2051,10 @@
     "sourceId": "oo820rhj0dfmhn7-poipole",
     "categoria": "Pokemon",
     "nome": "Poipole",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 60,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "2-Step",
@@ -1889,13 +2065,16 @@
         "efeito": "Flip 2 coins. This attack does 20 damage for each heads"
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "44 / 103",
     "pacote": "Extradimensional",
@@ -1903,13 +2082,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007370_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oo820rhj0dfmhn7-poipole",
     "custoDeck": 1,
+    "deckBuilderNr": 737,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#44",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1918,10 +2098,10 @@
     "sourceId": "x983zd0z6f773w8-naganadel",
     "categoria": "Pokemon",
     "nome": "Naganadel",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 100,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Electro House",
@@ -1932,13 +2112,16 @@
         "efeito": "Your opponent's Active Pokémon is now Poisoned"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 2,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "45 / 103",
     "pacote": "Extradimensional",
@@ -1946,13 +2129,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007810_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x983zd0z6f773w8-naganadel",
     "custoDeck": 3,
+    "deckBuilderNr": 781,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#45",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1961,10 +2145,10 @@
     "sourceId": "9meusfgzgpz8781-alolan-diglett",
     "categoria": "Pokemon",
     "nome": "Diglett de Alola",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 60,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Cabeçada por Acaso",
@@ -1982,6 +2166,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "46 / 103",
     "pacote": "Extradimensional",
@@ -1989,13 +2176,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007820_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9meusfgzgpz8781-alolan-diglett",
     "custoDeck": 1,
+    "deckBuilderNr": 782,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#46",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2004,10 +2192,10 @@
     "sourceId": "7zcq78bl48lfb36-alolan-dugtrio-ex",
     "categoria": "Pokemon",
     "nome": "Dugtrio de Alola ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 130,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Cabeçada em Trio",
@@ -2021,11 +2209,15 @@
     ],
     "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Duplamente Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "47 / 103",
     "pacote": "Extradimensional",
@@ -2033,13 +2225,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007830_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7zcq78bl48lfb36-alolan-dugtrio-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 783,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#47",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2048,10 +2241,10 @@
     "sourceId": "ji8396r2n6z4dww-aron",
     "categoria": "Pokemon",
     "nome": "Aron",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 70,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Cabeçada",
@@ -2064,12 +2257,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "48 / 103",
     "pacote": "Extradimensional",
@@ -2077,13 +2273,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007840_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ji8396r2n6z4dww-aron",
     "custoDeck": 1,
+    "deckBuilderNr": 784,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#48",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2092,10 +2289,10 @@
     "sourceId": "148v2o6k0kjn88e-lairon",
     "categoria": "Pokemon",
     "nome": "Lairon",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 100,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Bote",
@@ -2109,12 +2306,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 3,
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "49 / 103",
     "pacote": "Extradimensional",
@@ -2122,13 +2322,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007850_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/148v2o6k0kjn88e-lairon",
     "custoDeck": 1,
+    "deckBuilderNr": 785,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#49",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2137,10 +2338,10 @@
     "sourceId": "y1w775pen183f30-aggron",
     "categoria": "Pokemon",
     "nome": "Aggron",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 160,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Gigaimpacto",
@@ -2155,12 +2356,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 4,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "50 / 103",
     "pacote": "Extradimensional",
@@ -2168,13 +2372,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007860_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y1w775pen183f30-aggron",
     "custoDeck": 1,
+    "deckBuilderNr": 786,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#50",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2183,10 +2388,10 @@
     "sourceId": "pk72gkl90ub2ne5-ferroseed",
     "categoria": "Pokemon",
     "nome": "Ferroseed",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 60,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ferroada de Espinhos",
@@ -2199,12 +2404,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "51 / 103",
     "pacote": "Extradimensional",
@@ -2212,13 +2420,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007870_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pk72gkl90ub2ne5-ferroseed",
     "custoDeck": 1,
+    "deckBuilderNr": 787,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#51",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2227,10 +2436,10 @@
     "sourceId": "64t81g4ev0r6417-ferrothorn",
     "categoria": "Pokemon",
     "nome": "Ferrothorn",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 110,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ataque Giratório",
@@ -2244,12 +2453,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 3,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "52 / 103",
     "pacote": "Extradimensional",
@@ -2257,13 +2469,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007880_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/64t81g4ev0r6417-ferrothorn",
     "custoDeck": 1,
+    "deckBuilderNr": 788,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#52",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2272,10 +2485,10 @@
     "sourceId": "mk1mhi0wc58ao4g-stakataka",
     "categoria": "Pokemon",
     "nome": "Stakataka",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 110,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Brass Rock",
@@ -2288,12 +2501,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 3,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "53 / 103",
     "pacote": "Extradimensional",
@@ -2301,13 +2517,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007300_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mk1mhi0wc58ao4g-stakataka",
     "custoDeck": 1,
+    "deckBuilderNr": 730,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#53",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2316,10 +2533,10 @@
     "sourceId": "34l03myb9lmu4w0-lillipup",
     "categoria": "Pokemon",
     "nome": "Lillipup",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 60,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Investida",
@@ -2330,13 +2547,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "54 / 103",
     "pacote": "Extradimensional",
@@ -2344,13 +2564,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007890_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/34l03myb9lmu4w0-lillipup",
     "custoDeck": 1,
+    "deckBuilderNr": 789,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#54",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2359,10 +2580,10 @@
     "sourceId": "fp4te5id3p412e1-herdier",
     "categoria": "Pokemon",
     "nome": "Herdier",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 80,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Mordida",
@@ -2373,13 +2594,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "55 / 103",
     "pacote": "Extradimensional",
@@ -2387,13 +2611,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007900_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fp4te5id3p412e1-herdier",
     "custoDeck": 1,
+    "deckBuilderNr": 790,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#55",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2402,18 +2627,21 @@
     "sourceId": "85r33pognf12149-stoutland",
     "categoria": "Pokemon",
     "nome": "Stoutland",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 140,
+    "hp": 50,
     "ataque": [],
-    "fraqueza": "Luta",
-    "recuo": 2,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "56 / 103",
     "pacote": "Extradimensional",
@@ -2421,13 +2649,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007910_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/85r33pognf12149-stoutland",
     "custoDeck": 1,
+    "deckBuilderNr": 791,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#56",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2436,10 +2665,10 @@
     "sourceId": "nx25992jo69hga9-stufful",
     "categoria": "Pokemon",
     "nome": "Stufful",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 70,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Aríete",
@@ -2451,13 +2680,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 2,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "57 / 103",
     "pacote": "Extradimensional",
@@ -2465,13 +2697,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007920_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nx25992jo69hga9-stufful",
     "custoDeck": 1,
+    "deckBuilderNr": 738,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#57",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2480,18 +2713,21 @@
     "sourceId": "cuv8i1sgr6g66a4-bewear",
     "categoria": "Pokemon",
     "nome": "Bewear",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 120,
+    "hp": 50,
     "ataque": [],
-    "fraqueza": "Luta",
-    "recuo": 3,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "58 / 103",
     "pacote": "Extradimensional",
@@ -2499,13 +2735,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007930_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cuv8i1sgr6g66a4-bewear",
     "custoDeck": 1,
+    "deckBuilderNr": 792,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#58",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2514,10 +2751,10 @@
     "sourceId": "1c1z5l4rf24wh9g-oranguru",
     "categoria": "Pokemon",
     "nome": "Oranguru",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 100,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Martelada",
@@ -2530,13 +2767,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 2,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "59 / 103",
     "pacote": "Extradimensional",
@@ -2544,13 +2784,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007940_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1c1z5l4rf24wh9g-oranguru",
     "custoDeck": 1,
+    "deckBuilderNr": 793,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#59",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2559,10 +2800,10 @@
     "sourceId": "ac21ia93x22627f-type-null",
     "categoria": "Pokemon",
     "nome": "Tipo Nulo",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 80,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Golpe Rápido",
@@ -2573,13 +2814,16 @@
         "efeito": "Flip a coin. If heads, this attack does 20 more damage"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 2,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "60 / 103",
     "pacote": "Extradimensional",
@@ -2587,13 +2831,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007820_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ac21ia93x22627f-type-null",
     "custoDeck": 1,
+    "deckBuilderNr": 794,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#60",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2602,10 +2847,10 @@
     "sourceId": "n67wu2s55z048a9-silvally",
     "categoria": "Pokemon",
     "nome": "Silvally",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 110,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Bravos Amigos",
@@ -2617,13 +2862,16 @@
         "efeito": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage"
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "61 / 103",
     "pacote": "Extradimensional",
@@ -2631,13 +2879,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007950_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/n67wu2s55z048a9-silvally",
     "custoDeck": 3,
+    "deckBuilderNr": 795,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#61",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2646,10 +2895,10 @@
     "sourceId": "a3gnp12x5v33020-celesteela",
     "categoria": "Pokemon",
     "nome": "Celesteela",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 120,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Moombahton",
@@ -2662,13 +2911,16 @@
         "efeito": "Flip a coin. If tails, this attack does nothing"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 4,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "62 / 103",
     "pacote": "Extradimensional",
@@ -2676,13 +2928,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007960_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a3gnp12x5v33020-celesteela",
     "custoDeck": 3,
+    "deckBuilderNr": 796,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#62",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2703,6 +2956,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "63 / 103",
     "pacote": "Extradimensional",
@@ -2710,13 +2966,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_10_000600_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k64t1xu3t2tb023-beast-wall",
     "custoDeck": 1,
+    "deckBuilderNr": 1000060,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#63",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2737,6 +2994,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "64 / 103",
     "pacote": "Extradimensional",
@@ -2744,13 +3004,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_10_000610_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v3l7ea79zk3yv5t-repel",
     "custoDeck": 1,
+    "deckBuilderNr": 1000061,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#64",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2771,6 +3032,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "65 / 103",
     "pacote": "Extradimensional",
@@ -2778,13 +3042,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_10_000620_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q9vx921f926493c-electrical-cord",
     "custoDeck": 1,
+    "deckBuilderNr": 1000062,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#65",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2805,6 +3070,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "66 / 103",
     "pacote": "Extradimensional",
@@ -2812,13 +3080,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_10_000630_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a9i1p6tcjhi99vw-beastite",
     "custoDeck": 1,
+    "deckBuilderNr": 1000063,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#66",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2839,6 +3108,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "67 / 103",
     "pacote": "Extradimensional",
@@ -2846,13 +3118,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_10_000640_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yelg81s51w096fo-gladion",
     "custoDeck": 1,
+    "deckBuilderNr": 1000064,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#67",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2873,6 +3146,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "68 / 103",
     "pacote": "Extradimensional",
@@ -2880,13 +3156,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_10_000650_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tfl4wd89mj7y91a-looker",
     "custoDeck": 1,
+    "deckBuilderNr": 1000065,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#68",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2907,6 +3184,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "69 / 103",
     "pacote": "Extradimensional",
@@ -2914,13 +3194,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_10_000660_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z8p60q67wa4r219-lusamine",
     "custoDeck": 1,
+    "deckBuilderNr": 1000066,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#69",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2929,10 +3210,10 @@
     "sourceId": "x0un1t77c6gr7fv-rowlet",
     "categoria": "Pokemon",
     "nome": "Rowlet",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 60,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ataque de Fúria",
@@ -2945,11 +3226,14 @@
     ],
     "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "70 / 103",
     "pacote": "Extradimensional",
@@ -2957,13 +3241,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007450_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x0un1t77c6gr7fv-rowlet",
     "custoDeck": 8,
+    "deckBuilderNr": 745,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#70",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2972,10 +3257,10 @@
     "sourceId": "82wybizfr9nv3eb-pheromosa",
     "categoria": "Pokemon",
     "nome": "Pheromosa",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 70,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Jump Blues",
@@ -2988,11 +3273,14 @@
     ],
     "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "71 / 103",
     "pacote": "Extradimensional",
@@ -3000,13 +3288,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007490_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/82wybizfr9nv3eb-pheromosa",
     "custoDeck": 8,
+    "deckBuilderNr": 749,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#71",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3015,10 +3304,10 @@
     "sourceId": "l828bhl08c44z84-blacephalon",
     "categoria": "Pokemon",
     "nome": "Blacephalon",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 100,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Beat Punk",
@@ -3032,12 +3321,15 @@
       }
     ],
     "fraqueza": "Agua",
-    "recuo": 2,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "72 / 103",
     "pacote": "Extradimensional",
@@ -3045,13 +3337,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007260_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l828bhl08c44z84-blacephalon",
     "custoDeck": 8,
+    "deckBuilderNr": 726,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#72",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3060,18 +3353,21 @@
     "sourceId": "49i7873045bjuy5-alolan-meowth",
     "categoria": "Pokemon",
     "nome": "Meowth de Alola",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 60,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [],
-    "fraqueza": "Planta",
+    "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "73 / 103",
     "pacote": "Extradimensional",
@@ -3079,13 +3375,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007740_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/49i7873045bjuy5-alolan-meowth",
     "custoDeck": 8,
+    "deckBuilderNr": 774,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#73",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3094,10 +3391,10 @@
     "sourceId": "vm4873y366earh9-silvally",
     "categoria": "Pokemon",
     "nome": "Silvally",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 110,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Bravos Amigos",
@@ -3109,13 +3406,16 @@
         "efeito": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage"
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "74 / 103",
     "pacote": "Extradimensional",
@@ -3123,13 +3423,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007950_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vm4873y366earh9-silvally",
     "custoDeck": 8,
+    "deckBuilderNr": 795,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#74",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3138,10 +3439,10 @@
     "sourceId": "5d2wcbslnm45uo1-celesteela",
     "categoria": "Pokemon",
     "nome": "Celesteela",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 120,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Moombahton",
@@ -3154,13 +3455,16 @@
         "efeito": "Flip a coin. If tails, this attack does nothing"
       }
     ],
-    "fraqueza": "Raio",
-    "recuo": 4,
-    "raridade": "Rara",
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "75 / 103",
     "pacote": "Extradimensional",
@@ -3168,13 +3472,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007960_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5d2wcbslnm45uo1-celesteela",
     "custoDeck": 8,
+    "deckBuilderNr": 796,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#75",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3183,10 +3488,10 @@
     "sourceId": "u2m1m9n60j2iuoo-buzzwole-ex",
     "categoria": "Pokemon",
     "nome": "Buzzwole ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 140,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Soco",
@@ -3199,12 +3504,16 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "76 / 103",
     "pacote": "Extradimensional",
@@ -3212,13 +3521,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007480_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u2m1m9n60j2iuoo-buzzwole-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 748,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#76",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3227,10 +3537,10 @@
     "sourceId": "0m1a4c43dhg86w5-tapu-koko-ex",
     "categoria": "Pokemon",
     "nome": "Tapu Koko ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 130,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Furacão de Plasma",
@@ -3254,11 +3564,15 @@
     ],
     "fraqueza": "Luta",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "77 / 103",
     "pacote": "Extradimensional",
@@ -3266,13 +3580,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007420_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0m1a4c43dhg86w5-tapu-koko-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 742,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#77",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3281,10 +3596,10 @@
     "sourceId": "52s779n26vz2150-lycanroc-ex",
     "categoria": "Pokemon",
     "nome": "Lycanroc ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 150,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Lycanino",
@@ -3297,13 +3612,17 @@
         "efeito": "Discard a Fighting Energy from this Pokémon"
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 2,
-    "raridade": "Rara",
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "78 / 103",
     "pacote": "Extradimensional",
@@ -3311,13 +3630,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007700_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/52s779n26vz2150-lycanroc-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 770,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#78",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3326,10 +3646,10 @@
     "sourceId": "8ft2ly9iyui540g-guzzlord-ex",
     "categoria": "Pokemon",
     "nome": "Guzzlord ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 170,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Grindcore",
@@ -3352,13 +3672,17 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 4,
-    "raridade": "Rara",
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "79 / 103",
     "pacote": "Extradimensional",
@@ -3366,13 +3690,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007800_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8ft2ly9iyui540g-guzzlord-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 780,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#79",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3381,10 +3706,10 @@
     "sourceId": "140zu0766vdaf0z-alolan-dugtrio-ex",
     "categoria": "Pokemon",
     "nome": "Dugtrio de Alola ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 130,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Cabeçada em Trio",
@@ -3398,11 +3723,15 @@
     ],
     "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "80 / 103",
     "pacote": "Extradimensional",
@@ -3410,13 +3739,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007830_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/140zu0766vdaf0z-alolan-dugtrio-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 783,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#80",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3432,11 +3762,14 @@
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "81 / 103",
     "pacote": "Extradimensional",
@@ -3444,13 +3777,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_20_000640_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/448x246m9whe1k6-gladion",
     "custoDeck": 8,
+    "deckBuilderNr": 1000064,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#81",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3466,11 +3800,14 @@
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "82 / 103",
     "pacote": "Extradimensional",
@@ -3478,13 +3815,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_20_000650_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hfyk52u91d5pr5i-looker",
     "custoDeck": 8,
+    "deckBuilderNr": 1000065,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#82",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3500,11 +3838,14 @@
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "83 / 103",
     "pacote": "Extradimensional",
@@ -3512,13 +3853,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_20_000660_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/31x22i8bu5q4mg4-lusamine",
     "custoDeck": 8,
+    "deckBuilderNr": 1000066,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#83",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3527,10 +3869,10 @@
     "sourceId": "a9i619391z9jonl-tapu-koko-ex",
     "categoria": "Pokemon",
     "nome": "Tapu Koko ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 130,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Furacão de Plasma",
@@ -3554,11 +3896,15 @@
     ],
     "fraqueza": "Luta",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Arte Especial Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "84 / 103",
     "pacote": "Extradimensional",
@@ -3566,13 +3912,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007420_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a9i619391z9jonl-tapu-koko-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 742,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#84",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3581,10 +3928,10 @@
     "sourceId": "l3542578604cv1b-lycanroc-ex",
     "categoria": "Pokemon",
     "nome": "Lycanroc ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 150,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Lycanino",
@@ -3597,13 +3944,17 @@
         "efeito": "Discard a Fighting Energy from this Pokémon"
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 2,
-    "raridade": "Rara",
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "85 / 103",
     "pacote": "Extradimensional",
@@ -3611,13 +3962,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007700_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l3542578604cv1b-lycanroc-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 770,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#85",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3626,10 +3978,10 @@
     "sourceId": "0gpn62g995z2i8c-guzzlord-ex",
     "categoria": "Pokemon",
     "nome": "Guzzlord ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 170,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Grindcore",
@@ -3652,13 +4004,17 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 4,
-    "raridade": "Rara",
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "86 / 103",
     "pacote": "Extradimensional",
@@ -3666,13 +4022,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007800_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0gpn62g995z2i8c-guzzlord-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 780,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#86",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3681,10 +4038,10 @@
     "sourceId": "94z609zkkrw8o91-alolan-dugtrio-ex",
     "categoria": "Pokemon",
     "nome": "Dugtrio de Alola ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 130,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Cabeçada em Trio",
@@ -3698,11 +4055,15 @@
     ],
     "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Arte Especial Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "87 / 103",
     "pacote": "Extradimensional",
@@ -3710,13 +4071,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007830_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/94z609zkkrw8o91-alolan-dugtrio-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 783,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#87",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3725,10 +4087,10 @@
     "sourceId": "0c0pwd87tm3i568-buzzwole-ex",
     "categoria": "Pokemon",
     "nome": "Buzzwole ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 140,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Soco",
@@ -3741,12 +4103,16 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Raro Imersivo",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "88 / 103",
     "pacote": "Extradimensional",
@@ -3754,13 +4120,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007480_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0c0pwd87tm3i568-buzzwole-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 748,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#88",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3769,10 +4136,10 @@
     "sourceId": "829slfb0j8w5l4g-growlithe",
     "categoria": "Pokemon",
     "nome": "Growlithe",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 70,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Mordida",
@@ -3786,11 +4153,14 @@
     ],
     "fraqueza": "Agua",
     "recuo": 1,
-    "raridade": "Ultra Rara",
+    "raridade": "Raro Brilhante",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "89 / 103",
     "pacote": "Extradimensional",
@@ -3798,13 +4168,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_000390_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/829slfb0j8w5l4g-growlithe",
     "custoDeck": 2,
+    "deckBuilderNr": 39,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#89",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3813,10 +4184,10 @@
     "sourceId": "4lyl584d151yl05-arcanine",
     "categoria": "Pokemon",
     "nome": "Arcanine",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 130,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Golpe de Colisão Aquecido",
@@ -3830,12 +4201,15 @@
       }
     ],
     "fraqueza": "Agua",
-    "recuo": 2,
-    "raridade": "Ultra Rara",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "90 / 103",
     "pacote": "Extradimensional",
@@ -3843,13 +4217,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_000400_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4lyl584d151yl05-arcanine",
     "custoDeck": 2,
+    "deckBuilderNr": 40,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#90",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3858,10 +4233,10 @@
     "sourceId": "aus1jx6w62p0738-froakie",
     "categoria": "Pokemon",
     "nome": "Froakie",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 60,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Baque",
@@ -3875,11 +4250,14 @@
     ],
     "fraqueza": "Raio",
     "recuo": 1,
-    "raridade": "Ultra Rara",
+    "raridade": "Raro Brilhante",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "91 / 103",
     "pacote": "Extradimensional",
@@ -3887,13 +4265,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_000870_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aus1jx6w62p0738-froakie",
     "custoDeck": 2,
+    "deckBuilderNr": 87,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#91",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3902,10 +4281,10 @@
     "sourceId": "h669ruuu46jpta8-frogadier",
     "categoria": "Pokemon",
     "nome": "Frogadier",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 80,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Gotejo",
@@ -3919,11 +4298,14 @@
     ],
     "fraqueza": "Raio",
     "recuo": 1,
-    "raridade": "Ultra Rara",
+    "raridade": "Raro Brilhante",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "92 / 103",
     "pacote": "Extradimensional",
@@ -3931,13 +4313,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_000880_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h669ruuu46jpta8-frogadier",
     "custoDeck": 2,
+    "deckBuilderNr": 88,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#92",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3946,10 +4329,10 @@
     "sourceId": "5di1ml4z77h10r0-greninja",
     "categoria": "Pokemon",
     "nome": "Greninja",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 120,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Golpe de Névoa",
@@ -3963,11 +4346,14 @@
     ],
     "fraqueza": "Raio",
     "recuo": 1,
-    "raridade": "Ultra Rara",
+    "raridade": "Raro Brilhante",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "93 / 103",
     "pacote": "Extradimensional",
@@ -3975,13 +4361,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_000890_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5di1ml4z77h10r0-greninja",
     "custoDeck": 2,
+    "deckBuilderNr": 89,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#93",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3990,10 +4377,10 @@
     "sourceId": "9yf5h7n0so424a0-jynx",
     "categoria": "Pokemon",
     "nome": "Jynx",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 80,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Psíquico",
@@ -4007,11 +4394,14 @@
     ],
     "fraqueza": "Escuridao",
     "recuo": 1,
-    "raridade": "Ultra Rara",
+    "raridade": "Raro Brilhante",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "94 / 103",
     "pacote": "Extradimensional",
@@ -4019,13 +4409,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_001270_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9yf5h7n0so424a0-jynx",
     "custoDeck": 2,
+    "deckBuilderNr": 127,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#94",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4034,10 +4425,10 @@
     "sourceId": "hzbuhc9st75679h-pidgey",
     "categoria": "Pokemon",
     "nome": "Pidgey",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 60,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Lufada de Vento",
@@ -4048,13 +4439,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Ultra Rara",
+    "raridade": "Raro Brilhante",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "95 / 103",
     "pacote": "Extradimensional",
@@ -4062,13 +4456,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_001860_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hzbuhc9st75679h-pidgey",
     "custoDeck": 2,
+    "deckBuilderNr": 186,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#95",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4077,10 +4472,10 @@
     "sourceId": "1279a821qw99yob-pidgeotto",
     "categoria": "Pokemon",
     "nome": "Pidgeotto",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 80,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Lufada de Vento",
@@ -4091,13 +4486,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Ultra Rara",
+    "raridade": "Raro Brilhante",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "96 / 103",
     "pacote": "Extradimensional",
@@ -4105,13 +4503,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_001870_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1279a821qw99yob-pidgeotto",
     "custoDeck": 2,
+    "deckBuilderNr": 187,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#96",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4120,10 +4519,10 @@
     "sourceId": "ajo5xz74n2ibywe-pidgeot",
     "categoria": "Pokemon",
     "nome": "Pidgeot",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 130,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ataque de Asa",
@@ -4135,13 +4534,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Ultra Rara",
+    "raridade": "Raro Brilhante",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "97 / 103",
     "pacote": "Extradimensional",
@@ -4149,13 +4551,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_001880_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ajo5xz74n2ibywe-pidgeot",
     "custoDeck": 2,
+    "deckBuilderNr": 188,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#97",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4164,18 +4567,21 @@
     "sourceId": "m4fqdl118727p10-aerodactyl",
     "categoria": "Pokemon",
     "nome": "Aerodactyl",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Incolor",
-    "hp": 100,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [],
-    "fraqueza": "Raio",
+    "fraqueza": "Psiquico",
     "recuo": 1,
-    "raridade": "Ultra Rara",
+    "raridade": "Raro Brilhante",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "98 / 103",
     "pacote": "Extradimensional",
@@ -4183,13 +4589,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_002080_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m4fqdl118727p10-aerodactyl",
     "custoDeck": 2,
+    "deckBuilderNr": 208,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#98",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4198,10 +4605,10 @@
     "sourceId": "r89vun941j1f3mc-celebi-ex",
     "categoria": "Pokemon",
     "nome": "Celebi ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 130,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Florescer Poderoso",
@@ -4215,11 +4622,15 @@
     ],
     "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Ultra Rara",
+    "raridade": "Duplo Brilhante Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "99 / 103",
     "pacote": "Extradimensional",
@@ -4227,13 +4638,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_002170_02_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r89vun941j1f3mc-celebi-ex",
     "custoDeck": 2,
+    "deckBuilderNr": 217,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#99",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4242,10 +4654,10 @@
     "sourceId": "7cx4jl06gn3y702-arcanine-ex",
     "categoria": "Pokemon",
     "nome": "Arcanine ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 150,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Investida Infernal",
@@ -4259,12 +4671,16 @@
       }
     ],
     "fraqueza": "Agua",
-    "recuo": 2,
-    "raridade": "Ultra Rara",
+    "recuo": 1,
+    "raridade": "Duplo Brilhante Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "100 / 103",
     "pacote": "Extradimensional",
@@ -4272,13 +4688,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_000410_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7cx4jl06gn3y702-arcanine-ex",
     "custoDeck": 2,
+    "deckBuilderNr": 41,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#100",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4287,10 +4704,10 @@
     "sourceId": "387qh6d26ih92xf-aerodactyl-ex",
     "categoria": "Pokemon",
     "nome": "Aerodactyl ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Incolor",
-    "hp": 140,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Aperto de Terra",
@@ -4302,13 +4719,17 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Psiquico",
     "recuo": 1,
-    "raridade": "Ultra Rara",
+    "raridade": "Duplo Brilhante Raro",
     "habilidade": true,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "101 / 103",
     "pacote": "Extradimensional",
@@ -4316,13 +4737,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_002590_02_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/387qh6d26ih92xf-aerodactyl-ex",
     "custoDeck": 2,
+    "deckBuilderNr": 259,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#101",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4331,10 +4753,10 @@
     "sourceId": "0dw3116n4ika27q-pidgeot-ex",
     "categoria": "Pokemon",
     "nome": "Pidgeot ex",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 170,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ciclone Disperso",
@@ -4347,13 +4769,17 @@
         "efeito": "This attack does 20 more damge for each of your opponent's Benched Pokémon"
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Ultra Rara",
+    "raridade": "Duplo Brilhante Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "2",
+      "ex"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "102 / 103",
     "pacote": "Extradimensional",
@@ -4361,13 +4787,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_002720_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0dw3116n4ika27q-pidgeot-ex",
     "custoDeck": 2,
+    "deckBuilderNr": 272,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#102",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4376,10 +4803,10 @@
     "sourceId": "3r7h89y63qrr303-nihilego",
     "categoria": "Pokemon",
     "nome": "Nihilego",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 70,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "New Wave",
@@ -4391,13 +4818,16 @@
         "efeito": "Your opponent's Active Pokémon is now Poisoned"
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Ultra Rara",
+    "raridade": "Coroa Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "103 / 103",
     "pacote": "Extradimensional",
@@ -4405,13 +4835,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007790_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3r7h89y63qrr303-nihilego",
     "custoDeck": 8,
+    "deckBuilderNr": 779,
     "releaseDate": "2025-05-29",
     "sourceMeta": {
       "setCode": "A3A",
       "series": "a",
       "matchKey": "A3A#103",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   }

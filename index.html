@@ -36,6 +36,19 @@
             <h2>Seu Deck</h2>
             <p><span id="deckCount">0</span>/20 cartas</p>
           </div>
+          <fieldset class="deck-energy-fieldset">
+            <legend>Energia do deck</legend>
+            <div id="deckEnergyOptions" class="deck-energy-options">
+              <label><input type="checkbox" value="1" data-deck-energy />Planta</label>
+              <label><input type="checkbox" value="2" data-deck-energy />Fogo</label>
+              <label><input type="checkbox" value="3" data-deck-energy />Agua</label>
+              <label><input type="checkbox" value="4" data-deck-energy />Raio</label>
+              <label><input type="checkbox" value="5" data-deck-energy />Psiquico</label>
+              <label><input type="checkbox" value="6" data-deck-energy />Luta</label>
+              <label><input type="checkbox" value="7" data-deck-energy />Escuridao</label>
+              <label><input type="checkbox" value="8" data-deck-energy />Metal</label>
+            </div>
+          </fieldset>
           <div class="deck-actions">
             <button type="button" id="deckQrBtn" class="deck-qr-fab" disabled aria-label="Abrir QR Code do deck" title="QR Code">
               <span class="deck-qr-fab-icon" aria-hidden="true"></span>
@@ -120,7 +133,7 @@
             <div class="range-inline">
               <span id="vidaMinLabel" class="range-value">0</span>
               <div id="vidaSlider" class="range-track"></div>
-              <span id="vidaMaxLabel" class="range-value">300</span>
+              <span id="vidaMaxLabel" class="range-value">250</span>
             </div>
           </div>
           <div class="range-duo ataque-filter">
@@ -227,6 +240,7 @@
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/nouislider@15.8.1/dist/nouislider.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.js"></script>
     <script src="./app.js"></script>
   </body>
 </html>

@@ -66,6 +66,28 @@ function normalizeAttackList(card) {
   return [];
 }
 
+function inferFormat(name, stage, fallback) {
+  const nameKey = normalizeKey(name);
+  const stageKey = normalizeKey(stage);
+  const fallbackKey = normalizeKey(fallback);
+  if (stageKey.includes("mega") || /\bmega\b/.test(nameKey) || fallbackKey === "mega") return "mega";
+  if (stageKey === "ex" || stageKey.includes(" ex") || nameKey.endsWith(" ex") || nameKey.includes("-ex") || fallbackKey === "ex") return "ex";
+  return "noex";
+}
+
+function buildFilterTags(stage, formato, existingTags = []) {
+  const tags = new Set(
+    (Array.isArray(existingTags) ? existingTags : [])
+      .map(normalizeKey)
+      .filter(Boolean)
+  );
+  const stageKey = normalizeStage(stage);
+  if (stageKey) tags.add(stageKey);
+  if (stageKey === "baby") tags.add("basic");
+  if (formato === "mega" || formato === "ex") tags.add(formato);
+  return [...tags];
+}
+
 function deriveAttackStats(card, ataqueLista) {
   const maxDanoFromList = ataqueLista.reduce((acc, atk) => {
     const nums = String(atk?.dano || "").match(/\d+/g);
@@ -184,12 +206,15 @@ async function run() {
       const ataqueLista = normalizeAttackList(card);
       const stats = deriveAttackStats(card, ataqueLista);
       const imageLocal = await resolveImageLocal(card);
+      const formato = inferFormat(card?.nome, card?.estagio, card?.formato);
+      const estagio = normalizeStage(card?.estagio);
+      const tags = buildFilterTags(estagio, formato, card?.tags);
       out.push({
         id: String(card?.id || "").trim(),
         sourceId: String(card?.sourceId || "").trim(),
         categoria: String(card?.categoria || card?.tipo || "").trim(),
         nome: String(card?.nome || "").trim(),
-        estagio: normalizeStage(card?.estagio),
+        estagio,
         evolucao: String(card?.evolucao || "").trim(),
         tipo: String(card?.tipo || card?.elemento || "").trim(),
         hp: safeNumber(card?.hp, 0),
@@ -201,13 +226,16 @@ async function run() {
         raridade: String(card?.raridade || "").trim(),
         habilidade: Boolean(card?.habilidade ?? card?.temHabilidade),
         promo: Boolean(card?.promo ?? card?.tagPromo),
-        formato: String(card?.formato || "noex").trim(),
+        formato,
+        mega: formato === "mega",
+        tags,
         expansao: expansionLabel,
         numero: String(card?.numero || "").trim(),
         pacote: String(card?.pacote || "").trim(),
         imageLocal,
         imageUrl: String(card?.imageUrl || "").trim(),
-        custoDeck: safeNumber(card?.custoDeck ?? card?.custo, 0)
+        custoDeck: safeNumber(card?.custoDeck ?? card?.custo, 0),
+        deckBuilderNr: safeNumber(card?.deckBuilderNr, 0)
       });
     }
   }

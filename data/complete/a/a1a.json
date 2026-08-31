@@ -4,9 +4,9 @@
     "sourceId": "njtqzb4g1xvmyte-exeggcute",
     "categoria": "Pokemon",
     "nome": "Exeggcute",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "hp": 50,
     "ataque": [],
     "fraqueza": "Fogo",
@@ -16,6 +16,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "1 / 86",
     "pacote": "Mew",
@@ -23,13 +26,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002150_00_TAMATAMA_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/njtqzb4g1xvmyte-exeggcute",
     "custoDeck": 1,
+    "deckBuilderNr": 215,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#1",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -38,10 +42,10 @@
     "sourceId": "upwu4egfe8n09oe-exeggutor",
     "categoria": "Pokemon",
     "nome": "Exeggutor",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 130,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Psíquico",
@@ -56,12 +60,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 3,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "2 / 86",
     "pacote": "Mew",
@@ -69,13 +76,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002160_00_NASSY_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/upwu4egfe8n09oe-exeggutor",
     "custoDeck": 1,
+    "deckBuilderNr": 216,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#2",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -84,10 +92,10 @@
     "sourceId": "h1lxnlhpl5zljro-celebi-ex",
     "categoria": "Pokemon",
     "nome": "Celebi ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 130,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Florescer Poderoso",
@@ -100,12 +108,16 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Duplamente Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "3 / 86",
     "pacote": "Mew",
@@ -113,13 +125,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002170_00_CELEBIex_RR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h1lxnlhpl5zljro-celebi-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 217,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#3",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -128,10 +141,10 @@
     "sourceId": "9fuzldsjs86vk1y-snivy",
     "categoria": "Pokemon",
     "nome": "Snivy",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 70,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Chicote de Vinha",
@@ -150,6 +163,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "4 / 86",
     "pacote": "Mew",
@@ -157,13 +173,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002180_00_TSUTARJA_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9fuzldsjs86vk1y-snivy",
     "custoDeck": 1,
+    "deckBuilderNr": 218,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#4",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -172,10 +189,10 @@
     "sourceId": "24gcgk3xh24yy3c-servine",
     "categoria": "Pokemon",
     "nome": "Servine",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 80,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Chicote de Vinha",
@@ -194,6 +211,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "5 / 86",
     "pacote": "Mew",
@@ -201,13 +221,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002190_00_JANOVY_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/24gcgk3xh24yy3c-servine",
     "custoDeck": 1,
+    "deckBuilderNr": 219,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#5",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -216,10 +237,10 @@
     "sourceId": "ewaplkoi5ko7x9w-serperior",
     "categoria": "Pokemon",
     "nome": "Serperior",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 110,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Raio Solar",
@@ -234,12 +255,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "6 / 86",
     "pacote": "Mew",
@@ -247,13 +271,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002200_00_JALORDA_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ewaplkoi5ko7x9w-serperior",
     "custoDeck": 3,
+    "deckBuilderNr": 220,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#6",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -262,10 +287,10 @@
     "sourceId": "cmpiz48676erqu2-morelull",
     "categoria": "Pokemon",
     "nome": "Morelull",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 60,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Aríete",
@@ -283,6 +308,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "7 / 86",
     "pacote": "Mew",
@@ -290,13 +318,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002210_00_NEMASYU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cmpiz48676erqu2-morelull",
     "custoDeck": 1,
+    "deckBuilderNr": 221,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#7",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -305,10 +334,10 @@
     "sourceId": "8loxhhip6gekxvr-shiinotic",
     "categoria": "Pokemon",
     "nome": "Shiinotic",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 90,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Esporos Tremeluzentes",
@@ -321,12 +350,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "8 / 86",
     "pacote": "Mew",
@@ -334,13 +366,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002220_00_MASHADE_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8loxhhip6gekxvr-shiinotic",
     "custoDeck": 1,
+    "deckBuilderNr": 222,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#8",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -349,10 +382,10 @@
     "sourceId": "kj9tvr5n5cjfbx9-dhelmise",
     "categoria": "Pokemon",
     "nome": "Dhelmise",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 100,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Chicote Energético",
@@ -364,12 +397,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "9 / 86",
     "pacote": "Mew",
@@ -377,13 +413,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002230_00_DADARIN_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kj9tvr5n5cjfbx9-dhelmise",
     "custoDeck": 1,
+    "deckBuilderNr": 223,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#9",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -392,10 +429,10 @@
     "sourceId": "7e1adx2kf4udcld-ponyta",
     "categoria": "Pokemon",
     "nome": "Ponyta",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 60,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Pisotear",
@@ -413,6 +450,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "10 / 86",
     "pacote": "Mew",
@@ -420,13 +460,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002240_00_PONYTA_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7e1adx2kf4udcld-ponyta",
     "custoDeck": 1,
+    "deckBuilderNr": 224,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#10",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -435,10 +476,10 @@
     "sourceId": "z7j1kqi2e8tl06r-rapidash",
     "categoria": "Pokemon",
     "nome": "Rapidash",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 100,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Investida Ascendente",
@@ -457,6 +498,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "11 / 86",
     "pacote": "Mew",
@@ -464,13 +508,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002250_00_GALLOP_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z7j1kqi2e8tl06r-rapidash",
     "custoDeck": 1,
+    "deckBuilderNr": 225,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#11",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -479,10 +524,10 @@
     "sourceId": "tqn51pibscr7zx2-magmar",
     "categoria": "Pokemon",
     "nome": "Magmar",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 80,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Rajada de Fogo",
@@ -495,12 +540,15 @@
       }
     ],
     "fraqueza": "Agua",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "12 / 86",
     "pacote": "Mew",
@@ -508,13 +556,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002260_00_BOOBER_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tqn51pibscr7zx2-magmar",
     "custoDeck": 1,
+    "deckBuilderNr": 226,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#12",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -523,10 +572,10 @@
     "sourceId": "aq1a8ns3zq3r3d4-larvesta",
     "categoria": "Pokemon",
     "nome": "Larvesta",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 80,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Combustão",
@@ -539,12 +588,15 @@
       }
     ],
     "fraqueza": "Agua",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "13 / 86",
     "pacote": "Mew",
@@ -552,13 +604,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002270_00_MERLARVA_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aq1a8ns3zq3r3d4-larvesta",
     "custoDeck": 1,
+    "deckBuilderNr": 227,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#13",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -567,10 +620,10 @@
     "sourceId": "5jsi6xvwpmx4rd8-volcarona",
     "categoria": "Pokemon",
     "nome": "Volcarona",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 120,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Cinza Vulcânica",
@@ -584,12 +637,15 @@
       }
     ],
     "fraqueza": "Agua",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "14 / 86",
     "pacote": "Mew",
@@ -597,13 +653,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002280_00_ULGAMOTH_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5jsi6xvwpmx4rd8-volcarona",
     "custoDeck": 3,
+    "deckBuilderNr": 228,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#14",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -612,10 +669,10 @@
     "sourceId": "tn0m919glf7p4ui-salandit",
     "categoria": "Pokemon",
     "nome": "Salandit",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 60,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Venochoque",
@@ -633,6 +690,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "15 / 86",
     "pacote": "Mew",
@@ -640,13 +700,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002290_00_YATOUMORI_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tn0m919glf7p4ui-salandit",
     "custoDeck": 1,
+    "deckBuilderNr": 229,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#15",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -655,10 +716,10 @@
     "sourceId": "fpax2tzmqojixxm-salazzle",
     "categoria": "Pokemon",
     "nome": "Salazzle",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 80,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Garras Venenosas",
@@ -676,6 +737,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "16 / 86",
     "pacote": "Mew",
@@ -683,13 +747,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002300_00_ENNEWT_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fpax2tzmqojixxm-salazzle",
     "custoDeck": 1,
+    "deckBuilderNr": 230,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#16",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -698,10 +763,10 @@
     "sourceId": "dkxuvrd749iha5i-magikarp",
     "categoria": "Pokemon",
     "nome": "Magikarp",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 30,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [],
     "fraqueza": "Raio",
     "recuo": 1,
@@ -710,6 +775,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "17 / 86",
     "pacote": "Mew",
@@ -717,13 +785,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002310_00_KOIKING_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dkxuvrd749iha5i-magikarp",
     "custoDeck": 1,
+    "deckBuilderNr": 231,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#17",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -732,10 +801,10 @@
     "sourceId": "hmda751busew0m6-gyarados-ex",
     "categoria": "Pokemon",
     "nome": "Gyarados ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 30,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Redemoinho Furioso",
@@ -750,12 +819,16 @@
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 3,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Duplamente Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "18 / 86",
     "pacote": "Mew",
@@ -763,13 +836,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002320_00_GYARADOSex_RR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hmda751busew0m6-gyarados-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 232,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#18",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -778,10 +852,10 @@
     "sourceId": "1izrnidqwlh57zf-vaporeon",
     "categoria": "Pokemon",
     "nome": "Vaporeon",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 120,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Onda Borrifante",
@@ -795,12 +869,15 @@
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "19 / 86",
     "pacote": "Mew",
@@ -808,13 +885,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002330_00_SHOWERS_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1izrnidqwlh57zf-vaporeon",
     "custoDeck": 3,
+    "deckBuilderNr": 233,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#19",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -823,10 +901,10 @@
     "sourceId": "5fnq79pzk3j7ns3-finneon",
     "categoria": "Pokemon",
     "nome": "Finneon",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 60,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Revólver d’Água",
@@ -844,6 +922,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "20 / 86",
     "pacote": "Mew",
@@ -851,13 +932,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002340_00_KEIKOUO_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5fnq79pzk3j7ns3-finneon",
     "custoDeck": 1,
+    "deckBuilderNr": 234,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#20",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -866,10 +948,10 @@
     "sourceId": "wb0l84qjlf8pjto-lumineon",
     "categoria": "Pokemon",
     "nome": "Lumineon",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 80,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Projétil d’Água",
@@ -882,12 +964,15 @@
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 0,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "21 / 86",
     "pacote": "Mew",
@@ -895,13 +980,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002350_00_NEOLANT_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wb0l84qjlf8pjto-lumineon",
     "custoDeck": 1,
+    "deckBuilderNr": 235,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#21",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -910,10 +996,10 @@
     "sourceId": "812ymr06ftodvyk-chewtle",
     "categoria": "Pokemon",
     "nome": "Chewtle",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 80,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Mordida",
@@ -926,12 +1012,15 @@
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "22 / 86",
     "pacote": "Mew",
@@ -939,13 +1028,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002360_00_KAMUKAME_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/812ymr06ftodvyk-chewtle",
     "custoDeck": 1,
+    "deckBuilderNr": 236,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#22",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -954,10 +1044,10 @@
     "sourceId": "j3m8vyl62sk6mnp-drednaw",
     "categoria": "Pokemon",
     "nome": "Drednaw",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 130,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Mastigada",
@@ -971,12 +1061,15 @@
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 3,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "23 / 86",
     "pacote": "Mew",
@@ -984,13 +1077,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002370_00_KAJIRIGAME_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j3m8vyl62sk6mnp-drednaw",
     "custoDeck": 1,
+    "deckBuilderNr": 237,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#23",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -999,10 +1093,10 @@
     "sourceId": "l8ixwzd0kidm7rw-cramorant",
     "categoria": "Pokemon",
     "nome": "Cramorant",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 80,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Mergulho",
@@ -1022,6 +1116,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "24 / 86",
     "pacote": "Mew",
@@ -1029,13 +1126,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002380_00_UU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l8ixwzd0kidm7rw-cramorant",
     "custoDeck": 1,
+    "deckBuilderNr": 238,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#24",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1044,10 +1142,10 @@
     "sourceId": "4i9rpfwox9ld9yn-pikachu",
     "categoria": "Pokemon",
     "nome": "Pikachu",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 60,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Circuito Circular",
@@ -1065,6 +1163,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "25 / 86",
     "pacote": "Mew",
@@ -1072,13 +1173,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002390_00_PIKACHU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4i9rpfwox9ld9yn-pikachu",
     "custoDeck": 1,
+    "deckBuilderNr": 239,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#25",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1087,10 +1189,10 @@
     "sourceId": "6tuaztw76k9faao-raichu",
     "categoria": "Pokemon",
     "nome": "Raichu",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 120,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Gigachoque",
@@ -1104,12 +1206,15 @@
       }
     ],
     "fraqueza": "Luta",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "26 / 86",
     "pacote": "Mew",
@@ -1117,13 +1222,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002400_00_RAICHU_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6tuaztw76k9faao-raichu",
     "custoDeck": 3,
+    "deckBuilderNr": 240,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#26",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1132,10 +1238,10 @@
     "sourceId": "ud1jhjmo8ypor5m-electabuzz",
     "categoria": "Pokemon",
     "nome": "Electabuzz",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 70,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Lança do Trovão",
@@ -1154,6 +1260,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "27 / 86",
     "pacote": "Mew",
@@ -1161,13 +1270,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002410_00_ELEBOO_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ud1jhjmo8ypor5m-electabuzz",
     "custoDeck": 1,
+    "deckBuilderNr": 241,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#27",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1176,10 +1286,10 @@
     "sourceId": "najoy11qoykq5a4-joltik",
     "categoria": "Pokemon",
     "nome": "Joltik",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 40,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Picada",
@@ -1197,6 +1307,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "28 / 86",
     "pacote": "Mew",
@@ -1204,13 +1317,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002420_00_BACHURU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/najoy11qoykq5a4-joltik",
     "custoDeck": 1,
+    "deckBuilderNr": 242,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#28",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1219,10 +1333,10 @@
     "sourceId": "apn3egss9zs1oel-galvantula",
     "categoria": "Pokemon",
     "nome": "Galvantula",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 80,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Teia Elétrica",
@@ -1241,6 +1355,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "29 / 86",
     "pacote": "Mew",
@@ -1248,13 +1365,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002430_00_DENTULA_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/apn3egss9zs1oel-galvantula",
     "custoDeck": 1,
+    "deckBuilderNr": 243,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#29",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1263,10 +1381,10 @@
     "sourceId": "6cnxjgx3cvgf45w-dedenne",
     "categoria": "Pokemon",
     "nome": "Dedenne",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 60,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Trovoada de Choques",
@@ -1284,6 +1402,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "30 / 86",
     "pacote": "Mew",
@@ -1291,13 +1412,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002440_00_DEDENNE_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6cnxjgx3cvgf45w-dedenne",
     "custoDeck": 1,
+    "deckBuilderNr": 244,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#30",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1306,10 +1428,10 @@
     "sourceId": "vf0r9kvdsazl74z-mew",
     "categoria": "Pokemon",
     "nome": "Mew",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 60,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Relatório Psíquico",
@@ -1327,6 +1449,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "31 / 86",
     "pacote": "Mew",
@@ -1334,13 +1459,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002140_00_MEW_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vf0r9kvdsazl74z-mew",
     "custoDeck": 3,
+    "deckBuilderNr": 214,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#31",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1349,10 +1475,10 @@
     "sourceId": "5yi2fgnh2xat86l-mew-ex",
     "categoria": "Pokemon",
     "nome": "Mew ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 130,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Tiro Psíquico",
@@ -1365,11 +1491,15 @@
     ],
     "fraqueza": "Escuridao",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Duplamente Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "32 / 86",
     "pacote": "Mew",
@@ -1377,13 +1507,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002450_00_MEWex_RR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5yi2fgnh2xat86l-mew-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 245,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#32",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1392,10 +1523,10 @@
     "sourceId": "io8pmf1np20ivkt-sigilyph",
     "categoria": "Pokemon",
     "nome": "Sigilyph",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 80,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Comprada Espinhosa",
@@ -1413,6 +1544,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "33 / 86",
     "pacote": "Mew",
@@ -1420,13 +1554,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002460_00_SYMBOLER_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/io8pmf1np20ivkt-sigilyph",
     "custoDeck": 1,
+    "deckBuilderNr": 246,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#33",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1435,10 +1570,10 @@
     "sourceId": "pa4w0evig08bx6m-elgyem",
     "categoria": "Pokemon",
     "nome": "Elgyem",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 60,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Cabeçada",
@@ -1456,6 +1591,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "34 / 86",
     "pacote": "Mew",
@@ -1463,13 +1601,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002470_00_LIGRAY_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pa4w0evig08bx6m-elgyem",
     "custoDeck": 1,
+    "deckBuilderNr": 247,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#34",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1478,10 +1617,10 @@
     "sourceId": "v8krjbv35yat9rr-beheeyem",
     "categoria": "Pokemon",
     "nome": "Beheeyem",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 90,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Tomada Mental",
@@ -1499,6 +1638,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "35 / 86",
     "pacote": "Mew",
@@ -1506,13 +1648,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002500_00_OHBEM_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v8krjbv35yat9rr-beheeyem",
     "custoDeck": 1,
+    "deckBuilderNr": 250,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#35",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1521,10 +1664,10 @@
     "sourceId": "4rjiv5t6kgenqjp-flabeb",
     "categoria": "Pokemon",
     "nome": "Flabébé",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 40,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [],
     "fraqueza": "Escuridao",
     "recuo": 1,
@@ -1533,6 +1676,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "36 / 86",
     "pacote": "Mew",
@@ -1540,13 +1686,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002510_00_FLABEBE_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4rjiv5t6kgenqjp-flabeb",
     "custoDeck": 1,
+    "deckBuilderNr": 251,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#36",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1555,10 +1702,10 @@
     "sourceId": "cvxg6bdbnxhtuey-floette",
     "categoria": "Pokemon",
     "nome": "Floette",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 70,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Dreno Folha",
@@ -1576,6 +1723,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "37 / 86",
     "pacote": "Mew",
@@ -1583,13 +1733,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002520_00_FLOETTE_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cvxg6bdbnxhtuey-floette",
     "custoDeck": 1,
+    "deckBuilderNr": 252,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#37",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1598,10 +1749,10 @@
     "sourceId": "zxtei9is63ll464-florges",
     "categoria": "Pokemon",
     "nome": "Florges",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 120,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Brilho Florido",
@@ -1620,6 +1771,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "38 / 86",
     "pacote": "Mew",
@@ -1627,13 +1781,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002480_00_FLORGES_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zxtei9is63ll464-florges",
     "custoDeck": 1,
+    "deckBuilderNr": 248,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#38",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1642,10 +1797,10 @@
     "sourceId": "clwrerk7zkp56nd-swirlix",
     "categoria": "Pokemon",
     "nome": "Swirlix",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 60,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Vento de Fada",
@@ -1663,6 +1818,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "39 / 86",
     "pacote": "Mew",
@@ -1670,13 +1828,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002490_00_PEROPPAFU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/clwrerk7zkp56nd-swirlix",
     "custoDeck": 1,
+    "deckBuilderNr": 249,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#39",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1685,10 +1844,10 @@
     "sourceId": "hmaw88f1sd4n0eg-slurpuff",
     "categoria": "Pokemon",
     "nome": "Slurpuff",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 100,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Tiro Mágico",
@@ -1701,12 +1860,15 @@
       }
     ],
     "fraqueza": "Escuridao",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "40 / 86",
     "pacote": "Mew",
@@ -1714,13 +1876,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002530_00_PEROREAM_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hmaw88f1sd4n0eg-slurpuff",
     "custoDeck": 1,
+    "deckBuilderNr": 253,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#40",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1729,9 +1892,9 @@
     "sourceId": "h3kjwqdud9vzbir-mankey",
     "categoria": "Pokemon",
     "nome": "Mankey",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "hp": 50,
     "ataque": [
       {
@@ -1750,6 +1913,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "41 / 86",
     "pacote": "Mew",
@@ -1757,13 +1923,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002540_00_MANKEY_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h3kjwqdud9vzbir-mankey",
     "custoDeck": 1,
+    "deckBuilderNr": 254,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#41",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1772,10 +1939,10 @@
     "sourceId": "xqlbewvndwjsv0g-primeape",
     "categoria": "Pokemon",
     "nome": "Primeape",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 80,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Soco",
@@ -1793,6 +1960,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "42 / 86",
     "pacote": "Mew",
@@ -1800,13 +1970,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002550_00_OKORIZARU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xqlbewvndwjsv0g-primeape",
     "custoDeck": 1,
+    "deckBuilderNr": 255,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#42",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1815,10 +1986,10 @@
     "sourceId": "lfi58nyo9hdyeg9-geodude",
     "categoria": "Pokemon",
     "nome": "Geodude",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 70,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Soco de Luz",
@@ -1830,13 +2001,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 2,
+    "fraqueza": "Psiquico",
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "43 / 86",
     "pacote": "Mew",
@@ -1844,13 +2018,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002560_00_ISITSUBUTE_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lfi58nyo9hdyeg9-geodude",
     "custoDeck": 1,
+    "deckBuilderNr": 256,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#43",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1859,10 +2034,10 @@
     "sourceId": "nuop96e51iiwngw-graveler",
     "categoria": "Pokemon",
     "nome": "Graveler",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 100,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Bote",
@@ -1874,13 +2049,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 3,
+    "fraqueza": "Psiquico",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "44 / 86",
     "pacote": "Mew",
@@ -1888,13 +2066,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002570_00_GOLONE_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nuop96e51iiwngw-graveler",
     "custoDeck": 1,
+    "deckBuilderNr": 257,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#44",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1903,10 +2082,10 @@
     "sourceId": "aeybbymedewzboe-golem",
     "categoria": "Pokemon",
     "nome": "Golem",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 160,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Aperto Protetor",
@@ -1920,13 +2099,16 @@
         "efeito": "During your opponent's next turn, this Pokémon takes -30 damage from attacks"
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 3,
+    "fraqueza": "Psiquico",
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "45 / 86",
     "pacote": "Mew",
@@ -1934,13 +2116,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002580_00_GOLONYA_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aeybbymedewzboe-golem",
     "custoDeck": 3,
+    "deckBuilderNr": 258,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#45",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1949,10 +2132,10 @@
     "sourceId": "z13co4oge3d8vwt-aerodactyl-ex",
     "categoria": "Pokemon",
     "nome": "Aerodactyl ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 140,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Aperto de Terra",
@@ -1964,13 +2147,17 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Psiquico",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Duplamente Raro",
     "habilidade": true,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "46 / 86",
     "pacote": "Mew",
@@ -1978,13 +2165,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002590_00_PTERAex_RR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z13co4oge3d8vwt-aerodactyl-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 259,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#46",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1993,10 +2181,10 @@
     "sourceId": "wxa0dmxiysjkh19-marshadow",
     "categoria": "Pokemon",
     "nome": "Marshadow",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 80,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Vingança",
@@ -2015,6 +2203,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "47 / 86",
     "pacote": "Mew",
@@ -2022,13 +2213,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002600_00_MARSHADOW_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wxa0dmxiysjkh19-marshadow",
     "custoDeck": 3,
+    "deckBuilderNr": 260,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#47",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2037,10 +2229,10 @@
     "sourceId": "oif9hc1l2182yck-stonjourner",
     "categoria": "Pokemon",
     "nome": "Stonjourner",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 120,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Megachute",
@@ -2053,13 +2245,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 3,
+    "fraqueza": "Psiquico",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "48 / 86",
     "pacote": "Mew",
@@ -2067,13 +2262,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002610_00_ISHIHENGIN_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oif9hc1l2182yck-stonjourner",
     "custoDeck": 1,
+    "deckBuilderNr": 261,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#48",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2082,18 +2278,21 @@
     "sourceId": "3rytiasmgwj4dll-koffing",
     "categoria": "Pokemon",
     "nome": "Koffing",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 70,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [],
-    "fraqueza": "Luta",
-    "recuo": 2,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "49 / 86",
     "pacote": "Mew",
@@ -2101,13 +2300,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002620_00_DOGARS_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3rytiasmgwj4dll-koffing",
     "custoDeck": 1,
+    "deckBuilderNr": 262,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#49",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2116,10 +2316,10 @@
     "sourceId": "yeya26y0p6b1urk-weezing",
     "categoria": "Pokemon",
     "nome": "Weezing",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 110,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Cortina de Fumaça",
@@ -2131,13 +2331,16 @@
         "efeito": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 3,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "50 / 86",
     "pacote": "Mew",
@@ -2145,13 +2348,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002630_00_MATADOGAS_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yeya26y0p6b1urk-weezing",
     "custoDeck": 1,
+    "deckBuilderNr": 263,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#50",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2160,10 +2364,10 @@
     "sourceId": "loj95zzm39lc9s5-purrloin",
     "categoria": "Pokemon",
     "nome": "Purrloin",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 60,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Arranhão",
@@ -2174,13 +2378,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "51 / 86",
     "pacote": "Mew",
@@ -2188,13 +2395,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002640_00_CHORONEKO_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/loj95zzm39lc9s5-purrloin",
     "custoDeck": 1,
+    "deckBuilderNr": 264,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#51",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2203,10 +2411,10 @@
     "sourceId": "nkd9f2amdhd657e-liepard",
     "categoria": "Pokemon",
     "nome": "Liepard",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 90,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Talho",
@@ -2217,13 +2425,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "52 / 86",
     "pacote": "Mew",
@@ -2231,13 +2442,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002650_00_LEPARDAS_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nkd9f2amdhd657e-liepard",
     "custoDeck": 1,
+    "deckBuilderNr": 265,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#52",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2246,10 +2458,10 @@
     "sourceId": "var7rxly2080w98-venipede",
     "categoria": "Pokemon",
     "nome": "Venipede",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 60,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Aríete",
@@ -2260,13 +2472,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "53 / 86",
     "pacote": "Mew",
@@ -2274,13 +2489,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002660_00_FUSHIDE_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/var7rxly2080w98-venipede",
     "custoDeck": 1,
+    "deckBuilderNr": 266,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#53",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2289,10 +2505,10 @@
     "sourceId": "yi4ngt04jh845m9-whirlipede",
     "categoria": "Pokemon",
     "nome": "Whirlipede",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 90,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ferrão Venenoso",
@@ -2303,13 +2519,16 @@
         "efeito": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 2,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "54 / 86",
     "pacote": "Mew",
@@ -2317,13 +2536,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002670_00_WHEEGA_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yi4ngt04jh845m9-whirlipede",
     "custoDeck": 1,
+    "deckBuilderNr": 267,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#54",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2332,10 +2552,10 @@
     "sourceId": "qvb758zb4ijhjg4-scolipede",
     "categoria": "Pokemon",
     "nome": "Scolipede",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 140,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Venochoque",
@@ -2347,13 +2567,16 @@
         "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 2,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "55 / 86",
     "pacote": "Mew",
@@ -2361,13 +2584,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002680_00_PENDROR_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qvb758zb4ijhjg4-scolipede",
     "custoDeck": 1,
+    "deckBuilderNr": 268,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#55",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2376,10 +2600,10 @@
     "sourceId": "e21ldsyk80arifk-druddigon",
     "categoria": "Pokemon",
     "nome": "Druddigon",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Dragão",
-    "hp": 100,
+    "tipo": "Dragao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Garra de Dragão",
@@ -2393,12 +2617,15 @@
       }
     ],
     "fraqueza": "",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "56 / 86",
     "pacote": "Mew",
@@ -2406,13 +2633,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002690_00_CRIMGAN_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e21ldsyk80arifk-druddigon",
     "custoDeck": 1,
+    "deckBuilderNr": 269,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#56",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2421,7 +2649,7 @@
     "sourceId": "fwowr179gwvn0wi-pidgey",
     "categoria": "Pokemon",
     "nome": "Pidgey",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 50,
@@ -2435,13 +2663,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "57 / 86",
     "pacote": "Mew",
@@ -2449,13 +2680,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002700_00_POPPO_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fwowr179gwvn0wi-pidgey",
     "custoDeck": 1,
+    "deckBuilderNr": 270,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#57",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2464,10 +2696,10 @@
     "sourceId": "7y5t30djskzt031-pidgeotto",
     "categoria": "Pokemon",
     "nome": "Pidgeotto",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 90,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ataque de Asa",
@@ -2480,13 +2712,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "58 / 86",
     "pacote": "Mew",
@@ -2494,13 +2729,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002710_00_PIGEON_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7y5t30djskzt031-pidgeotto",
     "custoDeck": 1,
+    "deckBuilderNr": 271,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#58",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2509,10 +2745,10 @@
     "sourceId": "5o5naaasoda63qt-pidgeot-ex",
     "categoria": "Pokemon",
     "nome": "Pidgeot ex",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 170,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ciclone Disperso",
@@ -2525,13 +2761,17 @@
         "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Duplamente Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "2",
+      "ex"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "59 / 86",
     "pacote": "Mew",
@@ -2539,13 +2779,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002720_00_PIGEOTex_RR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5o5naaasoda63qt-pidgeot-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 272,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#59",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2554,10 +2795,10 @@
     "sourceId": "mk4yq4bmy9p73ij-tauros",
     "categoria": "Pokemon",
     "nome": "Tauros",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 100,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Investida de Luta",
@@ -2570,13 +2811,16 @@
         "efeito": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 80 more damage"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 2,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "60 / 86",
     "pacote": "Mew",
@@ -2584,13 +2828,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002730_00_KENTAUROS_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mk4yq4bmy9p73ij-tauros",
     "custoDeck": 3,
+    "deckBuilderNr": 273,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#60",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2599,10 +2844,10 @@
     "sourceId": "awn64f65f1m7k6n-eevee",
     "categoria": "Pokemon",
     "nome": "Eevee",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 60,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Passos Contínuos",
@@ -2611,13 +2856,16 @@
         "efeito": "Flip a coin until you get a tails. This attack does 20 damage for each heads"
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "61 / 86",
     "pacote": "Mew",
@@ -2625,13 +2873,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002740_00_EIEVUI_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/awn64f65f1m7k6n-eevee",
     "custoDeck": 1,
+    "deckBuilderNr": 274,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#61",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2640,18 +2889,21 @@
     "sourceId": "1s1tq7sqqgvq8tc-chatot",
     "categoria": "Pokemon",
     "nome": "Chatot",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 60,
+    "hp": 50,
     "ataque": [],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "62 / 86",
     "pacote": "Mew",
@@ -2659,13 +2911,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002750_00_PERAP_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1s1tq7sqqgvq8tc-chatot",
     "custoDeck": 1,
+    "deckBuilderNr": 275,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#62",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2674,7 +2927,7 @@
     "sourceId": "fo7ec02e0ucc7x8-old-amber",
     "categoria": "Treinador",
     "nome": "Âmbar Velho",
-    "estagio": "Item",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Neutro",
     "hp": 0,
@@ -2686,6 +2939,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "63 / 86",
     "pacote": "Mew",
@@ -2693,13 +2949,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000100_00_HIMITSUNOKOHAKU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fo7ec02e0ucc7x8-old-amber",
     "custoDeck": 1,
+    "deckBuilderNr": 1000010,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#63",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2720,6 +2977,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "desconhecido"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "64 / 86",
     "pacote": "Mew",
@@ -2727,13 +2987,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000200_00_POKEMONNOFUE_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0afyr6z43839idd-pokemon-flute",
     "custoDeck": 1,
+    "deckBuilderNr": 1000020,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#64",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2754,6 +3015,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "desconhecido"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "65 / 86",
     "pacote": "Mew",
@@ -2761,13 +3025,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000190_00_MABOROSHINOSEKIBAN_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tzfcmr5r03hyksk-mythical-slab",
     "custoDeck": 1,
+    "deckBuilderNr": 1000019,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#65",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2788,6 +3053,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "desconhecido"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "66 / 86",
     "pacote": "Mew",
@@ -2795,13 +3063,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000220_00_KAKEDASHICHOSAIN_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/59y3ogqwlc7t1q6-budding-expeditioner",
     "custoDeck": 1,
+    "deckBuilderNr": 1000022,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#66",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2822,6 +3091,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "desconhecido"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "67 / 86",
     "pacote": "Mew",
@@ -2829,13 +3101,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000210_00_GREEN_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j197ch2entsxdup-blue",
     "custoDeck": 1,
+    "deckBuilderNr": 1000021,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#67",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2856,6 +3129,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "desconhecido"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "68 / 86",
     "pacote": "Mew",
@@ -2863,13 +3139,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000230_00_LEAF_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z2ofwxxu6bb8z6n-leaf",
     "custoDeck": 1,
+    "deckBuilderNr": 1000023,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#68",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2878,10 +3155,10 @@
     "sourceId": "b210ploeuw8kc3o-exeggutor",
     "categoria": "Pokemon",
     "nome": "Exeggutor",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 130,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Psíquico",
@@ -2896,12 +3173,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 3,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "69 / 86",
     "pacote": "Mew",
@@ -2909,13 +3189,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002160_00_NASSY_AR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b210ploeuw8kc3o-exeggutor",
     "custoDeck": 8,
+    "deckBuilderNr": 216,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#69",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2924,10 +3205,10 @@
     "sourceId": "c59pgs3a6gf02su-serperior",
     "categoria": "Pokemon",
     "nome": "Serperior",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 110,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Raio Solar",
@@ -2942,12 +3223,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "70 / 86",
     "pacote": "Mew",
@@ -2955,13 +3239,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002200_00_JALORDA_AR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c59pgs3a6gf02su-serperior",
     "custoDeck": 8,
+    "deckBuilderNr": 220,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#70",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2970,10 +3255,10 @@
     "sourceId": "vm8rykfyesi8psj-salandit",
     "categoria": "Pokemon",
     "nome": "Salandit",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 60,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Venochoque",
@@ -2986,11 +3271,14 @@
     ],
     "fraqueza": "Agua",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "71 / 86",
     "pacote": "Mew",
@@ -2998,13 +3286,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002290_00_YATOUMORI_AR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vm8rykfyesi8psj-salandit",
     "custoDeck": 8,
+    "deckBuilderNr": 229,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#71",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3013,10 +3302,10 @@
     "sourceId": "fgzqfijb00tqiy2-vaporeon",
     "categoria": "Pokemon",
     "nome": "Vaporeon",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 120,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Onda Borrifante",
@@ -3030,12 +3319,15 @@
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 2,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "72 / 86",
     "pacote": "Mew",
@@ -3043,13 +3335,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002330_00_SHOWERS_AR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fgzqfijb00tqiy2-vaporeon",
     "custoDeck": 8,
+    "deckBuilderNr": 233,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#72",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3058,10 +3351,10 @@
     "sourceId": "ijpqniv1h7k4uzs-dedenne",
     "categoria": "Pokemon",
     "nome": "Dedenne",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 60,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Trovoada de Choques",
@@ -3074,11 +3367,14 @@
     ],
     "fraqueza": "Luta",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "73 / 86",
     "pacote": "Mew",
@@ -3086,13 +3382,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002440_00_DEDENNE_AR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ijpqniv1h7k4uzs-dedenne",
     "custoDeck": 8,
+    "deckBuilderNr": 244,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#73",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3101,10 +3398,10 @@
     "sourceId": "zm3n389x9y6o1as-marshadow",
     "categoria": "Pokemon",
     "nome": "Marshadow",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 80,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Vingança",
@@ -3118,11 +3415,14 @@
     ],
     "fraqueza": "Psiquico",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "74 / 86",
     "pacote": "Mew",
@@ -3130,13 +3430,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002600_00_MARSHADOW_AR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zm3n389x9y6o1as-marshadow",
     "custoDeck": 8,
+    "deckBuilderNr": 260,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#74",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3145,10 +3446,10 @@
     "sourceId": "kz21cxjbnl78n7k-celebi-ex",
     "categoria": "Pokemon",
     "nome": "Celebi ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 130,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Florescer Poderoso",
@@ -3161,12 +3462,16 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "75 / 86",
     "pacote": "Mew",
@@ -3174,13 +3479,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002170_00_CELEBIex_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kz21cxjbnl78n7k-celebi-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 217,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#75",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3189,10 +3495,10 @@
     "sourceId": "k4hllj09hixdi6m-gyarados-ex",
     "categoria": "Pokemon",
     "nome": "Gyarados ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 30,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Redemoinho Furioso",
@@ -3207,12 +3513,16 @@
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 3,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "76 / 86",
     "pacote": "Mew",
@@ -3220,13 +3530,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002320_00_GYARADOSex_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k4hllj09hixdi6m-gyarados-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 232,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#76",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3235,10 +3546,10 @@
     "sourceId": "5eatuaiywrs77bc-mew-ex",
     "categoria": "Pokemon",
     "nome": "Mew ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 130,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Tiro Psíquico",
@@ -3251,11 +3562,15 @@
     ],
     "fraqueza": "Escuridao",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "77 / 86",
     "pacote": "Mew",
@@ -3263,13 +3578,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_00_MEWex_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5eatuaiywrs77bc-mew-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 245,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#77",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3278,10 +3594,10 @@
     "sourceId": "v0z6lar0cdel1ay-aerodactyl-ex",
     "categoria": "Pokemon",
     "nome": "Aerodactyl ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 140,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Aperto de Terra",
@@ -3293,13 +3609,17 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Psiquico",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": true,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "78 / 86",
     "pacote": "Mew",
@@ -3307,13 +3627,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002590_00_PTERAex_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v0z6lar0cdel1ay-aerodactyl-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 259,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#78",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3322,10 +3643,10 @@
     "sourceId": "5y62vvr58pxazez-pidgeot-ex",
     "categoria": "Pokemon",
     "nome": "Pidgeot ex",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 170,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ciclone Disperso",
@@ -3338,13 +3659,17 @@
         "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "2",
+      "ex"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "79 / 86",
     "pacote": "Mew",
@@ -3352,13 +3677,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002720_00_PIGEOTex_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5y62vvr58pxazez-pidgeot-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 272,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#79",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3374,11 +3700,14 @@
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "desconhecido"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "80 / 86",
     "pacote": "Mew",
@@ -3386,13 +3715,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_20_000220_00_KAKEDASHICHOSAIN_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/30koqtat89as3os-budding-expeditioner",
     "custoDeck": 8,
+    "deckBuilderNr": 1000022,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#80",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3408,11 +3738,14 @@
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "desconhecido"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "81 / 86",
     "pacote": "Mew",
@@ -3420,13 +3753,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_20_000210_00_GREEN_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a91f9i3l5do91lu-blue",
     "custoDeck": 8,
+    "deckBuilderNr": 1000021,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#81",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3442,11 +3776,14 @@
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "desconhecido"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "82 / 86",
     "pacote": "Mew",
@@ -3454,13 +3791,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_20_000230_00_LEAF_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9cvnctq71ts6ocj-leaf",
     "custoDeck": 8,
+    "deckBuilderNr": 1000023,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#82",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3469,10 +3807,10 @@
     "sourceId": "1qfj5pkve2jtpx1-mew-ex",
     "categoria": "Pokemon",
     "nome": "Mew ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 130,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Tiro Psíquico",
@@ -3485,11 +3823,15 @@
     ],
     "fraqueza": "Escuridao",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Arte Especial Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "83 / 86",
     "pacote": "Mew",
@@ -3497,13 +3839,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_01_MEWex_SAR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1qfj5pkve2jtpx1-mew-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 245,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#83",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3512,10 +3855,10 @@
     "sourceId": "trsczskf0z2z12p-aerodactyl-ex",
     "categoria": "Pokemon",
     "nome": "Aerodactyl ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 140,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Aperto de Terra",
@@ -3527,13 +3870,17 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Psiquico",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Arte Especial Raro",
     "habilidade": true,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "84 / 86",
     "pacote": "Mew",
@@ -3541,13 +3888,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002590_01_PTERAex_SAR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/trsczskf0z2z12p-aerodactyl-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 259,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#84",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3556,10 +3904,10 @@
     "sourceId": "xpv0hpyt1z1rz7f-celebi-ex",
     "categoria": "Pokemon",
     "nome": "Celebi ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 130,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Florescer Poderoso",
@@ -3572,12 +3920,16 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Raro Imersivo",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "85 / 86",
     "pacote": "Mew",
@@ -3585,13 +3937,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002170_01_CELEBIex_IM_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xpv0hpyt1z1rz7f-celebi-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 217,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#85",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3600,10 +3953,10 @@
     "sourceId": "98f36d2k9cqin6s-mew-ex",
     "categoria": "Pokemon",
     "nome": "Mew ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 130,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Tiro Psíquico",
@@ -3616,11 +3969,15 @@
     ],
     "fraqueza": "Escuridao",
     "recuo": 1,
-    "raridade": "Ultra Rara",
+    "raridade": "Coroa Rara",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Ilha Mitica (A1A)",
     "numero": "86 / 86",
     "pacote": "Mew",
@@ -3628,13 +3985,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_02_MEWex_UR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/98f36d2k9cqin6s-mew-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 245,
     "releaseDate": "2024-12-17",
     "sourceMeta": {
       "setCode": "A1A",
       "series": "a",
       "matchKey": "A1A#86",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   }

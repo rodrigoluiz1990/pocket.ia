@@ -4,10 +4,10 @@
     "sourceId": "0hy0kfkq75ilhr5-heracross",
     "categoria": "Pokemon",
     "nome": "Heracross",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 100,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Arremesso Unicórnio",
@@ -21,12 +21,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "1 / 96",
     "pacote": "Arceus",
@@ -34,13 +37,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004250_00_HERACROS_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0hy0kfkq75ilhr5-heracross",
     "custoDeck": 1,
+    "deckBuilderNr": 425,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#1",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -49,9 +53,9 @@
     "sourceId": "cnjd5e3t68co2ld-burmy",
     "categoria": "Pokemon",
     "nome": "Burmy",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "hp": 50,
     "ataque": [
       {
@@ -72,6 +76,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "2 / 96",
     "pacote": "Arceus",
@@ -79,13 +86,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004260_00_MINOMUCCHI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cnjd5e3t68co2ld-burmy",
     "custoDeck": 1,
+    "deckBuilderNr": 426,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#2",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -94,10 +102,10 @@
     "sourceId": "g57y6i0nu147o8s-mothim",
     "categoria": "Pokemon",
     "nome": "Mothim",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 90,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Lufada de Vento",
@@ -109,13 +117,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
-    "recuo": 0,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "3 / 96",
     "pacote": "Arceus",
@@ -123,13 +134,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004270_00_GAMALE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g57y6i0nu147o8s-mothim",
     "custoDeck": 1,
+    "deckBuilderNr": 427,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#3",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -138,9 +150,9 @@
     "sourceId": "297l127l8uo0rrm-combee",
     "categoria": "Pokemon",
     "nome": "Combee",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "hp": 50,
     "ataque": [
       {
@@ -159,6 +171,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "4 / 96",
     "pacote": "Arceus",
@@ -166,13 +181,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004280_00_MITSUHONEY_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/297l127l8uo0rrm-combee",
     "custoDeck": 1,
+    "deckBuilderNr": 428,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#4",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -181,10 +197,10 @@
     "sourceId": "wla4gc3ra1wx377-vespiquen",
     "categoria": "Pokemon",
     "nome": "Vespiquen",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 100,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Carga Indomável",
@@ -198,12 +214,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "5 / 96",
     "pacote": "Arceus",
@@ -211,13 +230,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004290_00_BEEQUEN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wla4gc3ra1wx377-vespiquen",
     "custoDeck": 1,
+    "deckBuilderNr": 429,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#5",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -226,9 +246,9 @@
     "sourceId": "hq50a02612404ve-cherubi",
     "categoria": "Pokemon",
     "nome": "Cherubi",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "hp": 50,
     "ataque": [
       {
@@ -247,6 +267,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "6 / 96",
     "pacote": "Arceus",
@@ -254,13 +277,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004300_00_CHERINBO_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hq50a02612404ve-cherubi",
     "custoDeck": 1,
+    "deckBuilderNr": 430,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#6",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -269,10 +293,10 @@
     "sourceId": "79w717h28au1tn2-cherrim",
     "categoria": "Pokemon",
     "nome": "Cherrim",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 80,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Semente de Preocupação",
@@ -290,6 +314,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "7 / 96",
     "pacote": "Arceus",
@@ -297,13 +324,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004310_00_CHERRIM_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/79w717h28au1tn2-cherrim",
     "custoDeck": 1,
+    "deckBuilderNr": 431,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#7",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -312,10 +340,10 @@
     "sourceId": "w74495r2qypzu95-cherrim",
     "categoria": "Pokemon",
     "nome": "Cherrim",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 80,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Semente Sanguessuga",
@@ -334,6 +362,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "8 / 96",
     "pacote": "Arceus",
@@ -341,13 +372,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004320_00_CHERRIM_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w74495r2qypzu95-cherrim",
     "custoDeck": 1,
+    "deckBuilderNr": 432,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#8",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -356,10 +388,10 @@
     "sourceId": "hy4w971xs1chr2k-carnivine",
     "categoria": "Pokemon",
     "nome": "Carnivine",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 80,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Chicote de Vinha",
@@ -379,6 +411,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "9 / 96",
     "pacote": "Arceus",
@@ -386,13 +421,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004330_00_MUSKIPPA_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hy4w971xs1chr2k-carnivine",
     "custoDeck": 3,
+    "deckBuilderNr": 433,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#9",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -401,10 +437,10 @@
     "sourceId": "64i19c805e329eb-leafeon-ex",
     "categoria": "Pokemon",
     "nome": "Leafeon ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 140,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Raio Solar",
@@ -419,11 +455,15 @@
     ],
     "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Duplamente Raro",
     "habilidade": true,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "10 / 96",
     "pacote": "Arceus",
@@ -431,13 +471,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004340_00_LEAFIAex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/64i19c805e329eb-leafeon-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 434,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#10",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -446,10 +487,10 @@
     "sourceId": "qp5x3j8x2r4058g-houndour",
     "categoria": "Pokemon",
     "nome": "Houndour",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 60,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Chama",
@@ -467,6 +508,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "11 / 96",
     "pacote": "Arceus",
@@ -474,13 +518,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004350_00_DELVIL_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qp5x3j8x2r4058g-houndour",
     "custoDeck": 1,
+    "deckBuilderNr": 435,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#11",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -489,10 +534,10 @@
     "sourceId": "51tm7x95a012f43-houndoom",
     "categoria": "Pokemon",
     "nome": "Houndoom",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 100,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Quina",
@@ -505,12 +550,15 @@
       }
     ],
     "fraqueza": "Agua",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "12 / 96",
     "pacote": "Arceus",
@@ -518,13 +566,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004360_00_HELLGAR_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/51tm7x95a012f43-houndoom",
     "custoDeck": 1,
+    "deckBuilderNr": 436,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#12",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -533,18 +582,21 @@
     "sourceId": "068s567azt2i641-heatran",
     "categoria": "Pokemon",
     "nome": "Heatran",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 110,
+    "hp": 50,
     "ataque": [],
     "fraqueza": "Agua",
-    "recuo": 3,
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "13 / 96",
     "pacote": "Arceus",
@@ -552,13 +604,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004370_00_HEATRAN_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/068s567azt2i641-heatran",
     "custoDeck": 3,
+    "deckBuilderNr": 437,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#13",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -567,10 +620,10 @@
     "sourceId": "76hy5888nj75meq-marill",
     "categoria": "Pokemon",
     "nome": "Marill",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 60,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Revólver d’Água",
@@ -588,6 +641,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "14 / 96",
     "pacote": "Arceus",
@@ -595,13 +651,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004380_00_MARIL_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/76hy5888nj75meq-marill",
     "custoDeck": 1,
+    "deckBuilderNr": 438,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#14",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -610,10 +667,10 @@
     "sourceId": "jo6nm3ed03n2r3n-azumarill",
     "categoria": "Pokemon",
     "nome": "Azumarill",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 100,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Cachoeira",
@@ -626,12 +683,15 @@
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "15 / 96",
     "pacote": "Arceus",
@@ -639,13 +699,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004390_00_MARILLI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jo6nm3ed03n2r3n-azumarill",
     "custoDeck": 1,
+    "deckBuilderNr": 439,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#15",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -654,10 +715,10 @@
     "sourceId": "yis14br97t8h92p-barboach",
     "categoria": "Pokemon",
     "nome": "Barboach",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 60,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Tapa de Lama",
@@ -676,6 +737,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "16 / 96",
     "pacote": "Arceus",
@@ -683,13 +747,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004400_00_DOJOACH_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yis14br97t8h92p-barboach",
     "custoDeck": 1,
+    "deckBuilderNr": 440,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#16",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -698,10 +763,10 @@
     "sourceId": "982cbn72uy8u526-whiscash",
     "categoria": "Pokemon",
     "nome": "Whiscash",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 120,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Castigar",
@@ -716,12 +781,15 @@
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 3,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "17 / 96",
     "pacote": "Arceus",
@@ -729,13 +797,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004410_00_NAMAZUN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/982cbn72uy8u526-whiscash",
     "custoDeck": 1,
+    "deckBuilderNr": 441,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#17",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -744,10 +813,10 @@
     "sourceId": "nlkcdi2m3190hx6-snorunt",
     "categoria": "Pokemon",
     "nome": "Snorunt",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 60,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Pingente de Gelo",
@@ -758,13 +827,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Metal",
+    "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "18 / 96",
     "pacote": "Arceus",
@@ -772,13 +844,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004420_00_YUKIWARASHI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nlkcdi2m3190hx6-snorunt",
     "custoDeck": 1,
+    "deckBuilderNr": 442,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#18",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -787,10 +860,10 @@
     "sourceId": "lb3z046w8nhrtf9-froslass",
     "categoria": "Pokemon",
     "nome": "Froslass",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 90,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Nevasca",
@@ -802,13 +875,16 @@
         "efeito": "This attack also does 10 damage to each of your Benched Pokémon"
       }
     ],
-    "fraqueza": "Metal",
+    "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "19 / 96",
     "pacote": "Arceus",
@@ -816,13 +892,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004430_00_YUKIMENOKO_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lb3z046w8nhrtf9-froslass",
     "custoDeck": 1,
+    "deckBuilderNr": 443,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#19",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -831,10 +908,10 @@
     "sourceId": "hzd0cl72m470g9h-snover",
     "categoria": "Pokemon",
     "nome": "Snover",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 70,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Soco Saca-rolha",
@@ -846,13 +923,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Metal",
-    "recuo": 2,
+    "fraqueza": "Raio",
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "20 / 96",
     "pacote": "Arceus",
@@ -860,13 +940,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004440_00_YUKIKABURI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hzd0cl72m470g9h-snover",
     "custoDeck": 1,
+    "deckBuilderNr": 444,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#20",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -875,10 +956,10 @@
     "sourceId": "of2t9u545xvxoo8-abomasnow",
     "categoria": "Pokemon",
     "nome": "Abomasnow",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 120,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Megassoco",
@@ -891,13 +972,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Metal",
+    "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "21 / 96",
     "pacote": "Arceus",
@@ -905,13 +989,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004450_00_YUKINOOH_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/of2t9u545xvxoo8-abomasnow",
     "custoDeck": 3,
+    "deckBuilderNr": 445,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#21",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -920,10 +1005,10 @@
     "sourceId": "qd97ef9hjwm6z0e-glaceon-ex",
     "categoria": "Pokemon",
     "nome": "Glaceon ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 140,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Vento Gelado",
@@ -936,13 +1021,17 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Metal",
+    "fraqueza": "Raio",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Duplamente Raro",
     "habilidade": true,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "22 / 96",
     "pacote": "Arceus",
@@ -950,13 +1039,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004460_00_GLACIAex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qd97ef9hjwm6z0e-glaceon-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 446,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#22",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -965,10 +1055,10 @@
     "sourceId": "m192n79i88hou49-origin-forme-palkia",
     "categoria": "Pokemon",
     "nome": "Palkia Forma Origem",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 120,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Zona de Colisão",
@@ -982,12 +1072,15 @@
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "23 / 96",
     "pacote": "Arceus",
@@ -995,13 +1088,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004470_00_ORIGINPALKIA_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m192n79i88hou49-origin-forme-palkia",
     "custoDeck": 3,
+    "deckBuilderNr": 447,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#23",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1010,10 +1104,10 @@
     "sourceId": "bs95su191yax49h-phione",
     "categoria": "Pokemon",
     "nome": "Phione",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 60,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Pulso d’Água",
@@ -1032,6 +1126,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "24 / 96",
     "pacote": "Arceus",
@@ -1039,13 +1136,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004480_00_PHIONE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bs95su191yax49h-phione",
     "custoDeck": 1,
+    "deckBuilderNr": 448,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#24",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1054,10 +1152,10 @@
     "sourceId": "y9z7d4da1x5v63v-pikachu",
     "categoria": "Pokemon",
     "nome": "Pikachu",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 60,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [],
     "fraqueza": "Luta",
     "recuo": 1,
@@ -1066,6 +1164,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "25 / 96",
     "pacote": "Arceus",
@@ -1073,13 +1174,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004490_00_PIKACHU_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y9z7d4da1x5v63v-pikachu",
     "custoDeck": 1,
+    "deckBuilderNr": 449,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#25",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1088,10 +1190,10 @@
     "sourceId": "136nc618fpz257b-raichu",
     "categoria": "Pokemon",
     "nome": "Raichu",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 90,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Faísca",
@@ -1110,6 +1212,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "26 / 96",
     "pacote": "Arceus",
@@ -1117,13 +1222,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004500_00_RAICHU_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/136nc618fpz257b-raichu",
     "custoDeck": 3,
+    "deckBuilderNr": 450,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#26",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1132,10 +1238,10 @@
     "sourceId": "59r0m1ljyq5tdsf-electrike",
     "categoria": "Pokemon",
     "nome": "Electrike",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 60,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Chute Zap",
@@ -1153,6 +1259,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "27 / 96",
     "pacote": "Arceus",
@@ -1160,13 +1269,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004510_00_RAKURAI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/59r0m1ljyq5tdsf-electrike",
     "custoDeck": 1,
+    "deckBuilderNr": 451,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#27",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1175,10 +1285,10 @@
     "sourceId": "71v24kv0067994n-manectric",
     "categoria": "Pokemon",
     "nome": "Manectric",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Elétrico",
-    "hp": 90,
+    "tipo": "Raio",
+    "hp": 50,
     "ataque": [],
     "fraqueza": "Luta",
     "recuo": 1,
@@ -1187,6 +1297,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "28 / 96",
     "pacote": "Arceus",
@@ -1194,13 +1307,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004520_00_LIVOLT_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71v24kv0067994n-manectric",
     "custoDeck": 1,
+    "deckBuilderNr": 452,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#28",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1209,10 +1323,10 @@
     "sourceId": "9f1lvyun0fob39g-clefairy",
     "categoria": "Pokemon",
     "nome": "Clefairy",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 60,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Estalo",
@@ -1231,6 +1345,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "29 / 96",
     "pacote": "Arceus",
@@ -1238,13 +1355,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004530_00_PIPPI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9f1lvyun0fob39g-clefairy",
     "custoDeck": 1,
+    "deckBuilderNr": 453,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#29",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1253,18 +1371,21 @@
     "sourceId": "076uj980uz8fyn0-clefable",
     "categoria": "Pokemon",
     "nome": "Clefable",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 100,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [],
     "fraqueza": "Metal",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "30 / 96",
     "pacote": "Arceus",
@@ -1272,13 +1393,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004540_00_PIXY_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/076uj980uz8fyn0-clefable",
     "custoDeck": 1,
+    "deckBuilderNr": 454,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#30",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1287,9 +1409,9 @@
     "sourceId": "hzz77a8sqk56wn5-gastly",
     "categoria": "Pokemon",
     "nome": "Gastly",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "hp": 50,
     "ataque": [],
     "fraqueza": "Escuridao",
@@ -1299,6 +1421,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "31 / 96",
     "pacote": "Arceus",
@@ -1306,13 +1431,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004550_00_GHOS_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hzz77a8sqk56wn5-gastly",
     "custoDeck": 1,
+    "deckBuilderNr": 455,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#31",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1321,10 +1447,10 @@
     "sourceId": "3087xix4o18tbnf-haunter",
     "categoria": "Pokemon",
     "nome": "Haunter",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 80,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Resmungo",
@@ -1343,6 +1469,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "32 / 96",
     "pacote": "Arceus",
@@ -1350,13 +1479,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004560_00_GHOST_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3087xix4o18tbnf-haunter",
     "custoDeck": 1,
+    "deckBuilderNr": 456,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#32",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1365,10 +1495,10 @@
     "sourceId": "3t01h64r8d7c0m4-gengar",
     "categoria": "Pokemon",
     "nome": "Gengar",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 140,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Borrifada Hipnótica",
@@ -1387,6 +1517,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "33 / 96",
     "pacote": "Arceus",
@@ -1394,13 +1527,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004570_00_GANGAR_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3t01h64r8d7c0m4-gengar",
     "custoDeck": 1,
+    "deckBuilderNr": 457,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#33",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1409,10 +1543,10 @@
     "sourceId": "zf9390uw2fe9a59-unown",
     "categoria": "Pokemon",
     "nome": "Unown",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 60,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Poder Oculto",
@@ -1430,6 +1564,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "34 / 96",
     "pacote": "Arceus",
@@ -1437,13 +1574,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004580_00_UNKNOWN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zf9390uw2fe9a59-unown",
     "custoDeck": 1,
+    "deckBuilderNr": 458,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#34",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1452,10 +1590,10 @@
     "sourceId": "7j9yt02lq60260f-rotom",
     "categoria": "Pokemon",
     "nome": "Rotom",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 70,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [],
     "fraqueza": "Escuridao",
     "recuo": 1,
@@ -1464,6 +1602,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "35 / 96",
     "pacote": "Arceus",
@@ -1471,13 +1612,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004590_00_ROTOM_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7j9yt02lq60260f-rotom",
     "custoDeck": 3,
+    "deckBuilderNr": 459,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#35",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1486,10 +1628,10 @@
     "sourceId": "yq06zl5359pk192-sudowoodo",
     "categoria": "Pokemon",
     "nome": "Sudowoodo",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 80,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Cabeçada de Luta",
@@ -1500,13 +1642,16 @@
         "efeito": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage"
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 2,
+    "fraqueza": "Psiquico",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "36 / 96",
     "pacote": "Arceus",
@@ -1514,13 +1659,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004600_00_USOKKIE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yq06zl5359pk192-sudowoodo",
     "custoDeck": 1,
+    "deckBuilderNr": 460,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#36",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1529,18 +1675,21 @@
     "sourceId": "b538o157799d6kz-phanpy",
     "categoria": "Pokemon",
     "nome": "Phanpy",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 60,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [],
-    "fraqueza": "Planta",
-    "recuo": 2,
+    "fraqueza": "Psiquico",
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "37 / 96",
     "pacote": "Arceus",
@@ -1548,13 +1697,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004610_00_GOMAZOU_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b538o157799d6kz-phanpy",
     "custoDeck": 1,
+    "deckBuilderNr": 461,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#37",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1563,18 +1713,21 @@
     "sourceId": "3w1r05a4uhxh6jn-donphan",
     "categoria": "Pokemon",
     "nome": "Donphan",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 120,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [],
-    "fraqueza": "Planta",
-    "recuo": 3,
+    "fraqueza": "Psiquico",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "38 / 96",
     "pacote": "Arceus",
@@ -1582,13 +1735,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004620_00_DONFAN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3w1r05a4uhxh6jn-donphan",
     "custoDeck": 1,
+    "deckBuilderNr": 462,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#38",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1597,10 +1751,10 @@
     "sourceId": "5m7r2p36szm4b2s-larvitar",
     "categoria": "Pokemon",
     "nome": "Larvitar",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 60,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Soco Saca-rolha",
@@ -1612,13 +1766,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "39 / 96",
     "pacote": "Arceus",
@@ -1626,13 +1783,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004630_00_YOGIRAS_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5m7r2p36szm4b2s-larvitar",
     "custoDeck": 1,
+    "deckBuilderNr": 463,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#39",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1641,10 +1799,10 @@
     "sourceId": "k1ek47reo0oto7l-pupitar",
     "categoria": "Pokemon",
     "nome": "Pupitar",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 80,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ataque em Velocidade",
@@ -1657,13 +1815,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "40 / 96",
     "pacote": "Arceus",
@@ -1671,13 +1832,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004640_00_SANAGIRAS_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k1ek47reo0oto7l-pupitar",
     "custoDeck": 1,
+    "deckBuilderNr": 464,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#40",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1686,10 +1848,10 @@
     "sourceId": "y2369l8j3wma402-tyranitar",
     "categoria": "Pokemon",
     "nome": "Tyranitar",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 160,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Aperto de Terra",
@@ -1703,13 +1865,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 4,
+    "fraqueza": "Psiquico",
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "41 / 96",
     "pacote": "Arceus",
@@ -1717,13 +1882,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004650_00_BANGIRAS_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y2369l8j3wma402-tyranitar",
     "custoDeck": 3,
+    "deckBuilderNr": 465,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#41",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1732,10 +1898,10 @@
     "sourceId": "bnvwfm932t242s7-nosepass",
     "categoria": "Pokemon",
     "nome": "Nosepass",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 80,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Investida",
@@ -1746,13 +1912,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 3,
+    "fraqueza": "Psiquico",
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "42 / 96",
     "pacote": "Arceus",
@@ -1760,13 +1929,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004660_00_NOSEPASS_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bnvwfm932t242s7-nosepass",
     "custoDeck": 1,
+    "deckBuilderNr": 466,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#42",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1775,10 +1945,10 @@
     "sourceId": "7pnc0a143zhyl17-meditite",
     "categoria": "Pokemon",
     "nome": "Meditite",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 60,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Chute",
@@ -1796,6 +1966,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "43 / 96",
     "pacote": "Arceus",
@@ -1803,13 +1976,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004670_00_ASANAN_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7pnc0a143zhyl17-meditite",
     "custoDeck": 1,
+    "deckBuilderNr": 467,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#43",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1818,10 +1992,10 @@
     "sourceId": "by5u10j84678jtg-medicham",
     "categoria": "Pokemon",
     "nome": "Medicham",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 100,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Chute Tiro",
@@ -1839,6 +2013,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "44 / 96",
     "pacote": "Arceus",
@@ -1846,13 +2023,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004680_00_CHAREM_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/by5u10j84678jtg-medicham",
     "custoDeck": 1,
+    "deckBuilderNr": 468,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#44",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1861,10 +2039,10 @@
     "sourceId": "63kc1ry41f8ln1k-gible",
     "categoria": "Pokemon",
     "nome": "Gible",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 60,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Investida",
@@ -1875,13 +2053,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "45 / 96",
     "pacote": "Arceus",
@@ -1889,13 +2070,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004690_00_FUKAMARU_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/63kc1ry41f8ln1k-gible",
     "custoDeck": 1,
+    "deckBuilderNr": 469,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#45",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1904,10 +2086,10 @@
     "sourceId": "1ezun43hwxj317f-gabite",
     "categoria": "Pokemon",
     "nome": "Gabite",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 80,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Foice Afiada",
@@ -1918,13 +2100,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "46 / 96",
     "pacote": "Arceus",
@@ -1932,13 +2117,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004700_00_GABITE_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1ezun43hwxj317f-gabite",
     "custoDeck": 1,
+    "deckBuilderNr": 470,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#46",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1947,10 +2133,10 @@
     "sourceId": "vu31z4221vw1839-garchomp-ex",
     "categoria": "Pokemon",
     "nome": "Garchomp ex",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 170,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ataque Linear",
@@ -1961,13 +2147,17 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Psiquico",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Duplamente Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "2",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "47 / 96",
     "pacote": "Arceus",
@@ -1975,13 +2165,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004710_00_GABURIASex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vu31z4221vw1839-garchomp-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 471,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#47",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1990,9 +2181,9 @@
     "sourceId": "ob208kfbtu356h1-zubat",
     "categoria": "Pokemon",
     "nome": "Zubat",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "hp": 50,
     "ataque": [
       {
@@ -2004,13 +2195,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "48 / 96",
     "pacote": "Arceus",
@@ -2018,13 +2212,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004720_00_ZUBAT_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ob208kfbtu356h1-zubat",
     "custoDeck": 1,
+    "deckBuilderNr": 472,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#48",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2033,10 +2228,10 @@
     "sourceId": "34hxz575d0p0p9y-golbat",
     "categoria": "Pokemon",
     "nome": "Golbat",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 80,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Mordida",
@@ -2047,13 +2242,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "49 / 96",
     "pacote": "Arceus",
@@ -2061,13 +2259,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004730_00_GOLBAT_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/34hxz575d0p0p9y-golbat",
     "custoDeck": 1,
+    "deckBuilderNr": 473,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#49",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2076,10 +2275,10 @@
     "sourceId": "844375n2qc9o2oo-crobat",
     "categoria": "Pokemon",
     "nome": "Crobat",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 110,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Presa Sombria",
@@ -2090,13 +2289,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 0,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "50 / 96",
     "pacote": "Arceus",
@@ -2104,13 +2306,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004740_00_CROBAT_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/844375n2qc9o2oo-crobat",
     "custoDeck": 3,
+    "deckBuilderNr": 474,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#50",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2119,10 +2322,10 @@
     "sourceId": "wn311yj88zt2z6l-croagunk",
     "categoria": "Pokemon",
     "nome": "Croagunk",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 60,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Pulso",
@@ -2133,13 +2336,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "51 / 96",
     "pacote": "Arceus",
@@ -2147,13 +2353,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004750_00_GUREGGRU_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wn311yj88zt2z6l-croagunk",
     "custoDeck": 1,
+    "deckBuilderNr": 475,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#51",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2162,18 +2369,21 @@
     "sourceId": "0l0sh954p6ans7i-toxicroak",
     "categoria": "Pokemon",
     "nome": "Toxicroak",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Noturno",
-    "hp": 100,
+    "tipo": "Escuridao",
+    "hp": 50,
     "ataque": [],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "52 / 96",
     "pacote": "Arceus",
@@ -2181,13 +2391,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004760_00_DOKUROG_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0l0sh954p6ans7i-toxicroak",
     "custoDeck": 1,
+    "deckBuilderNr": 476,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#52",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2196,10 +2407,10 @@
     "sourceId": "lt82u4w0mb7u572-magnemite",
     "categoria": "Pokemon",
     "nome": "Magnemite",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 60,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Investida",
@@ -2219,6 +2430,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "53 / 96",
     "pacote": "Arceus",
@@ -2226,13 +2440,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004770_00_COIL_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lt82u4w0mb7u572-magnemite",
     "custoDeck": 1,
+    "deckBuilderNr": 477,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#53",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2241,10 +2456,10 @@
     "sourceId": "1w6u808b7z0fusv-magneton",
     "categoria": "Pokemon",
     "nome": "Magneton",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 90,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Golpe Rolador",
@@ -2257,12 +2472,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "54 / 96",
     "pacote": "Arceus",
@@ -2270,13 +2488,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004780_00_RARECOIL_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1w6u808b7z0fusv-magneton",
     "custoDeck": 1,
+    "deckBuilderNr": 478,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#54",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2285,10 +2504,10 @@
     "sourceId": "i5qcoe6mb5py33z-magnezone",
     "categoria": "Pokemon",
     "nome": "Magnezone",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 140,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Raio de Poder",
@@ -2302,12 +2521,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "55 / 96",
     "pacote": "Arceus",
@@ -2315,13 +2537,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004790_00_JIBACOIL_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i5qcoe6mb5py33z-magnezone",
     "custoDeck": 3,
+    "deckBuilderNr": 479,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#55",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2330,10 +2553,10 @@
     "sourceId": "3e8i76g12xm2cla-mawile",
     "categoria": "Pokemon",
     "nome": "Mawile",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 70,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [],
     "fraqueza": "Fogo",
     "recuo": 1,
@@ -2342,6 +2565,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "56 / 96",
     "pacote": "Arceus",
@@ -2349,13 +2575,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004800_00_KUCHEAT_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3e8i76g12xm2cla-mawile",
     "custoDeck": 1,
+    "deckBuilderNr": 480,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#56",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2364,10 +2591,10 @@
     "sourceId": "pc990d5dpyhf7rz-probopass-ex",
     "categoria": "Pokemon",
     "nome": "Probopass ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 160,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Unidade Defensiva",
@@ -2381,12 +2608,16 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 3,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Duplamente Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "57 / 96",
     "pacote": "Arceus",
@@ -2394,13 +2625,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004810_00_DAINOSEex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pc990d5dpyhf7rz-probopass-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 481,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#57",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2409,10 +2641,10 @@
     "sourceId": "d2lo5030n6e2jyu-bronzor",
     "categoria": "Pokemon",
     "nome": "Bronzor",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 60,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Aríete",
@@ -2430,6 +2662,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "58 / 96",
     "pacote": "Arceus",
@@ -2437,13 +2672,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004820_00_DOHMIRROR_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d2lo5030n6e2jyu-bronzor",
     "custoDeck": 1,
+    "deckBuilderNr": 482,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#58",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2452,10 +2688,10 @@
     "sourceId": "85429q5q552mj74-bronzong",
     "categoria": "Pokemon",
     "nome": "Bronzong",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 120,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Psíquico",
@@ -2469,12 +2705,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 3,
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "59 / 96",
     "pacote": "Arceus",
@@ -2482,13 +2721,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004830_00_DOHTAKUN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/85429q5q552mj74-bronzong",
     "custoDeck": 1,
+    "deckBuilderNr": 483,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#59",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2497,10 +2737,10 @@
     "sourceId": "t6zjj56hil35863-origin-forme-dialga",
     "categoria": "Pokemon",
     "nome": "Dialga Forma Origem",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 120,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Esmagamento de Tempo",
@@ -2514,12 +2754,15 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 2,
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "60 / 96",
     "pacote": "Arceus",
@@ -2527,13 +2770,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004840_00_ORIGINDIALGA_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t6zjj56hil35863-origin-forme-dialga",
     "custoDeck": 3,
+    "deckBuilderNr": 484,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#60",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2542,10 +2786,10 @@
     "sourceId": "6688fv6t06532o2-giratina",
     "categoria": "Pokemon",
     "nome": "Giratina",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Dragão",
-    "hp": 120,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Mergulho de Calamidade",
@@ -2559,12 +2803,15 @@
       }
     ],
     "fraqueza": "",
-    "recuo": 3,
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "61 / 96",
     "pacote": "Arceus",
@@ -2572,13 +2819,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004850_00_GIRATINA_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6688fv6t06532o2-giratina",
     "custoDeck": 3,
+    "deckBuilderNr": 485,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#61",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2587,10 +2835,10 @@
     "sourceId": "ftm469c8cg6s5o1-eevee",
     "categoria": "Pokemon",
     "nome": "Eevee",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 60,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Surra de Cauda",
@@ -2602,13 +2850,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "62 / 96",
     "pacote": "Arceus",
@@ -2616,13 +2867,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004860_00_EIEVUI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ftm469c8cg6s5o1-eevee",
     "custoDeck": 1,
+    "deckBuilderNr": 486,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#62",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2631,10 +2883,10 @@
     "sourceId": "qi5jq27nuta8aw9-snorlax",
     "categoria": "Pokemon",
     "nome": "Snorlax",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 140,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Colapso",
@@ -2648,13 +2900,16 @@
         "efeito": "This Pokémon is now Asleep"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 4,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "63 / 96",
     "pacote": "Arceus",
@@ -2662,13 +2917,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004870_00_KABIGON_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qi5jq27nuta8aw9-snorlax",
     "custoDeck": 1,
+    "deckBuilderNr": 487,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#63",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2677,10 +2933,10 @@
     "sourceId": "7mx0etm0g7004yv-hoothoot",
     "categoria": "Pokemon",
     "nome": "Hoothoot",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 60,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Bicada",
@@ -2691,13 +2947,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "64 / 96",
     "pacote": "Arceus",
@@ -2705,13 +2964,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004880_00_HOHO_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7mx0etm0g7004yv-hoothoot",
     "custoDeck": 1,
+    "deckBuilderNr": 488,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#64",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2720,10 +2980,10 @@
     "sourceId": "apea15b0e5fsh16-noctowl",
     "categoria": "Pokemon",
     "nome": "Noctowl",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 100,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Asa Silenciosa",
@@ -2735,13 +2995,16 @@
         "efeito": "Your opponent reveals their hand"
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "65 / 96",
     "pacote": "Arceus",
@@ -2749,13 +3012,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004890_00_YORUNOZUKU_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/apea15b0e5fsh16-noctowl",
     "custoDeck": 1,
+    "deckBuilderNr": 489,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#65",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2764,10 +3028,10 @@
     "sourceId": "50kb1r37x6m30ht-starly",
     "categoria": "Pokemon",
     "nome": "Starly",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 60,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Planeio",
@@ -2778,13 +3042,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "66 / 96",
     "pacote": "Arceus",
@@ -2792,13 +3059,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004900_00_MUKKURU_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/50kb1r37x6m30ht-starly",
     "custoDeck": 1,
+    "deckBuilderNr": 490,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#66",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2807,10 +3075,10 @@
     "sourceId": "ov91847o2352q1e-staravia",
     "categoria": "Pokemon",
     "nome": "Staravia",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 80,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ataque de Asa",
@@ -2821,13 +3089,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "67 / 96",
     "pacote": "Arceus",
@@ -2835,13 +3106,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004910_00_MUKUBIRD_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ov91847o2352q1e-staravia",
     "custoDeck": 1,
+    "deckBuilderNr": 491,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#67",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2850,10 +3122,10 @@
     "sourceId": "1ude52gu39qf1c8-staraptor",
     "categoria": "Pokemon",
     "nome": "Staraptor",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 150,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Pássaro Bravo",
@@ -2866,13 +3138,16 @@
         "efeito": "This Pokémon also does 20 damage to itself"
       }
     ],
-    "fraqueza": "Raio",
-    "recuo": 2,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "2"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "68 / 96",
     "pacote": "Arceus",
@@ -2880,13 +3155,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004920_00_MUKUHAWK_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1ude52gu39qf1c8-staraptor",
     "custoDeck": 1,
+    "deckBuilderNr": 492,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#68",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2895,10 +3171,10 @@
     "sourceId": "d2d19x86u356caf-shaymin",
     "categoria": "Pokemon",
     "nome": "Shaymin",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 70,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Asa",
@@ -2911,13 +3187,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "69 / 96",
     "pacote": "Arceus",
@@ -2925,13 +3204,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004930_00_SHAYMIN_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d2d19x86u356caf-shaymin",
     "custoDeck": 3,
+    "deckBuilderNr": 493,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#69",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2940,10 +3220,10 @@
     "sourceId": "wq45r47p94da4re-arceus",
     "categoria": "Pokemon",
     "nome": "Arceus",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 120,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Explosão Poderosa",
@@ -2957,13 +3237,16 @@
         "efeito": "Discard a random energy from this Pokémon"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 2,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "70 / 96",
     "pacote": "Arceus",
@@ -2971,13 +3254,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004940_00_ARCEUS_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wq45r47p94da4re-arceus",
     "custoDeck": 3,
+    "deckBuilderNr": 494,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#70",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2986,10 +3270,10 @@
     "sourceId": "u3o3p4e79igy153-arceus-ex",
     "categoria": "Pokemon",
     "nome": "Arceus ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 140,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Força Suprema",
@@ -3002,13 +3286,17 @@
         "efeito": "This attack does 20 more damage for each of your Benched Pokémon"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "raridade": "Rara",
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Duplamente Raro",
     "habilidade": true,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "71 / 96",
     "pacote": "Arceus",
@@ -3016,13 +3304,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004950_00_ARCEUSex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u3o3p4e79igy153-arceus-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 495,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#71",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3043,6 +3332,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "72 / 96",
     "pacote": "Arceus",
@@ -3050,13 +3342,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_10_000380_00_KAI_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/86fxw9laz2p7do4-irida",
     "custoDeck": 1,
+    "deckBuilderNr": 1000038,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#72",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3077,6 +3370,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "73 / 96",
     "pacote": "Arceus",
@@ -3084,13 +3380,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_10_000390_00_KANNAGITOWNNOTYOUROU_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y1ou0m3p0z3t5rp-celestic-town-elder",
     "custoDeck": 1,
+    "deckBuilderNr": 1000039,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#73",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3111,6 +3408,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "74 / 96",
     "pacote": "Arceus",
@@ -3118,13 +3418,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_10_000400_00_JUN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8rj41dh74r9138j-barry",
     "custoDeck": 1,
+    "deckBuilderNr": 1000040,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#74",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3145,6 +3446,9 @@
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "75 / 96",
     "pacote": "Arceus",
@@ -3152,13 +3456,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_10_000410_00_SEKI_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/isttc4ht81x1w86-adaman",
     "custoDeck": 1,
+    "deckBuilderNr": 1000041,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#75",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3167,10 +3472,10 @@
     "sourceId": "y1rl502knvu02u2-houndoom",
     "categoria": "Pokemon",
     "nome": "Houndoom",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 100,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Quina",
@@ -3183,12 +3488,15 @@
       }
     ],
     "fraqueza": "Agua",
-    "recuo": 2,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "1"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "76 / 96",
     "pacote": "Arceus",
@@ -3196,13 +3504,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004360_00_HELLGAR_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y1rl502knvu02u2-houndoom",
     "custoDeck": 8,
+    "deckBuilderNr": 436,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#76",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3211,10 +3520,10 @@
     "sourceId": "0o4i7p687g0vx09-marill",
     "categoria": "Pokemon",
     "nome": "Marill",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 60,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Revólver d’Água",
@@ -3227,11 +3536,14 @@
     ],
     "fraqueza": "Raio",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "77 / 96",
     "pacote": "Arceus",
@@ -3239,13 +3551,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004380_00_MARIL_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0o4i7p687g0vx09-marill",
     "custoDeck": 8,
+    "deckBuilderNr": 438,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#77",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3254,10 +3567,10 @@
     "sourceId": "av1s21rwff1d216-unown",
     "categoria": "Pokemon",
     "nome": "Unown",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Psíquico",
-    "hp": 60,
+    "tipo": "Psiquico",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Poder Oculto",
@@ -3270,11 +3583,14 @@
     ],
     "fraqueza": "Escuridao",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Ilustração Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "78 / 96",
     "pacote": "Arceus",
@@ -3282,13 +3598,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004580_00_UNKNOWN_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/av1s21rwff1d216-unown",
     "custoDeck": 8,
+    "deckBuilderNr": 458,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#78",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3297,10 +3614,10 @@
     "sourceId": "026kq015fttj248-sudowoodo",
     "categoria": "Pokemon",
     "nome": "Sudowoodo",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 80,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Cabeçada de Luta",
@@ -3311,13 +3628,16 @@
         "efeito": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage"
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 2,
-    "raridade": "Rara",
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "79 / 96",
     "pacote": "Arceus",
@@ -3325,13 +3645,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004600_00_USOKKIE_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/026kq015fttj248-sudowoodo",
     "custoDeck": 8,
+    "deckBuilderNr": 460,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#79",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3340,10 +3661,10 @@
     "sourceId": "685w96a9nk25q97-magnemite",
     "categoria": "Pokemon",
     "nome": "Magnemite",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 60,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Investida",
@@ -3356,11 +3677,14 @@
     ],
     "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "80 / 96",
     "pacote": "Arceus",
@@ -3368,13 +3692,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004770_00_COIL_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/685w96a9nk25q97-magnemite",
     "custoDeck": 8,
+    "deckBuilderNr": 477,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#80",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3383,10 +3708,10 @@
     "sourceId": "833h3323x178959-shaymin",
     "categoria": "Pokemon",
     "nome": "Shaymin",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 70,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Asa",
@@ -3399,13 +3724,16 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Ilustração Rara",
     "habilidade": true,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "81 / 96",
     "pacote": "Arceus",
@@ -3413,13 +3741,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004930_00_SHAYMIN_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/833h3323x178959-shaymin",
     "custoDeck": 8,
+    "deckBuilderNr": 493,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#81",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3428,10 +3757,10 @@
     "sourceId": "294koi6oc96308u-leafeon-ex",
     "categoria": "Pokemon",
     "nome": "Leafeon ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 140,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Raio Solar",
@@ -3446,11 +3775,15 @@
     ],
     "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": true,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "82 / 96",
     "pacote": "Arceus",
@@ -3458,13 +3791,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004340_00_LEAFIAex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/294koi6oc96308u-leafeon-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 434,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#82",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3473,10 +3807,10 @@
     "sourceId": "u285461858n515n-glaceon-ex",
     "categoria": "Pokemon",
     "nome": "Glaceon ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 140,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Vento Gelado",
@@ -3489,13 +3823,17 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Metal",
+    "fraqueza": "Raio",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": true,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "83 / 96",
     "pacote": "Arceus",
@@ -3503,13 +3841,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004460_00_GLACIAex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u285461858n515n-glaceon-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 446,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#83",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3518,10 +3857,10 @@
     "sourceId": "b95g0207c8xjwep-garchomp-ex",
     "categoria": "Pokemon",
     "nome": "Garchomp ex",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 170,
+    "tipo": "Dragao",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ataque Linear",
@@ -3534,11 +3873,15 @@
     ],
     "fraqueza": "Planta",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "2",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "84 / 96",
     "pacote": "Arceus",
@@ -3546,13 +3889,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004710_00_GABURIASex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b95g0207c8xjwep-garchomp-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 471,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#84",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3561,10 +3905,10 @@
     "sourceId": "333d5fxx137wey2-probopass-ex",
     "categoria": "Pokemon",
     "nome": "Probopass ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 160,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Unidade Defensiva",
@@ -3578,12 +3922,16 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 3,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "85 / 96",
     "pacote": "Arceus",
@@ -3591,13 +3939,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004810_00_DAINOSEex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/333d5fxx137wey2-probopass-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 481,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#85",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3606,10 +3955,10 @@
     "sourceId": "53004s0esr50vtr-arceus-ex",
     "categoria": "Pokemon",
     "nome": "Arceus ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 140,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Força Suprema",
@@ -3622,13 +3971,17 @@
         "efeito": "This attack does 20 more damage for each of your Benched Pokémon"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "raridade": "Rara",
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Super Raro",
     "habilidade": true,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "86 / 96",
     "pacote": "Arceus",
@@ -3636,13 +3989,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004950_00_ARCEUSex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/53004s0esr50vtr-arceus-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 495,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#86",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3658,11 +4012,14 @@
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "87 / 96",
     "pacote": "Arceus",
@@ -3670,13 +4027,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_20_000380_00_KAI_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6p9jw34h4wh421z-irida",
     "custoDeck": 8,
+    "deckBuilderNr": 1000038,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#87",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3692,11 +4050,14 @@
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "88 / 96",
     "pacote": "Arceus",
@@ -3704,13 +4065,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_20_000390_00_KANNAGITOWNNOTYOUROU_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xas0gm4quxc8o7h-celestic-town-elder",
     "custoDeck": 8,
+    "deckBuilderNr": 1000039,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#88",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3726,11 +4088,14 @@
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "89 / 96",
     "pacote": "Arceus",
@@ -3738,13 +4103,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_20_000400_00_JUN_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fj68096v04c7l8y-barry",
     "custoDeck": 8,
+    "deckBuilderNr": 1000040,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#89",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3760,11 +4126,14 @@
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
-    "raridade": "Rara",
+    "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
     "formato": "noex",
     "mega": false,
+    "tags": [
+      "basic"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "90 / 96",
     "pacote": "Arceus",
@@ -3772,13 +4141,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_20_000410_00_SEKI_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/76de7411987ybbl-adaman",
     "custoDeck": 8,
+    "deckBuilderNr": 1000041,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#90",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3787,10 +4157,10 @@
     "sourceId": "k81hfy03ric5k0f-leafeon-ex",
     "categoria": "Pokemon",
     "nome": "Leafeon ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Grama",
-    "hp": 140,
+    "tipo": "Planta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Raio Solar",
@@ -3805,11 +4175,15 @@
     ],
     "fraqueza": "Fogo",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Arte Especial Raro",
     "habilidade": true,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "91 / 96",
     "pacote": "Arceus",
@@ -3817,13 +4191,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004340_01_LEAFIAex_SAR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k81hfy03ric5k0f-leafeon-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 434,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#91",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3832,10 +4207,10 @@
     "sourceId": "054sk4d336278y7-glaceon-ex",
     "categoria": "Pokemon",
     "nome": "Glaceon ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Água",
-    "hp": 140,
+    "tipo": "Agua",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Vento Gelado",
@@ -3848,13 +4223,17 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Metal",
+    "fraqueza": "Raio",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Arte Especial Raro",
     "habilidade": true,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "92 / 96",
     "pacote": "Arceus",
@@ -3862,13 +4241,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004460_01_GLACIAex_SAR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/054sk4d336278y7-glaceon-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 446,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#92",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3877,10 +4257,10 @@
     "sourceId": "s4pb5pf75b9aq48-garchomp-ex",
     "categoria": "Pokemon",
     "nome": "Garchomp ex",
-    "estagio": "Estágio 2",
+    "estagio": "2",
     "evolucao": "",
-    "tipo": "Lutador",
-    "hp": 170,
+    "tipo": "Luta",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Ataque Linear",
@@ -3891,13 +4271,17 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Psiquico",
     "recuo": 1,
-    "raridade": "Rara",
+    "raridade": "Arte Especial Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "2",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "93 / 96",
     "pacote": "Arceus",
@@ -3905,13 +4289,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004710_01_GABURIASex_SAR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s4pb5pf75b9aq48-garchomp-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 471,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#93",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3920,10 +4305,10 @@
     "sourceId": "g8x7hox3z667b9q-probopass-ex",
     "categoria": "Pokemon",
     "nome": "Probopass ex",
-    "estagio": "Estágio 1",
+    "estagio": "1",
     "evolucao": "",
-    "tipo": "Metálico",
-    "hp": 160,
+    "tipo": "Metal",
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Unidade Defensiva",
@@ -3937,12 +4322,16 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 3,
-    "raridade": "Rara",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
     "habilidade": false,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "1",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "94 / 96",
     "pacote": "Arceus",
@@ -3950,13 +4339,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004810_01_DAINOSEex_SAR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g8x7hox3z667b9q-probopass-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 481,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#94",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3965,10 +4355,10 @@
     "sourceId": "2y10k980z35893l-arceus-ex",
     "categoria": "Pokemon",
     "nome": "Arceus ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 140,
+    "hp": 50,
     "ataque": [
       {
         "nomeataque": "Força Suprema",
@@ -3981,13 +4371,17 @@
         "efeito": "This attack does 20 more damage for each of your Benched Pokémon"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "raridade": "Rara",
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Raro Imersivo",
     "habilidade": true,
     "promo": false,
     "formato": "ex",
     "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
     "expansao": "Luz Triunfante (A2A)",
     "numero": "95 / 96",
     "pacote": "Arceus",
@@ -3995,13 +4389,14 @@
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004950_01_ARCEUSex_IM_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2y10k980z35893l-arceus-ex",
     "custoDeck": 8,
+    "deckBuilderNr": 495,
     "releaseDate": "2025-02-28",
     "sourceMeta": {
       "setCode": "A2A",
       "series": "a",
       "matchKey": "A2A#95",
-      "flibustierMin": false,
-      "flibustierExtra": false,
+      "flibustierMin": true,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   }

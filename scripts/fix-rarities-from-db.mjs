@@ -10,7 +10,7 @@ const rarityLabelPt = {
   U: "Incomum",
   R: "Rara",
   RR: "Duplamente Raro",
-  AR: "Ilustracao Rara",
+  AR: "Ilustração Rara",
   SAR: "Arte Especial Raro",
   SR: "Super Raro",
   IM: "Raro Imersivo",

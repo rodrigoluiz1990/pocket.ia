@@ -38,9 +38,22 @@ function normalizeStage(stage) {
 function inferFormat(card) {
   const stage = normalizeKey(card?.estagio);
   const name = normalizeKey(card?.nome);
-  if (stage.includes("mega") || name.includes(" mega ")) return "mega";
+  if (stage.includes("mega") || /\bmega\b/.test(name)) return "mega";
   if (stage === "ex" || stage.includes(" ex") || name.endsWith(" ex") || name.includes("-ex")) return "ex";
   return "noex";
+}
+
+function buildFilterTags(stage, formato, existingTags = []) {
+  const tags = new Set(
+    (Array.isArray(existingTags) ? existingTags : [])
+      .map(normalizeKey)
+      .filter(Boolean)
+  );
+  const stageKey = normalizeStage(stage);
+  if (stageKey) tags.add(stageKey);
+  if (stageKey === "baby") tags.add("basic");
+  if (formato === "mega" || formato === "ex") tags.add(formato);
+  return [...tags];
 }
 
 function buildImageLocal(code, numero) {
@@ -101,11 +114,13 @@ async function run() {
     const cards = rawCards
       .map((card) => {
         const numero = parseCardNumber(card?.numero);
+        const estagio = normalizeStage(card?.estagio);
+        const formato = inferFormat(card);
         return {
           id: `${String(code).toLowerCase()}-${String(numero).padStart(3, "0")}`,
           categoria: String(card?.tipo || "").trim() || "Pokemon",
           nome: String(card?.nome || "").trim(),
-          estagio: normalizeStage(card?.estagio),
+          estagio,
           evolucao: "",
           tipo: String(card?.elemento || "").trim(),
           hp: Number(card?.hp || 0) || 0,
@@ -115,7 +130,9 @@ async function run() {
           raridade: String(card?.raridade || "").trim(),
           habilidade: false,
           promo: /^PROMO-/i.test(code) || normalizeKey(card?.raridade) === "promo",
-          formato: inferFormat(card),
+          formato,
+          mega: formato === "mega",
+          tags: buildFilterTags(estagio, formato, card?.tags),
           expansao: `${expansionName} (${code})`,
           numero: String(card?.numero || "").trim(),
           pacote: "",

@@ -259,7 +259,12 @@ function inferSetCodeFromImageUrl(url) {
 }
 
 function rarityToTier(r) {
-  if (/ultra|coroa|estrela|shiny|brilhante/i.test(r)) return "Ultra Rara";
+  if (/coroa|coroada/i.test(r)) return "Coroa Rara";
+  if (/brilhante\s*dupla|dupla\s*brilhante|shiny\s*super/i.test(r)) return "Duplo Brilhante Raro";
+  if (/brilhante|shiny/i.test(r)) return "Raro Brilhante";
+  if (/3\s*estrelas?|tr[eê]s\s*estrelas?/i.test(r)) return "Raro Imersivo";
+  if (/2\s*estrelas?|duas\s*estrelas?/i.test(r)) return "Super Raro";
+  if (/1\s*estrela|uma\s*estrela/i.test(r)) return "Ilustração Rara";
   if (/rara/i.test(r)) return "Rara";
   if (/incomum/i.test(r)) return "Incomum";
   if (/comum|diamante/i.test(r)) return "Comum";
