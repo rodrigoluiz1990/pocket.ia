@@ -36,6 +36,12 @@
             <h2>Seu Deck</h2>
             <p><span id="deckCount">0</span>/20 cartas</p>
           </div>
+          <div class="deck-actions">
+            <button type="button" id="deckQrBtn" class="deck-qr-fab" disabled aria-label="Abrir QR Code do deck" title="QR Code">
+              <span class="deck-qr-fab-icon" aria-hidden="true"></span>
+            </button>
+            <button type="button" id="clearDeckBtn" class="deck-action-btn deck-action-secondary deck-clear-btn" disabled>Limpar</button>
+          </div>
           <div id="deckList" class="deck-list"></div>
         </section>
 
@@ -104,9 +110,9 @@
           <div class="range-duo range-single recuo-filter">
             <span class="range-title">Recuo</span>
             <div class="range-inline">
-              <span class="range-value">0</span>
-              <input id="recuoFilter" type="range" min="0" max="5" value="5" />
-              <span id="recuoLabel" class="range-value">5</span>
+              <span id="recuoMinLabel" class="range-value">0</span>
+              <div id="recuoFilter" class="range-track"></div>
+              <span id="recuoMaxLabel" class="range-value">5</span>
             </div>
           </div>
           <div class="range-duo vida-filter">
@@ -179,6 +185,43 @@
         <div id="metaDeckModalGrid" class="meta-deck-modal-grid"></div>
         <div class="meta-deck-modal-actions">
           <button type="button" id="metaDeckModalLoadBtn" class="meta-deck-modal-load">Carregar no Seu Deck</button>
+        </div>
+      </div>
+    </div>
+
+    <div id="deckQrModal" class="meta-deck-modal" aria-hidden="true">
+      <div class="meta-deck-modal-backdrop" data-deck-qr-close tabindex="-1"></div>
+      <div
+        class="meta-deck-modal-dialog panel deck-qr-modal-dialog"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="deckQrModalTitle"
+      >
+        <button type="button" class="meta-deck-modal-close" data-deck-qr-close aria-label="Fechar">
+          ×
+        </button>
+        <h2 id="deckQrModalTitle" class="meta-deck-modal-title">QR Code do Deck</h2>
+        <div class="deck-qr-modal-body">
+          <img id="deckQrImage" class="deck-qr-image" alt="QR Code do deck atual" />
+          <p id="deckQrNote" class="deck-qr-note"></p>
+        </div>
+      </div>
+    </div>
+
+    <div id="deckCardModal" class="meta-deck-modal" aria-hidden="true">
+      <div class="meta-deck-modal-backdrop" data-deck-card-close tabindex="-1"></div>
+      <div
+        class="meta-deck-modal-dialog panel deck-card-modal-dialog"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="deckCardModalTitle"
+      >
+        <button type="button" class="meta-deck-modal-close" data-deck-card-close aria-label="Fechar">
+          ×
+        </button>
+        <h2 id="deckCardModalTitle" class="meta-deck-modal-title"></h2>
+        <div class="deck-card-modal-body">
+          <img id="deckCardModalImage" class="deck-card-modal-image" alt="" />
         </div>
       </div>
     </div>

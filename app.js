@@ -4,6 +4,7 @@ const maxDeck = 20;
 const maxCopies = 2;
 let renderToken = 0;
 const FAVORITES_KEY = "pocketia_favorites_v1";
+const DECK_QUERY_PARAM = "deck";
 let metaDecks = [];
 const favorites = new Set();
 const FALLBACK_IMAGE_SRC = "./assets/cards/pokemon_pocket_card_back.png";
@@ -25,6 +26,14 @@ const el = {
   cardsGrid: document.getElementById("cardsGrid"),
   deckList: document.getElementById("deckList"),
   deckCount: document.getElementById("deckCount"),
+  deckQrBtn: document.getElementById("deckQrBtn"),
+  clearDeckBtn: document.getElementById("clearDeckBtn"),
+  deckQrModal: document.getElementById("deckQrModal"),
+  deckQrImage: document.getElementById("deckQrImage"),
+  deckQrNote: document.getElementById("deckQrNote"),
+  deckCardModal: document.getElementById("deckCardModal"),
+  deckCardModalTitle: document.getElementById("deckCardModalTitle"),
+  deckCardModalImage: document.getElementById("deckCardModalImage"),
   simResults: document.getElementById("simResults"),
   loadStatus: document.getElementById("loadStatus"),
   suggestionsList: document.getElementById("suggestionsList"),
@@ -45,7 +54,8 @@ const el = {
   attackEnergyFilter: document.getElementById("attackEnergyFilter"),
   habilidadeFilter: document.getElementById("habilidadeFilter"),
   recuoFilter: document.getElementById("recuoFilter"),
-  recuoLabel: document.getElementById("recuoLabel"),
+  recuoMinLabel: document.getElementById("recuoMinLabel"),
+  recuoMaxLabel: document.getElementById("recuoMaxLabel"),
   vidaSlider: document.getElementById("vidaSlider"),
   vidaMinLabel: document.getElementById("vidaMinLabel"),
   vidaMaxLabel: document.getElementById("vidaMaxLabel"),
@@ -69,9 +79,9 @@ const el = {
 
 function canInit() {
   const required = [
-    "cardsGrid","deckList","deckCount","simResults","loadStatus","searchInput","tipoFilter","elementoFilter",
+    "cardsGrid","deckList","deckCount","deckQrBtn","clearDeckBtn","deckQrModal","deckQrImage","deckQrNote","deckCardModal","deckCardModalTitle","deckCardModalImage","simResults","loadStatus","searchInput","tipoFilter","elementoFilter",
     "raridadeFilter","estagioFilter","expansaoFilter","fraquezaFilter","habilidadeFilter",
-    "recuoFilter","recuoLabel","vidaSlider","ataqueSlider","vidaMinLabel","vidaMaxLabel","ataqueMinLabel","ataqueMaxLabel","custoAtaqueSlider","custoAtaqueMinLabel","custoAtaqueMaxLabel","formatoFilter","sortField","sortDir","imageOnlyToggle",
+    "recuoFilter","recuoMinLabel","recuoMaxLabel","vidaSlider","ataqueSlider","vidaMinLabel","vidaMaxLabel","ataqueMinLabel","ataqueMaxLabel","custoAtaqueSlider","custoAtaqueMinLabel","custoAtaqueMaxLabel","formatoFilter","sortField","sortDir","imageOnlyToggle",
     "favoriteOnlyToggle","attackEnergyFilter","mostUsedList","metaDecksList",
     "metaDeckModal","metaDeckModalTitle","metaDeckModalGrid","metaDeckModalLoadBtn",
     "simCount","aiProfile","runSimBtn"
@@ -201,6 +211,24 @@ function findCardByName(name) {
   return cards.find((c) => String(c.nome || "").trim().toLowerCase() === n) || null;
 }
 
+function metaIdCandidates(value) {
+  const id = String(value || "").trim();
+  if (!id) return [];
+
+  const candidates = [id];
+  const promoShortMatch = id.match(/^p-([ab])-(\d+)$/i);
+  if (promoShortMatch) {
+    candidates.push(`promo-${promoShortMatch[1].toLowerCase()}-${promoShortMatch[2]}`);
+  }
+
+  const promoFullMatch = id.match(/^promo-([ab])-(\d+)$/i);
+  if (promoFullMatch) {
+    candidates.push(`p-${promoFullMatch[1].toLowerCase()}-${promoFullMatch[2]}`);
+  }
+
+  return [...new Set(candidates)];
+}
+
 /**
  * Resolve uma carta de meta-decks.json: string (nome), id unico, ou objeto com criterios.
  * Objeto aceito: { id }, { nome, expansao?, raridade?, numero? } — use o mesmo texto de `expansao`/`raridade`/`numero` da base.
@@ -213,8 +241,11 @@ function findCardByMetaRef(ref) {
   if (typeof ref === "object" && !Array.isArray(ref)) {
     const idRaw = ref.id;
     if (idRaw != null && String(idRaw).trim() !== "") {
-      const id = String(idRaw).trim();
-      return cards.find((c) => String(c.id) === id) || null;
+      for (const candidateId of metaIdCandidates(idRaw)) {
+        const card = cards.find((c) => String(c.id) === candidateId);
+        if (card) return card;
+      }
+      return null;
     }
     const nome = String(ref.nome || ref.name || "").trim();
     if (!nome) return null;
@@ -265,6 +296,107 @@ function escapeHtml(value) {
 }
 
 let metaModalDeckIndex = -1;
+let deckQrOpen = false;
+let deckCardModalOpen = false;
+
+function updateDeckActionButtons() {
+  const disabled = deck.length === 0;
+  if (el.deckQrBtn) el.deckQrBtn.disabled = disabled;
+  if (el.clearDeckBtn) el.clearDeckBtn.disabled = disabled;
+}
+
+function serializeDeckState() {
+  return deck.map((id) => String(id)).join(",");
+}
+
+function buildDeckShareUrl() {
+  const url = new URL(window.location.href);
+  url.searchParams.delete(DECK_QUERY_PARAM);
+  const payload = serializeDeckState();
+  if (payload) url.searchParams.set(DECK_QUERY_PARAM, payload);
+  return url.toString();
+}
+
+function buildDeckQrImageUrl() {
+  const shareUrl = buildDeckShareUrl();
+  return `https://api.qrserver.com/v1/create-qr-code/?size=320x320&margin=12&data=${encodeURIComponent(shareUrl)}`;
+}
+
+function openDeckQrModal() {
+  if (!el.deckQrModal || !el.deckQrImage || !deck.length) return;
+  deckQrOpen = true;
+  el.deckQrImage.src = buildDeckQrImageUrl();
+  if (el.deckQrNote) {
+    el.deckQrNote.textContent = "Escaneie para abrir este deck no Pocket.IA no celular. O app oficial do jogo confirma leitura de codigos 2D em 12 de maio de 2026, mas nao publica um formato oficial de importacao de deck por QR para sites de terceiros.";
+  }
+  el.deckQrModal.classList.add("open");
+  el.deckQrModal.setAttribute("aria-hidden", "false");
+  document.body.classList.add("meta-modal-open");
+}
+
+function closeDeckQrModal() {
+  if (!el.deckQrModal) return;
+  deckQrOpen = false;
+  el.deckQrModal.classList.remove("open");
+  el.deckQrModal.setAttribute("aria-hidden", "true");
+  document.body.classList.remove("meta-modal-open");
+}
+
+function openDeckCardModal(card) {
+  if (!card || !el.deckCardModal || !el.deckCardModalImage || !el.deckCardModalTitle) return;
+  deckCardModalOpen = true;
+  el.deckCardModalTitle.textContent = String(card.nome || "Carta");
+  el.deckCardModalImage.src = getCardImageSrc(card);
+  el.deckCardModalImage.alt = String(card.nome || "Carta");
+  el.deckCardModal.classList.add("open");
+  el.deckCardModal.setAttribute("aria-hidden", "false");
+  document.body.classList.add("meta-modal-open");
+}
+
+function closeDeckCardModal() {
+  if (!el.deckCardModal) return;
+  deckCardModalOpen = false;
+  el.deckCardModal.classList.remove("open");
+  el.deckCardModal.setAttribute("aria-hidden", "true");
+  document.body.classList.remove("meta-modal-open");
+}
+
+function clearDeck() {
+  if (!deck.length) return;
+  deck.length = 0;
+  closeDeckQrModal();
+  closeDeckCardModal();
+  renderDeck();
+}
+
+function loadDeckFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+  const raw = String(params.get(DECK_QUERY_PARAM) || "").trim();
+  if (!raw) return;
+
+  const ids = raw
+    .split(",")
+    .map((value) => String(value || "").trim())
+    .filter(Boolean)
+    .slice(0, maxDeck);
+
+  if (!ids.length) return;
+
+  const nextDeck = [];
+  const copies = new Map();
+  for (const id of ids) {
+    const card = cards.find((entry) => String(entry.id) === id);
+    if (!card) continue;
+    const count = copies.get(id) || 0;
+    if (count >= maxCopies) continue;
+    copies.set(id, count + 1);
+    nextDeck.push(id);
+  }
+
+  if (!nextDeck.length) return;
+  deck.length = 0;
+  deck.push(...nextDeck);
+}
 
 function getMetaDeckPrincipalCard(def) {
   if (!def) return null;
@@ -621,7 +753,9 @@ function getFilteredCards() {
   const fraquezas = selectedValues(el.fraquezaFilter);
   const attackTypes = new Set([...selectedValues(el.attackEnergyFilter)].map(normalizeEnergyType));
   const habilidade = el.habilidadeFilter.value;
-  const recuoMax = safeNumber(el.recuoFilter.value, 5);
+  const recuoValues = el.recuoFilter?.noUiSlider ? el.recuoFilter.noUiSlider.get() : [0, 5];
+  const recuoMin = safeNumber(Array.isArray(recuoValues) ? recuoValues[0] : 0, 0);
+  const recuoMax = safeNumber(Array.isArray(recuoValues) ? recuoValues[1] : recuoValues, 5);
   const vidaValues = el.vidaSlider?.noUiSlider ? el.vidaSlider.noUiSlider.get() : [0, 300];
   const ataqueValues = el.ataqueSlider?.noUiSlider ? el.ataqueSlider.noUiSlider.get() : [0, 250];
   const vidaMin = safeNumber(vidaValues[0], 0);
@@ -629,6 +763,7 @@ function getFilteredCards() {
   const ataqueMin = safeNumber(ataqueValues[0], 0);
   const ataqueMax = safeNumber(ataqueValues[1], 250);
   const custoAtaqueValues = el.custoAtaqueSlider?.noUiSlider ? el.custoAtaqueSlider.noUiSlider.get() : [0, 5];
+  const custoAtaqueMin = safeNumber(Array.isArray(custoAtaqueValues) ? custoAtaqueValues[0] : 0, 0);
   const custoAtaqueMax = safeNumber(Array.isArray(custoAtaqueValues) ? custoAtaqueValues[1] : custoAtaqueValues, 5);
   const formatos = selectedValues(el.formatoFilter);
   const sortField = el.sortField.value;
@@ -652,10 +787,10 @@ function getFilteredCards() {
       if (!cardHasAttackType(card, attackTypes)) return false;
       if (habilidade === "tem" && !card.habilidade) return false;
       if (habilidade === "nao-tem" && card.habilidade) return false;
-      if (card.recuo > recuoMax) return false;
+      if (card.recuo < recuoMin || card.recuo > recuoMax) return false;
       if (card.hp < vidaMin || card.hp > vidaMax) return false;
       if (card.ataque < ataqueMin || card.ataque > ataqueMax) return false;
-      if (card.custoAtaque > custoAtaqueMax) return false;
+      if (card.custoAtaque < custoAtaqueMin || card.custoAtaque > custoAtaqueMax) return false;
       if (formatos.size && !formatos.has(card.formato)) return false;
       return true;
     })
@@ -797,7 +932,9 @@ function deckStats() {
 function renderDeck() {
   el.deckList.innerHTML = "";
   el.deckCount.textContent = String(deck.length);
+  updateDeckActionButtons();
   if (!deck.length) {
+    if (deckQrOpen) closeDeckQrModal();
     el.deckList.innerHTML = "<p>Seu deck esta vazio.</p>";
     el.suggestionsList.innerHTML = "<p>Adicione cartas ao deck para ver sugestoes.</p>";
     renderMostUsedCards();
@@ -817,10 +954,13 @@ function renderDeck() {
     const imageSrc = getCardImageSrc(card);
     item.innerHTML = `
       <div class="deck-item-main" style="width:72px;aspect-ratio:63/88;">
-        <img class="deck-thumb" src="${imageSrc}" alt="${card.nome}" title="${card.nome}" onload="if(this.naturalWidth>this.naturalHeight){this.classList.add('is-wallpaper')}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
         <span class="deck-qty">x${qty}</span>
-        <button class="deck-add" data-add="${card.id}" title="Adicionar uma copia">+</button>
-        <button class="deck-remove" data-remove="${card.id}" title="Remover uma copia">-</button>
+        <img class="deck-thumb" src="${imageSrc}" alt="${card.nome}" title="${card.nome}" onload="if(this.naturalWidth>this.naturalHeight){this.classList.add('is-wallpaper')}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
+        <button class="deck-preview" data-preview="${card.id}" title="Ampliar carta" aria-label="Ampliar ${card.nome}">[]</button>
+        <div class="deck-controls">
+          <button class="deck-add" data-add="${card.id}" title="Adicionar uma copia">+</button>
+          <button class="deck-remove" data-remove="${card.id}" title="Remover uma copia">-</button>
+        </div>
       </div>
     `;
     el.deckList.appendChild(item);
@@ -933,27 +1073,6 @@ function renderSimulation() {
 }
 
 function bindInputLabels() {
-  const simpleMap = [[el.recuoFilter, el.recuoLabel]];
-
-  const paintRangeProgress = (input) => {
-    if (!input) return;
-    const min = safeNumber(input.min, 0);
-    const max = safeNumber(input.max, 100);
-    const value = safeNumber(input.value, min);
-    const ratio = max > min ? ((value - min) / (max - min)) * 100 : 0;
-    input.style.setProperty("--range-progress", `${Math.max(0, Math.min(100, ratio))}%`);
-  };
-
-  for (const [input, label] of simpleMap) {
-    if (!input || !label) continue;
-    paintRangeProgress(input);
-    input.addEventListener("input", () => {
-      label.textContent = input.value;
-      paintRangeProgress(input);
-      renderCards();
-    });
-  }
-
   const setupNoUi = (sliderEl, minLabelEl, maxLabelEl, min, max, step) => {
     if (!sliderEl || !minLabelEl || !maxLabelEl || typeof noUiSlider === "undefined") return;
     noUiSlider.create(sliderEl, {
@@ -971,6 +1090,7 @@ function bindInputLabels() {
     });
   };
 
+  setupNoUi(el.recuoFilter, el.recuoMinLabel, el.recuoMaxLabel, 0, 5, 1);
   setupNoUi(el.vidaSlider, el.vidaMinLabel, el.vidaMaxLabel, 0, 300, 10);
   setupNoUi(el.ataqueSlider, el.ataqueMinLabel, el.ataqueMaxLabel, 0, 250, 10);
   setupNoUi(el.custoAtaqueSlider, el.custoAtaqueMinLabel, el.custoAtaqueMaxLabel, 0, 5, 1);
@@ -1185,6 +1305,12 @@ function init() {
     if (id) addCard(id);
   });
   el.deckList?.addEventListener("click", (event) => {
+    const previewId = event.target.dataset.preview;
+    if (previewId) {
+      const card = cards.find((c) => String(c.id) === String(previewId));
+      if (card) openDeckCardModal(card);
+      return;
+    }
     const addId = event.target.dataset.add;
     if (addId) {
       addCard(addId);
@@ -1237,12 +1363,23 @@ function init() {
     loadMetaDeckIntoDeck(metaModalDeckIndex);
     closeMetaDeckModal();
   });
+  el.deckQrBtn?.addEventListener("click", openDeckQrModal);
+  el.clearDeckBtn?.addEventListener("click", clearDeck);
+  el.deckQrModal?.addEventListener("click", (event) => {
+    if (event.target.closest("[data-deck-qr-close]")) closeDeckQrModal();
+  });
+  el.deckCardModal?.addEventListener("click", (event) => {
+    if (event.target.closest("[data-deck-card-close]")) closeDeckCardModal();
+  });
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape" && el.metaDeckModal?.classList.contains("open")) closeMetaDeckModal();
+    if (event.key === "Escape" && deckQrOpen) closeDeckQrModal();
+    if (event.key === "Escape" && deckCardModalOpen) closeDeckCardModal();
   });
 
   el.runSimBtn?.addEventListener("click", renderSimulation);
 
+  loadDeckFromUrl();
   renderCards();
   renderDeck();
   renderMetaDecks();
