@@ -219,6 +219,7 @@ async function run() {
         categoria: String(card?.categoria || card?.tipo || "").trim(),
         nome: String(card?.nome || "").trim(),
         estagio,
+        subtipo: String(card?.subtipo || "").trim(),
         evolucao: String(card?.evolucao || "").trim(),
         tipo: String(card?.tipo || card?.elemento || "").trim(),
         hp: safeNumber(card?.hp, 0),

@@ -109,6 +109,21 @@ function normalizeStage(stage) {
   return stageMap[key] || String(stage || "").trim();
 }
 
+function normalizeTrainerSubtype(value) {
+  const key = normalizeKey(value);
+  if (/ferramenta|pokemon tool|tool/.test(key)) return "ferramenta";
+  if (/apoiador|supporter/.test(key)) return "apoiador";
+  if (/estadio|stadium/.test(key)) return "estadio";
+  if (/fossil/.test(key)) return "fossil";
+  if (/item/.test(key)) return "item";
+  return "";
+}
+
+function isFossilCard(card) {
+  const key = normalizeKey(`${card?.nome || ""} ${card?.sourceId || ""}`);
+  return key.includes("fossil") || key.includes("ambar velho") || key.includes("old amber");
+}
+
 function mapWeakness(value) {
   const key = normalizeKey(String(value || "").replace(/\+\d+/g, ""));
   return tipoMap[key] || "";
@@ -223,11 +238,15 @@ async function run() {
           categoryMap[normalizeKey(extra?.type)] ||
           (String(rawCard.tipo || "").trim() === "Pokemon" ? "Pokemon" : String(rawCard.tipo || "").trim());
 
-        const stage = normalizeStage(extra?.stage) || String(rawCard.estagio || "").trim();
+        const trainerSubtype = categoria === "Treinador" ? normalizeTrainerSubtype(rawCard.subtipo) : "";
+        const stage = trainerSubtype || normalizeStage(extra?.stage) || String(rawCard.estagio || "").trim();
         const nome = String(rawCard.nome || min?.name || "").trim();
         const rarityCode = String(min?.rarity || extra?.rarity || "").trim().toUpperCase();
         const formato = inferFormat(nome, stage);
         const tags = buildFilterTags(stage, formato, rawCard.tags);
+        if (categoria === "Treinador" && trainerSubtype === "item" && isFossilCard(rawCard)) {
+          tags.push("fossil");
+        }
 
         return {
           id: buildStableId(code, number ?? 0),
@@ -235,6 +254,7 @@ async function run() {
           categoria,
           nome,
           estagio: stage,
+          subtipo: trainerSubtype,
           evolucao: String(rawCard.evolucao || "").trim(),
           tipo,
           hp: safeNumber(rawCard.hp, safeNumber(extra?.health, 0)),

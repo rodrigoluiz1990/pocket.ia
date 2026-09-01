@@ -23,6 +23,8 @@ let stageOrder = [];
 
 let tipoDisplayOrder = [];
 
+let suggestionRules = [];
+
 const el = {
   cardsGrid: document.getElementById("cardsGrid"),
   deckList: document.getElementById("deckList"),
@@ -647,7 +649,7 @@ function renderMostUsedCards() {
     item.innerHTML = `
       <div class="deck-item-main" style="width:72px;aspect-ratio:63/88;">
         <img class="deck-thumb" src="${imageSrc}" alt="${card.nome}" title="${card.nome}" onload="if(this.naturalWidth>this.naturalHeight){this.classList.add('is-wallpaper')}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
-        <button class="deck-add" data-add="${card.id}" title="Adicionar ao deck">+</button>
+        <button class="deck-add" data-add="${card.id}" title="Adicionar ao deck" aria-label="Adicionar ${card.nome} ao deck">+</button>
       </div>
     `;
     el.mostUsedList.appendChild(item);
@@ -1099,39 +1101,21 @@ function renderSuggestions() {
   el.suggestionsList.innerHTML = "";
 
   const deckCards = deck.map(id => cards.find(c => String(c.id) === String(id))).filter(Boolean);
-  const suggestions = new Set();
+  const suggestions = window.PocketiaSuggestions?.getSuggestedCards(cards, deckCards, suggestionRules) || [];
 
-  // Regra: se ha estagio 2, sugerir Rare Candy e Professor's Research.
-  if (deckCards.some(c => c.estagio === '2')) {
-    suggestions.add("Rare Candy");
-    suggestions.add("Professor's Research");
-  }
-
-  // Regra: sempre sugerir item basico se o deck nao os tem.
-  if (!deckCards.some(c => c.nome === "Potion")) {
-    suggestions.add("Potion");
-  }
-
-  // Filtrar sugestoes que ja estao no deck.
-  const deckNames = new Set(deckCards.map(c => c.nome));
-  const filteredSuggestions = Array.from(suggestions).filter(name => !deckNames.has(name));
-
-  if (filteredSuggestions.length === 0) {
+  if (suggestions.length === 0) {
     el.suggestionsList.innerHTML = "<p>Nenhuma sugestao disponivel.</p>";
     return;
   }
 
-  filteredSuggestions.forEach(name => {
-    const candidates = cards.filter((c) => c.nome === name || c.nome?.toLowerCase() === name.toLowerCase());
-    const card = candidates.find((c) => hasValidImage(c)) || candidates[0];
-    if (!card) return;
+  suggestions.forEach(card => {
     const item = document.createElement("div");
     item.className = "suggestion-item";
-    const imageSrc = getSuggestionImageSrc(card, name);
+    const imageSrc = getSuggestionImageSrc(card, card.nome);
     item.innerHTML = `
       <div class="deck-item-main suggestion-item-main" style="width:72px;aspect-ratio:63/88;">
         <img class="deck-thumb suggestion-thumb" src="${imageSrc}" alt="${card.nome}" title="${card.nome}" onload="if(this.naturalWidth>this.naturalHeight){this.classList.add('is-wallpaper')}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
-        <button class="deck-add" data-add="${card.id}" title="Adicionar ao deck">+</button>
+        <button class="deck-add" data-add="${card.id}" title="Adicionar ao deck" aria-label="Adicionar ${card.nome} ao deck">+</button>
       </div>
     `;
     el.suggestionsList.appendChild(item);
@@ -1641,11 +1625,21 @@ async function loadTypesData() {
   tipoDisplayOrder = types.map((t) => String(t || "").trim()).filter(Boolean);
 }
 
+async function loadSuggestionRulesData() {
+  const response = await fetch("./data/suggestion-rules.json", { cache: "no-store" });
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  const payload = await response.json();
+  const rules = Array.isArray(payload) ? payload : payload?.rules;
+  if (!Array.isArray(rules)) throw new Error("data/suggestion-rules.json invalido.");
+  suggestionRules = rules;
+}
+
 (async function bootstrap() {
   await loadExpansionsData();
   await loadRaritiesData();
   await loadStagesData();
   await loadTypesData();
+  await loadSuggestionRulesData();
   await loadCardsData();
   await loadMetaDecksData();
 

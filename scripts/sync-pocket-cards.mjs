@@ -300,6 +300,7 @@ function parseCardPage(html, url) {
   const nome = titleMatch ? clean(titleMatch[1]) : "";
   const numeroTxt = findField(html, "Número da Carta");
   const estagio = findField(html, "Estágio") || "Desconhecido";
+  const subtipo = findField(html, "Categoria");
   const elemento = findField(html, "Tipo de Energia") || "Neutro";
   const raridadeRaw = findField(html, "Descrição da Raridade") || findField(html, "Raridade");
   const setMatch = html.match(/conjunto\s+([^.<]+?)\s+no Pokémon TCG Pocket/i);
@@ -319,6 +320,7 @@ function parseCardPage(html, url) {
     raridade: rarityToTier(raridadeRaw),
     custoDeck: Math.max(1, Math.min(8, Math.round((Number(craftTxt.match(/(\d+)/)?.[1] || 80) || 80) / 50))),
     estagio,
+    subtipo,
     expansao,
     numero: numeroTxt,
     hp,

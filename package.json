@@ -13,6 +13,7 @@
     "build:site-cards": "node scripts/build-site-cards.mjs",
     "fix:rarities": "node scripts/fix-rarities-from-db.mjs",
     "fix:types-promo": "node scripts/fix-types-and-promo.mjs",
-    "enrich:combat": "node scripts/enrich-combat-fields.mjs"
+    "enrich:combat": "node scripts/enrich-combat-fields.mjs",
+    "enrich:trainer-subtypes": "node scripts/enrich-trainer-subtypes.mjs"
   }
 }

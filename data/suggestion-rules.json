@@ -1,0 +1,31 @@
+{
+  "rules": [
+    {
+      "id": "stage-2-evolution",
+      "description": "Pokemon de Estagio 2: Doce Raro.",
+      "priority": 100,
+      "when": {
+        "pokemonStages": ["2"]
+      },
+      "cardIds": ["a3-144"]
+    },
+    {
+      "id": "water-support",
+      "description": "Pokemon de Agua: Misty e Litoral Calmante.",
+      "priority": 80,
+      "when": {
+        "pokemonTypes": ["Agua"]
+      },
+      "cardIds": ["a1-220", "b4-154"]
+    },
+    {
+      "id": "grass-protection",
+      "description": "Pokemon de Planta: Capa de Folha.",
+      "priority": 80,
+      "when": {
+        "pokemonTypes": ["Planta"]
+      },
+      "cardIds": ["a3-147"]
+    }
+  ]
+}
