@@ -27,7 +27,7 @@
     <main class="workspace-layout">
       <section class="panel workspace-panel">
         <div class="panel-header"><h2>Adicionar Cartas</h2><p>Pesquise no catálogo e envie cada carta para a lista adequada.</p></div>
-        <input id="tradeSearch" class="workspace-search" type="search" placeholder="Buscar carta para troca..." />
+        <input id="tradeSearch" class="workspace-search" type="search" placeholder="Buscar por nome ou codigo..." />
         <div id="tradeSearchResults" class="trade-search-results"></div>
       </section>
       <section class="workspace-two-columns">
@@ -35,13 +35,22 @@
         <section class="panel workspace-panel"><div class="panel-header"><h2>Desejadas</h2><p>Cartas que você procura.</p></div><div id="wantedTradeList" class="trade-list"></div></section>
       </section>
       <section class="panel workspace-panel">
-        <div class="panel-header"><h2>Criar Combo de Troca</h2><p>Monte uma oferta usando as listas desta sessão.</p></div>
+        <div class="panel-header"><h2>Criar Troca</h2><p>Monte uma oferta usando as listas desta sessão.</p></div>
         <div class="combo-form">
-          <label>Nome<input id="comboName" type="text" maxlength="60" placeholder="Ex.: Troca para deck de Agua" /></label>
-          <label>Ofereço<select id="comboOffer" multiple size="5"></select></label>
-          <label>Quero receber<select id="comboWant" multiple size="5"></select></label>
-          <button id="saveComboBtn" type="button">Salvar Combo</button>
+          <label class="combo-name-field">Nome<input id="comboName" type="text" maxlength="60" placeholder="Ex.: Troca para deck de Agua" /></label>
+          <div class="combo-picker-row">
+            <section class="combo-picker-field"><h3>Ofereço</h3><div id="comboOffer" class="combo-card-picker" aria-label="Cartas oferecidas para o combo"></div></section>
+            <section class="combo-picker-field"><h3>Desejo</h3><div id="comboWant" class="combo-card-picker" aria-label="Cartas desejadas para o combo"></div></section>
+          </div>
+          <div class="combo-actions">
+            <button id="saveComboBtn" type="button" disabled>Salvar Combo</button>
+            <button id="shareComboBtn" type="button" disabled>Compartilhar</button>
+          </div>
         </div>
+        <p id="comboStatus" class="combo-status" role="status" aria-live="polite"></p>
+      </section>
+      <section class="panel workspace-panel">
+        <div class="panel-header"><h2>Minhas Trocas</h2><p>Trocas criadas nesta sessão.</p></div>
         <div id="tradeCombos" class="trade-combo-list"></div>
       </section>
     </main>
