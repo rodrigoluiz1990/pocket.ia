@@ -1,0 +1,5255 @@
+[
+  {
+    "id": "b4a-001",
+    "sourceId": "2alm46xydfmavni-volbeat",
+    "categoria": "Pokemon",
+    "nome": "Volbeat",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "30",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "1 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-001.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/1_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2alm46xydfmavni-volbeat",
+    "custoDeck": 1,
+    "deckBuilderNr": 2119,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#1",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-002",
+    "sourceId": "ha4twqmza6bjvtk-illumise",
+    "categoria": "Pokemon",
+    "nome": "Illumise",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Voo da Ira",
+        "dano": "30 +",
+        "custoataque": [
+          "Planta",
+          "Incolor"
+        ],
+        "efeito": "If Volbeat is in your discard pile, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "2 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-002.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/2_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ha4twqmza6bjvtk-illumise",
+    "custoDeck": 1,
+    "deckBuilderNr": 2120,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#2",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-003",
+    "sourceId": "3qemws2yjj96b6e-snivy",
+    "categoria": "Pokemon",
+    "nome": "Snivy",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Bumerangue de Folha",
+        "dano": "20 ×",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "3 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-003.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/3_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3qemws2yjj96b6e-snivy",
+    "custoDeck": 1,
+    "deckBuilderNr": 2121,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#3",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-004",
+    "sourceId": "40wvcpti3w4xh3j-servine",
+    "categoria": "Pokemon",
+    "nome": "Servine",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Passo de Folha",
+        "dano": "30",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "4 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-004.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/4_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/40wvcpti3w4xh3j-servine",
+    "custoDeck": 1,
+    "deckBuilderNr": 2122,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#4",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-005",
+    "sourceId": "90o2tuuke92h93q-serperior",
+    "categoria": "Pokemon",
+    "nome": "Serperior",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Grama",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Fustigar",
+        "dano": "60 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 60 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "5 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-005.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/5_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/90o2tuuke92h93q-serperior",
+    "custoDeck": 3,
+    "deckBuilderNr": 2123,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#5",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-006",
+    "sourceId": "qmcut3vkt5sui37-team-rockets-magmar",
+    "categoria": "Pokemon",
+    "nome": "Magmar da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Torra Zombeteira",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "This attack does 50 more damage for each Special Condition affecting your opponent's Active Pokémon."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "6 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-006.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/6_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qmcut3vkt5sui37-team-rockets-magmar",
+    "custoDeck": 1,
+    "deckBuilderNr": 2124,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#6",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-007",
+    "sourceId": "xsskrf52wogdzck-team-rockets-moltres-ex",
+    "categoria": "Pokemon",
+    "nome": "Moltres ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Carga de Calor",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Flip 3 coins. For each heads, produce a Fire Energy from your Energy Zone and attach it to this Pokémon"
+      },
+      {
+        "nomeataque": "Asa do Submundo",
+        "dano": "130",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "Discard a Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "7 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-007.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/7_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xsskrf52wogdzck-team-rockets-moltres-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2125,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#7",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-008",
+    "sourceId": "q2yf9sbmee7xhl5-team-rockets-houndour",
+    "categoria": "Pokemon",
+    "nome": "Houndour da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Carvão Vivo",
+        "dano": "20",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "8 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-008.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/8_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q2yf9sbmee7xhl5-team-rockets-houndour",
+    "custoDeck": 1,
+    "deckBuilderNr": 2126,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#8",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-009",
+    "sourceId": "2rw2occ635g6h6h-team-rockets-houndoom",
+    "categoria": "Pokemon",
+    "nome": "Houndoom da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Presa Toxifogo",
+        "dano": "20",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned and Burned"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "9 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-009.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/9_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2rw2occ635g6h6h-team-rockets-houndoom",
+    "custoDeck": 1,
+    "deckBuilderNr": 2127,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#9",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-010",
+    "sourceId": "5tpvilwezcck7uf-fennekin",
+    "categoria": "Pokemon",
+    "nome": "Fennekin",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Arranhão",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "10 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-010.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/10_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5tpvilwezcck7uf-fennekin",
+    "custoDeck": 1,
+    "deckBuilderNr": 2117,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#10",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-011",
+    "sourceId": "q8m6xy5grpcrosz-braixen",
+    "categoria": "Pokemon",
+    "nome": "Braixen",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "30",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "11 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-011.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/11_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q8m6xy5grpcrosz-braixen",
+    "custoDeck": 1,
+    "deckBuilderNr": 2128,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#11",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-012",
+    "sourceId": "8159wfhkxz4kf5a-delphox",
+    "categoria": "Pokemon",
+    "nome": "Delphox",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Psíquico",
+        "dano": "60 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "12 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-012.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/12_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8159wfhkxz4kf5a-delphox",
+    "custoDeck": 3,
+    "deckBuilderNr": 2129,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#12",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-013",
+    "sourceId": "zdottte4jsqvu3e-team-rockets-lapras",
+    "categoria": "Pokemon",
+    "nome": "Lapras da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Redemoinho Implacável",
+        "dano": "40 +",
+        "custoataque": [
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "13 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-013.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/13_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zdottte4jsqvu3e-team-rockets-lapras",
+    "custoDeck": 1,
+    "deckBuilderNr": 2110,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#13",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-014",
+    "sourceId": "yz1k351inyr4au4-team-rockets-articuno-ex",
+    "categoria": "Pokemon",
+    "nome": "Articuno ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Asa de Gelo",
+        "dano": "40",
+        "custoataque": [
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Tempestade de Granizo",
+        "dano": "130",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "This attack also does 20 damage to each of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "14 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-014.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/14_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yz1k351inyr4au4-team-rockets-articuno-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2130,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#14",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-015",
+    "sourceId": "v23w7vbwev3b1tq-wingull",
+    "categoria": "Pokemon",
+    "nome": "Wingull",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Asa",
+        "dano": "10",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "15 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-015.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/15_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v23w7vbwev3b1tq-wingull",
+    "custoDeck": 1,
+    "deckBuilderNr": 2111,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#15",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-016",
+    "sourceId": "kch4l5i792qzlct-pelipper",
+    "categoria": "Pokemon",
+    "nome": "Pelipper",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Ataque de Asa",
+        "dano": "60",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "16 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-016.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/16_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kch4l5i792qzlct-pelipper",
+    "custoDeck": 1,
+    "deckBuilderNr": 2131,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#16",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-017",
+    "sourceId": "f7ax53jnptasmfw-hisuian-basculin",
+    "categoria": "Pokemon",
+    "nome": "Basculin de Hisui",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "20",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "17 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-017.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/17_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f7ax53jnptasmfw-hisuian-basculin",
+    "custoDeck": 1,
+    "deckBuilderNr": 2132,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#17",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-018",
+    "sourceId": "uogcaa0bt05qe9n-hisuian-basculegion",
+    "categoria": "Pokemon",
+    "nome": "Basculegion de Hisui",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Contra-ataque de Alma",
+        "dano": "50 +",
+        "custoataque": [
+          "Agua",
+          "Agua"
+        ],
+        "efeito": "This attack does 50 more damage for each point your opponent got during their last turn"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "18 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-018.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/18_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uogcaa0bt05qe9n-hisuian-basculegion",
+    "custoDeck": 1,
+    "deckBuilderNr": 2133,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#18",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-019",
+    "sourceId": "ivpmi4hqrx3komx-team-rockets-voltorb",
+    "categoria": "Pokemon",
+    "nome": "Voltorb da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Golpe Rolador",
+        "dano": "20",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "19 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-019.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/19_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ivpmi4hqrx3komx-team-rockets-voltorb",
+    "custoDeck": 1,
+    "deckBuilderNr": 2134,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#19",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-020",
+    "sourceId": "gy6hceomhj0s92j-team-rockets-electrode",
+    "categoria": "Pokemon",
+    "nome": "Electrode da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Fagulha Aleatória",
+        "dano": "",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "This attack does 30 damage to 1 of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "20 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-020.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/20_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gy6hceomhj0s92j-team-rockets-electrode",
+    "custoDeck": 1,
+    "deckBuilderNr": 2135,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#20",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-021",
+    "sourceId": "zvc7xlot26zl647-team-rockets-zapdos-ex",
+    "categoria": "Pokemon",
+    "nome": "Zapdos ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Bola Elétrica",
+        "dano": "40",
+        "custoataque": [
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Garra de Trovão",
+        "dano": "90",
+        "custoataque": [
+          "Raio",
+          "Raio",
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Duplamente Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "21 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-021.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/21_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zvc7xlot26zl647-team-rockets-zapdos-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2136,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#21",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-022",
+    "sourceId": "7i5st2p7uvrqmbt-blitzle",
+    "categoria": "Pokemon",
+    "nome": "Blitzle",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada Dupla",
+        "dano": "20 ×",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "Flip 2 coins. This attcak does 20 damage for each heads."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "22 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-022.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/22_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7i5st2p7uvrqmbt-blitzle",
+    "custoDeck": 1,
+    "deckBuilderNr": 2137,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#22",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-023",
+    "sourceId": "dnn8ev73tl9axfn-zebstrika",
+    "categoria": "Pokemon",
+    "nome": "Zebstrika",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Chute Zap",
+        "dano": "50",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "23 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-023.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/23_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dnn8ev73tl9axfn-zebstrika",
+    "custoDeck": 1,
+    "deckBuilderNr": 2138,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#23",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-024",
+    "sourceId": "wj8rkgjuwvtnzt4-team-rockets-pincurchin",
+    "categoria": "Pokemon",
+    "nome": "Pincurchin da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Golpe Envenenado",
+        "dano": "20",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "24 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-024.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/24_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wj8rkgjuwvtnzt4-team-rockets-pincurchin",
+    "custoDeck": 1,
+    "deckBuilderNr": 2139,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#24",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-025",
+    "sourceId": "cb1b6xbc6i0jgfx-team-rockets-slowpoke",
+    "categoria": "Pokemon",
+    "nome": "Slowpoke da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Vasculhar",
+        "dano": "",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "Put a random Item card from your discard pile into your hand."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "25 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-025.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/25_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cb1b6xbc6i0jgfx-team-rockets-slowpoke",
+    "custoDeck": 1,
+    "deckBuilderNr": 2140,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#25",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-026",
+    "sourceId": "99zm0du87gcqmdo-team-rockets-slowking-ex",
+    "categoria": "Pokemon",
+    "nome": "Slowking ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Cinese de Mão",
+        "dano": "20 ×",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 damage for each card in your hand"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "raridade": "Duplamente Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "26 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-026.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/26_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/99zm0du87gcqmdo-team-rockets-slowking-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2141,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#26",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-027",
+    "sourceId": "8nbtm75vinecx5x-team-rockets-drowzee",
+    "categoria": "Pokemon",
+    "nome": "Drowzee da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Resmungo",
+        "dano": "40",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "27 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-027.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/27_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8nbtm75vinecx5x-team-rockets-drowzee",
+    "custoDeck": 1,
+    "deckBuilderNr": 2142,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#27",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-028",
+    "sourceId": "4ge66t83dqeff9k-team-rockets-hypno",
+    "categoria": "Pokemon",
+    "nome": "Hypno da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Encurralar",
+        "dano": "",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico"
+        ],
+        "efeito": "Switch in 1 of your opponent's Benched Pokémon to the Active Spo. If you do, this attack does 50 damage to the new Active Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "28 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-028.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/28_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4ge66t83dqeff9k-team-rockets-hypno",
+    "custoDeck": 1,
+    "deckBuilderNr": 2143,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#28",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-029",
+    "sourceId": "snt49gpi6yjeoqf-team-rockets-mr-mime",
+    "categoria": "Pokemon",
+    "nome": "Mr. Mime da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Tapa Empurrão",
+        "dano": "40",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "29 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-029.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/29_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/snt49gpi6yjeoqf-team-rockets-mr-mime",
+    "custoDeck": 1,
+    "deckBuilderNr": 2144,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#29",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-030",
+    "sourceId": "7mq09zv8io25avo-team-rockets-mewtwo",
+    "categoria": "Pokemon",
+    "nome": "Mewtwo da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Explosão Psíquica",
+        "dano": "130",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 70 damage to itself"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "30 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-030.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/30_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7mq09zv8io25avo-team-rockets-mewtwo",
+    "custoDeck": 3,
+    "deckBuilderNr": 2145,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#30",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-031",
+    "sourceId": "e4ripbx16vg57b1-espurr",
+    "categoria": "Pokemon",
+    "nome": "Espurr",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Feixe",
+        "dano": "40",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "31 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-031.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/31_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e4ripbx16vg57b1-espurr",
+    "custoDeck": 1,
+    "deckBuilderNr": 2146,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#31",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-032",
+    "sourceId": "bpmk0jaylr6xdsl-meowstic",
+    "categoria": "Pokemon",
+    "nome": "Meowstic",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Super-raio Psíquico",
+        "dano": "70",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "32 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-032.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/32_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bpmk0jaylr6xdsl-meowstic",
+    "custoDeck": 1,
+    "deckBuilderNr": 2118,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#32",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-033",
+    "sourceId": "ihnily3s50xf1v8-oranguru",
+    "categoria": "Pokemon",
+    "nome": "Oranguru",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Soco e Compra",
+        "dano": "40",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "Draw a card"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "33 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-033.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/33_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ihnily3s50xf1v8-oranguru",
+    "custoDeck": 1,
+    "deckBuilderNr": 2147,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#33",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-034",
+    "sourceId": "46k7ymfas4w8uel-gimmighoul",
+    "categoria": "Pokemon",
+    "nome": "Gimmighoul",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "20",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "34 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-034.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/34_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/46k7ymfas4w8uel-gimmighoul",
+    "custoDeck": 1,
+    "deckBuilderNr": 2148,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#34",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-035",
+    "sourceId": "vf0tnqm90m4x2ym-cubone",
+    "categoria": "Pokemon",
+    "nome": "Cubone",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Surra de Osso",
+        "dano": "20",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "35 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-035.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/35_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vf0tnqm90m4x2ym-cubone",
+    "custoDeck": 1,
+    "deckBuilderNr": 2149,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#35",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-036",
+    "sourceId": "5zvpp5zwujg83il-marowak",
+    "categoria": "Pokemon",
+    "nome": "Marowak",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Punição",
+        "dano": "50 +",
+        "custoataque": [
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": "If your opponent's Active Pokémon has \"Team Rocket\" in its name, this attack does 70 more damage"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "36 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-036.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/36_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5zvpp5zwujg83il-marowak",
+    "custoDeck": 1,
+    "deckBuilderNr": 2113,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#36",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-037",
+    "sourceId": "gip12e45mibfmi6-landorus",
+    "categoria": "Pokemon",
+    "nome": "Landorus",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Impacto de Gaia",
+        "dano": "130",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": "Discard all Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "37 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-037.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/37_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gip12e45mibfmi6-landorus",
+    "custoDeck": 3,
+    "deckBuilderNr": 2150,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#37",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-038",
+    "sourceId": "nvxr03h0ekb5ybw-team-rockets-ekans",
+    "categoria": "Pokemon",
+    "nome": "Ekans da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Presa Sombria",
+        "dano": "40",
+        "custoataque": [
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "38 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-038.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/38_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nvxr03h0ekb5ybw-team-rockets-ekans",
+    "custoDeck": 1,
+    "deckBuilderNr": 2151,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#38",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-039",
+    "sourceId": "y52sa2mijhgcirx-team-rockets-arbok",
+    "categoria": "Pokemon",
+    "nome": "Arbok da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Buscador de Sombras",
+        "dano": "70 +",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "This attack does 10 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "39 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-039.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/39_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y52sa2mijhgcirx-team-rockets-arbok",
+    "custoDeck": 1,
+    "deckBuilderNr": 2152,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#39",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-040",
+    "sourceId": "qnkfb82ab2ect9n-team-rockets-grimer",
+    "categoria": "Pokemon",
+    "nome": "Grimer da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Lodo",
+        "dano": "20",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "40 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-040.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/40_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qnkfb82ab2ect9n-team-rockets-grimer",
+    "custoDeck": 1,
+    "deckBuilderNr": 2153,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#40",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-041",
+    "sourceId": "gvofbslrl1h5l80-team-rockets-muk",
+    "categoria": "Pokemon",
+    "nome": "Muk da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Absorção de Veneno",
+        "dano": "80",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, heal 60 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "41 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-041.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/41_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gvofbslrl1h5l80-team-rockets-muk",
+    "custoDeck": 1,
+    "deckBuilderNr": 2154,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#41",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-042",
+    "sourceId": "04b182k8bj4brf3-team-rockets-koffing",
+    "categoria": "Pokemon",
+    "nome": "Koffing da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Empuxo Reverso",
+        "dano": "10",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "42 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-042.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/42_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/04b182k8bj4brf3-team-rockets-koffing",
+    "custoDeck": 1,
+    "deckBuilderNr": 2155,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#42",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-043",
+    "sourceId": "jq6pyr2suqy32x4-team-rockets-weezing-ex",
+    "categoria": "Pokemon",
+    "nome": "Weezing ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Gás de Confusão",
+        "dano": "60",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Duplamente Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "43 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-043.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/43_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jq6pyr2suqy32x4-team-rockets-weezing-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2156,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#43",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-044",
+    "sourceId": "ax1jycy1xjwp3ji-team-rockets-sneasel",
+    "categoria": "Pokemon",
+    "nome": "Sneasel da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Abater em Grupo",
+        "dano": "30 ×",
+        "custoataque": [
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin for each Pokémon you have in play. This attack does 30 damage for each heads."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "44 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-044.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/44_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ax1jycy1xjwp3ji-team-rockets-sneasel",
+    "custoDeck": 1,
+    "deckBuilderNr": 2157,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#44",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-045",
+    "sourceId": "rz93iph7io1jme3-togedemaru",
+    "categoria": "Pokemon",
+    "nome": "Togedemaru",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Ataque Cambalhota",
+        "dano": "20 +",
+        "custoataque": [
+          "Metal"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "45 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-045.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/45_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rz93iph7io1jme3-togedemaru",
+    "custoDeck": 1,
+    "deckBuilderNr": 2158,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#45",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-046",
+    "sourceId": "e55lmdfipg5xzof-cufant",
+    "categoria": "Pokemon",
+    "nome": "Cufant",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Rolagem",
+        "dano": "40",
+        "custoataque": [
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "46 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-046.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/46_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e55lmdfipg5xzof-cufant",
+    "custoDeck": 1,
+    "deckBuilderNr": 2159,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#46",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-047",
+    "sourceId": "3gfmsbmhge8znoc-copperajah",
+    "categoria": "Pokemon",
+    "nome": "Copperajah",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 160,
+    "ataque": [
+      {
+        "nomeataque": "Impacto Pesado",
+        "dano": "80",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "47 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-047.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/47_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3gfmsbmhge8znoc-copperajah",
+    "custoDeck": 1,
+    "deckBuilderNr": 2160,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#47",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-048",
+    "sourceId": "at2p1185swphscx-team-rockets-tinkatink",
+    "categoria": "Pokemon",
+    "nome": "Tinkatink da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Bote",
+        "dano": "20",
+        "custoataque": [
+          "Metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "48 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-048.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/48_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/at2p1185swphscx-team-rockets-tinkatink",
+    "custoDeck": 1,
+    "deckBuilderNr": 2161,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#48",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-049",
+    "sourceId": "pfu1arubctpdyv8-team-rockets-tinkatuff",
+    "categoria": "Pokemon",
+    "nome": "Tinkatuff da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Soco Saca-rolha",
+        "dano": "50",
+        "custoataque": [
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "49 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-049.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/49_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pfu1arubctpdyv8-team-rockets-tinkatuff",
+    "custoDeck": 1,
+    "deckBuilderNr": 2162,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#49",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-050",
+    "sourceId": "dxl1uqop2vka578-team-rockets-tinkaton",
+    "categoria": "Pokemon",
+    "nome": "Tinkaton da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Martelo Bate-estaca",
+        "dano": "80",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 Colorless more, and its Retreat Cost is 2 Colorless more."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "50 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-050.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/50_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dxl1uqop2vka578-team-rockets-tinkaton",
+    "custoDeck": 3,
+    "deckBuilderNr": 2163,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#50",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-051",
+    "sourceId": "mgqluqc3i41ha86-gholdengo",
+    "categoria": "Pokemon",
+    "nome": "Gholdengo",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Gema Poderosa",
+        "dano": "50",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "51 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-051.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/51_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mgqluqc3i41ha86-gholdengo",
+    "custoDeck": 1,
+    "deckBuilderNr": 2164,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#51",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-052",
+    "sourceId": "x26hy2sgqj613f9-gible",
+    "categoria": "Pokemon",
+    "nome": "Gible",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Desmantelar",
+        "dano": "30",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "52 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-052.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/52_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x26hy2sgqj613f9-gible",
+    "custoDeck": 1,
+    "deckBuilderNr": 2114,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#52",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-053",
+    "sourceId": "82bivboh37l5t72-gabite",
+    "categoria": "Pokemon",
+    "nome": "Gabite",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Ataque Linear",
+        "dano": "",
+        "custoataque": [
+          "Agua",
+          "Luta"
+        ],
+        "efeito": "This attack does 50damage to 1 of yoyr opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "53 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-053.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/53_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/82bivboh37l5t72-gabite",
+    "custoDeck": 1,
+    "deckBuilderNr": 2115,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#53",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-054",
+    "sourceId": "e08ee7sh46vs43i-garchomp",
+    "categoria": "Pokemon",
+    "nome": "Garchomp",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Aperto de Terra",
+        "dano": "120",
+        "custoataque": [
+          "Agua",
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "54 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-054.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/54_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e08ee7sh46vs43i-garchomp",
+    "custoDeck": 3,
+    "deckBuilderNr": 2165,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#54",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-055",
+    "sourceId": "10zzpz9xz41k5zg-duraludon",
+    "categoria": "Pokemon",
+    "nome": "Duraludon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Raio de Poder",
+        "dano": "50",
+        "custoataque": [
+          "Luta",
+          "Metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "55 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-055.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/55_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/10zzpz9xz41k5zg-duraludon",
+    "custoDeck": 1,
+    "deckBuilderNr": 2166,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#55",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-056",
+    "sourceId": "2vr6oq5yxfm39hi-archaludon",
+    "categoria": "Pokemon",
+    "nome": "Archaludon",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Carga Protetora",
+        "dano": "110",
+        "custoataque": [
+          "Luta",
+          "Metal",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, this Pokémon takes -30 damage from attacks"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "56 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-056.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/56_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2vr6oq5yxfm39hi-archaludon",
+    "custoDeck": 3,
+    "deckBuilderNr": 2167,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#56",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-057",
+    "sourceId": "w02audbi4qo6b7h-regidrago",
+    "categoria": "Pokemon",
+    "nome": "Regidrago",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Pancada Dracônica",
+        "dano": "140",
+        "custoataque": [
+          "Planta",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "If this Pokémon has damage on it, this attack does -100 damage"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "57 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-057.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/57_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w02audbi4qo6b7h-regidrago",
+    "custoDeck": 1,
+    "deckBuilderNr": 2168,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#57",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-058",
+    "sourceId": "tr2i5gl837x44ot-team-rockets-rattata",
+    "categoria": "Pokemon",
+    "nome": "Rattata da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 40,
+    "ataque": [
+      {
+        "nomeataque": "Emboscada",
+        "dano": "20 +",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "58 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-058.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/58_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tr2i5gl837x44ot-team-rockets-rattata",
+    "custoDeck": 1,
+    "deckBuilderNr": 2169,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#58",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-059",
+    "sourceId": "vjighavhfbe0jla-team-rockets-raticate-ex",
+    "categoria": "Pokemon",
+    "nome": "Raticate ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Arremetida de Impulso",
+        "dano": "70",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "raridade": "Duplamente Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "59 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-059.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/59_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vjighavhfbe0jla-team-rockets-raticate-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2170,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#59",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-060",
+    "sourceId": "s1s6jfgkvp52kv2-team-rockets-meowth",
+    "categoria": "Pokemon",
+    "nome": "Meowth da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Arranhão",
+        "dano": "30",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "60 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-060.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/60_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s1s6jfgkvp52kv2-team-rockets-meowth",
+    "custoDeck": 1,
+    "deckBuilderNr": 2171,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#60",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-061",
+    "sourceId": "v09do7uqdzun8d0-team-rockets-persian",
+    "categoria": "Pokemon",
+    "nome": "Persian da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Bandido Perigoso",
+        "dano": "10 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 40 more damage for each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "61 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-061.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/61_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v09do7uqdzun8d0-team-rockets-persian",
+    "custoDeck": 1,
+    "deckBuilderNr": 2172,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#61",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-062",
+    "sourceId": "gdixjaxzzaews9o-team-rockets-kecleon",
+    "categoria": "Pokemon",
+    "nome": "Kecleon da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Bater e Esconder",
+        "dano": "40",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, during your opponent's next turn, prveent all damage from-and effects of-attacks done to this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "62 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-062.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/62_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gdixjaxzzaews9o-team-rockets-kecleon",
+    "custoDeck": 1,
+    "deckBuilderNr": 2173,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#62",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-063",
+    "sourceId": "exvq2s36oho9da5-happiny",
+    "categoria": "Pokemon",
+    "nome": "Happiny",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 30,
+    "ataque": [
+      {
+        "nomeataque": "Torcida Gordinha",
+        "dano": "10",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "63 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-063.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/63_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/exvq2s36oho9da5-happiny",
+    "custoDeck": 3,
+    "deckBuilderNr": 2174,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#63",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-064",
+    "sourceId": "oi5xrbj9ze18cuu-furfrou",
+    "categoria": "Pokemon",
+    "nome": "Furfrou",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Passos Contínuos",
+        "dano": "30 ×",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Flip a coin until you get tails. This attack does 30 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "64 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-064.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/64_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oi5xrbj9ze18cuu-furfrou",
+    "custoDeck": 1,
+    "deckBuilderNr": 2175,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#64",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-065",
+    "sourceId": "0aj3oqgcq5169vz-lechonk",
+    "categoria": "Pokemon",
+    "nome": "Lechonk",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "30",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "65 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-065.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/65_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0aj3oqgcq5169vz-lechonk",
+    "custoDeck": 1,
+    "deckBuilderNr": 2176,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#65",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-066",
+    "sourceId": "itw82tyyjaypgq3-oinkologne",
+    "categoria": "Pokemon",
+    "nome": "Oinkologne",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Borrifada Sentada",
+        "dano": "40 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Comum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "66 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-066.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/66_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/itw82tyyjaypgq3-oinkologne",
+    "custoDeck": 1,
+    "deckBuilderNr": 2177,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#66",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-067",
+    "sourceId": "wdmk89uqxplc1bw-team-rockets-thieving-machine",
+    "categoria": "Treinador",
+    "nome": "Máquina de Roubo da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "67 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-067.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/67_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wdmk89uqxplc1bw-team-rockets-thieving-machine",
+    "custoDeck": 1,
+    "deckBuilderNr": 1000160,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#67",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-068",
+    "sourceId": "y537o9khzecxd3m-team-rockets-goo-zooka",
+    "categoria": "Treinador",
+    "nome": "Gosma-zuca da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "68 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-068.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/68_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y537o9khzecxd3m-team-rockets-goo-zooka",
+    "custoDeck": 1,
+    "deckBuilderNr": 1000161,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#68",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-069",
+    "sourceId": "l8249mh2dqy27u5-team-rockets-researcher",
+    "categoria": "Treinador",
+    "nome": "Pesquisador da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "69 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-069.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/69_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l8249mh2dqy27u5-team-rockets-researcher",
+    "custoDeck": 1,
+    "deckBuilderNr": 1000162,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#69",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-070",
+    "sourceId": "121dz5pj2lp905i-team-rockets-master-plan",
+    "categoria": "Treinador",
+    "nome": "Plano Mestre da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "70 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-070.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/70_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/121dz5pj2lp905i-team-rockets-master-plan",
+    "custoDeck": 1,
+    "deckBuilderNr": 1000163,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#70",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-071",
+    "sourceId": "1fty8eeso3be2d4-team-rockets-boss",
+    "categoria": "Treinador",
+    "nome": "Chefe da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "71 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-071.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/71_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1fty8eeso3be2d4-team-rockets-boss",
+    "custoDeck": 1,
+    "deckBuilderNr": 1000164,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#71",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-072",
+    "sourceId": "mj2lvh4lykaw2wn-arcade",
+    "categoria": "Treinador",
+    "nome": "Fliperama",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Incomum",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "72 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-072.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/72_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mj2lvh4lykaw2wn-arcade",
+    "custoDeck": 3,
+    "deckBuilderNr": 1000165,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#72",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-073",
+    "sourceId": "3hqbe1yxcq03eck-delphox",
+    "categoria": "Pokemon",
+    "nome": "Delphox",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Psíquico",
+        "dano": "60 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "73 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-073.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/73_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3hqbe1yxcq03eck-delphox",
+    "custoDeck": 8,
+    "deckBuilderNr": 2129,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#73",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-074",
+    "sourceId": "obtoo5sh8bkh5e7-team-rockets-hypno",
+    "categoria": "Pokemon",
+    "nome": "Hypno da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Encurralar",
+        "dano": "",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico"
+        ],
+        "efeito": "Switch in 1 of your opponent's Benched Pokémon to the Active Spo. If you do, this attack does 50 damage to the new Active Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "74 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-074.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/74_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/obtoo5sh8bkh5e7-team-rockets-hypno",
+    "custoDeck": 8,
+    "deckBuilderNr": 2143,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#74",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-075",
+    "sourceId": "gfzz23d3r1iwuau-team-rockets-tinkaton",
+    "categoria": "Pokemon",
+    "nome": "Tinkaton da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Martelo Bate-estaca",
+        "dano": "80",
+        "custoataque": [
+          "Metal",
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 Colorless more, and its Retreat Cost is 2 Colorless more."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "75 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-075.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/75_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gfzz23d3r1iwuau-team-rockets-tinkaton",
+    "custoDeck": 8,
+    "deckBuilderNr": 2163,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#75",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-076",
+    "sourceId": "oiv2d5so4n3p008-team-rockets-kecleon",
+    "categoria": "Pokemon",
+    "nome": "Kecleon da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Bater e Esconder",
+        "dano": "40",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, during your opponent's next turn, prveent all damage from-and effects of-attacks done to this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "76 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-076.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/76_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oiv2d5so4n3p008-team-rockets-kecleon",
+    "custoDeck": 8,
+    "deckBuilderNr": 2173,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#76",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-077",
+    "sourceId": "w91ql470ujyf9oh-happiny",
+    "categoria": "Pokemon",
+    "nome": "Happiny",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 30,
+    "ataque": [
+      {
+        "nomeataque": "Torcida Gordinha",
+        "dano": "10",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "77 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-077.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/77_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w91ql470ujyf9oh-happiny",
+    "custoDeck": 8,
+    "deckBuilderNr": 2174,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#77",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-078",
+    "sourceId": "6xiyej1lqr4uwlu-lechonk",
+    "categoria": "Pokemon",
+    "nome": "Lechonk",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "30",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Ilustração Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "78 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-078.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/78_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6xiyej1lqr4uwlu-lechonk",
+    "custoDeck": 8,
+    "deckBuilderNr": 2176,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#78",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-079",
+    "sourceId": "9j1l10p9gbncyh7-team-rockets-moltres-ex",
+    "categoria": "Pokemon",
+    "nome": "Moltres ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Carga de Calor",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Flip 3 coins. For each heads, produce a Fire Energy from your Energy Zone and attach it to this Pokémon"
+      },
+      {
+        "nomeataque": "Asa do Submundo",
+        "dano": "130",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "Discard a Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Super Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "79 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-079.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/79_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9j1l10p9gbncyh7-team-rockets-moltres-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2125,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#79",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-080",
+    "sourceId": "8z5rrk68t2hcu5u-team-rockets-articuno-ex",
+    "categoria": "Pokemon",
+    "nome": "Articuno ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Asa de Gelo",
+        "dano": "40",
+        "custoataque": [
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Tempestade de Granizo",
+        "dano": "130",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "This attack also does 20 damage to each of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "raridade": "Super Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "80 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-080.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/80_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8z5rrk68t2hcu5u-team-rockets-articuno-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2130,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#80",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-081",
+    "sourceId": "a4xqr3xn2owgd08-team-rockets-zapdos-ex",
+    "categoria": "Pokemon",
+    "nome": "Zapdos ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Bola Elétrica",
+        "dano": "40",
+        "custoataque": [
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Garra de Trovão",
+        "dano": "90",
+        "custoataque": [
+          "Raio",
+          "Raio",
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Super Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "81 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-081.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/81_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a4xqr3xn2owgd08-team-rockets-zapdos-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2136,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#81",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-082",
+    "sourceId": "tko0fccji2yk40x-team-rockets-slowking-ex",
+    "categoria": "Pokemon",
+    "nome": "Slowking ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Cinese de Mão",
+        "dano": "20 ×",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 damage for each card in your hand"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "raridade": "Super Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "82 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-082.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/82_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tko0fccji2yk40x-team-rockets-slowking-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2141,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#82",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-083",
+    "sourceId": "y1jf8zxcpf133ml-team-rockets-weezing-ex",
+    "categoria": "Pokemon",
+    "nome": "Weezing ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Gás de Confusão",
+        "dano": "60",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Super Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "83 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-083.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/83_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y1jf8zxcpf133ml-team-rockets-weezing-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2156,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#83",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-084",
+    "sourceId": "ycscmhdssa73wj5-team-rockets-raticate-ex",
+    "categoria": "Pokemon",
+    "nome": "Raticate ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Arremetida de Impulso",
+        "dano": "70",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "raridade": "Super Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "84 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-084.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/84_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ycscmhdssa73wj5-team-rockets-raticate-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2170,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#84",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-085",
+    "sourceId": "9mfof7b4n1d10wx-team-rockets-researcher",
+    "categoria": "Treinador",
+    "nome": "Pesquisador da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Super Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "85 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-085.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/85_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9mfof7b4n1d10wx-team-rockets-researcher",
+    "custoDeck": 8,
+    "deckBuilderNr": 1000162,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#85",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-086",
+    "sourceId": "69egjdsqm7jtgle-team-rockets-master-plan",
+    "categoria": "Treinador",
+    "nome": "Plano Mestre da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Super Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "86 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-086.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/86_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/69egjdsqm7jtgle-team-rockets-master-plan",
+    "custoDeck": 8,
+    "deckBuilderNr": 1000163,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#86",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-087",
+    "sourceId": "71kre575005q3z4-team-rockets-boss",
+    "categoria": "Treinador",
+    "nome": "Chefe da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Super Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "87 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-087.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/87_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71kre575005q3z4-team-rockets-boss",
+    "custoDeck": 8,
+    "deckBuilderNr": 1000164,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#87",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-088",
+    "sourceId": "6sbxadaldm37u85-team-rockets-moltres-ex",
+    "categoria": "Pokemon",
+    "nome": "Moltres ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Carga de Calor",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Flip 3 coins. For each heads, produce a Fire Energy from your Energy Zone and attach it to this Pokémon"
+      },
+      {
+        "nomeataque": "Asa do Submundo",
+        "dano": "130",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "Discard a Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "88 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-088.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/88_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6sbxadaldm37u85-team-rockets-moltres-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2125,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#88",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-089",
+    "sourceId": "59ao3zt2vo5v80f-team-rockets-articuno-ex",
+    "categoria": "Pokemon",
+    "nome": "Articuno ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Asa de Gelo",
+        "dano": "40",
+        "custoataque": [
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Tempestade de Granizo",
+        "dano": "130",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Incolor"
+        ],
+        "efeito": "This attack also does 20 damage to each of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "89 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-089.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/89_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/59ao3zt2vo5v80f-team-rockets-articuno-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2130,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#89",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-090",
+    "sourceId": "j3c8xrwubxfprbr-team-rockets-zapdos-ex",
+    "categoria": "Pokemon",
+    "nome": "Zapdos ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Bola Elétrica",
+        "dano": "40",
+        "custoataque": [
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Garra de Trovão",
+        "dano": "90",
+        "custoataque": [
+          "Raio",
+          "Raio",
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Arte Especial Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "90 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-090.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/90_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j3c8xrwubxfprbr-team-rockets-zapdos-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2136,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#90",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-091",
+    "sourceId": "t8il1gux9ewuhki-team-rockets-slowking-ex",
+    "categoria": "Pokemon",
+    "nome": "Slowking ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 130,
+    "ataque": [
+      {
+        "nomeataque": "Cinese de Mão",
+        "dano": "20 ×",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 damage for each card in your hand"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "raridade": "Arte Especial Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "91 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-091.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/91_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t8il1gux9ewuhki-team-rockets-slowking-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2141,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#91",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-092",
+    "sourceId": "43rt8vv84n75uep-team-rockets-weezing-ex",
+    "categoria": "Pokemon",
+    "nome": "Weezing ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "hp": 140,
+    "ataque": [
+      {
+        "nomeataque": "Gás de Confusão",
+        "dano": "60",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Arte Especial Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "92 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-092.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/92_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/43rt8vv84n75uep-team-rockets-weezing-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2156,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#92",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-093",
+    "sourceId": "iofbzk507gw9z6w-team-rockets-raticate-ex",
+    "categoria": "Pokemon",
+    "nome": "Raticate ex da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Arremetida de Impulso",
+        "dano": "70",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "raridade": "Arte Especial Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "93 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-093.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/93_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iofbzk507gw9z6w-team-rockets-raticate-ex",
+    "custoDeck": 8,
+    "deckBuilderNr": 2170,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#93",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-094",
+    "sourceId": "xrnr446g848ee9s-team-rockets-master-plan",
+    "categoria": "Treinador",
+    "nome": "Plano Mestre da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Raro Imersivo",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "94 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-094.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/94_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xrnr446g848ee9s-team-rockets-master-plan",
+    "custoDeck": 8,
+    "deckBuilderNr": 1000163,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#94",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-095",
+    "sourceId": "twrc6p1gb019wdt-vulpix",
+    "categoria": "Pokemon",
+    "nome": "Vulpix",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Ficar Parado",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Heal 20 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "95 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-095.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/95_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/twrc6p1gb019wdt-vulpix",
+    "custoDeck": 2,
+    "deckBuilderNr": 1911,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#95",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-096",
+    "sourceId": "cviebysj0lplllb-ninetales",
+    "categoria": "Pokemon",
+    "nome": "Ninetales",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Brasas Dançantes",
+        "dano": "20 ×",
+        "custoataque": [
+          "Luta",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip 9 coins. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "96 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-096.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/96_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cviebysj0lplllb-ninetales",
+    "custoDeck": 2,
+    "deckBuilderNr": 1912,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#96",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-097",
+    "sourceId": "dg57yqbempftmlw-goldeen",
+    "categoria": "Pokemon",
+    "nome": "Goldeen",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 50,
+    "ataque": [
+      {
+        "nomeataque": "Ataque de Chifre",
+        "dano": "30",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "97 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-097.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/97_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dg57yqbempftmlw-goldeen",
+    "custoDeck": 2,
+    "deckBuilderNr": 1913,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#97",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-098",
+    "sourceId": "nbgtb8pz3tbudf7-seaking",
+    "categoria": "Pokemon",
+    "nome": "Seaking",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Água",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Projétil de Água",
+        "dano": "30",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "98 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-098.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/98_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nbgtb8pz3tbudf7-seaking",
+    "custoDeck": 2,
+    "deckBuilderNr": 1914,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#98",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-099",
+    "sourceId": "72483y98rlekcb1-toxel",
+    "categoria": "Pokemon",
+    "nome": "Toxel",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Choque de Estática",
+        "dano": "30",
+        "custoataque": [
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "99 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-099.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/99_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/72483y98rlekcb1-toxel",
+    "custoDeck": 2,
+    "deckBuilderNr": 1420,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#99",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-100",
+    "sourceId": "t4t9cgoecj588bp-sinistea",
+    "categoria": "Pokemon",
+    "nome": "Sinistea",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 30,
+    "ataque": [
+      {
+        "nomeataque": "Esconder",
+        "dano": "",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "100 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-100.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/100_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t4t9cgoecj588bp-sinistea",
+    "custoDeck": 2,
+    "deckBuilderNr": 1440,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#100",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-101",
+    "sourceId": "r7vpyop9atwk98g-polteageist",
+    "categoria": "Pokemon",
+    "nome": "Polteageist",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Tiro Assustador",
+        "dano": "40",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "101 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-101.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/101_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r7vpyop9atwk98g-polteageist",
+    "custoDeck": 2,
+    "deckBuilderNr": 1441,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#101",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-102",
+    "sourceId": "5ibu7x3djssrqt2-mawile",
+    "categoria": "Pokemon",
+    "nome": "Mawile",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Mastigada Cavernosa",
+        "dano": "50",
+        "custoataque": [
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "102 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-102.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/102_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5ibu7x3djssrqt2-mawile",
+    "custoDeck": 2,
+    "deckBuilderNr": 1478,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#102",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-103",
+    "sourceId": "3vbf93e37ew2jep-taillow",
+    "categoria": "Pokemon",
+    "nome": "Taillow",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Bicada",
+        "dano": "20",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "103 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-103.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/103_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3vbf93e37ew2jep-taillow",
+    "custoDeck": 2,
+    "deckBuilderNr": 1498,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#103",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-104",
+    "sourceId": "wytejqmqrc4obm3-swellow",
+    "categoria": "Pokemon",
+    "nome": "Swellow",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Ataque de Asa",
+        "dano": "50",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "raridade": "Raro Brilhante",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "104 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-104.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/104_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wytejqmqrc4obm3-swellow",
+    "custoDeck": 2,
+    "deckBuilderNr": 1499,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#104",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-105",
+    "sourceId": "ec4carw1rwhcmnv-mega-charizard-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Charizard ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Mergulho Carmim",
+        "dano": "250",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 50 damage to itself"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "mega",
+    "mega": true,
+    "tags": [
+      "basic",
+      "mega"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "105 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-105.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/105_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ec4carw1rwhcmnv-mega-charizard-ex",
+    "custoDeck": 2,
+    "deckBuilderNr": 1319,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#105",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-106",
+    "sourceId": "henx4w476m00szz-toxtricity-ex",
+    "categoria": "Pokemon",
+    "nome": "Toxtricity ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Elétrico",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Faísca Nociva",
+        "dano": "90",
+        "custoataque": [
+          "Raio",
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "106 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-106.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/106_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/henx4w476m00szz-toxtricity-ex",
+    "custoDeck": 2,
+    "deckBuilderNr": 1421,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#106",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-107",
+    "sourceId": "3vr8mkd7n7jdw5h-mimikyu-ex",
+    "categoria": "Pokemon",
+    "nome": "Mimikyu ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Psíquico",
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Golpe de Garra",
+        "dano": "70",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": true,
+    "promo": false,
+    "formato": "ex",
+    "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "107 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-107.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/107_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3vr8mkd7n7jdw5h-mimikyu-ex",
+    "custoDeck": 2,
+    "deckBuilderNr": 1439,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#107",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-108",
+    "sourceId": "r6j06eap02icvh5-mega-mawile-ex",
+    "categoria": "Pokemon",
+    "nome": "Mega Mawile ex",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Mastigada Quente",
+        "dano": "60",
+        "custoataque": [
+          "Metal",
+          "Incolor"
+        ],
+        "efeito": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch does +30 damage. This effect stacks"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Duplo Brilhante Raro",
+    "habilidade": false,
+    "promo": false,
+    "formato": "mega",
+    "mega": true,
+    "tags": [
+      "basic",
+      "mega"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "108 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-108.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/108_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r6j06eap02icvh5-mega-mawile-ex",
+    "custoDeck": 2,
+    "deckBuilderNr": 1479,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#108",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-109",
+    "sourceId": "ienbika46cdzbtb-gholdengo",
+    "categoria": "Pokemon",
+    "nome": "Gholdengo",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Metálico",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Gema Poderosa",
+        "dano": "50",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "raridade": "Coroa Rara",
+    "habilidade": true,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "109 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-109.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/109_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ienbika46cdzbtb-gholdengo",
+    "custoDeck": 8,
+    "deckBuilderNr": 2164,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#109",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "b4a-110",
+    "sourceId": "5pfc9dgdmkyfd0w-team-rockets-goo-zooka",
+    "categoria": "Treinador",
+    "nome": "Gosma-zuca da Equipe Rocket",
+    "estagio": "Básico",
+    "evolucao": "",
+    "tipo": "Neutro",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "raridade": "Coroa Rara",
+    "habilidade": false,
+    "promo": false,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "Ambição da Equipe Rocket (B4A)",
+    "numero": "110 / 110",
+    "pacote": "Team Rocket",
+    "imageLocal": "./assets/cards/cartas_b4a/b4a-110.jpg",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/110_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5pfc9dgdmkyfd0w-team-rockets-goo-zooka",
+    "custoDeck": 8,
+    "deckBuilderNr": 1000161,
+    "releaseDate": "2026-08-27",
+    "sourceMeta": {
+      "setCode": "B4A",
+      "series": "b",
+      "matchKey": "B4A#110",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  }
+]

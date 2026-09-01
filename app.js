@@ -207,6 +207,37 @@ function cardHasAttackType(card, selectedAttackTypes) {
   return false;
 }
 
+function attackDamage(atk) {
+  const values = String(atk?.dano || "").match(/\d+/g);
+  return values?.length ? Math.max(...values.map(Number)) : 0;
+}
+
+function attackDamageLabel(atk) {
+  const raw = String(atk?.dano || "").trim();
+  if (!raw) return String(attackDamage(atk));
+  return raw
+    .replace(/\u00d7/g, "x")
+    .replace(/\u00c3\u2014/g, "x");
+}
+
+function attackCost(atk) {
+  return Array.isArray(atk?.custoataque) ? atk.custoataque.length : 0;
+}
+
+function cardAttacks(card) {
+  const attacks = Array.isArray(card?.ataqueLista) ? card.ataqueLista : [];
+  if (attacks.length) return attacks;
+  return [{ dano: card?.ataque, custoataque: Array(safeNumber(card?.custoAtaque, 0)) }];
+}
+
+function cardHasAttackInRange(card, damageMin, damageMax, costMin, costMax) {
+  return cardAttacks(card).some((atk) => {
+    const damage = attackDamage(atk);
+    const cost = attackCost(atk);
+    return damage >= damageMin && damage <= damageMax && cost >= costMin && cost <= costMax;
+  });
+}
+
 function findCardByName(name) {
   const n = String(name || "").trim().toLowerCase();
   if (!n) return null;
@@ -882,8 +913,7 @@ function getFilteredCards() {
       if (habilidade === "nao-tem" && card.habilidade) return false;
       if (card.recuo < recuoMin || card.recuo > recuoMax) return false;
       if (card.hp < vidaMin || card.hp > vidaMax) return false;
-      if (card.ataque < ataqueMin || card.ataque > ataqueMax) return false;
-      if (card.custoAtaque < custoAtaqueMin || card.custoAtaque > custoAtaqueMax) return false;
+      if (!cardHasAttackInRange(card, ataqueMin, ataqueMax, custoAtaqueMin, custoAtaqueMax)) return false;
       if (formatos.size && !formatos.has(card.formato)) return false;
       return true;
     })
@@ -954,28 +984,28 @@ function renderCards() {
       const card = filtered[index];
       const imageSrc = getCardImageSrc(card);
       const imageOnly = Boolean(el.imageOnlyToggle?.checked);
-      const ataques = Array.isArray(card.ataqueLista) ? card.ataqueLista : [];
-      const custos = ataques
-        .map((a) => Array.isArray(a?.custoataque) ? a.custoataque.length : 0)
-        .filter((n) => Number.isFinite(n));
-      const danos = ataques
-        .map((a) => {
-          const nums = String(a?.dano || "").match(/\d+/g);
-          return nums && nums.length ? Math.max(...nums.map(Number)) : 0;
-        })
-        .filter((n) => Number.isFinite(n));
-      const custoText = custos.length ? custos.join(" / ") : String(card.custoAtaque || 0);
-      const danoText = danos.length ? danos.join(" / ") : String(card.ataque || 0);
+      const ataques = cardAttacks(card);
+      const custos = ataques.map(attackCost);
+      const danos = ataques.map(attackDamageLabel);
+      const custoText = custos.join(" / ");
+      const danoText = danos.join(" / ");
       const cardEl = document.createElement("article");
       cardEl.className = `card card-clickable ${imageOnly ? "image-only" : ""}`;
       cardEl.dataset.id = String(card.id);
       const fav = isFavorite(card.id);
       cardEl.innerHTML = `
-        <button class="card-fav ${fav ? "active" : ""}" data-favorite="${card.id}" title="${fav ? "Remover dos favoritos" : "Adicionar aos favoritos"}" aria-label="${fav ? "Remover dos favoritos" : "Adicionar aos favoritos"}">
+        <div class="card-actions">
+          <button class="card-fav ${fav ? "active" : ""}" data-favorite="${card.id}" title="${fav ? "Remover dos favoritos" : "Adicionar aos favoritos"}" aria-label="${fav ? "Remover dos favoritos" : "Adicionar aos favoritos"}">
           <svg class="fav-icon" viewBox="0 0 24 24" aria-hidden="true">
-            <path d="M12 21s-6.7-4.35-9.33-8.02C.64 10.1 1.2 6.3 4.4 4.8c2.1-.97 4.35-.2 5.6 1.4 1.25-1.6 3.5-2.37 5.6-1.4 3.2 1.5 3.76 5.3 1.73 8.18C18.7 16.65 12 21 12 21z"/>
+            <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78L12 21.23l8.84-8.84a5.5 5.5 0 0 0 0-7.78Z"/>
           </svg>
-        </button>
+          </button>
+          <button class="card-expand" data-preview="${card.id}" title="Ampliar carta" aria-label="Ampliar carta">
+            <svg class="expand-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M15 3h6v6M21 3l-7 7M9 21H3v-6M3 21l7-7"/>
+            </svg>
+          </button>
+        </div>
         <img loading="lazy" src="${imageSrc}" alt="${card.nome}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
         <ul class="card-info-list">
           <li><strong>Nome:</strong> ${card.nome}</li>
@@ -1393,6 +1423,12 @@ function init() {
       const label = nowFavorite ? "Remover dos favoritos" : "Adicionar aos favoritos";
       favBtn.title = label;
       favBtn.setAttribute("aria-label", label);
+      return;
+    }
+    const previewId = event.target.closest("[data-preview]")?.dataset.preview;
+    if (previewId) {
+      const card = cards.find((item) => String(item.id) === String(previewId));
+      if (card) openDeckCardModal(card);
       return;
     }
     const cardEl = event.target.closest(".card-clickable");

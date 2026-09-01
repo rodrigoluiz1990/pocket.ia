@@ -7,7 +7,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Planta",
-    "hp": 50,
+    "hp": 100,
     "ataque": [
       {
         "nomeataque": "Arremesso Unicórnio",
@@ -21,7 +21,7 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 1,
+    "recuo": 2,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
@@ -105,7 +105,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Planta",
-    "hp": 50,
+    "hp": 90,
     "ataque": [
       {
         "nomeataque": "Lufada de Vento",
@@ -117,8 +117,8 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
+    "fraqueza": "Raio",
+    "recuo": 0,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
@@ -200,7 +200,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Planta",
-    "hp": 50,
+    "hp": 100,
     "ataque": [
       {
         "nomeataque": "Carga Indomável",
@@ -214,7 +214,7 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 1,
+    "recuo": 2,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
@@ -296,7 +296,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Planta",
-    "hp": 50,
+    "hp": 80,
     "ataque": [
       {
         "nomeataque": "Semente de Preocupação",
@@ -343,7 +343,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Planta",
-    "hp": 50,
+    "hp": 80,
     "ataque": [
       {
         "nomeataque": "Semente Sanguessuga",
@@ -391,7 +391,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Planta",
-    "hp": 50,
+    "hp": 80,
     "ataque": [
       {
         "nomeataque": "Chicote de Vinha",
@@ -440,7 +440,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Planta",
-    "hp": 50,
+    "hp": 140,
     "ataque": [
       {
         "nomeataque": "Raio Solar",
@@ -490,7 +490,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Chama",
@@ -537,7 +537,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 50,
+    "hp": 100,
     "ataque": [
       {
         "nomeataque": "Quina",
@@ -550,7 +550,7 @@
       }
     ],
     "fraqueza": "Agua",
-    "recuo": 1,
+    "recuo": 2,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
@@ -585,10 +585,20 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 50,
-    "ataque": [],
+    "hp": 110,
+    "ataque": [
+      {
+        "nomeataque": "Golpe Cabeça Furiosa",
+        "dano": "",
+        "custoataque": [
+          "Fogo",
+          "Fogo"
+        ],
+        "efeito": "If this Pokémon has damage on it, this attack does 40 more damage"
+      }
+    ],
     "fraqueza": "Agua",
-    "recuo": 1,
+    "recuo": 3,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
@@ -623,7 +633,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Agua",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Revólver d’Água",
@@ -670,7 +680,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Agua",
-    "hp": 50,
+    "hp": 100,
     "ataque": [
       {
         "nomeataque": "Cachoeira",
@@ -683,7 +693,7 @@
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 1,
+    "recuo": 2,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
@@ -718,7 +728,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Agua",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Tapa de Lama",
@@ -766,7 +776,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Agua",
-    "hp": 50,
+    "hp": 120,
     "ataque": [
       {
         "nomeataque": "Castigar",
@@ -781,7 +791,7 @@
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 1,
+    "recuo": 3,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
@@ -816,7 +826,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Agua",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Pingente de Gelo",
@@ -827,7 +837,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
@@ -863,7 +873,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Agua",
-    "hp": 50,
+    "hp": 90,
     "ataque": [
       {
         "nomeataque": "Nevasca",
@@ -875,7 +885,7 @@
         "efeito": "This attack also does 10 damage to each of your Benched Pokémon"
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
@@ -911,7 +921,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Agua",
-    "hp": 50,
+    "hp": 70,
     "ataque": [
       {
         "nomeataque": "Soco Saca-rolha",
@@ -923,8 +933,8 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
-    "recuo": 1,
+    "fraqueza": "Metal",
+    "recuo": 2,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
@@ -959,7 +969,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Agua",
-    "hp": 50,
+    "hp": 120,
     "ataque": [
       {
         "nomeataque": "Megassoco",
@@ -972,7 +982,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Rara",
     "habilidade": true,
@@ -1008,7 +1018,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Agua",
-    "hp": 50,
+    "hp": 140,
     "ataque": [
       {
         "nomeataque": "Vento Gelado",
@@ -1021,7 +1031,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Duplamente Raro",
     "habilidade": true,
@@ -1058,7 +1068,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Agua",
-    "hp": 50,
+    "hp": 120,
     "ataque": [
       {
         "nomeataque": "Zona de Colisão",
@@ -1072,7 +1082,7 @@
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 1,
+    "recuo": 2,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
@@ -1107,7 +1117,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Agua",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Pulso d’Água",
@@ -1155,8 +1165,17 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Raio",
-    "hp": 50,
-    "ataque": [],
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Faísca",
+        "dano": "",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -1193,7 +1212,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Raio",
-    "hp": 50,
+    "hp": 90,
     "ataque": [
       {
         "nomeataque": "Faísca",
@@ -1241,7 +1260,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Raio",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Chute Zap",
@@ -1288,8 +1307,17 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Raio",
-    "hp": 50,
-    "ataque": [],
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Clarão",
+        "dano": "",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, that attack doesn't happen"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
@@ -1326,7 +1354,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Psiquico",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Estalo",
@@ -1374,10 +1402,20 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Psiquico",
-    "hp": 50,
-    "ataque": [],
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Explosão Lunar",
+        "dano": "",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending Pokémon do -30 damage"
+      }
+    ],
     "fraqueza": "Metal",
-    "recuo": 1,
+    "recuo": 2,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
@@ -1413,7 +1451,16 @@
     "evolucao": "",
     "tipo": "Psiquico",
     "hp": 50,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Abismar",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
@@ -1450,7 +1497,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Psiquico",
-    "hp": 50,
+    "hp": 80,
     "ataque": [
       {
         "nomeataque": "Resmungo",
@@ -1498,7 +1545,7 @@
     "estagio": "2",
     "evolucao": "",
     "tipo": "Psiquico",
-    "hp": 50,
+    "hp": 140,
     "ataque": [
       {
         "nomeataque": "Borrifada Hipnótica",
@@ -1546,7 +1593,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Psiquico",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Poder Oculto",
@@ -1593,8 +1640,17 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Psiquico",
-    "hp": 50,
-    "ataque": [],
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Ataque Arremetida",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "This attack does 20 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Rara",
@@ -1631,7 +1687,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Luta",
-    "hp": 50,
+    "hp": 80,
     "ataque": [
       {
         "nomeataque": "Cabeçada de Luta",
@@ -1642,8 +1698,8 @@
         "efeito": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage"
       }
     ],
-    "fraqueza": "Psiquico",
-    "recuo": 1,
+    "fraqueza": "Planta",
+    "recuo": 2,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
@@ -1678,10 +1734,19 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Luta",
-    "hp": 50,
-    "ataque": [],
-    "fraqueza": "Psiquico",
-    "recuo": 1,
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Rolagem",
+        "dano": "",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": "20"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
@@ -1716,10 +1781,21 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Luta",
-    "hp": 50,
-    "ataque": [],
-    "fraqueza": "Psiquico",
-    "recuo": 1,
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Giro Rolante",
+        "dano": "",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Luta"
+        ],
+        "efeito": "During your next turn, this Pokémon's Rolling Spin attack does +60 damage"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
@@ -1754,7 +1830,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Luta",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Soco Saca-rolha",
@@ -1766,7 +1842,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Psiquico",
+    "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
@@ -1802,7 +1878,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Luta",
-    "hp": 50,
+    "hp": 80,
     "ataque": [
       {
         "nomeataque": "Ataque em Velocidade",
@@ -1815,7 +1891,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Psiquico",
+    "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
@@ -1851,7 +1927,7 @@
     "estagio": "2",
     "evolucao": "",
     "tipo": "Luta",
-    "hp": 50,
+    "hp": 160,
     "ataque": [
       {
         "nomeataque": "Aperto de Terra",
@@ -1865,8 +1941,8 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Psiquico",
-    "recuo": 1,
+    "fraqueza": "Planta",
+    "recuo": 4,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
@@ -1901,7 +1977,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Luta",
-    "hp": 50,
+    "hp": 80,
     "ataque": [
       {
         "nomeataque": "Investida",
@@ -1912,8 +1988,8 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Psiquico",
-    "recuo": 1,
+    "fraqueza": "Planta",
+    "recuo": 3,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
@@ -1948,7 +2024,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Luta",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Chute",
@@ -1995,7 +2071,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Luta",
-    "hp": 50,
+    "hp": 100,
     "ataque": [
       {
         "nomeataque": "Chute Tiro",
@@ -2042,7 +2118,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Luta",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Investida",
@@ -2053,7 +2129,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Psiquico",
+    "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
@@ -2089,7 +2165,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Luta",
-    "hp": 50,
+    "hp": 80,
     "ataque": [
       {
         "nomeataque": "Foice Afiada",
@@ -2100,7 +2176,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Psiquico",
+    "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
@@ -2136,18 +2212,28 @@
     "estagio": "2",
     "evolucao": "",
     "tipo": "Luta",
-    "hp": 50,
+    "hp": 170,
     "ataque": [
       {
         "nomeataque": "Ataque Linear",
-        "dano": "100",
+        "dano": "",
         "custoataque": [
           "Luta"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's Pokémon"
+      },
+      {
+        "nomeataque": "Garra de Dragão",
+        "dano": "100",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Incolor"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Psiquico",
+    "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Duplamente Raro",
     "habilidade": false,
@@ -2195,7 +2281,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Fogo",
+    "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
@@ -2231,7 +2317,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Escuridao",
-    "hp": 50,
+    "hp": 80,
     "ataque": [
       {
         "nomeataque": "Mordida",
@@ -2242,7 +2328,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Fogo",
+    "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
@@ -2278,7 +2364,7 @@
     "estagio": "2",
     "evolucao": "",
     "tipo": "Escuridao",
-    "hp": 50,
+    "hp": 110,
     "ataque": [
       {
         "nomeataque": "Presa Sombria",
@@ -2289,8 +2375,8 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
+    "fraqueza": "Luta",
+    "recuo": 0,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
@@ -2325,7 +2411,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Escuridao",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Pulso",
@@ -2336,7 +2422,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Fogo",
+    "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
@@ -2372,9 +2458,18 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Escuridao",
-    "hp": 50,
-    "ataque": [],
-    "fraqueza": "Fogo",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Tóxico",
+        "dano": "",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Posioned. Do 20 damage to this Pokémon instead of the usual amount for this Special Condition"
+      }
+    ],
+    "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
@@ -2410,7 +2505,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Metal",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Investida",
@@ -2459,7 +2554,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Metal",
-    "hp": 50,
+    "hp": 90,
     "ataque": [
       {
         "nomeataque": "Golpe Rolador",
@@ -2472,7 +2567,7 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 1,
+    "recuo": 2,
     "raridade": "Comum",
     "habilidade": false,
     "promo": false,
@@ -2507,7 +2602,7 @@
     "estagio": "2",
     "evolucao": "",
     "tipo": "Metal",
-    "hp": 50,
+    "hp": 140,
     "ataque": [
       {
         "nomeataque": "Raio de Poder",
@@ -2521,7 +2616,7 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 1,
+    "recuo": 2,
     "raridade": "Rara",
     "habilidade": true,
     "promo": false,
@@ -2556,8 +2651,17 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Metal",
-    "hp": 50,
-    "ataque": [],
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Quebrador de Viga Férrea",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "If your opponent's Active Pokémon is a Metal Pokémon, this attack does 30 more damage"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
@@ -2594,7 +2698,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Metal",
-    "hp": 50,
+    "hp": 160,
     "ataque": [
       {
         "nomeataque": "Unidade Defensiva",
@@ -2608,7 +2712,7 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 1,
+    "recuo": 3,
     "raridade": "Duplamente Raro",
     "habilidade": false,
     "promo": false,
@@ -2644,7 +2748,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Metal",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Aríete",
@@ -2691,7 +2795,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Metal",
-    "hp": 50,
+    "hp": 120,
     "ataque": [
       {
         "nomeataque": "Psíquico",
@@ -2705,7 +2809,7 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 1,
+    "recuo": 3,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
@@ -2740,7 +2844,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Metal",
-    "hp": 50,
+    "hp": 120,
     "ataque": [
       {
         "nomeataque": "Esmagamento de Tempo",
@@ -2754,7 +2858,7 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 1,
+    "recuo": 2,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
@@ -2789,7 +2893,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Psiquico",
-    "hp": 50,
+    "hp": 120,
     "ataque": [
       {
         "nomeataque": "Mergulho de Calamidade",
@@ -2803,7 +2907,7 @@
       }
     ],
     "fraqueza": "",
-    "recuo": 1,
+    "recuo": 3,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
@@ -2838,7 +2942,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Surra de Cauda",
@@ -2850,7 +2954,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Fogo",
+    "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
@@ -2886,7 +2990,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 50,
+    "hp": 140,
     "ataque": [
       {
         "nomeataque": "Colapso",
@@ -2900,8 +3004,8 @@
         "efeito": "This Pokémon is now Asleep"
       }
     ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
+    "fraqueza": "Luta",
+    "recuo": 4,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
@@ -2936,7 +3040,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Bicada",
@@ -2947,7 +3051,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Fogo",
+    "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
@@ -2983,7 +3087,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 50,
+    "hp": 100,
     "ataque": [
       {
         "nomeataque": "Asa Silenciosa",
@@ -2995,7 +3099,7 @@
         "efeito": "Your opponent reveals their hand"
       }
     ],
-    "fraqueza": "Fogo",
+    "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
     "habilidade": false,
@@ -3031,7 +3135,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Planeio",
@@ -3042,7 +3146,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Fogo",
+    "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
@@ -3078,7 +3182,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 50,
+    "hp": 80,
     "ataque": [
       {
         "nomeataque": "Ataque de Asa",
@@ -3089,7 +3193,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Fogo",
+    "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
     "habilidade": false,
@@ -3125,7 +3229,7 @@
     "estagio": "2",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 50,
+    "hp": 150,
     "ataque": [
       {
         "nomeataque": "Pássaro Bravo",
@@ -3138,8 +3242,8 @@
         "efeito": "This Pokémon also does 20 damage to itself"
       }
     ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
+    "fraqueza": "Raio",
+    "recuo": 2,
     "raridade": "Incomum",
     "habilidade": false,
     "promo": false,
@@ -3174,7 +3278,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 50,
+    "hp": 70,
     "ataque": [
       {
         "nomeataque": "Asa",
@@ -3187,7 +3291,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Fogo",
+    "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Rara",
     "habilidade": true,
@@ -3223,7 +3327,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 50,
+    "hp": 120,
     "ataque": [
       {
         "nomeataque": "Explosão Poderosa",
@@ -3237,8 +3341,8 @@
         "efeito": "Discard a random energy from this Pokémon"
       }
     ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
+    "fraqueza": "Luta",
+    "recuo": 2,
     "raridade": "Rara",
     "habilidade": false,
     "promo": false,
@@ -3273,7 +3377,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 50,
+    "hp": 140,
     "ataque": [
       {
         "nomeataque": "Força Suprema",
@@ -3286,8 +3390,8 @@
         "efeito": "This attack does 20 more damage for each of your Benched Pokémon"
       }
     ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
+    "fraqueza": "Luta",
+    "recuo": 2,
     "raridade": "Duplamente Raro",
     "habilidade": true,
     "promo": false,
@@ -3475,7 +3579,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Fogo",
-    "hp": 50,
+    "hp": 100,
     "ataque": [
       {
         "nomeataque": "Quina",
@@ -3488,7 +3592,7 @@
       }
     ],
     "fraqueza": "Agua",
-    "recuo": 1,
+    "recuo": 2,
     "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
@@ -3523,7 +3627,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Agua",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Revólver d’Água",
@@ -3570,7 +3674,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Psiquico",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Poder Oculto",
@@ -3617,7 +3721,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Luta",
-    "hp": 50,
+    "hp": 80,
     "ataque": [
       {
         "nomeataque": "Cabeçada de Luta",
@@ -3628,8 +3732,8 @@
         "efeito": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage"
       }
     ],
-    "fraqueza": "Psiquico",
-    "recuo": 1,
+    "fraqueza": "Planta",
+    "recuo": 2,
     "raridade": "Ilustração Rara",
     "habilidade": false,
     "promo": false,
@@ -3664,7 +3768,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Metal",
-    "hp": 50,
+    "hp": 60,
     "ataque": [
       {
         "nomeataque": "Investida",
@@ -3711,7 +3815,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 50,
+    "hp": 70,
     "ataque": [
       {
         "nomeataque": "Asa",
@@ -3724,7 +3828,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Fogo",
+    "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Ilustração Rara",
     "habilidade": true,
@@ -3760,7 +3864,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Planta",
-    "hp": 50,
+    "hp": 140,
     "ataque": [
       {
         "nomeataque": "Raio Solar",
@@ -3810,7 +3914,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Agua",
-    "hp": 50,
+    "hp": 140,
     "ataque": [
       {
         "nomeataque": "Vento Gelado",
@@ -3823,7 +3927,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Super Raro",
     "habilidade": true,
@@ -3860,13 +3964,23 @@
     "estagio": "2",
     "evolucao": "",
     "tipo": "Dragao",
-    "hp": 50,
+    "hp": 170,
     "ataque": [
       {
         "nomeataque": "Ataque Linear",
-        "dano": "100",
+        "dano": "",
         "custoataque": [
           "Luta"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's Pokémon"
+      },
+      {
+        "nomeataque": "Garra de Dragão",
+        "dano": "100",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Incolor"
         ],
         "efeito": ""
       }
@@ -3908,7 +4022,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Metal",
-    "hp": 50,
+    "hp": 160,
     "ataque": [
       {
         "nomeataque": "Unidade Defensiva",
@@ -3922,7 +4036,7 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 1,
+    "recuo": 3,
     "raridade": "Super Raro",
     "habilidade": false,
     "promo": false,
@@ -3958,7 +4072,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 50,
+    "hp": 140,
     "ataque": [
       {
         "nomeataque": "Força Suprema",
@@ -3971,8 +4085,8 @@
         "efeito": "This attack does 20 more damage for each of your Benched Pokémon"
       }
     ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
+    "fraqueza": "Luta",
+    "recuo": 2,
     "raridade": "Super Raro",
     "habilidade": true,
     "promo": false,
@@ -4160,7 +4274,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Planta",
-    "hp": 50,
+    "hp": 140,
     "ataque": [
       {
         "nomeataque": "Raio Solar",
@@ -4210,7 +4324,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Agua",
-    "hp": 50,
+    "hp": 140,
     "ataque": [
       {
         "nomeataque": "Vento Gelado",
@@ -4223,7 +4337,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Arte Especial Raro",
     "habilidade": true,
@@ -4260,18 +4374,28 @@
     "estagio": "2",
     "evolucao": "",
     "tipo": "Luta",
-    "hp": 50,
+    "hp": 170,
     "ataque": [
       {
         "nomeataque": "Ataque Linear",
-        "dano": "100",
+        "dano": "",
         "custoataque": [
           "Luta"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's Pokémon"
+      },
+      {
+        "nomeataque": "Garra de Dragão",
+        "dano": "100",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Incolor"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Psiquico",
+    "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Arte Especial Raro",
     "habilidade": false,
@@ -4308,7 +4432,7 @@
     "estagio": "1",
     "evolucao": "",
     "tipo": "Metal",
-    "hp": 50,
+    "hp": 160,
     "ataque": [
       {
         "nomeataque": "Unidade Defensiva",
@@ -4322,7 +4446,7 @@
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 1,
+    "recuo": 3,
     "raridade": "Arte Especial Raro",
     "habilidade": false,
     "promo": false,
@@ -4358,7 +4482,7 @@
     "estagio": "Basico",
     "evolucao": "",
     "tipo": "Incolor",
-    "hp": 50,
+    "hp": 140,
     "ataque": [
       {
         "nomeataque": "Força Suprema",
@@ -4371,8 +4495,8 @@
         "efeito": "This attack does 20 more damage for each of your Benched Pokémon"
       }
     ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
+    "fraqueza": "Luta",
+    "recuo": 2,
     "raridade": "Raro Imersivo",
     "habilidade": true,
     "promo": false,

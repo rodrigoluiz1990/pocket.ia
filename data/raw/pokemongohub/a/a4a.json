@@ -1,93 +1,5 @@
 [
   {
-    "id": "g9ck0cs3filiupb-skiploom",
-    "nome": "Skiploom",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Nascentes Reclusas",
-    "numero": "2 / 71",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Ricochete",
-        "dano": "30",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010230_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g9ck0cs3filiupb-skiploom"
-  },
-  {
-    "id": "68e8d1mlbcgtm69-sunkern",
-    "nome": "Sunkern",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "4 / 71",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Investida",
-        "dano": "10",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010250_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/68e8d1mlbcgtm69-sunkern"
-  },
-  {
-    "id": "u3tt8njxbx20d52-celebi",
-    "nome": "Celebi",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "6 / 71",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Folhas Temporais",
-        "dano": "40",
-        "custoataque": [
-          "grass",
-          "grass"
-        ],
-        "efeito": "If your opponent's Active Pokémon is an Evolved Pokémon, devolve it byu putting the highest Stage Evolution card on it into your opponent's hand."
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010270_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u3tt8njxbx20d52-celebi"
-  },
-  {
     "id": "tadpyoloygnq7cx-hoppip",
     "nome": "Hoppip",
     "tipo": "Pokemon",
@@ -115,6 +27,35 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010220_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tadpyoloygnq7cx-hoppip"
+  },
+  {
+    "id": "g9ck0cs3filiupb-skiploom",
+    "nome": "Skiploom",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Nascentes Reclusas",
+    "numero": "2 / 71",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ricochete",
+        "dano": "30",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g9ck0cs3filiupb-skiploom"
   },
   {
     "id": "2r90mcfgs3s4dge-jumpluff-ex",
@@ -146,63 +87,63 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2r90mcfgs3s4dge-jumpluff-ex"
   },
   {
-    "id": "1zu5gggww3uj1k7-jynx",
-    "nome": "Jynx",
+    "id": "68e8d1mlbcgtm69-sunkern",
+    "nome": "Sunkern",
     "tipo": "Pokemon",
-    "elemento": "Água",
+    "elemento": "Grama",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Nascentes Reclusas",
-    "numero": "19 / 71",
-    "hp": 70,
+    "numero": "4 / 71",
+    "hp": 50,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Dança Fascinante",
-        "dano": "40",
+        "nomeataque": "Investida",
+        "dano": "10",
         "custoataque": [
-          "water",
-          "water"
+          "colorless"
         ],
-        "efeito": "Your opponent's Active Pokémon is now Confused"
+        "efeito": ""
       }
     ],
-    "fraqueza": "Metal",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010390_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1zu5gggww3uj1k7-jynx"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/68e8d1mlbcgtm69-sunkern"
   },
   {
-    "id": "8g4f1zzrxvgzea0-slowking",
-    "nome": "Slowking",
+    "id": "s3jmtyoqq3j1t2l-slugma",
+    "nome": "Slugma",
     "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Incomum",
+    "elemento": "Fogo",
+    "raridade": "Comum",
     "custoDeck": 1,
-    "estagio": "Estágio 2",
+    "estagio": "Básico",
     "expansao": "Nascentes Reclusas",
-    "numero": "18 / 71",
-    "hp": 130,
+    "numero": "8 / 71",
+    "hp": 80,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Bagunça",
-        "dano": "50 ×",
+        "nomeataque": "Combustão",
+        "dano": "40",
         "custoataque": [
-          "water"
+          "fire",
+          "fire"
         ],
-        "efeito": "Discard up to 2 Pokémon Tool cards from your hand. This attack does 50 damage for each card you discarded in this way"
+        "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
-    "recuo": 3,
+    "fraqueza": "Agua",
+    "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010380_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8g4f1zzrxvgzea0-slowking"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010290_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s3jmtyoqq3j1t2l-slugma"
   },
   {
     "id": "yf8scl4mqmlw8n8-magcargo",
@@ -236,93 +177,33 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yf8scl4mqmlw8n8-magcargo"
   },
   {
-    "id": "20lmv7wlusxstha-entei-ex",
-    "nome": "Entei ex",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "10 / 71",
-    "hp": 140,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Batida Escaldante",
-        "dano": "60 +",
-        "custoataque": [
-          "fire",
-          "fire"
-        ],
-        "efeito": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage"
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010210_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/20lmv7wlusxstha-entei-ex"
-  },
-  {
-    "id": "p1su9d0v1t2rv3m-poliwhirl",
-    "nome": "Poliwhirl",
+    "id": "san2fg1rcdr6wui-poliwag",
+    "nome": "Poliwag",
     "tipo": "Pokemon",
     "elemento": "Água",
-    "raridade": "Incomum",
+    "raridade": "Comum",
     "custoDeck": 1,
-    "estagio": "Estágio 1",
+    "estagio": "Básico",
     "expansao": "Nascentes Reclusas",
-    "numero": "14 / 71",
-    "hp": 80,
+    "numero": "13 / 71",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Aríete",
-        "dano": "30",
+        "nomeataque": "Chamar a Família",
+        "dano": "",
         "custoataque": [
           "colorless"
         ],
-        "efeito": ""
+        "efeito": "Put 1 random Poliwag from your deck onto your Bench"
       }
     ],
     "fraqueza": "Raio",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010340_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p1su9d0v1t2rv3m-poliwhirl"
-  },
-  {
-    "id": "s3jmtyoqq3j1t2l-slugma",
-    "nome": "Slugma",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "8 / 71",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Combustão",
-        "dano": "40",
-        "custoataque": [
-          "fire",
-          "fire"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010290_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s3jmtyoqq3j1t2l-slugma"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010330_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/san2fg1rcdr6wui-poliwag"
   },
   {
     "id": "78fs8uqlf7kgum3-tentacruel",
@@ -356,24 +237,34 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/78fs8uqlf7kgum3-tentacruel"
   },
   {
-    "id": "ze9g39umv4rkskh-milotic",
-    "nome": "Milotic",
+    "id": "u3tt8njxbx20d52-celebi",
+    "nome": "Celebi",
     "tipo": "Pokemon",
-    "elemento": "Água",
+    "elemento": "Grama",
     "raridade": "Rara",
     "custoDeck": 3,
-    "estagio": "Estágio 1",
+    "estagio": "Básico",
     "expansao": "Nascentes Reclusas",
-    "numero": "22 / 71",
-    "hp": 120,
+    "numero": "6 / 71",
+    "hp": 70,
     "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Raio",
-    "recuo": 2,
-    "temHabilidade": true,
+    "ataque": [
+      {
+        "nomeataque": "Folhas Temporais",
+        "dano": "40",
+        "custoataque": [
+          "grass",
+          "grass"
+        ],
+        "efeito": "If your opponent's Active Pokémon is an Evolved Pokémon, devolve it byu putting the highest Stage Evolution card on it into your opponent's hand."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010120_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ze9g39umv4rkskh-milotic"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u3tt8njxbx20d52-celebi"
   },
   {
     "id": "i6410aryshzbvao-sunflora",
@@ -406,35 +297,6 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i6410aryshzbvao-sunflora"
   },
   {
-    "id": "3gqnkhghnfylrzy-fletchinder",
-    "nome": "Fletchinder",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Nascentes Reclusas",
-    "numero": "11 / 71",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Asa de Fogo",
-        "dano": "40",
-        "custoataque": [
-          "fire"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010310_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3gqnkhghnfylrzy-fletchinder"
-  },
-  {
     "id": "qt9duog6a5zmzq8-durant",
     "nome": "Durant",
     "tipo": "Pokemon",
@@ -465,44 +327,33 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qt9duog6a5zmzq8-durant"
   },
   {
-    "id": "6uh95s8774rsooq-cryogonal",
-    "nome": "Cryogonal",
+    "id": "i9wpf0n1gxya146-talonflame",
+    "nome": "Talonflame",
     "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
+    "elemento": "Fogo",
+    "raridade": "Incomum",
     "custoDeck": 1,
-    "estagio": "Básico",
+    "estagio": "Estágio 2",
     "expansao": "Nascentes Reclusas",
-    "numero": "24 / 71",
-    "hp": 80,
+    "numero": "12 / 71",
+    "hp": 130,
     "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010430_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6uh95s8774rsooq-cryogonal"
-  },
-  {
-    "id": "san2fg1rcdr6wui-poliwag",
-    "nome": "Poliwag",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "13 / 71",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Chama Cauterizante",
+        "dano": "50",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Burned"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010330_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/san2fg1rcdr6wui-poliwag"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010320_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i9wpf0n1gxya146-talonflame"
   },
   {
     "id": "uawoh4xfqtfjc8g-tentacool",
@@ -535,92 +386,92 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uawoh4xfqtfjc8g-tentacool"
   },
   {
-    "id": "cvrvmfafocwh8ua-stunfisk",
-    "nome": "Stunfisk",
+    "id": "p1su9d0v1t2rv3m-poliwhirl",
+    "nome": "Poliwhirl",
     "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Comum",
+    "elemento": "Água",
+    "raridade": "Incomum",
     "custoDeck": 1,
-    "estagio": "Básico",
+    "estagio": "Estágio 1",
     "expansao": "Nascentes Reclusas",
-    "numero": "29 / 71",
-    "hp": 90,
+    "numero": "14 / 71",
+    "hp": 80,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Choque de Estática",
-        "dano": "50",
-        "custoataque": [
-          "lightning",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010480_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cvrvmfafocwh8ua-stunfisk"
-  },
-  {
-    "id": "regeslvxspykbe0-tynamo",
-    "nome": "Tynamo",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "26 / 71",
-    "hp": 40,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Corisquinho",
-        "dano": "10",
+        "nomeataque": "Aríete",
+        "dano": "30",
         "custoataque": [
           "colorless"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010450_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/regeslvxspykbe0-tynamo"
-  },
-  {
-    "id": "hmicj8w3wo338v0-galarian-corsola",
-    "nome": "Corsola de Galar",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "34 / 71",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Investida",
-        "dano": "20",
-        "custoataque": [
-          "psychic"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Escuridao",
+    "fraqueza": "Raio",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010530_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hmicj8w3wo338v0-galarian-corsola"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010340_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p1su9d0v1t2rv3m-poliwhirl"
+  },
+  {
+    "id": "3gqnkhghnfylrzy-fletchinder",
+    "nome": "Fletchinder",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Nascentes Reclusas",
+    "numero": "11 / 71",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Asa de Fogo",
+        "dano": "40",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010310_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3gqnkhghnfylrzy-fletchinder"
+  },
+  {
+    "id": "20lmv7wlusxstha-entei-ex",
+    "nome": "Entei ex",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "10 / 71",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Batida Escaldante",
+        "dano": "60 +",
+        "custoataque": [
+          "fire",
+          "fire"
+        ],
+        "efeito": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/20lmv7wlusxstha-entei-ex"
   },
   {
     "id": "i39xdjlwq4gwdcu-slowpoke",
@@ -652,33 +503,33 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i39xdjlwq4gwdcu-slowpoke"
   },
   {
-    "id": "i9wpf0n1gxya146-talonflame",
-    "nome": "Talonflame",
+    "id": "8g4f1zzrxvgzea0-slowking",
+    "nome": "Slowking",
     "tipo": "Pokemon",
-    "elemento": "Fogo",
+    "elemento": "Água",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Estágio 2",
     "expansao": "Nascentes Reclusas",
-    "numero": "12 / 71",
+    "numero": "18 / 71",
     "hp": 130,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Chama Cauterizante",
-        "dano": "50",
+        "nomeataque": "Bagunça",
+        "dano": "50 ×",
         "custoataque": [
-          "fire"
+          "water"
         ],
-        "efeito": "Your opponent's Active Pokémon is now Burned"
+        "efeito": "Discard up to 2 Pokémon Tool cards from your hand. This attack does 50 damage for each card you discarded in this way"
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 1,
+    "recuo": 3,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010320_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i9wpf0n1gxya146-talonflame"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010380_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8g4f1zzrxvgzea0-slowking"
   },
   {
     "id": "cgm62jbbilkls6q-suicune-ex",
@@ -711,34 +562,92 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cgm62jbbilkls6q-suicune-ex"
   },
   {
-    "id": "r940evn122rcw7k-raikou-ex",
-    "nome": "Raikou ex",
+    "id": "1zu5gggww3uj1k7-jynx",
+    "nome": "Jynx",
     "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Rara",
-    "custoDeck": 8,
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Nascentes Reclusas",
-    "numero": "25 / 71",
-    "hp": 130,
+    "numero": "19 / 71",
+    "hp": 70,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Projétil Voltaico",
-        "dano": "60",
+        "nomeataque": "Dança Fascinante",
+        "dano": "40",
         "custoataque": [
-          "lightning",
-          "lightning"
+          "water",
+          "water"
         ],
-        "efeito": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon"
+        "efeito": "Your opponent's Active Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1zu5gggww3uj1k7-jynx"
+  },
+  {
+    "id": "ooehafsiq6p5m04-mantyke",
+    "nome": "Mantyke",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "23 / 71",
+    "hp": 30,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lançamento de Água",
+        "dano": "",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ooehafsiq6p5m04-mantyke"
+  },
+  {
+    "id": "regeslvxspykbe0-tynamo",
+    "nome": "Tynamo",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "26 / 71",
+    "hp": 40,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Corisquinho",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
       }
     ],
     "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": true,
+    "recuo": 0,
+    "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010440_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r940evn122rcw7k-raikou-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/regeslvxspykbe0-tynamo"
   },
   {
     "id": "06lyfll61o1ahw4-feebas",
@@ -752,7 +661,16 @@
     "numero": "21 / 71",
     "hp": 30,
     "evolucao": "",
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Pular Fora",
+        "dano": "",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 1,
     "temHabilidade": false,
@@ -761,35 +679,24 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/06lyfll61o1ahw4-feebas"
   },
   {
-    "id": "d5pdtnc38d7bfod-boltund",
-    "nome": "Boltund",
+    "id": "ze9g39umv4rkskh-milotic",
+    "nome": "Milotic",
     "tipo": "Pokemon",
-    "elemento": "Elétrico",
+    "elemento": "Água",
     "raridade": "Rara",
     "custoDeck": 3,
     "estagio": "Estágio 1",
     "expansao": "Nascentes Reclusas",
-    "numero": "31 / 71",
+    "numero": "22 / 71",
     "hp": 120,
     "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Fagulha Desafiadora",
-        "dano": "70",
-        "custoataque": [
-          "lightning",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "If this Pokémon has any damage on it, this attack can be used for 1 Lightning Energy"
-      }
-    ],
-    "fraqueza": "Luta",
+    "ataque": [],
+    "fraqueza": "Raio",
     "recuo": 2,
-    "temHabilidade": false,
+    "temHabilidade": true,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010500_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d5pdtnc38d7bfod-boltund"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010120_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ze9g39umv4rkskh-milotic"
   },
   {
     "id": "vxq48kqymncoon4-eelektrik",
@@ -820,94 +727,6 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010460_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vxq48kqymncoon4-eelektrik"
-  },
-  {
-    "id": "kv3ru58mm8e824r-relicanth",
-    "nome": "Relicanth",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "45 / 71",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Desmantelar",
-        "dano": "50",
-        "custoataque": [
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This Pokémon also does 10 damage to itself"
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010620_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kv3ru58mm8e824r-relicanth"
-  },
-  {
-    "id": "03jmf9lbuutz2py-misdreavus",
-    "nome": "Misdreavus",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "32 / 71",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Fogo Fátuo",
-        "dano": "20",
-        "custoataque": [
-          "psychic"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010510_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/03jmf9lbuutz2py-misdreavus"
-  },
-  {
-    "id": "pwschd90zbjp6zj-frillish",
-    "nome": "Frillish",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "38 / 71",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Absorção",
-        "dano": "10",
-        "custoataque": [
-          "psychic"
-        ],
-        "efeito": "Heal 10 damage from this Pokémon"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010560_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pwschd90zbjp6zj-frillish"
   },
   {
     "id": "rgoa3twb5fzbn3n-eelektross",
@@ -941,6 +760,96 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rgoa3twb5fzbn3n-eelektross"
   },
   {
+    "id": "6uh95s8774rsooq-cryogonal",
+    "nome": "Cryogonal",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "24 / 71",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lâmina de Gelo",
+        "dano": "",
+        "custoataque": [
+          "water",
+          "water"
+        ],
+        "efeito": "This attack does 40 damage to 1 of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6uh95s8774rsooq-cryogonal"
+  },
+  {
+    "id": "r940evn122rcw7k-raikou-ex",
+    "nome": "Raikou ex",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "25 / 71",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Projétil Voltaico",
+        "dano": "60",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010440_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r940evn122rcw7k-raikou-ex"
+  },
+  {
+    "id": "cvrvmfafocwh8ua-stunfisk",
+    "nome": "Stunfisk",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "29 / 71",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Choque de Estática",
+        "dano": "50",
+        "custoataque": [
+          "lightning",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010480_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cvrvmfafocwh8ua-stunfisk"
+  },
+  {
     "id": "pceh4hxgxo3ftz2-yamper",
     "nome": "Yamper",
     "tipo": "Pokemon",
@@ -970,84 +879,33 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pceh4hxgxo3ftz2-yamper"
   },
   {
-    "id": "8yihn9sg00ph8so-donphan",
-    "nome": "Donphan",
+    "id": "03jmf9lbuutz2py-misdreavus",
+    "nome": "Misdreavus",
     "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Incomum",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
     "custoDeck": 1,
-    "estagio": "Estágio 1",
+    "estagio": "Básico",
     "expansao": "Nascentes Reclusas",
-    "numero": "44 / 71",
-    "hp": 120,
+    "numero": "32 / 71",
+    "hp": 50,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Aperto de Terra",
-        "dano": "80",
+        "nomeataque": "Fogo Fátuo",
+        "dano": "20",
         "custoataque": [
-          "fighting",
-          "fighting",
-          "colorless"
+          "psychic"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 4,
+    "fraqueza": "Escuridao",
+    "recuo": 1,
     "temHabilidade": true,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010610_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8yihn9sg00ph8so-donphan"
-  },
-  {
-    "id": "ooehafsiq6p5m04-mantyke",
-    "nome": "Mantyke",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "23 / 71",
-    "hp": 30,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010420_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ooehafsiq6p5m04-mantyke"
-  },
-  {
-    "id": "58ugq31nqxxmc34-dugtrio",
-    "nome": "Dugtrio",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Nascentes Reclusas",
-    "numero": "41 / 71",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Colapso de Rochas",
-        "dano": "40 +",
-        "custoataque": [
-          "fighting"
-        ],
-        "efeito": "Discard the top card of your deck. If the card is a Fighting Pokémon, this attack does 60 more damage"
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010590_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/58ugq31nqxxmc34-dugtrio"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/03jmf9lbuutz2py-misdreavus"
   },
   {
     "id": "dxmjnzt7x5z3np6-mismagius",
@@ -1061,64 +919,22 @@
     "numero": "33 / 71",
     "hp": 100,
     "evolucao": "",
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Prosa Amaldiçoada",
+        "dano": "",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "At the end of your opponent's next turn, do 90 damage to the Defending Pokémon"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010520_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dxmjnzt7x5z3np6-mismagius"
-  },
-  {
-    "id": "qfmzahyti5gjhdl-poliwrath-ex",
-    "nome": "Poliwrath ex",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 2",
-    "expansao": "Nascentes Reclusas",
-    "numero": "42 / 71",
-    "hp": 180,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Punho d’Água",
-        "dano": "100 +",
-        "custoataque": [
-          "fighting",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "If this Pokémon has any Water Energy attached, this attack does 40 more damage"
-      }
-    ],
-    "fraqueza": "Psiquico",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010600_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qfmzahyti5gjhdl-poliwrath-ex"
-  },
-  {
-    "id": "93091qyepyo1q5t-phanpy",
-    "nome": "Phanpy",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "43 / 71",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Planta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010190_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/93091qyepyo1q5t-phanpy"
   },
   {
     "id": "5hi3fpuhp4ghti8-galarian-cursola",
@@ -1151,33 +967,93 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5hi3fpuhp4ghti8-galarian-cursola"
   },
   {
-    "id": "hdmtkrugk8b8q62-latias",
-    "nome": "Latias",
+    "id": "hmicj8w3wo338v0-galarian-corsola",
+    "nome": "Corsola de Galar",
     "tipo": "Pokemon",
     "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 3,
+    "raridade": "Comum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Nascentes Reclusas",
-    "numero": "36 / 71",
-    "hp": 90,
+    "numero": "34 / 71",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Voos Cruzados",
-        "dano": "20 +",
+        "nomeataque": "Investida",
+        "dano": "20",
         "custoataque": [
           "psychic"
         ],
-        "efeito": "If Latios is on your Bench, this attack does 20 more damage"
+        "efeito": ""
       }
     ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010200_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hdmtkrugk8b8q62-latias"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010530_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hmicj8w3wo338v0-galarian-corsola"
+  },
+  {
+    "id": "xggh2qe2y56icsq-latios",
+    "nome": "Latios",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "37 / 71",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Purga de Esplendor",
+        "dano": "120",
+        "custoataque": [
+          "psychic",
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "Discard all Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010550_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xggh2qe2y56icsq-latios"
+  },
+  {
+    "id": "pwschd90zbjp6zj-frillish",
+    "nome": "Frillish",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "38 / 71",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Absorção",
+        "dano": "10",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "Heal 10 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010560_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pwschd90zbjp6zj-frillish"
   },
   {
     "id": "f5cd0nt4xp4dbbs-jellicent",
@@ -1211,33 +1087,242 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f5cd0nt4xp4dbbs-jellicent"
   },
   {
-    "id": "hhn3ywkcpkq8gbq-teddiursa",
-    "nome": "Teddiursa",
+    "id": "hdmtkrugk8b8q62-latias",
+    "nome": "Latias",
     "tipo": "Pokemon",
-    "elemento": "Incolor",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "36 / 71",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Voos Cruzados",
+        "dano": "20 +",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "If Latios is on your Bench, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010200_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hdmtkrugk8b8q62-latias"
+  },
+  {
+    "id": "uu34mtry8joqg3m-diglett",
+    "nome": "Diglett",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Nascentes Reclusas",
-    "numero": "60 / 71",
+    "numero": "40 / 71",
     "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Ataque Surpresa",
-        "dano": "40",
+        "nomeataque": "Cabeçada",
+        "dano": "10",
         "custoataque": [
           "colorless"
         ],
-        "efeito": "Flip a coin. If tails, this attack does nothing"
+        "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Planta",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010750_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hhn3ywkcpkq8gbq-teddiursa"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010580_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uu34mtry8joqg3m-diglett"
+  },
+  {
+    "id": "d5pdtnc38d7bfod-boltund",
+    "nome": "Boltund",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Estágio 1",
+    "expansao": "Nascentes Reclusas",
+    "numero": "31 / 71",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Fagulha Desafiadora",
+        "dano": "70",
+        "custoataque": [
+          "lightning",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "If this Pokémon has any damage on it, this attack can be used for 1 Lightning Energy"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010500_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d5pdtnc38d7bfod-boltund"
+  },
+  {
+    "id": "mess1yc3n7xhp8c-seviper",
+    "nome": "Seviper",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "48 / 71",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Presas do Destino",
+        "dano": "40 +",
+        "custoataque": [
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Zangoose, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010650_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mess1yc3n7xhp8c-seviper"
+  },
+  {
+    "id": "kv3ru58mm8e824r-relicanth",
+    "nome": "Relicanth",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "45 / 71",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Desmantelar",
+        "dano": "50",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010620_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kv3ru58mm8e824r-relicanth"
+  },
+  {
+    "id": "93091qyepyo1q5t-phanpy",
+    "nome": "Phanpy",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "43 / 71",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Mangual",
+        "dano": "",
+        "custoataque": [
+          "fighting"
+        ],
+        "efeito": "This Pattack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/93091qyepyo1q5t-phanpy"
+  },
+  {
+    "id": "8yihn9sg00ph8so-donphan",
+    "nome": "Donphan",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Nascentes Reclusas",
+    "numero": "44 / 71",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aperto de Terra",
+        "dano": "80",
+        "custoataque": [
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 4,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010610_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8yihn9sg00ph8so-donphan"
+  },
+  {
+    "id": "tgd58h0rvnhlzs4-inkay",
+    "nome": "Inkay",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "51 / 71",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "20",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010660_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tgd58h0rvnhlzs4-inkay"
   },
   {
     "id": "wsdmpg1bajxekwb-dwebble",
@@ -1270,53 +1355,63 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wsdmpg1bajxekwb-dwebble"
   },
   {
-    "id": "uu34mtry8joqg3m-diglett",
-    "nome": "Diglett",
+    "id": "58ugq31nqxxmc34-dugtrio",
+    "nome": "Dugtrio",
     "tipo": "Pokemon",
     "elemento": "Lutador",
-    "raridade": "Comum",
+    "raridade": "Incomum",
     "custoDeck": 1,
-    "estagio": "Básico",
+    "estagio": "Estágio 1",
     "expansao": "Nascentes Reclusas",
-    "numero": "40 / 71",
-    "hp": 60,
+    "numero": "41 / 71",
+    "hp": 90,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Cabeçada",
-        "dano": "10",
+        "nomeataque": "Colapso de Rochas",
+        "dano": "40 +",
         "custoataque": [
-          "colorless"
+          "fighting"
         ],
-        "efeito": ""
+        "efeito": "Discard the top card of your deck. If the card is a Fighting Pokémon, this attack does 60 more damage"
       }
     ],
     "fraqueza": "Planta",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010580_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uu34mtry8joqg3m-diglett"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010590_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/58ugq31nqxxmc34-dugtrio"
   },
   {
-    "id": "v0w5df1i3khzbgn-azurill",
-    "nome": "Azurill",
+    "id": "8rxqsgdim785c9z-zoroark",
+    "nome": "Zoroark",
     "tipo": "Pokemon",
-    "elemento": "Incolor",
+    "elemento": "Noturno",
     "raridade": "Rara",
     "custoDeck": 3,
-    "estagio": "Básico",
+    "estagio": "Estágio 1",
     "expansao": "Nascentes Reclusas",
-    "numero": "63 / 71",
-    "hp": 30,
+    "numero": "50 / 71",
+    "hp": 100,
     "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
+    "ataque": [
+      {
+        "nomeataque": "Ofuscamento Noturno",
+        "dano": "70",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "temHabilidade": true,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010770_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v0w5df1i3khzbgn-azurill"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010140_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8rxqsgdim785c9z-zoroark"
   },
   {
     "id": "bkilwyu04xg96he-crustle",
@@ -1351,36 +1446,6 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bkilwyu04xg96he-crustle"
   },
   {
-    "id": "mess1yc3n7xhp8c-seviper",
-    "nome": "Seviper",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "48 / 71",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Presas do Destino",
-        "dano": "40 +",
-        "custoataque": [
-          "darkness",
-          "colorless"
-        ],
-        "efeito": "If your opponent's Active Pokémon is Zangoose, this attack does 40 more damage"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010650_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mess1yc3n7xhp8c-seviper"
-  },
-  {
     "id": "42wflj5pvnw9fqs-zorua",
     "nome": "Zorua",
     "tipo": "Pokemon",
@@ -1411,127 +1476,6 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/42wflj5pvnw9fqs-zorua"
   },
   {
-    "id": "xggh2qe2y56icsq-latios",
-    "nome": "Latios",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "37 / 71",
-    "hp": 110,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Purga de Esplendor",
-        "dano": "120",
-        "custoataque": [
-          "psychic",
-          "psychic",
-          "psychic"
-        ],
-        "efeito": "Discard all Energy from this Pokémon"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010550_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xggh2qe2y56icsq-latios"
-  },
-  {
-    "id": "8rxqsgdim785c9z-zoroark",
-    "nome": "Zoroark",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Estágio 1",
-    "expansao": "Nascentes Reclusas",
-    "numero": "50 / 71",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Ofuscamento Noturno",
-        "dano": "70",
-        "custoataque": [
-          "darkness",
-          "darkness"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010140_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8rxqsgdim785c9z-zoroark"
-  },
-  {
-    "id": "800lkg15oahemw3-farfetchd",
-    "nome": "Farfetch’d",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "56 / 71",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Sopapo de Alho-poró",
-        "dano": "60",
-        "custoataque": [
-          "colorless",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010710_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/800lkg15oahemw3-farfetchd"
-  },
-  {
-    "id": "l6ipl513fkzoc5j-zangoose",
-    "nome": "Zangoose",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "65 / 71",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Talho",
-        "dano": "50",
-        "custoataque": [
-          "colorless",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010790_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l6ipl513fkzoc5j-zangoose"
-  },
-  {
     "id": "2j7ocx1gpmq4c7w-malamar",
     "nome": "Malamar",
     "tipo": "Pokemon",
@@ -1543,7 +1487,16 @@
     "numero": "52 / 71",
     "hp": 140,
     "evolucao": "",
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Ímpeto Mental",
+        "dano": "",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "This attack does 30 damaage to each of your opponent's Pokémon"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 1,
     "temHabilidade": false,
@@ -1552,360 +1505,35 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2j7ocx1gpmq4c7w-malamar"
   },
   {
-    "id": "g0rtxri8v9cyfdv-memory-light",
-    "nome": "Lâmpada da Memória",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "68 / 71",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_10_000830_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g0rtxri8v9cyfdv-memory-light"
-  },
-  {
-    "id": "difq1yoh2c3g6g4-igglybuff",
-    "nome": "Igglybuff",
+    "id": "qfmzahyti5gjhdl-poliwrath-ex",
+    "nome": "Poliwrath ex",
     "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "59 / 71",
-    "hp": 30,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Canção Dorminhoca",
-        "dano": "10",
-        "custoataque": [
-          "empty"
-        ],
-        "efeito": "Your opponent's Active Pokémon is now Asleep"
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010740_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/difq1yoh2c3g6g4-igglybuff"
-  },
-  {
-    "id": "zymp9hjh0zrkp5z-skrelp",
-    "nome": "Skrelp",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "53 / 71",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Derreter",
-        "dano": "20",
-        "custoataque": [
-          "darkness"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010680_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zymp9hjh0zrkp5z-skrelp"
-  },
-  {
-    "id": "2hbylvu0exn4yh1-lickilicky",
-    "nome": "Lickilicky",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Nascentes Reclusas",
-    "numero": "58 / 71",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Luta",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010730_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2hbylvu0exn4yh1-lickilicky"
-  },
-  {
-    "id": "mvnt36ukpm7xgzd-milotic",
-    "nome": "Milotic",
-    "tipo": "Pokemon",
-    "elemento": "Água",
+    "elemento": "Lutador",
     "raridade": "Rara",
     "custoDeck": 8,
-    "estagio": "Estágio 1",
+    "estagio": "Estágio 2",
     "expansao": "Nascentes Reclusas",
-    "numero": "72 / 71",
-    "hp": 120,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Raio",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010120_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mvnt36ukpm7xgzd-milotic"
-  },
-  {
-    "id": "85p39q39qoz30pw-altaria",
-    "nome": "Altaria",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Estágio 1",
-    "expansao": "Nascentes Reclusas",
-    "numero": "55 / 71",
-    "hp": 120,
+    "numero": "42 / 71",
+    "hp": 180,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Dragões Arcanos",
-        "dano": "40 +",
+        "nomeataque": "Punho d’Água",
+        "dano": "100 +",
         "custoataque": [
+          "fighting",
           "colorless",
           "colorless"
         ],
-        "efeito": "If this Pokémon has 2 or more different types of Energy attached, this attack does 60 more damage"
+        "efeito": "If this Pokémon has any Water Energy attached, this attack does 40 more damage"
       }
     ],
-    "fraqueza": "",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010700_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/85p39q39qoz30pw-altaria"
-  },
-  {
-    "id": "9ashz5p16aj9o9v-stunfisk",
-    "nome": "Stunfisk",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "73 / 71",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Ataque Selvagem",
-        "dano": "120",
-        "custoataque": [
-          "lightning",
-          "lightning",
-          "colorless"
-        ],
-        "efeito": "This Pokémon also does 20 damage to itself"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010480_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9ashz5p16aj9o9v-stunfisk"
-  },
-  {
-    "id": "nqjrmkubdy7zo3a-miltank",
-    "nome": "Miltank",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "62 / 71",
-    "hp": 110,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Frenesi Rolante",
-        "dano": "10",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks"
-      }
-    ],
-    "fraqueza": "Luta",
+    "fraqueza": "Psiquico",
     "recuo": 3,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010180_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nqjrmkubdy7zo3a-miltank"
-  },
-  {
-    "id": "tgd58h0rvnhlzs4-inkay",
-    "nome": "Inkay",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "51 / 71",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Investida",
-        "dano": "20",
-        "custoataque": [
-          "darkness"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010660_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tgd58h0rvnhlzs4-inkay"
-  },
-  {
-    "id": "wbu0vm3q3kvlm4z-swablu",
-    "nome": "Swablu",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "64 / 71",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Bicada",
-        "dano": "20",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010780_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wbu0vm3q3kvlm4z-swablu"
-  },
-  {
-    "id": "xyfz17put3cnvv0-traveling-merchant",
-    "nome": "Mercadora Viajante",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "70 / 71",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_10_000850_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xyfz17put3cnvv0-traveling-merchant"
-  },
-  {
-    "id": "dbp5v0dkiv3tftc-inflatable-boat",
-    "nome": "Bote Inflável",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "67 / 71",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_10_000820_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dbp5v0dkiv3tftc-inflatable-boat"
-  },
-  {
-    "id": "hzl7ejueddfyiw8-morty",
-    "nome": "Morty",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "71 / 71",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_10_000860_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hzl7ejueddfyiw8-morty"
-  },
-  {
-    "id": "gvfp5o5vk1jbtf9-yamper",
-    "nome": "Yamper",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "74 / 71",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Choque de Estática",
-        "dano": "50",
-        "custoataque": [
-          "lightning",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010490_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gvfp5o5vk1jbtf9-yamper"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010600_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qfmzahyti5gjhdl-poliwrath-ex"
   },
   {
     "id": "urc0z1ggjjlht24-dragalge",
@@ -1939,6 +1567,292 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/urc0z1ggjjlht24-dragalge"
   },
   {
+    "id": "nqjrmkubdy7zo3a-miltank",
+    "nome": "Miltank",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "62 / 71",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Frenesi Rolante",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010180_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nqjrmkubdy7zo3a-miltank"
+  },
+  {
+    "id": "s220cxgdyq65oab-lickitung",
+    "nome": "Lickitung",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "57 / 71",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Língua Esticada",
+        "dano": "",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 30 damage to 1 of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010720_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s220cxgdyq65oab-lickitung"
+  },
+  {
+    "id": "800lkg15oahemw3-farfetchd",
+    "nome": "Farfetch’d",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "56 / 71",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Sopapo de Alho-poró",
+        "dano": "60",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010710_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/800lkg15oahemw3-farfetchd"
+  },
+  {
+    "id": "hhn3ywkcpkq8gbq-teddiursa",
+    "nome": "Teddiursa",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "60 / 71",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque Surpresa",
+        "dano": "40",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010750_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hhn3ywkcpkq8gbq-teddiursa"
+  },
+  {
+    "id": "wbu0vm3q3kvlm4z-swablu",
+    "nome": "Swablu",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "64 / 71",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bicada",
+        "dano": "20",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010780_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wbu0vm3q3kvlm4z-swablu"
+  },
+  {
+    "id": "zymp9hjh0zrkp5z-skrelp",
+    "nome": "Skrelp",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "53 / 71",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Derreter",
+        "dano": "20",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010680_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zymp9hjh0zrkp5z-skrelp"
+  },
+  {
+    "id": "85p39q39qoz30pw-altaria",
+    "nome": "Altaria",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Estágio 1",
+    "expansao": "Nascentes Reclusas",
+    "numero": "55 / 71",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Dragões Arcanos",
+        "dano": "40 +",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "If this Pokémon has 2 or more different types of Energy attached, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010700_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/85p39q39qoz30pw-altaria"
+  },
+  {
+    "id": "2hbylvu0exn4yh1-lickilicky",
+    "nome": "Lickilicky",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Nascentes Reclusas",
+    "numero": "58 / 71",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Língua Esticada",
+        "dano": "",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 60 damage to 1 of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010730_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2hbylvu0exn4yh1-lickilicky"
+  },
+  {
+    "id": "difq1yoh2c3g6g4-igglybuff",
+    "nome": "Igglybuff",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "59 / 71",
+    "hp": 30,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Canção Dorminhoca",
+        "dano": "10",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010740_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/difq1yoh2c3g6g4-igglybuff"
+  },
+  {
+    "id": "dbp5v0dkiv3tftc-inflatable-boat",
+    "nome": "Bote Inflável",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "67 / 71",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_10_000820_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dbp5v0dkiv3tftc-inflatable-boat"
+  },
+  {
     "id": "4xq06tj6i0v8zs9-fletchling",
     "nome": "Fletchling",
     "tipo": "Pokemon",
@@ -1968,54 +1882,53 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4xq06tj6i0v8zs9-fletchling"
   },
   {
-    "id": "s220cxgdyq65oab-lickitung",
-    "nome": "Lickitung",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
+    "id": "e2eqwxgrfzvj85n-whitney",
+    "nome": "Whitney",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Nascentes Reclusas",
-    "numero": "57 / 71",
-    "hp": 80,
+    "numero": "69 / 71",
+    "hp": 0,
     "evolucao": "",
     "ataque": [],
-    "fraqueza": "Luta",
-    "recuo": 3,
+    "fraqueza": "",
+    "recuo": 0,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010720_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s220cxgdyq65oab-lickitung"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_10_000840_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e2eqwxgrfzvj85n-whitney"
   },
   {
-    "id": "vedezg8ktpvpd7a-entei-ex",
-    "nome": "Entei ex",
+    "id": "v0w5df1i3khzbgn-azurill",
+    "nome": "Azurill",
     "tipo": "Pokemon",
-    "elemento": "Fogo",
+    "elemento": "Incolor",
     "raridade": "Rara",
-    "custoDeck": 8,
+    "custoDeck": 3,
     "estagio": "Básico",
     "expansao": "Nascentes Reclusas",
-    "numero": "79 / 71",
-    "hp": 140,
+    "numero": "63 / 71",
+    "hp": 30,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Batida Escaldante",
-        "dano": "60 +",
+        "nomeataque": "Cura Macia",
+        "dano": "",
         "custoataque": [
-          "fire",
-          "fire"
+          "empty"
         ],
-        "efeito": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage"
+        "efeito": "Heal 50 damage from 1 of your Benched Pokémon"
       }
     ],
-    "fraqueza": "Agua",
-    "recuo": 2,
-    "temHabilidade": true,
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010210_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vedezg8ktpvpd7a-entei-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010770_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v0w5df1i3khzbgn-azurill"
   },
   {
     "id": "4twkfkiebj19x4x-ursaring",
@@ -2050,35 +1963,203 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4twkfkiebj19x4x-ursaring"
   },
   {
-    "id": "lin2r3s9nxah816-poliwrath-ex",
-    "nome": "Poliwrath ex",
+    "id": "g0rtxri8v9cyfdv-memory-light",
+    "nome": "Lâmpada da Memória",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "68 / 71",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_10_000830_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g0rtxri8v9cyfdv-memory-light"
+  },
+  {
+    "id": "xyfz17put3cnvv0-traveling-merchant",
+    "nome": "Mercadora Viajante",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "70 / 71",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_10_000850_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xyfz17put3cnvv0-traveling-merchant"
+  },
+  {
+    "id": "l6ipl513fkzoc5j-zangoose",
+    "nome": "Zangoose",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "65 / 71",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Talho",
+        "dano": "50",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_10_010790_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l6ipl513fkzoc5j-zangoose"
+  },
+  {
+    "id": "hzl7ejueddfyiw8-morty",
+    "nome": "Morty",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "71 / 71",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_10_000860_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hzl7ejueddfyiw8-morty"
+  },
+  {
+    "id": "mvnt36ukpm7xgzd-milotic",
+    "nome": "Milotic",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 1",
+    "expansao": "Nascentes Reclusas",
+    "numero": "72 / 71",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010120_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mvnt36ukpm7xgzd-milotic"
+  },
+  {
+    "id": "9ashz5p16aj9o9v-stunfisk",
+    "nome": "Stunfisk",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "73 / 71",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque Selvagem",
+        "dano": "120",
+        "custoataque": [
+          "lightning",
+          "lightning",
+          "colorless"
+        ],
+        "efeito": "This Pokémon also does 20 damage to itself"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010480_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9ashz5p16aj9o9v-stunfisk"
+  },
+  {
+    "id": "7l4epgd8bxd03fj-azurill",
+    "nome": "Azurill",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "77 / 71",
+    "hp": 30,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cura Macia",
+        "dano": "",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "Heal 50 damage from 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010770_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7l4epgd8bxd03fj-azurill"
+  },
+  {
+    "id": "hdiapngc55nd1lb-phanpy",
+    "nome": "Phanpy",
     "tipo": "Pokemon",
     "elemento": "Lutador",
     "raridade": "Rara",
     "custoDeck": 8,
-    "estagio": "Estágio 2",
+    "estagio": "Básico",
     "expansao": "Nascentes Reclusas",
-    "numero": "89 / 71",
-    "hp": 180,
+    "numero": "76 / 71",
+    "hp": 70,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Punho d’Água",
-        "dano": "100 +",
+        "nomeataque": "Mangual",
+        "dano": "",
         "custoataque": [
-          "fighting",
-          "colorless",
-          "colorless"
+          "fighting"
         ],
-        "efeito": "If this Pokémon has any Water Energy attached, this attack does 40 more damage"
+        "efeito": "This Pattack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it"
       }
     ],
-    "fraqueza": "Psiquico",
-    "recuo": 3,
+    "fraqueza": "Planta",
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010600_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lin2r3s9nxah816-poliwrath-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hdiapngc55nd1lb-phanpy"
   },
   {
     "id": "dx3mxqt1v21ex8f-whitney",
@@ -2099,86 +2180,6 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_20_000840_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dx3mxqt1v21ex8f-whitney"
-  },
-  {
-    "id": "24dqqy00dq0krhe-entei-ex",
-    "nome": "Entei ex",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "87 / 71",
-    "hp": 140,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Batida Escaldante",
-        "dano": "60 +",
-        "custoataque": [
-          "fire",
-          "fire"
-        ],
-        "efeito": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage"
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010210_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/24dqqy00dq0krhe-entei-ex"
-  },
-  {
-    "id": "1n60iu4eejyl3t1-suicune-ex",
-    "nome": "Suicune ex",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "90 / 71",
-    "hp": 140,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Valsa de Cristal",
-        "dano": "20 ×",
-        "custoataque": [
-          "water",
-          "water"
-        ],
-        "efeito": "This attac does 20 damage for each Benched Pokémon (both yours and youro pponent's)"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010400_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1n60iu4eejyl3t1-suicune-ex"
-  },
-  {
-    "id": "351uz2lslfh6mw2-morty",
-    "nome": "Morty",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "85 / 71",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_20_000860_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/351uz2lslfh6mw2-morty"
   },
   {
     "id": "hbh3g3d5y8ik5jo-poliwrath-ex",
@@ -2212,33 +2213,85 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hbh3g3d5y8ik5jo-poliwrath-ex"
   },
   {
-    "id": "kmos1a16pio4sst-jumpluff-ex",
-    "nome": "Jumpluff ex",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
+    "id": "phdmnf0nezfu6kq-traveling-merchant",
+    "nome": "Mercadora Viajante",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
     "raridade": "Rara",
     "custoDeck": 8,
-    "estagio": "Estágio 2",
+    "estagio": "Básico",
     "expansao": "Nascentes Reclusas",
-    "numero": "86 / 71",
-    "hp": 160,
+    "numero": "84 / 71",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_20_000850_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/phdmnf0nezfu6kq-traveling-merchant"
+  },
+  {
+    "id": "gvfp5o5vk1jbtf9-yamper",
+    "nome": "Yamper",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "74 / 71",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Ataque de Brisa",
-        "dano": "70",
+        "nomeataque": "Choque de Estática",
+        "dano": "50",
         "custoataque": [
+          "lightning",
           "colorless"
         ],
-        "efeito": "You may switch this Pokémon with 1 of your Benched Pokémon"
+        "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
-    "recuo": 1,
+    "fraqueza": "Luta",
+    "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010240_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kmos1a16pio4sst-jumpluff-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gvfp5o5vk1jbtf9-yamper"
+  },
+  {
+    "id": "zixe602om2dep8e-latios",
+    "nome": "Latios",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "75 / 71",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Purga de Esplendor",
+        "dano": "120",
+        "custoataque": [
+          "psychic",
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "Discard all Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010550_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zixe602om2dep8e-latios"
   },
   {
     "id": "qladd8fo1ocregw-jumpluff-ex",
@@ -2300,517 +2353,34 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/czjzj430ynxo7sy-suicune-ex"
   },
   {
-    "id": "zw6jgma4yj3ohp5-raikou-ex",
-    "nome": "Raikou ex",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "88 / 71",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Projétil Voltaico",
-        "dano": "60",
-        "custoataque": [
-          "lightning",
-          "lightning"
-        ],
-        "efeito": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010440_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zw6jgma4yj3ohp5-raikou-ex"
-  },
-  {
-    "id": "hdiapngc55nd1lb-phanpy",
-    "nome": "Phanpy",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "76 / 71",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010190_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hdiapngc55nd1lb-phanpy"
-  },
-  {
-    "id": "7l4epgd8bxd03fj-azurill",
-    "nome": "Azurill",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "77 / 71",
-    "hp": 30,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010770_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7l4epgd8bxd03fj-azurill"
-  },
-  {
-    "id": "zixe602om2dep8e-latios",
-    "nome": "Latios",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "75 / 71",
-    "hp": 110,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Purga de Esplendor",
-        "dano": "120",
-        "custoataque": [
-          "psychic",
-          "psychic",
-          "psychic"
-        ],
-        "efeito": "Discard all Energy from this Pokémon"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010550_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zixe602om2dep8e-latios"
-  },
-  {
-    "id": "e2eqwxgrfzvj85n-whitney",
-    "nome": "Whitney",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "69 / 71",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_10_000840_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e2eqwxgrfzvj85n-whitney"
-  },
-  {
-    "id": "8aw9zref5x85x94-garchomp-ex",
-    "nome": "Garchomp ex",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 2",
-    "expansao": "Nascentes Reclusas",
-    "numero": "103 / 71",
-    "hp": 170,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Ataque Linear",
-        "dano": "100",
-        "custoataque": [
-          "fighting"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_004710_02_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8aw9zref5x85x94-garchomp-ex"
-  },
-  {
-    "id": "hcqdu5pold1oog1-mantyke",
-    "nome": "Mantyke",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Ultra Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "105 / 71",
-    "hp": 30,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010420_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hcqdu5pold1oog1-mantyke"
-  },
-  {
-    "id": "k37vtcij5qe0x3t-monferno",
-    "nome": "Monferno",
+    "id": "vedezg8ktpvpd7a-entei-ex",
+    "nome": "Entei ex",
     "tipo": "Pokemon",
     "elemento": "Fogo",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 1",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
     "expansao": "Nascentes Reclusas",
-    "numero": "92 / 71",
-    "hp": 80,
+    "numero": "79 / 71",
+    "hp": 140,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Soco Ardente",
-        "dano": "30",
+        "nomeataque": "Batida Escaldante",
+        "dano": "60 +",
         "custoataque": [
+          "fire",
           "fire"
         ],
-        "efeito": ""
+        "efeito": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage"
       }
     ],
     "fraqueza": "Agua",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_003090_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k37vtcij5qe0x3t-monferno"
-  },
-  {
-    "id": "phdmnf0nezfu6kq-traveling-merchant",
-    "nome": "Mercadora Viajante",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "84 / 71",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_20_000850_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/phdmnf0nezfu6kq-traveling-merchant"
-  },
-  {
-    "id": "a9m05mnip1gqusz-golduck",
-    "nome": "Golduck",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 1",
-    "expansao": "Nascentes Reclusas",
-    "numero": "94 / 71",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Aqua Gume",
-        "dano": "70",
-        "custoataque": [
-          "water",
-          "water"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_000580_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a9m05mnip1gqusz-golduck"
-  },
-  {
-    "id": "as36d3dw6koq9zj-paldean-wooper",
-    "nome": "Wooper de Paldea",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "100 / 71",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Golpe Envenenado",
-        "dano": "10",
-        "custoataque": [
-          "darkness"
-        ],
-        "efeito": "Your opponent's Active Pokémon is now Poisoned"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_005620_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/as36d3dw6koq9zj-paldean-wooper"
-  },
-  {
-    "id": "8b1csjrmbkwtph8-krabby",
-    "nome": "Krabby",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "95 / 71",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Agarramento Compressor",
-        "dano": "40",
-        "custoataque": [
-          "water",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
     "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_000680_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8b1csjrmbkwtph8-krabby"
-  },
-  {
-    "id": "idjdar58ux00d95-mew-ex",
-    "nome": "Mew ex",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "102 / 71",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Tiro Psíquico",
-        "dano": "20",
-        "custoataque": [
-          "psychic"
-        ],
-        "efeito": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_002450_03_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/idjdar58ux00d95-mew-ex"
-  },
-  {
-    "id": "w7mf3alkvyilcvp-gabite",
-    "nome": "Gabite",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 1",
-    "expansao": "Nascentes Reclusas",
-    "numero": "99 / 71",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Foice Afiada",
-        "dano": "30",
-        "custoataque": [
-          "fighting"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_004700_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w7mf3alkvyilcvp-gabite"
-  },
-  {
-    "id": "sfkjtjol3zxubp8-chimchar",
-    "nome": "Chimchar",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "91 / 71",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Arranhão",
-        "dano": "20",
-        "custoataque": [
-          "fire"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_003080_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sfkjtjol3zxubp8-chimchar"
-  },
-  {
-    "id": "xweq5kmjcrx32p6-psyduck",
-    "nome": "Psyduck",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "93 / 71",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Dor de Cabeça",
-        "dano": "10",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "Your opponent can't use any Supporter cards from their hand during their next turn"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_000570_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xweq5kmjcrx32p6-psyduck"
-  },
-  {
-    "id": "0srd3tg9g292or1-gible",
-    "nome": "Gible",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Nascentes Reclusas",
-    "numero": "98 / 71",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Investida",
-        "dano": "20",
-        "custoataque": [
-          "fighting"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_004690_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0srd3tg9g292or1-gible"
-  },
-  {
-    "id": "1rr862wvt5jxhqe-kingler",
-    "nome": "Kingler",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 1",
-    "expansao": "Nascentes Reclusas",
-    "numero": "96 / 71",
-    "hp": 120,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Nocaute Caranguejo",
-        "dano": "80 +",
-        "custoataque": [
-          "water",
-          "water",
-          "colorless"
-        ],
-        "efeito": "Flip 2 coins. If both of them are heads, this attack does 80 more damage"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_000690_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1rr862wvt5jxhqe-kingler"
-  },
-  {
-    "id": "9evphrb44msyokb-pyukumuku",
-    "nome": "Pyukumuku",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 1",
-    "expansao": "Nascentes Reclusas",
-    "numero": "97 / 71",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Aspergir Água",
-        "dano": "20",
-        "custoataque": [
-          "water"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
     "temHabilidade": true,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_006350_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9evphrb44msyokb-pyukumuku"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vedezg8ktpvpd7a-entei-ex"
   },
   {
     "id": "t5rok37clv1h8zr-raikou-ex",
@@ -2843,11 +2413,583 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t5rok37clv1h8zr-raikou-ex"
   },
   {
+    "id": "kmos1a16pio4sst-jumpluff-ex",
+    "nome": "Jumpluff ex",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Nascentes Reclusas",
+    "numero": "86 / 71",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque de Brisa",
+        "dano": "70",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "You may switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010240_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kmos1a16pio4sst-jumpluff-ex"
+  },
+  {
+    "id": "zw6jgma4yj3ohp5-raikou-ex",
+    "nome": "Raikou ex",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "88 / 71",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Projétil Voltaico",
+        "dano": "60",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010440_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zw6jgma4yj3ohp5-raikou-ex"
+  },
+  {
+    "id": "24dqqy00dq0krhe-entei-ex",
+    "nome": "Entei ex",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "87 / 71",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Batida Escaldante",
+        "dano": "60 +",
+        "custoataque": [
+          "fire",
+          "fire"
+        ],
+        "efeito": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010210_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/24dqqy00dq0krhe-entei-ex"
+  },
+  {
+    "id": "sfkjtjol3zxubp8-chimchar",
+    "nome": "Chimchar",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "91 / 71",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Arranhão",
+        "dano": "20",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_003080_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sfkjtjol3zxubp8-chimchar"
+  },
+  {
+    "id": "lin2r3s9nxah816-poliwrath-ex",
+    "nome": "Poliwrath ex",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Nascentes Reclusas",
+    "numero": "89 / 71",
+    "hp": 180,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Punho d’Água",
+        "dano": "100 +",
+        "custoataque": [
+          "fighting",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "If this Pokémon has any Water Energy attached, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010600_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lin2r3s9nxah816-poliwrath-ex"
+  },
+  {
+    "id": "351uz2lslfh6mw2-morty",
+    "nome": "Morty",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "85 / 71",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/TR_20_000860_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/351uz2lslfh6mw2-morty"
+  },
+  {
+    "id": "1n60iu4eejyl3t1-suicune-ex",
+    "nome": "Suicune ex",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "90 / 71",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Valsa de Cristal",
+        "dano": "20 ×",
+        "custoataque": [
+          "water",
+          "water"
+        ],
+        "efeito": "This attac does 20 damage for each Benched Pokémon (both yours and youro pponent's)"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010400_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1n60iu4eejyl3t1-suicune-ex"
+  },
+  {
+    "id": "a9m05mnip1gqusz-golduck",
+    "nome": "Golduck",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Estágio 1",
+    "expansao": "Nascentes Reclusas",
+    "numero": "94 / 71",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aqua Gume",
+        "dano": "70",
+        "custoataque": [
+          "water",
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_000580_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a9m05mnip1gqusz-golduck"
+  },
+  {
+    "id": "8b1csjrmbkwtph8-krabby",
+    "nome": "Krabby",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "95 / 71",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Agarramento Compressor",
+        "dano": "40",
+        "custoataque": [
+          "water",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_000680_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8b1csjrmbkwtph8-krabby"
+  },
+  {
+    "id": "1rr862wvt5jxhqe-kingler",
+    "nome": "Kingler",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Estágio 1",
+    "expansao": "Nascentes Reclusas",
+    "numero": "96 / 71",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Nocaute Caranguejo",
+        "dano": "80 +",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "Flip 2 coins. If both of them are heads, this attack does 80 more damage"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_000690_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1rr862wvt5jxhqe-kingler"
+  },
+  {
+    "id": "nfhd6gw6w1m7bff-infernape-ex",
+    "nome": "Infernape ex",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Estágio 2",
+    "expansao": "Nascentes Reclusas",
+    "numero": "101 / 71",
+    "hp": 170,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Blitz de Labaredas",
+        "dano": "140",
+        "custoataque": [
+          "fire",
+          "fire"
+        ],
+        "efeito": "Discard all Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_003100_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nfhd6gw6w1m7bff-infernape-ex"
+  },
+  {
+    "id": "as36d3dw6koq9zj-paldean-wooper",
+    "nome": "Wooper de Paldea",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "100 / 71",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe Envenenado",
+        "dano": "10",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_005620_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/as36d3dw6koq9zj-paldean-wooper"
+  },
+  {
+    "id": "xweq5kmjcrx32p6-psyduck",
+    "nome": "Psyduck",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "93 / 71",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Dor de Cabeça",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Your opponent can't use any Supporter cards from their hand during their next turn"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_000570_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xweq5kmjcrx32p6-psyduck"
+  },
+  {
+    "id": "idjdar58ux00d95-mew-ex",
+    "nome": "Mew ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "102 / 71",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "20",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Hackear Genoma",
+        "dano": "",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_002450_03_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/idjdar58ux00d95-mew-ex"
+  },
+  {
+    "id": "w7mf3alkvyilcvp-gabite",
+    "nome": "Gabite",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Estágio 1",
+    "expansao": "Nascentes Reclusas",
+    "numero": "99 / 71",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Foice Afiada",
+        "dano": "30",
+        "custoataque": [
+          "fighting"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_004700_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w7mf3alkvyilcvp-gabite"
+  },
+  {
+    "id": "9evphrb44msyokb-pyukumuku",
+    "nome": "Pyukumuku",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Estágio 1",
+    "expansao": "Nascentes Reclusas",
+    "numero": "97 / 71",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aspergir Água",
+        "dano": "20",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_006350_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9evphrb44msyokb-pyukumuku"
+  },
+  {
+    "id": "k37vtcij5qe0x3t-monferno",
+    "nome": "Monferno",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Estágio 1",
+    "expansao": "Nascentes Reclusas",
+    "numero": "92 / 71",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco Ardente",
+        "dano": "30",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_003090_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k37vtcij5qe0x3t-monferno"
+  },
+  {
+    "id": "0srd3tg9g292or1-gible",
+    "nome": "Gible",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Nascentes Reclusas",
+    "numero": "98 / 71",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "20",
+        "custoataque": [
+          "fighting"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_004690_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0srd3tg9g292or1-gible"
+  },
+  {
+    "id": "8aw9zref5x85x94-garchomp-ex",
+    "nome": "Garchomp ex",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Estágio 2",
+    "expansao": "Nascentes Reclusas",
+    "numero": "103 / 71",
+    "hp": 170,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque Linear",
+        "dano": "",
+        "custoataque": [
+          "fighting"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's Pokémon"
+      },
+      {
+        "nomeataque": "Garra de Dragão",
+        "dano": "100",
+        "custoataque": [
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_004710_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8aw9zref5x85x94-garchomp-ex"
+  },
+  {
     "id": "1rnuuz9rmpt8ojh-paldean-clodsire-ex",
     "nome": "Clodsire de Paldea ex",
     "tipo": "Pokemon",
     "elemento": "Noturno",
-    "raridade": "Ultra Rara",
+    "raridade": "Duplo Brilhante Raro",
     "custoDeck": 2,
     "estagio": "Estágio 2",
     "expansao": "Nascentes Reclusas",
@@ -2873,33 +3015,32 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1rnuuz9rmpt8ojh-paldean-clodsire-ex"
   },
   {
-    "id": "nfhd6gw6w1m7bff-infernape-ex",
-    "nome": "Infernape ex",
+    "id": "hcqdu5pold1oog1-mantyke",
+    "nome": "Mantyke",
     "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 2",
+    "elemento": "Água",
+    "raridade": "Coroa Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
     "expansao": "Nascentes Reclusas",
-    "numero": "101 / 71",
-    "hp": 170,
+    "numero": "105 / 71",
+    "hp": 30,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Blitz de Labaredas",
-        "dano": "140",
+        "nomeataque": "Lançamento de Água",
+        "dano": "",
         "custoataque": [
-          "fire",
-          "fire"
+          "empty"
         ],
-        "efeito": "Discard all Fire Energy from this Pokémon"
+        "efeito": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon"
       }
     ],
-    "fraqueza": "Agua",
+    "fraqueza": "",
     "recuo": 0,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_003100_02_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nfhd6gw6w1m7bff-infernape-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a4a/PK_20_010420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hcqdu5pold1oog1-mantyke"
   }
 ]

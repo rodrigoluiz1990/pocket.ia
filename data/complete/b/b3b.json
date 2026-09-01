@@ -28,7 +28,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "1 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-001.jpg",
@@ -75,7 +75,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "2 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-002.jpg",
@@ -122,7 +122,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "3 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-003.jpg",
@@ -169,7 +169,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "4 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-004.jpg",
@@ -217,7 +217,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "5 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-005.jpg",
@@ -264,7 +264,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "6 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-006.jpg",
@@ -311,7 +311,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "7 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-007.jpg",
@@ -338,7 +338,16 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Ficar Parado",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Heal 20 damage from this Pokémon"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
@@ -349,7 +358,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "8 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-008.jpg",
@@ -398,7 +407,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "9 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-009.jpg",
@@ -446,7 +455,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "10 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-010.jpg",
@@ -473,7 +482,16 @@
     "evolucao": "",
     "tipo": "Água",
     "hp": 70,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Onda de Confusão",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Both Active Pokémon are now Confused"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
@@ -484,7 +502,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "11 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-011.jpg",
@@ -531,7 +549,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "12 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-012.jpg",
@@ -578,7 +596,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "13 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-013.jpg",
@@ -625,7 +643,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "14 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-014.jpg",
@@ -675,7 +693,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "15 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-015.jpg",
@@ -722,7 +740,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "16 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-016.jpg",
@@ -769,7 +787,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "17 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-017.jpg",
@@ -816,7 +834,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "18 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-018.jpg",
@@ -863,7 +881,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "19 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-019.jpg",
@@ -911,7 +929,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "20 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-020.jpg",
@@ -959,7 +977,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "21 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-021.jpg",
@@ -1007,7 +1025,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "22 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-022.jpg",
@@ -1055,7 +1073,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "23 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-023.jpg",
@@ -1104,7 +1122,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "24 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-024.jpg",
@@ -1152,7 +1170,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "25 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-025.jpg",
@@ -1179,7 +1197,16 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 70,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Rosnadura",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Comum",
@@ -1190,7 +1217,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "26 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-026.jpg",
@@ -1239,7 +1266,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "27 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-027.jpg",
@@ -1286,7 +1313,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "28 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-028.jpg",
@@ -1333,7 +1360,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "29 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-029.jpg",
@@ -1381,7 +1408,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "30 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-030.jpg",
@@ -1408,7 +1435,16 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 50,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Presente Reluzente",
+        "dano": "",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Psychic Energy from your Energy Zone and attach it to that Pokémon"
+      }
+    ],
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Incomum",
@@ -1419,7 +1455,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "31 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-031.jpg",
@@ -1469,7 +1505,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "32 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-032.jpg",
@@ -1518,7 +1554,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "33 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-033.jpg",
@@ -1567,7 +1603,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "34 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-034.jpg",
@@ -1616,7 +1652,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "35 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-035.jpg",
@@ -1664,7 +1700,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "36 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-036.jpg",
@@ -1713,7 +1749,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "37 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-037.jpg",
@@ -1762,7 +1798,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "38 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-038.jpg",
@@ -1809,7 +1845,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "39 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-039.jpg",
@@ -1856,7 +1892,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "40 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-040.jpg",
@@ -1905,7 +1941,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "41 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-041.jpg",
@@ -1952,7 +1988,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "42 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-042.jpg",
@@ -2000,7 +2036,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "43 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-043.jpg",
@@ -2047,7 +2083,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "44 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-044.jpg",
@@ -2095,7 +2131,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "45 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-045.jpg",
@@ -2143,7 +2179,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "46 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-046.jpg",
@@ -2170,7 +2206,17 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 110,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Veneno Forte",
+        "dano": "",
+        "custoataque": [
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned. Do 40 damage to this Pokémon instead of the usual amount for this Special Condition"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Incomum",
@@ -2181,7 +2227,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "47 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-047.jpg",
@@ -2230,7 +2276,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "48 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-048.jpg",
@@ -2278,7 +2324,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "49 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-049.jpg",
@@ -2327,7 +2373,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "50 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-050.jpg",
@@ -2375,7 +2421,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "51 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-051.jpg",
@@ -2423,7 +2469,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "52 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-052.jpg",
@@ -2470,7 +2516,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "53 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-053.jpg",
@@ -2517,7 +2563,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "54 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-054.jpg",
@@ -2566,7 +2612,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "55 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-055.jpg",
@@ -2593,7 +2639,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Encantar",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -2604,7 +2659,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "56 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-056.jpg",
@@ -2653,7 +2708,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "57 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-057.jpg",
@@ -2703,7 +2758,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "58 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-058.jpg",
@@ -2730,7 +2785,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Zoar",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -2741,7 +2805,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "59 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-059.jpg",
@@ -2791,7 +2855,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "60 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-060.jpg",
@@ -2838,7 +2902,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "61 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-061.jpg",
@@ -2885,7 +2949,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "62 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-062.jpg",
@@ -2934,7 +2998,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "63 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-063.jpg",
@@ -2972,7 +3036,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "64 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-064.jpg",
@@ -3010,7 +3074,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "65 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-065.jpg",
@@ -3048,7 +3112,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "66 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-066.jpg",
@@ -3086,7 +3150,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "67 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-067.jpg",
@@ -3124,7 +3188,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "68 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-068.jpg",
@@ -3162,7 +3226,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "69 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-069.jpg",
@@ -3189,7 +3253,16 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Ficar Parado",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Heal 20 damage from this Pokémon"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -3200,7 +3273,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "70 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-070.jpg",
@@ -3247,7 +3320,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "71 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-071.jpg",
@@ -3295,7 +3368,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "72 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-072.jpg",
@@ -3343,7 +3416,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "73 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-073.jpg",
@@ -3391,7 +3464,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "74 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-074.jpg",
@@ -3439,7 +3512,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "75 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-075.jpg",
@@ -3488,7 +3561,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "76 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-076.jpg",
@@ -3537,7 +3610,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "77 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-077.jpg",
@@ -3587,7 +3660,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "78 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-078.jpg",
@@ -3636,7 +3709,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "79 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-079.jpg",
@@ -3686,7 +3759,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "80 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-080.jpg",
@@ -3735,7 +3808,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "81 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-081.jpg",
@@ -3785,7 +3858,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "82 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-082.jpg",
@@ -3823,7 +3896,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "83 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-083.jpg",
@@ -3861,7 +3934,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "84 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-084.jpg",
@@ -3899,7 +3972,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "85 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-085.jpg",
@@ -3949,7 +4022,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "86 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-086.jpg",
@@ -3999,7 +4072,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "87 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-087.jpg",
@@ -4048,7 +4121,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "88 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-088.jpg",
@@ -4098,7 +4171,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "89 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-089.jpg",
@@ -4147,7 +4220,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "90 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-090.jpg",
@@ -4194,7 +4267,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "91 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-091.jpg",
@@ -4241,7 +4314,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "92 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-092.jpg",
@@ -4288,7 +4361,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "93 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-093.jpg",
@@ -4335,7 +4408,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "94 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-094.jpg",
@@ -4383,7 +4456,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "95 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-095.jpg",
@@ -4432,7 +4505,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "96 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-096.jpg",
@@ -4481,7 +4554,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "97 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-097.jpg",
@@ -4530,7 +4603,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "98 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-098.jpg",
@@ -4557,7 +4630,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Copiar um Amigo",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Choose 1 of your Benched Pokémon' attacks, except any Pokémon ex, and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing"
+      }
+    ],
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Raro Brilhante",
@@ -4568,7 +4650,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "99 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-099.jpg",
@@ -4617,7 +4699,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "100 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-100.jpg",
@@ -4668,7 +4750,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "101 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-101.jpg",
@@ -4717,7 +4799,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "102 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-102.jpg",
@@ -4767,7 +4849,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "103 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-103.jpg",
@@ -4816,7 +4898,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "104 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-104.jpg",
@@ -4863,7 +4945,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "105 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-105.jpg",
@@ -4901,7 +4983,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Everyday Wonders (B3B)",
+    "expansao": "Encantos Cotidianos (B3B)",
     "numero": "106 / 106",
     "pacote": "Everyday Wonders",
     "imageLocal": "./assets/cards/cartas_b3b/b3b-106.jpg",

@@ -437,7 +437,16 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Chamuscada",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Burned"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
@@ -1291,7 +1300,17 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Hipnose",
+        "dano": "",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
@@ -1378,7 +1397,17 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 50,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Memória Miraculosa",
+        "dano": "",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "1 attack from among the Pokémon in your opponent's hand and deck is chosen at random, and you use the chosen attack as this attack"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Rara",
@@ -2425,7 +2454,16 @@
     "evolucao": "",
     "tipo": "Dragão",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Bênção dos Céus",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Take a Water and a Lightning Energy from your Energy Zone and attach them to this Pokémon"
+      }
+    ],
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Incomum",
@@ -3947,7 +3985,17 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 50,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Memória Miraculosa",
+        "dano": "",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "1 attack from among the Pokémon in your opponent's hand and deck is chosen at random, and you use the chosen attack as this attack"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Raro Imersivo",
@@ -3985,7 +4033,17 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 50,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Memória Miraculosa",
+        "dano": "",
+        "custoataque": [
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "1 attack from among the Pokémon in your opponent's hand and deck is chosen at random, and you use the chosen attack as this attack"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Raro Imersivo",
@@ -4308,7 +4366,16 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Chamuscada",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Burned"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Raro Brilhante",
@@ -4916,7 +4983,16 @@
     "evolucao": "",
     "tipo": "Dragão",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Bênção dos Céus",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Take a Water and a Lightning Energy from your Energy Zone and attach them to this Pokémon"
+      }
+    ],
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Raro Brilhante",

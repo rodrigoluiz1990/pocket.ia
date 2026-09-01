@@ -1159,7 +1159,17 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 70,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Expulsar a Grito",
+        "dano": "",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico"
+        ],
+        "efeito": "Flip 2 coins. If both of them are heads, discard your opponent's Active Pokémon"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
@@ -1633,7 +1643,18 @@
     "evolucao": "",
     "tipo": "Lutador",
     "hp": 100,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Puxar e Pisotear",
+        "dano": "",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 50 damage to the new Active Pokémon"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Incomum",
@@ -1865,7 +1886,16 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Prenda Preciosa",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Take a random Energy from among Grass, Fire, Water, Lightning, Psychic, Fighting, Darkness and Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Incomum",
@@ -2580,7 +2610,20 @@
     "evolucao": "",
     "tipo": "Dragão",
     "hp": 130,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Fragor Fulminante",
+        "dano": "",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Raio",
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": "Discard all Energy from this Pokémon. Knock Out your opponent's Active Pokémon"
+      }
+    ],
     "fraqueza": "",
     "recuo": 3,
     "raridade": "Rara",
@@ -2618,7 +2661,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 50,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Cauda Chicote",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -3651,7 +3703,20 @@
     "evolucao": "",
     "tipo": "Dragão",
     "hp": 130,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Fragor Fulminante",
+        "dano": "",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Raio",
+          "Raio",
+          "Incolor"
+        ],
+        "efeito": "Discard all Energy from this Pokémon. Knock Out your opponent's Active Pokémon"
+      }
+    ],
     "fraqueza": "",
     "recuo": 3,
     "raridade": "Ilustração Rara",
@@ -4442,7 +4507,16 @@
     "evolucao": "",
     "tipo": "Elétrico",
     "hp": 50,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Carga",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Raro Brilhante",
@@ -4718,7 +4792,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 50,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Canção",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Raro Brilhante",
@@ -4807,8 +4890,17 @@
     "ataque": [
       {
         "nomeataque": "Truque Floral",
+        "dano": "",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Choose a spot from among your opponent's Active Pot and Bench. At the end of your opponent's next turn, do 70 dmage to the Pokémon I nthe spot you chose"
+      },
+      {
+        "nomeataque": "Raio Solar",
         "dano": "80",
         "custoataque": [
+          "Planta",
           "Planta"
         ],
         "efeito": ""

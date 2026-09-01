@@ -1,0 +1,3271 @@
+[
+  {
+    "id": "2alm46xydfmavni-volbeat",
+    "nome": "Volbeat",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "1 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "30",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/1_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2alm46xydfmavni-volbeat"
+  },
+  {
+    "id": "ha4twqmza6bjvtk-illumise",
+    "nome": "Illumise",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "2 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Voo da Ira",
+        "dano": "30 +",
+        "custoataque": [
+          "grass",
+          "colorless"
+        ],
+        "efeito": "If Volbeat is in your discard pile, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/2_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ha4twqmza6bjvtk-illumise"
+  },
+  {
+    "id": "q2yf9sbmee7xhl5-team-rockets-houndour",
+    "nome": "Houndour da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "8 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Carvão Vivo",
+        "dano": "20",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/8_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q2yf9sbmee7xhl5-team-rockets-houndour"
+  },
+  {
+    "id": "90o2tuuke92h93q-serperior",
+    "nome": "Serperior",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "5 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Fustigar",
+        "dano": "60 +",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 60 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/5_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/90o2tuuke92h93q-serperior"
+  },
+  {
+    "id": "3qemws2yjj96b6e-snivy",
+    "nome": "Snivy",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "3 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bumerangue de Folha",
+        "dano": "20 ×",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/3_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3qemws2yjj96b6e-snivy"
+  },
+  {
+    "id": "2rw2occ635g6h6h-team-rockets-houndoom",
+    "nome": "Houndoom da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "9 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Presa Toxifogo",
+        "dano": "20",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned and Burned"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/9_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2rw2occ635g6h6h-team-rockets-houndoom"
+  },
+  {
+    "id": "qmcut3vkt5sui37-team-rockets-magmar",
+    "nome": "Magmar da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "6 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Torra Zombeteira",
+        "dano": "10 +",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "This attack does 50 more damage for each Special Condition affecting your opponent's Active Pokémon."
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/6_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qmcut3vkt5sui37-team-rockets-magmar"
+  },
+  {
+    "id": "xsskrf52wogdzck-team-rockets-moltres-ex",
+    "nome": "Moltres ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "7 / 110",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Carga de Calor",
+        "dano": "",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": "Flip 3 coins. For each heads, produce a Fire Energy from your Energy Zone and attach it to this Pokémon"
+      },
+      {
+        "nomeataque": "Asa do Submundo",
+        "dano": "130",
+        "custoataque": [
+          "fire",
+          "fire",
+          "fire",
+          "colorless"
+        ],
+        "efeito": "Discard a Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/7_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xsskrf52wogdzck-team-rockets-moltres-ex"
+  },
+  {
+    "id": "40wvcpti3w4xh3j-servine",
+    "nome": "Servine",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "4 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Passo de Folha",
+        "dano": "30",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/4_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/40wvcpti3w4xh3j-servine"
+  },
+  {
+    "id": "5tpvilwezcck7uf-fennekin",
+    "nome": "Fennekin",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "10 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Arranhão",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/10_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5tpvilwezcck7uf-fennekin"
+  },
+  {
+    "id": "q8m6xy5grpcrosz-braixen",
+    "nome": "Braixen",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "11 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "30",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/11_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q8m6xy5grpcrosz-braixen"
+  },
+  {
+    "id": "8159wfhkxz4kf5a-delphox",
+    "nome": "Delphox",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "12 / 110",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Psíquico",
+        "dano": "60 +",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/12_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8159wfhkxz4kf5a-delphox"
+  },
+  {
+    "id": "zdottte4jsqvu3e-team-rockets-lapras",
+    "nome": "Lapras da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "13 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Redemoinho Implacável",
+        "dano": "40 +",
+        "custoataque": [
+          "water",
+          "colorless"
+        ],
+        "efeito": "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/13_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zdottte4jsqvu3e-team-rockets-lapras"
+  },
+  {
+    "id": "v23w7vbwev3b1tq-wingull",
+    "nome": "Wingull",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "15 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Asa",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/15_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v23w7vbwev3b1tq-wingull"
+  },
+  {
+    "id": "yz1k351inyr4au4-team-rockets-articuno-ex",
+    "nome": "Articuno ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "14 / 110",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Asa de Gelo",
+        "dano": "40",
+        "custoataque": [
+          "water",
+          "colorless"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Tempestade de Granizo",
+        "dano": "130",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "This attack also does 20 damage to each of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/14_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yz1k351inyr4au4-team-rockets-articuno-ex"
+  },
+  {
+    "id": "kch4l5i792qzlct-pelipper",
+    "nome": "Pelipper",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "16 / 110",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque de Asa",
+        "dano": "60",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/16_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kch4l5i792qzlct-pelipper"
+  },
+  {
+    "id": "f7ax53jnptasmfw-hisuian-basculin",
+    "nome": "Basculin de Hisui",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "17 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "20",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/17_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f7ax53jnptasmfw-hisuian-basculin"
+  },
+  {
+    "id": "uogcaa0bt05qe9n-hisuian-basculegion",
+    "nome": "Basculegion de Hisui",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "18 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Contra-ataque de Alma",
+        "dano": "50 +",
+        "custoataque": [
+          "water",
+          "water"
+        ],
+        "efeito": "This attack does 50 more damage for each point your opponent got during their last turn"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/18_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uogcaa0bt05qe9n-hisuian-basculegion"
+  },
+  {
+    "id": "gy6hceomhj0s92j-team-rockets-electrode",
+    "nome": "Electrode da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "20 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Fagulha Aleatória",
+        "dano": "",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": "This attack does 30 damage to 1 of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/20_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gy6hceomhj0s92j-team-rockets-electrode"
+  },
+  {
+    "id": "ivpmi4hqrx3komx-team-rockets-voltorb",
+    "nome": "Voltorb da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "19 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe Rolador",
+        "dano": "20",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/19_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ivpmi4hqrx3komx-team-rockets-voltorb"
+  },
+  {
+    "id": "7i5st2p7uvrqmbt-blitzle",
+    "nome": "Blitzle",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "22 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada Dupla",
+        "dano": "20 ×",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": "Flip 2 coins. This attcak does 20 damage for each heads."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/22_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7i5st2p7uvrqmbt-blitzle"
+  },
+  {
+    "id": "zvc7xlot26zl647-team-rockets-zapdos-ex",
+    "nome": "Zapdos ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "21 / 110",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bola Elétrica",
+        "dano": "40",
+        "custoataque": [
+          "lightning",
+          "colorless"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Garra de Trovão",
+        "dano": "90",
+        "custoataque": [
+          "lightning",
+          "lightning",
+          "lightning",
+          "colorless"
+        ],
+        "efeito": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/21_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zvc7xlot26zl647-team-rockets-zapdos-ex"
+  },
+  {
+    "id": "dnn8ev73tl9axfn-zebstrika",
+    "nome": "Zebstrika",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "23 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Chute Zap",
+        "dano": "50",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/23_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dnn8ev73tl9axfn-zebstrika"
+  },
+  {
+    "id": "cb1b6xbc6i0jgfx-team-rockets-slowpoke",
+    "nome": "Slowpoke da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "25 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Vasculhar",
+        "dano": "",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "Put a random Item card from your discard pile into your hand."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/25_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cb1b6xbc6i0jgfx-team-rockets-slowpoke"
+  },
+  {
+    "id": "wj8rkgjuwvtnzt4-team-rockets-pincurchin",
+    "nome": "Pincurchin da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "24 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe Envenenado",
+        "dano": "20",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/24_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wj8rkgjuwvtnzt4-team-rockets-pincurchin"
+  },
+  {
+    "id": "snt49gpi6yjeoqf-team-rockets-mr-mime",
+    "nome": "Mr. Mime da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "29 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tapa Empurrão",
+        "dano": "40",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/29_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/snt49gpi6yjeoqf-team-rockets-mr-mime"
+  },
+  {
+    "id": "4ge66t83dqeff9k-team-rockets-hypno",
+    "nome": "Hypno da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "28 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Encurralar",
+        "dano": "",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "Switch in 1 of your opponent's Benched Pokémon to the Active Spo. If you do, this attack does 50 damage to the new Active Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/28_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4ge66t83dqeff9k-team-rockets-hypno"
+  },
+  {
+    "id": "99zm0du87gcqmdo-team-rockets-slowking-ex",
+    "nome": "Slowking ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "26 / 110",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cinese de Mão",
+        "dano": "20 ×",
+        "custoataque": [
+          "psychic",
+          "colorless"
+        ],
+        "efeito": "This attack does 20 damage for each card in your hand"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/26_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/99zm0du87gcqmdo-team-rockets-slowking-ex"
+  },
+  {
+    "id": "8nbtm75vinecx5x-team-rockets-drowzee",
+    "nome": "Drowzee da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "27 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Resmungo",
+        "dano": "40",
+        "custoataque": [
+          "psychic",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/27_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8nbtm75vinecx5x-team-rockets-drowzee"
+  },
+  {
+    "id": "7mq09zv8io25avo-team-rockets-mewtwo",
+    "nome": "Mewtwo da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "30 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Explosão Psíquica",
+        "dano": "130",
+        "custoataque": [
+          "psychic",
+          "psychic",
+          "colorless"
+        ],
+        "efeito": "This Pokémon also does 70 damage to itself"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/30_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7mq09zv8io25avo-team-rockets-mewtwo"
+  },
+  {
+    "id": "bpmk0jaylr6xdsl-meowstic",
+    "nome": "Meowstic",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "32 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Super-raio Psíquico",
+        "dano": "70",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/32_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bpmk0jaylr6xdsl-meowstic"
+  },
+  {
+    "id": "ihnily3s50xf1v8-oranguru",
+    "nome": "Oranguru",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "33 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco e Compra",
+        "dano": "40",
+        "custoataque": [
+          "psychic",
+          "colorless"
+        ],
+        "efeito": "Draw a card"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/33_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ihnily3s50xf1v8-oranguru"
+  },
+  {
+    "id": "46k7ymfas4w8uel-gimmighoul",
+    "nome": "Gimmighoul",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "34 / 110",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "20",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/34_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/46k7ymfas4w8uel-gimmighoul"
+  },
+  {
+    "id": "gip12e45mibfmi6-landorus",
+    "nome": "Landorus",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "37 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Impacto de Gaia",
+        "dano": "130",
+        "custoataque": [
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "efeito": "Discard all Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/37_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gip12e45mibfmi6-landorus"
+  },
+  {
+    "id": "nvxr03h0ekb5ybw-team-rockets-ekans",
+    "nome": "Ekans da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "38 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Presa Sombria",
+        "dano": "40",
+        "custoataque": [
+          "darkness",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/38_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nvxr03h0ekb5ybw-team-rockets-ekans"
+  },
+  {
+    "id": "5zvpp5zwujg83il-marowak",
+    "nome": "Marowak",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "36 / 110",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Punição",
+        "dano": "50 +",
+        "custoataque": [
+          "fighting",
+          "colorless"
+        ],
+        "efeito": "If your opponent's Active Pokémon has \"Team Rocket\" in its name, this attack does 70 more damage"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/36_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5zvpp5zwujg83il-marowak"
+  },
+  {
+    "id": "y52sa2mijhgcirx-team-rockets-arbok",
+    "nome": "Arbok da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "39 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Buscador de Sombras",
+        "dano": "70 +",
+        "custoataque": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "This attack does 10 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/39_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y52sa2mijhgcirx-team-rockets-arbok"
+  },
+  {
+    "id": "e4ripbx16vg57b1-espurr",
+    "nome": "Espurr",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "31 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Feixe",
+        "dano": "40",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/31_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e4ripbx16vg57b1-espurr"
+  },
+  {
+    "id": "vf0tnqm90m4x2ym-cubone",
+    "nome": "Cubone",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "35 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Surra de Osso",
+        "dano": "20",
+        "custoataque": [
+          "fighting"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/35_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vf0tnqm90m4x2ym-cubone"
+  },
+  {
+    "id": "qnkfb82ab2ect9n-team-rockets-grimer",
+    "nome": "Grimer da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "40 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lodo",
+        "dano": "20",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/40_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qnkfb82ab2ect9n-team-rockets-grimer"
+  },
+  {
+    "id": "gvofbslrl1h5l80-team-rockets-muk",
+    "nome": "Muk da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "41 / 110",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Absorção de Veneno",
+        "dano": "80",
+        "custoataque": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, heal 60 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/41_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gvofbslrl1h5l80-team-rockets-muk"
+  },
+  {
+    "id": "ax1jycy1xjwp3ji-team-rockets-sneasel",
+    "nome": "Sneasel da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "44 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Abater em Grupo",
+        "dano": "30 ×",
+        "custoataque": [
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "Flip a coin for each Pokémon you have in play. This attack does 30 damage for each heads."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/44_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ax1jycy1xjwp3ji-team-rockets-sneasel"
+  },
+  {
+    "id": "04b182k8bj4brf3-team-rockets-koffing",
+    "nome": "Koffing da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "42 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Empuxo Reverso",
+        "dano": "10",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/42_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/04b182k8bj4brf3-team-rockets-koffing"
+  },
+  {
+    "id": "jq6pyr2suqy32x4-team-rockets-weezing-ex",
+    "nome": "Weezing ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "43 / 110",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Gás de Confusão",
+        "dano": "20",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/43_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jq6pyr2suqy32x4-team-rockets-weezing-ex"
+  },
+  {
+    "id": "rz93iph7io1jme3-togedemaru",
+    "nome": "Togedemaru",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "45 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque Cambalhota",
+        "dano": "20 +",
+        "custoataque": [
+          "metal"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/45_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rz93iph7io1jme3-togedemaru"
+  },
+  {
+    "id": "3gfmsbmhge8znoc-copperajah",
+    "nome": "Copperajah",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "47 / 110",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Impacto Pesado",
+        "dano": "80",
+        "custoataque": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/47_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3gfmsbmhge8znoc-copperajah"
+  },
+  {
+    "id": "e55lmdfipg5xzof-cufant",
+    "nome": "Cufant",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "46 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Rolagem",
+        "dano": "40",
+        "custoataque": [
+          "metal",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/46_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e55lmdfipg5xzof-cufant"
+  },
+  {
+    "id": "at2p1185swphscx-team-rockets-tinkatink",
+    "nome": "Tinkatink da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "48 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bote",
+        "dano": "20",
+        "custoataque": [
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/48_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/at2p1185swphscx-team-rockets-tinkatink"
+  },
+  {
+    "id": "pfu1arubctpdyv8-team-rockets-tinkatuff",
+    "nome": "Tinkatuff da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "49 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco Saca-rolha",
+        "dano": "50",
+        "custoataque": [
+          "metal",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/49_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pfu1arubctpdyv8-team-rockets-tinkatuff"
+  },
+  {
+    "id": "x26hy2sgqj613f9-gible",
+    "nome": "Gible",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "52 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Desmantelar",
+        "dano": "30",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/52_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x26hy2sgqj613f9-gible"
+  },
+  {
+    "id": "dxl1uqop2vka578-team-rockets-tinkaton",
+    "nome": "Tinkaton da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "50 / 110",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Martelo Bate-estaca",
+        "dano": "80",
+        "custoataque": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 Colorless more, and its Retreat Cost is 2 Colorless more."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/50_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dxl1uqop2vka578-team-rockets-tinkaton"
+  },
+  {
+    "id": "e08ee7sh46vs43i-garchomp",
+    "nome": "Garchomp",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "54 / 110",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aperto de Terra",
+        "dano": "120",
+        "custoataque": [
+          "water",
+          "fighting",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/54_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e08ee7sh46vs43i-garchomp"
+  },
+  {
+    "id": "mgqluqc3i41ha86-gholdengo",
+    "nome": "Gholdengo",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "51 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Gema Poderosa",
+        "dano": "50",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/51_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mgqluqc3i41ha86-gholdengo"
+  },
+  {
+    "id": "w02audbi4qo6b7h-regidrago",
+    "nome": "Regidrago",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "57 / 110",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Pancada Dracônica",
+        "dano": "140",
+        "custoataque": [
+          "grass",
+          "fire",
+          "colorless"
+        ],
+        "efeito": "If this Pokémon has damage on it, this attack does -100 damage"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/57_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w02audbi4qo6b7h-regidrago"
+  },
+  {
+    "id": "tr2i5gl837x44ot-team-rockets-rattata",
+    "nome": "Rattata da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "58 / 110",
+    "hp": 40,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Emboscada",
+        "dano": "20 +",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/58_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tr2i5gl837x44ot-team-rockets-rattata"
+  },
+  {
+    "id": "82bivboh37l5t72-gabite",
+    "nome": "Gabite",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "53 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque Linear",
+        "dano": "",
+        "custoataque": [
+          "water",
+          "fighting"
+        ],
+        "efeito": "This attack does 50damage to 1 of yoyr opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/53_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/82bivboh37l5t72-gabite"
+  },
+  {
+    "id": "s1s6jfgkvp52kv2-team-rockets-meowth",
+    "nome": "Meowth da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "60 / 110",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Arranhão",
+        "dano": "30",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/60_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s1s6jfgkvp52kv2-team-rockets-meowth"
+  },
+  {
+    "id": "10zzpz9xz41k5zg-duraludon",
+    "nome": "Duraludon",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "55 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Raio de Poder",
+        "dano": "50",
+        "custoataque": [
+          "fighting",
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/55_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/10zzpz9xz41k5zg-duraludon"
+  },
+  {
+    "id": "2vr6oq5yxfm39hi-archaludon",
+    "nome": "Archaludon",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "56 / 110",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Carga Protetora",
+        "dano": "110",
+        "custoataque": [
+          "fighting",
+          "metal",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "During your opponent's next turn, this Pokémon takes -30 damage from attacks"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/56_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2vr6oq5yxfm39hi-archaludon"
+  },
+  {
+    "id": "v09do7uqdzun8d0-team-rockets-persian",
+    "nome": "Persian da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "61 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bandido Perigoso",
+        "dano": "10 +",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 40 more damage for each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/61_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v09do7uqdzun8d0-team-rockets-persian"
+  },
+  {
+    "id": "vjighavhfbe0jla-team-rockets-raticate-ex",
+    "nome": "Raticate ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "59 / 110",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Arremetida de Impulso",
+        "dano": "70",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/59_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vjighavhfbe0jla-team-rockets-raticate-ex"
+  },
+  {
+    "id": "gdixjaxzzaews9o-team-rockets-kecleon",
+    "nome": "Kecleon da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "62 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bater e Esconder",
+        "dano": "40",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, during your opponent's next turn, prveent all damage from-and effects of-attacks done to this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/62_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gdixjaxzzaews9o-team-rockets-kecleon"
+  },
+  {
+    "id": "oi5xrbj9ze18cuu-furfrou",
+    "nome": "Furfrou",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "64 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Passos Contínuos",
+        "dano": "30 ×",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Flip a coin until you get tails. This attack does 30 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/64_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oi5xrbj9ze18cuu-furfrou"
+  },
+  {
+    "id": "0aj3oqgcq5169vz-lechonk",
+    "nome": "Lechonk",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "65 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "30",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/65_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0aj3oqgcq5169vz-lechonk"
+  },
+  {
+    "id": "exvq2s36oho9da5-happiny",
+    "nome": "Happiny",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "63 / 110",
+    "hp": 30,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Torcida Gordinha",
+        "dano": "10",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/63_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/exvq2s36oho9da5-happiny"
+  },
+  {
+    "id": "wdmk89uqxplc1bw-team-rockets-thieving-machine",
+    "nome": "Máquina de Roubo da Equipe Rocket",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "67 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/67_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wdmk89uqxplc1bw-team-rockets-thieving-machine"
+  },
+  {
+    "id": "itw82tyyjaypgq3-oinkologne",
+    "nome": "Oinkologne",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "66 / 110",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Borrifada Sentada",
+        "dano": "40 +",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/66_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/itw82tyyjaypgq3-oinkologne"
+  },
+  {
+    "id": "y537o9khzecxd3m-team-rockets-goo-zooka",
+    "nome": "Gosma-zuca da Equipe Rocket",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "68 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/68_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y537o9khzecxd3m-team-rockets-goo-zooka"
+  },
+  {
+    "id": "121dz5pj2lp905i-team-rockets-master-plan",
+    "nome": "Plano Mestre da Equipe Rocket",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "70 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/70_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/121dz5pj2lp905i-team-rockets-master-plan"
+  },
+  {
+    "id": "l8249mh2dqy27u5-team-rockets-researcher",
+    "nome": "Pesquisador da Equipe Rocket",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "69 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/69_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l8249mh2dqy27u5-team-rockets-researcher"
+  },
+  {
+    "id": "1fty8eeso3be2d4-team-rockets-boss",
+    "nome": "Chefe da Equipe Rocket",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "71 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/71_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1fty8eeso3be2d4-team-rockets-boss"
+  },
+  {
+    "id": "3hqbe1yxcq03eck-delphox",
+    "nome": "Delphox",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "73 / 110",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Psíquico",
+        "dano": "60 +",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/73_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3hqbe1yxcq03eck-delphox"
+  },
+  {
+    "id": "mj2lvh4lykaw2wn-arcade",
+    "nome": "Fliperama",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "72 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/72_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mj2lvh4lykaw2wn-arcade"
+  },
+  {
+    "id": "obtoo5sh8bkh5e7-team-rockets-hypno",
+    "nome": "Hypno da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "74 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Encurralar",
+        "dano": "",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "Switch in 1 of your opponent's Benched Pokémon to the Active Spo. If you do, this attack does 50 damage to the new Active Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/74_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/obtoo5sh8bkh5e7-team-rockets-hypno"
+  },
+  {
+    "id": "w91ql470ujyf9oh-happiny",
+    "nome": "Happiny",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "77 / 110",
+    "hp": 30,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Torcida Gordinha",
+        "dano": "10",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/77_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w91ql470ujyf9oh-happiny"
+  },
+  {
+    "id": "gfzz23d3r1iwuau-team-rockets-tinkaton",
+    "nome": "Tinkaton da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "75 / 110",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Martelo Bate-estaca",
+        "dano": "80",
+        "custoataque": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 Colorless more, and its Retreat Cost is 2 Colorless more."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/75_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gfzz23d3r1iwuau-team-rockets-tinkaton"
+  },
+  {
+    "id": "6xiyej1lqr4uwlu-lechonk",
+    "nome": "Lechonk",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "78 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "30",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/78_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6xiyej1lqr4uwlu-lechonk"
+  },
+  {
+    "id": "oiv2d5so4n3p008-team-rockets-kecleon",
+    "nome": "Kecleon da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "76 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bater e Esconder",
+        "dano": "40",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, during your opponent's next turn, prveent all damage from-and effects of-attacks done to this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/76_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oiv2d5so4n3p008-team-rockets-kecleon"
+  },
+  {
+    "id": "tko0fccji2yk40x-team-rockets-slowking-ex",
+    "nome": "Slowking ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "82 / 110",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cinese de Mão",
+        "dano": "20 ×",
+        "custoataque": [
+          "psychic",
+          "colorless"
+        ],
+        "efeito": "This attack does 20 damage for each card in your hand"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/82_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tko0fccji2yk40x-team-rockets-slowking-ex"
+  },
+  {
+    "id": "9j1l10p9gbncyh7-team-rockets-moltres-ex",
+    "nome": "Moltres ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "79 / 110",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Carga de Calor",
+        "dano": "",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": "Flip 3 coins. For each heads, produce a Fire Energy from your Energy Zone and attach it to this Pokémon"
+      },
+      {
+        "nomeataque": "Asa do Submundo",
+        "dano": "130",
+        "custoataque": [
+          "fire",
+          "fire",
+          "fire",
+          "colorless"
+        ],
+        "efeito": "Discard a Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/79_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9j1l10p9gbncyh7-team-rockets-moltres-ex"
+  },
+  {
+    "id": "ycscmhdssa73wj5-team-rockets-raticate-ex",
+    "nome": "Raticate ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "84 / 110",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Arremetida de Impulso",
+        "dano": "70",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/84_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ycscmhdssa73wj5-team-rockets-raticate-ex"
+  },
+  {
+    "id": "8z5rrk68t2hcu5u-team-rockets-articuno-ex",
+    "nome": "Articuno ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "80 / 110",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Asa de Gelo",
+        "dano": "40",
+        "custoataque": [
+          "water",
+          "colorless"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Tempestade de Granizo",
+        "dano": "130",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "This attack also does 20 damage to each of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/80_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8z5rrk68t2hcu5u-team-rockets-articuno-ex"
+  },
+  {
+    "id": "y1jf8zxcpf133ml-team-rockets-weezing-ex",
+    "nome": "Weezing ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "83 / 110",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Gás de Confusão",
+        "dano": "20",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/83_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y1jf8zxcpf133ml-team-rockets-weezing-ex"
+  },
+  {
+    "id": "69egjdsqm7jtgle-team-rockets-master-plan",
+    "nome": "Plano Mestre da Equipe Rocket",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "86 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/86_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/69egjdsqm7jtgle-team-rockets-master-plan"
+  },
+  {
+    "id": "9mfof7b4n1d10wx-team-rockets-researcher",
+    "nome": "Pesquisador da Equipe Rocket",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "85 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/85_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9mfof7b4n1d10wx-team-rockets-researcher"
+  },
+  {
+    "id": "a4xqr3xn2owgd08-team-rockets-zapdos-ex",
+    "nome": "Zapdos ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "81 / 110",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bola Elétrica",
+        "dano": "40",
+        "custoataque": [
+          "lightning",
+          "colorless"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Garra de Trovão",
+        "dano": "90",
+        "custoataque": [
+          "lightning",
+          "lightning",
+          "lightning",
+          "colorless"
+        ],
+        "efeito": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/81_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a4xqr3xn2owgd08-team-rockets-zapdos-ex"
+  },
+  {
+    "id": "6sbxadaldm37u85-team-rockets-moltres-ex",
+    "nome": "Moltres ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "88 / 110",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Carga de Calor",
+        "dano": "",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": "Flip 3 coins. For each heads, produce a Fire Energy from your Energy Zone and attach it to this Pokémon"
+      },
+      {
+        "nomeataque": "Asa do Submundo",
+        "dano": "130",
+        "custoataque": [
+          "fire",
+          "fire",
+          "fire",
+          "colorless"
+        ],
+        "efeito": "Discard a Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/88_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6sbxadaldm37u85-team-rockets-moltres-ex"
+  },
+  {
+    "id": "j3c8xrwubxfprbr-team-rockets-zapdos-ex",
+    "nome": "Zapdos ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "90 / 110",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bola Elétrica",
+        "dano": "40",
+        "custoataque": [
+          "lightning",
+          "colorless"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Garra de Trovão",
+        "dano": "90",
+        "custoataque": [
+          "lightning",
+          "lightning",
+          "lightning",
+          "colorless"
+        ],
+        "efeito": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/90_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j3c8xrwubxfprbr-team-rockets-zapdos-ex"
+  },
+  {
+    "id": "xrnr446g848ee9s-team-rockets-master-plan",
+    "nome": "Plano Mestre da Equipe Rocket",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "94 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/94_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xrnr446g848ee9s-team-rockets-master-plan"
+  },
+  {
+    "id": "twrc6p1gb019wdt-vulpix",
+    "nome": "Vulpix",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "95 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ficar Parado",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Heal 20 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/95_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/twrc6p1gb019wdt-vulpix"
+  },
+  {
+    "id": "71kre575005q3z4-team-rockets-boss",
+    "nome": "Chefe da Equipe Rocket",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "87 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/87_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71kre575005q3z4-team-rockets-boss"
+  },
+  {
+    "id": "cviebysj0lplllb-ninetales",
+    "nome": "Ninetales",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "96 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Brasas Dançantes",
+        "dano": "20 ×",
+        "custoataque": [
+          "fighting",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip 9 coins. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/96_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cviebysj0lplllb-ninetales"
+  },
+  {
+    "id": "t8il1gux9ewuhki-team-rockets-slowking-ex",
+    "nome": "Slowking ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "91 / 110",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cinese de Mão",
+        "dano": "20 ×",
+        "custoataque": [
+          "psychic",
+          "colorless"
+        ],
+        "efeito": "This attack does 20 damage for each card in your hand"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/91_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t8il1gux9ewuhki-team-rockets-slowking-ex"
+  },
+  {
+    "id": "43rt8vv84n75uep-team-rockets-weezing-ex",
+    "nome": "Weezing ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "92 / 110",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Gás de Confusão",
+        "dano": "20",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/92_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/43rt8vv84n75uep-team-rockets-weezing-ex"
+  },
+  {
+    "id": "iofbzk507gw9z6w-team-rockets-raticate-ex",
+    "nome": "Raticate ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "93 / 110",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Arremetida de Impulso",
+        "dano": "70",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/93_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iofbzk507gw9z6w-team-rockets-raticate-ex"
+  },
+  {
+    "id": "nbgtb8pz3tbudf7-seaking",
+    "nome": "Seaking",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "98 / 110",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Projétil de Água",
+        "dano": "30",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/98_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nbgtb8pz3tbudf7-seaking"
+  },
+  {
+    "id": "59ao3zt2vo5v80f-team-rockets-articuno-ex",
+    "nome": "Articuno ex da Equipe Rocket",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "89 / 110",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Asa de Gelo",
+        "dano": "40",
+        "custoataque": [
+          "water",
+          "colorless"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Tempestade de Granizo",
+        "dano": "130",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "This attack also does 20 damage to each of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/89_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/59ao3zt2vo5v80f-team-rockets-articuno-ex"
+  },
+  {
+    "id": "dg57yqbempftmlw-goldeen",
+    "nome": "Goldeen",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "97 / 110",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque de Chifre",
+        "dano": "30",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/97_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dg57yqbempftmlw-goldeen"
+  },
+  {
+    "id": "t4t9cgoecj588bp-sinistea",
+    "nome": "Sinistea",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "100 / 110",
+    "hp": 30,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Esconder",
+        "dano": "",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/100_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t4t9cgoecj588bp-sinistea"
+  },
+  {
+    "id": "r7vpyop9atwk98g-polteageist",
+    "nome": "Polteageist",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "101 / 110",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tiro Assustador",
+        "dano": "40",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/101_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r7vpyop9atwk98g-polteageist"
+  },
+  {
+    "id": "72483y98rlekcb1-toxel",
+    "nome": "Toxel",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "99 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Choque de Estática",
+        "dano": "30",
+        "custoataque": [
+          "lightning",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/99_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/72483y98rlekcb1-toxel"
+  },
+  {
+    "id": "3vbf93e37ew2jep-taillow",
+    "nome": "Taillow",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "103 / 110",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bicada",
+        "dano": "20",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/103_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3vbf93e37ew2jep-taillow"
+  },
+  {
+    "id": "ec4carw1rwhcmnv-mega-charizard-ex",
+    "nome": "Mega Charizard ex",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "105 / 110",
+    "hp": 220,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Mergulho Carmim",
+        "dano": "250",
+        "custoataque": [
+          "fire",
+          "fire",
+          "fire",
+          "colorless"
+        ],
+        "efeito": "This Pokémon also does 50 damage to itself"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/105_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ec4carw1rwhcmnv-mega-charizard-ex"
+  },
+  {
+    "id": "5ibu7x3djssrqt2-mawile",
+    "nome": "Mawile",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "102 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Mastigada Cavernosa",
+        "dano": "50",
+        "custoataque": [
+          "metal",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/102_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5ibu7x3djssrqt2-mawile"
+  },
+  {
+    "id": "wytejqmqrc4obm3-swellow",
+    "nome": "Swellow",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "104 / 110",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque de Asa",
+        "dano": "50",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/104_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wytejqmqrc4obm3-swellow"
+  },
+  {
+    "id": "henx4w476m00szz-toxtricity-ex",
+    "nome": "Toxtricity ex",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "106 / 110",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Faísca Nociva",
+        "dano": "90",
+        "custoataque": [
+          "lightning",
+          "lightning",
+          "colorless"
+        ],
+        "efeito": "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/106_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/henx4w476m00szz-toxtricity-ex"
+  },
+  {
+    "id": "3vr8mkd7n7jdw5h-mimikyu-ex",
+    "nome": "Mimikyu ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "107 / 110",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe de Garra",
+        "dano": "70",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/107_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3vr8mkd7n7jdw5h-mimikyu-ex"
+  },
+  {
+    "id": "r6j06eap02icvh5-mega-mawile-ex",
+    "nome": "Mega Mawile ex",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "108 / 110",
+    "hp": 170,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Mastigada Quente",
+        "dano": "60",
+        "custoataque": [
+          "metal",
+          "colorless"
+        ],
+        "efeito": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch does +30 damage. This effect stacks"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/108_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r6j06eap02icvh5-mega-mawile-ex"
+  },
+  {
+    "id": "5pfc9dgdmkyfd0w-team-rockets-goo-zooka",
+    "nome": "Gosma-zuca da Equipe Rocket",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Coroa Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "110 / 110",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/110_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5pfc9dgdmkyfd0w-team-rockets-goo-zooka"
+  },
+  {
+    "id": "ienbika46cdzbtb-gholdengo",
+    "nome": "Gholdengo",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Coroa Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "{setName}",
+    "numero": "109 / 110",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Gema Poderosa",
+        "dano": "50",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b4a/109_en_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ienbika46cdzbtb-gholdengo"
+  }
+]

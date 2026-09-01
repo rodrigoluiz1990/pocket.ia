@@ -1,32 +1,32 @@
 [
   {
-    "id": "a6uk01sma6o41k7-hisuian-lilligant",
-    "nome": "Lilligant de Hisui",
+    "id": "lxicv43um72myub-metapod",
+    "nome": "Metapod",
     "tipo": "Pokemon",
     "elemento": "Grama",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "7 / 106",
-    "hp": 100,
+    "numero": "2 / 106",
+    "hp": 80,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Vestir-se",
-        "dano": "40 +",
+        "nomeataque": "Aríete",
+        "dano": "30",
         "custoataque": [
           "grass"
         ],
-        "efeito": "If this Pokémon has a Pokémon Tool attached, this attack does 20 more damage"
+        "efeito": ""
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 1,
+    "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019100_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a6uk01sma6o41k7-hisuian-lilligant"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019050_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lxicv43um72myub-metapod"
   },
   {
     "id": "m3zm7tlbg9oqmlq-caterpie",
@@ -58,6 +58,64 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m3zm7tlbg9oqmlq-caterpie"
   },
   {
+    "id": "a6uk01sma6o41k7-hisuian-lilligant",
+    "nome": "Lilligant de Hisui",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "7 / 106",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Vestir-se",
+        "dano": "40 +",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": "If this Pokémon has a Pokémon Tool attached, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019100_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a6uk01sma6o41k7-hisuian-lilligant"
+  },
+  {
+    "id": "mbduxwhsf72z59z-vulpix",
+    "nome": "Vulpix",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "8 / 106",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ficar Parado",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Heal 20 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mbduxwhsf72z59z-vulpix"
+  },
+  {
     "id": "9ycjw1hgb8gvrn1-butterfree",
     "nome": "Butterfree",
     "tipo": "Pokemon",
@@ -87,62 +145,34 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9ycjw1hgb8gvrn1-butterfree"
   },
   {
-    "id": "crkzrs6l05ciekk-goldeen",
-    "nome": "Goldeen",
+    "id": "izim2cqmka00tst-growlithe",
+    "nome": "Growlithe",
     "tipo": "Pokemon",
-    "elemento": "Água",
+    "elemento": "Fogo",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "12 / 106",
-    "hp": 50,
+    "numero": "10 / 106",
+    "hp": 80,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Ataque de Chifre",
-        "dano": "30",
+        "nomeataque": "Pilha de Filhotes",
+        "dano": "20 ×",
         "custoataque": [
-          "water"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019130_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/crkzrs6l05ciekk-goldeen"
-  },
-  {
-    "id": "3c4nowydkq7o74m-cacnea",
-    "nome": "Cacnea",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "4 / 106",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Ferroada de Espinhos",
-        "dano": "10",
-        "custoataque": [
+          "colorless",
           "colorless"
         ],
-        "efeito": ""
+        "efeito": "Reveal all of your pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way"
       }
     ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
+    "fraqueza": "Agua",
+    "recuo": 3,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019070_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3c4nowydkq7o74m-cacnea"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019010_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/izim2cqmka00tst-growlithe"
   },
   {
     "id": "y2lefhlt9ptmei9-tropius",
@@ -173,6 +203,122 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019080_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y2lefhlt9ptmei9-tropius"
+  },
+  {
+    "id": "21woikcz9wgfgrm-feebas",
+    "nome": "Feebas",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "14 / 106",
+    "hp": 30,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Borrifada",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019150_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/21woikcz9wgfgrm-feebas"
+  },
+  {
+    "id": "jq84lz34dqzgn9s-psyduck",
+    "nome": "Psyduck",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "11 / 106",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Onda de Confusão",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Both Active Pokémon are now Confused"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jq84lz34dqzgn9s-psyduck"
+  },
+  {
+    "id": "df8ufk0q0beucyb-petilil",
+    "nome": "Petilil",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "6 / 106",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Giro Duplo",
+        "dano": "20 ×",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": "Flip 2 coins. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019090_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/df8ufk0q0beucyb-petilil"
+  },
+  {
+    "id": "3c4nowydkq7o74m-cacnea",
+    "nome": "Cacnea",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "4 / 106",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ferroada de Espinhos",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019070_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3c4nowydkq7o74m-cacnea"
   },
   {
     "id": "00sajf63t9nzuw9-ninetales",
@@ -206,181 +352,33 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/00sajf63t9nzuw9-ninetales"
   },
   {
-    "id": "df8ufk0q0beucyb-petilil",
-    "nome": "Petilil",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "6 / 106",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Giro Duplo",
-        "dano": "20 ×",
-        "custoataque": [
-          "grass"
-        ],
-        "efeito": "Flip 2 coins. This attack does 20 damage for each heads"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019090_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/df8ufk0q0beucyb-petilil"
-  },
-  {
-    "id": "lxicv43um72myub-metapod",
-    "nome": "Metapod",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "2 / 106",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Aríete",
-        "dano": "30",
-        "custoataque": [
-          "grass"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019050_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lxicv43um72myub-metapod"
-  },
-  {
-    "id": "jq84lz34dqzgn9s-psyduck",
-    "nome": "Psyduck",
+    "id": "crkzrs6l05ciekk-goldeen",
+    "nome": "Goldeen",
     "tipo": "Pokemon",
     "elemento": "Água",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "11 / 106",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019030_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jq84lz34dqzgn9s-psyduck"
-  },
-  {
-    "id": "l8hhd2helqt7vq7-slowpoke",
-    "nome": "Slowpoke",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "26 / 106",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Escuridao",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019240_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l8hhd2helqt7vq7-slowpoke"
-  },
-  {
-    "id": "izim2cqmka00tst-growlithe",
-    "nome": "Growlithe",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "10 / 106",
-    "hp": 80,
+    "numero": "12 / 106",
+    "hp": 50,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Pilha de Filhotes",
-        "dano": "20 ×",
+        "nomeataque": "Ataque de Chifre",
+        "dano": "30",
         "custoataque": [
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "Reveal all of your pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way"
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019010_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/izim2cqmka00tst-growlithe"
-  },
-  {
-    "id": "n9lu9hqkbc54iwg-munna",
-    "nome": "Munna",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "28 / 106",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Aríete",
-        "dano": "20",
-        "custoataque": [
-          "psychic"
+          "water"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Escuridao",
+    "fraqueza": "Raio",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019260_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/n9lu9hqkbc54iwg-munna"
-  },
-  {
-    "id": "mbduxwhsf72z59z-vulpix",
-    "nome": "Vulpix",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "8 / 106",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Agua",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019110_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mbduxwhsf72z59z-vulpix"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019130_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/crkzrs6l05ciekk-goldeen"
   },
   {
     "id": "c6vkgk4tkys3edn-seaking",
@@ -410,94 +408,6 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019140_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c6vkgk4tkys3edn-seaking"
-  },
-  {
-    "id": "br771k5z38hujm3-piplup",
-    "nome": "Piplup",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "19 / 106",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Jato de Bolhas",
-        "dano": "20",
-        "custoataque": [
-          "water"
-        ],
-        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019190_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/br771k5z38hujm3-piplup"
-  },
-  {
-    "id": "uxqfnoa5fx5555b-iron-bundle",
-    "nome": "Pacote Férreo",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "20 / 106",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Jato Empacotado",
-        "dano": "50 +",
-        "custoataque": [
-          "water",
-          "colorless"
-        ],
-        "efeito": "Flip a coin. If heads, this attack does 50 more damage. If tails, this Pokémon also does 50 damage to itself"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019200_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uxqfnoa5fx5555b-iron-bundle"
-  },
-  {
-    "id": "d01rhhw69pc4lr1-snorunt",
-    "nome": "Snorunt",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "16 / 106",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Cabeçada",
-        "dano": "10",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019170_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d01rhhw69pc4lr1-snorunt"
   },
   {
     "id": "5zo9b81grq9812v-milotic-ex",
@@ -531,6 +441,35 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5zo9b81grq9812v-milotic-ex"
   },
   {
+    "id": "d01rhhw69pc4lr1-snorunt",
+    "nome": "Snorunt",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "16 / 106",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019170_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d01rhhw69pc4lr1-snorunt"
+  },
+  {
     "id": "583oqtrrubs13x6-luvdisc",
     "nome": "Luvdisc",
     "tipo": "Pokemon",
@@ -558,6 +497,153 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019180_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/583oqtrrubs13x6-luvdisc"
+  },
+  {
+    "id": "5r0ymxm7l4n60w0-froslass",
+    "nome": "Froslass",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "17 / 106",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Disparo da Alma",
+        "dano": "70",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": "Discard a card from your hand. If you can't, this attack does nothing"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_018970_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5r0ymxm7l4n60w0-froslass"
+  },
+  {
+    "id": "br771k5z38hujm3-piplup",
+    "nome": "Piplup",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "19 / 106",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Jato de Bolhas",
+        "dano": "20",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/br771k5z38hujm3-piplup"
+  },
+  {
+    "id": "nuopte5kv172brh-raichu",
+    "nome": "Raichu",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "22 / 106",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Raio Supersônico",
+        "dano": "70",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_018980_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nuopte5kv172brh-raichu"
+  },
+  {
+    "id": "l8hhd2helqt7vq7-slowpoke",
+    "nome": "Slowpoke",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "26 / 106",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Rosnadura",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019240_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l8hhd2helqt7vq7-slowpoke"
+  },
+  {
+    "id": "uxqfnoa5fx5555b-iron-bundle",
+    "nome": "Pacote Férreo",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "20 / 106",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Jato Empacotado",
+        "dano": "50 +",
+        "custoataque": [
+          "water",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 50 more damage. If tails, this Pokémon also does 50 damage to itself"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019200_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uxqfnoa5fx5555b-iron-bundle"
   },
   {
     "id": "cb1efk3o3es0ed9-pikachu",
@@ -588,37 +674,6 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019210_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cb1efk3o3es0ed9-pikachu"
-  },
-  {
-    "id": "y6vtaiuyrg91tvt-enamorus",
-    "nome": "Enamorus",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "33 / 106",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Golpe Enamorado",
-        "dano": "60 +",
-        "custoataque": [
-          "psychic",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "If this Pokémon and your opponent's ACtiveP okémon have 1 or more of the same type of Energy attached, this attack does 60 more damage"
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019310_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y6vtaiuyrg91tvt-enamorus"
   },
   {
     "id": "a29hlibr7qamois-emolga",
@@ -681,112 +736,92 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bmzjfsj1b1kz2cb-dedenne-ex"
   },
   {
-    "id": "7biym52hssackr1-carbink",
-    "nome": "Carbink",
+    "id": "n9lu9hqkbc54iwg-munna",
+    "nome": "Munna",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "28 / 106",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "20",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019260_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/n9lu9hqkbc54iwg-munna"
+  },
+  {
+    "id": "jnfytpui1kxztjq-yamper",
+    "nome": "Yamper",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "25 / 106",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Pilha de Filhotes",
+        "dano": "20 ×",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Reveal all of your pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jnfytpui1kxztjq-yamper"
+  },
+  {
+    "id": "jng5av5lgs07b5g-musharna",
+    "nome": "Musharna",
     "tipo": "Pokemon",
     "elemento": "Psíquico",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "31 / 106",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019290_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7biym52hssackr1-carbink"
-  },
-  {
-    "id": "5r0ymxm7l4n60w0-froslass",
-    "nome": "Froslass",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "17 / 106",
+    "numero": "29 / 106",
     "hp": 100,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Disparo da Alma",
-        "dano": "70",
+        "nomeataque": "Cabeçada Zen",
+        "dano": "50",
         "custoataque": [
-          "water"
-        ],
-        "efeito": "Discard a card from your hand. If you can't, this attack does nothing"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_018970_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5r0ymxm7l4n60w0-froslass"
-  },
-  {
-    "id": "21woikcz9wgfgrm-feebas",
-    "nome": "Feebas",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "14 / 106",
-    "hp": 30,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Borrifada",
-        "dano": "10",
-        "custoataque": [
-          "colorless"
+          "psychic"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019150_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/21woikcz9wgfgrm-feebas"
-  },
-  {
-    "id": "nuopte5kv172brh-raichu",
-    "nome": "Raichu",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "22 / 106",
-    "hp": 110,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Raio Supersônico",
-        "dano": "70",
-        "custoataque": [
-          "lightning",
-          "lightning"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
+    "fraqueza": "Escuridao",
     "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_018980_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nuopte5kv172brh-raichu"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jng5av5lgs07b5g-musharna"
   },
   {
     "id": "5owq80nkdfrip3y-slowbro",
@@ -820,213 +855,63 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5owq80nkdfrip3y-slowbro"
   },
   {
-    "id": "dbm78p4zdkaombb-fidough",
-    "nome": "Fidough",
+    "id": "v6fxthtdsjj8dj5-sylveon",
+    "nome": "Sylveon",
     "tipo": "Pokemon",
     "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
+    "raridade": "Rara",
+    "custoDeck": 3,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "34 / 106",
-    "hp": 40,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Pilha de Filhotes",
-        "dano": "20 +",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "Reveal all of your pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way"
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019320_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dbm78p4zdkaombb-fidough"
-  },
-  {
-    "id": "jnfytpui1kxztjq-yamper",
-    "nome": "Yamper",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "25 / 106",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Pilha de Filhotes",
-        "dano": "20 ×",
-        "custoataque": [
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "Reveal all of your pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019230_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jnfytpui1kxztjq-yamper"
-  },
-  {
-    "id": "crm2x9cfxssb0z7-quagsire",
-    "nome": "Quagsire",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "37 / 106",
-    "hp": 120,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Amnésia",
-        "dano": "60",
-        "custoataque": [
-          "fighting",
-          "fighting",
-          "colorless"
-        ],
-        "efeito": "1 of your opponent's Active Pokémon's attacks is chosen at random. During your opponent's next turn, that Pokémon can't use the chosen attack"
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019350_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/crm2x9cfxssb0z7-quagsire"
-  },
-  {
-    "id": "jng5av5lgs07b5g-musharna",
-    "nome": "Musharna",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "29 / 106",
+    "numero": "30 / 106",
     "hp": 100,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Cabeçada Zen",
-        "dano": "50",
+        "nomeataque": "Tiro Mágico",
+        "dano": "60",
         "custoataque": [
-          "psychic"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019270_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jng5av5lgs07b5g-musharna"
-  },
-  {
-    "id": "9ncvvr7mhx5ti9v-scraggy",
-    "nome": "Scraggy",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "44 / 106",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Rasteira",
-        "dano": "10",
-        "custoataque": [
-          "darkness"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019420_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9ncvvr7mhx5ti9v-scraggy"
-  },
-  {
-    "id": "gg3x06dafnga72g-wooper",
-    "nome": "Wooper",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "36 / 106",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Tiro de Lama",
-        "dano": "30",
-        "custoataque": [
-          "fighting",
+          "colorless",
           "colorless"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Metal",
     "recuo": 1,
-    "temHabilidade": false,
+    "temHabilidade": true,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019340_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gg3x06dafnga72g-wooper"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v6fxthtdsjj8dj5-sylveon"
   },
   {
-    "id": "5bdj1ltt1v767ji-sandygast",
-    "nome": "Sandygast",
+    "id": "7biym52hssackr1-carbink",
+    "nome": "Carbink",
     "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Comum",
+    "elemento": "Psíquico",
+    "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "39 / 106",
-    "hp": 80,
+    "numero": "31 / 106",
+    "hp": 50,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Spray de Areia",
-        "dano": "20",
+        "nomeataque": "Presente Reluzente",
+        "dano": "",
         "custoataque": [
-          "fighting"
+          "psychic"
         ],
-        "efeito": ""
+        "efeito": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Psychic Energy from your Energy Zone and attach it to that Pokémon"
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 3,
+    "fraqueza": "Metal",
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019370_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5bdj1ltt1v767ji-sandygast"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019290_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7biym52hssackr1-carbink"
   },
   {
     "id": "l2sh7z9u7aoqpl1-mega-diancie-ex",
@@ -1060,21 +945,52 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l2sh7z9u7aoqpl1-mega-diancie-ex"
   },
   {
-    "id": "nnly6xkx1lyrkfz-rockruff",
-    "nome": "Rockruff",
+    "id": "y6vtaiuyrg91tvt-enamorus",
+    "nome": "Enamorus",
     "tipo": "Pokemon",
-    "elemento": "Lutador",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "33 / 106",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe Enamorado",
+        "dano": "60 +",
+        "custoataque": [
+          "psychic",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "If this Pokémon and your opponent's ACtiveP okémon have 1 or more of the same type of Energy attached, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019310_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y6vtaiuyrg91tvt-enamorus"
+  },
+  {
+    "id": "dbm78p4zdkaombb-fidough",
+    "nome": "Fidough",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "38 / 106",
-    "hp": 60,
+    "numero": "34 / 106",
+    "hp": 40,
     "evolucao": "",
     "ataque": [
       {
         "nomeataque": "Pilha de Filhotes",
-        "dano": "20 ×",
+        "dano": "20 +",
         "custoataque": [
           "colorless",
           "colorless",
@@ -1083,12 +999,12 @@
         "efeito": "Reveal all of your pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way"
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 1,
+    "fraqueza": "Metal",
+    "recuo": 0,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019360_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nnly6xkx1lyrkfz-rockruff"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019320_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dbm78p4zdkaombb-fidough"
   },
   {
     "id": "ll1ynvhfw6t8s9w-flutter-mane",
@@ -1122,34 +1038,96 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ll1ynvhfw6t8s9w-flutter-mane"
   },
   {
-    "id": "v6fxthtdsjj8dj5-sylveon",
-    "nome": "Sylveon",
+    "id": "crm2x9cfxssb0z7-quagsire",
+    "nome": "Quagsire",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 3,
+    "elemento": "Lutador",
+    "raridade": "Incomum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "30 / 106",
-    "hp": 100,
+    "numero": "37 / 106",
+    "hp": 120,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Tiro Mágico",
+        "nomeataque": "Amnésia",
         "dano": "60",
         "custoataque": [
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "efeito": "1 of your opponent's Active Pokémon's attacks is chosen at random. During your opponent's next turn, that Pokémon can't use the chosen attack"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019350_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/crm2x9cfxssb0z7-quagsire"
+  },
+  {
+    "id": "nnly6xkx1lyrkfz-rockruff",
+    "nome": "Rockruff",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "38 / 106",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Pilha de Filhotes",
+        "dano": "20 ×",
+        "custoataque": [
           "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Reveal all of your pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019360_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nnly6xkx1lyrkfz-rockruff"
+  },
+  {
+    "id": "gg3x06dafnga72g-wooper",
+    "nome": "Wooper",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "36 / 106",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tiro de Lama",
+        "dano": "30",
+        "custoataque": [
+          "fighting",
           "colorless"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Metal",
+    "fraqueza": "Planta",
     "recuo": 1,
-    "temHabilidade": true,
+    "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019280_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v6fxthtdsjj8dj5-sylveon"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019340_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gg3x06dafnga72g-wooper"
   },
   {
     "id": "sp4t0ponsx7l581-cacturne",
@@ -1181,6 +1159,64 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sp4t0ponsx7l581-cacturne"
   },
   {
+    "id": "9ncvvr7mhx5ti9v-scraggy",
+    "nome": "Scraggy",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "44 / 106",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Rasteira",
+        "dano": "10",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9ncvvr7mhx5ti9v-scraggy"
+  },
+  {
+    "id": "5bdj1ltt1v767ji-sandygast",
+    "nome": "Sandygast",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "39 / 106",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Spray de Areia",
+        "dano": "20",
+        "custoataque": [
+          "fighting"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019370_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5bdj1ltt1v767ji-sandygast"
+  },
+  {
     "id": "o995q63j75wb0wh-palossand",
     "nome": "Palossand",
     "tipo": "Pokemon",
@@ -1208,6 +1244,308 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019380_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o995q63j75wb0wh-palossand"
+  },
+  {
+    "id": "ai0j7fhgdmenipe-mega-sableye-ex",
+    "nome": "Mega Sableye ex",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "41 / 106",
+    "hp": 170,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Joia Amaldiçoada",
+        "dano": "80",
+        "custoataque": [
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ai0j7fhgdmenipe-mega-sableye-ex"
+  },
+  {
+    "id": "s1unitt1tnvqw6u-spiritomb",
+    "nome": "Spiritomb",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "43 / 106",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Sono Sombrio",
+        "dano": "30",
+        "custoataque": [
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s1unitt1tnvqw6u-spiritomb"
+  },
+  {
+    "id": "6het1u4c8qeikul-scrafty",
+    "nome": "Scrafty",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "45 / 106",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Chute de Pulo Alto",
+        "dano": "70",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6het1u4c8qeikul-scrafty"
+  },
+  {
+    "id": "uaimvzrg70n2ujt-toxapex",
+    "nome": "Toxapex",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "47 / 106",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Veneno Forte",
+        "dano": "",
+        "custoataque": [
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned. Do 40 damage to this Pokémon instead of the usual amount for this Special Condition"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uaimvzrg70n2ujt-toxapex"
+  },
+  {
+    "id": "l3arhvlswge17od-goomy",
+    "nome": "Goomy",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "48 / 106",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Estouro",
+        "dano": "20",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l3arhvlswge17od-goomy"
+  },
+  {
+    "id": "eoyaztieu69zvvu-hisuian-sliggoo",
+    "nome": "Sliggoo de Hisui",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "49 / 106",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Martelada",
+        "dano": "60",
+        "custoataque": [
+          "water",
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/eoyaztieu69zvvu-hisuian-sliggoo"
+  },
+  {
+    "id": "zbuqtdbsdld88qo-wigglytuff",
+    "nome": "Wigglytuff",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "52 / 106",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Expandir",
+        "dano": "50",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "During your opponent's next turn, this Pokémon takes -20 damage from attacks"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019500_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zbuqtdbsdld88qo-wigglytuff"
+  },
+  {
+    "id": "uo5gn4qjjxj6d1z-mareanie",
+    "nome": "Mareanie",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "46 / 106",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Venochoque",
+        "dano": "20 +",
+        "custoataque": [
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019440_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uo5gn4qjjxj6d1z-mareanie"
+  },
+  {
+    "id": "els5oa59n3scr4u-hisuian-goodra",
+    "nome": "Goodra de Hisui",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "50 / 106",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Impacto Pesado",
+        "dano": "120",
+        "custoataque": [
+          "water",
+          "metal",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019480_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/els5oa59n3scr4u-hisuian-goodra"
+  },
+  {
+    "id": "f2izczfm0yn1945-jigglypuff",
+    "nome": "Jigglypuff",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "51 / 106",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Pisada",
+        "dano": "30 ×",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip 2 coins. This attack does 30 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f2izczfm0yn1945-jigglypuff"
   },
   {
     "id": "wa2a5f951rbvvy1-munchlax",
@@ -1239,34 +1577,33 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wa2a5f951rbvvy1-munchlax"
   },
   {
-    "id": "6het1u4c8qeikul-scrafty",
-    "nome": "Scrafty",
+    "id": "ji9c0oz594wbyb3-eevee",
+    "nome": "Eevee",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Incomum",
+    "elemento": "Incolor",
+    "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "45 / 106",
-    "hp": 110,
+    "numero": "53 / 106",
+    "hp": 70,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Chute de Pulo Alto",
-        "dano": "70",
+        "nomeataque": "Roída",
+        "dano": "10",
         "custoataque": [
-          "darkness",
-          "darkness"
+          "colorless"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 2,
+    "fraqueza": "Luta",
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019430_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6het1u4c8qeikul-scrafty"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ji9c0oz594wbyb3-eevee"
   },
   {
     "id": "59d1yt4ss1tgo3d-snorlax",
@@ -1331,242 +1668,98 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j6mmlidov3axwq8-ursaring"
   },
   {
-    "id": "uaimvzrg70n2ujt-toxapex",
-    "nome": "Toxapex",
+    "id": "wtsaq1g2kgzzuot-hisuian-zoroark-ex",
+    "nome": "Zoroark de Hisui ex",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "47 / 106",
-    "hp": 110,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019450_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uaimvzrg70n2ujt-toxapex"
-  },
-  {
-    "id": "s1unitt1tnvqw6u-spiritomb",
-    "nome": "Spiritomb",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "43 / 106",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Sono Sombrio",
-        "dano": "30",
-        "custoataque": [
-          "darkness",
-          "colorless"
-        ],
-        "efeito": "Your opponent's Active Pokémon is now Asleep."
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019410_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s1unitt1tnvqw6u-spiritomb"
-  },
-  {
-    "id": "ai0j7fhgdmenipe-mega-sableye-ex",
-    "nome": "Mega Sableye ex",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
+    "elemento": "Incolor",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "41 / 106",
-    "hp": 170,
+    "numero": "60 / 106",
+    "hp": 150,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Joia Amaldiçoada",
-        "dano": "80",
+        "nomeataque": "Ilusão Rancorosa",
+        "dano": "80 +",
         "custoataque": [
-          "darkness",
-          "colorless"
-        ],
-        "efeito": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon"
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019390_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ai0j7fhgdmenipe-mega-sableye-ex"
-  },
-  {
-    "id": "zbuqtdbsdld88qo-wigglytuff",
-    "nome": "Wigglytuff",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "52 / 106",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Expandir",
-        "dano": "50",
-        "custoataque": [
+          "colorless",
           "colorless",
           "colorless"
         ],
-        "efeito": "During your opponent's next turn, this Pokémon takes -20 damage from attacks"
+        "efeito": "This attack does 20 more damage for each Pokémon in your discardp ile."
       }
     ],
     "fraqueza": "Luta",
     "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019500_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zbuqtdbsdld88qo-wigglytuff"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019570_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wtsaq1g2kgzzuot-hisuian-zoroark-ex"
   },
   {
-    "id": "uo5gn4qjjxj6d1z-mareanie",
-    "nome": "Mareanie",
+    "id": "bc98zwbzo9xr8e2-ursaluna",
+    "nome": "Ursaluna",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 3,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "46 / 106",
-    "hp": 60,
+    "numero": "58 / 106",
+    "hp": 160,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Venochoque",
-        "dano": "20 +",
+        "nomeataque": "Braço de Martelo",
+        "dano": "110",
         "custoataque": [
-          "darkness",
+          "colorless",
+          "colorless",
+          "colorless",
           "colorless"
         ],
-        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage"
+        "efeito": "Discard the top card of your opponent's deck"
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": true,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019440_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uo5gn4qjjxj6d1z-mareanie"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019560_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bc98zwbzo9xr8e2-ursaluna"
   },
   {
-    "id": "ji9c0oz594wbyb3-eevee",
-    "nome": "Eevee",
+    "id": "o7e944vr45ww8yq-greedent",
+    "nome": "Greedent",
     "tipo": "Pokemon",
     "elemento": "Incolor",
-    "raridade": "Comum",
+    "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "53 / 106",
-    "hp": 70,
+    "numero": "63 / 106",
+    "hp": 130,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Roída",
-        "dano": "10",
+        "nomeataque": "Colapso",
+        "dano": "100",
         "custoataque": [
+          "colorless",
+          "colorless",
           "colorless"
         ],
-        "efeito": ""
+        "efeito": "This Pokémon is now Asleep"
       }
     ],
     "fraqueza": "Luta",
-    "recuo": 1,
+    "recuo": 3,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019510_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ji9c0oz594wbyb3-eevee"
-  },
-  {
-    "id": "l92bcuz137sacjo-teddiursa",
-    "nome": "Teddiursa",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "56 / 106",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019540_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l92bcuz137sacjo-teddiursa"
-  },
-  {
-    "id": "wtci5cdwvjmgfyw-skwovet",
-    "nome": "Skwovet",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "62 / 106",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Investida",
-        "dano": "20",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019590_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wtci5cdwvjmgfyw-skwovet"
-  },
-  {
-    "id": "yi3pq2iqyfvlaov-hisuian-zorua",
-    "nome": "Zorua de Hisui",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "59 / 106",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019000_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yi3pq2iqyfvlaov-hisuian-zorua"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019600_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o7e944vr45ww8yq-greedent"
   },
   {
     "id": "xfrvmw9821fgwp2-small-balloon",
@@ -1609,115 +1802,80 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oyzxdujgdta64c3-elegant-cape"
   },
   {
-    "id": "l3arhvlswge17od-goomy",
-    "nome": "Goomy",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "48 / 106",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Estouro",
-        "dano": "20",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019460_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l3arhvlswge17od-goomy"
-  },
-  {
-    "id": "eoyaztieu69zvvu-hisuian-sliggoo",
-    "nome": "Sliggoo de Hisui",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "49 / 106",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Martelada",
-        "dano": "60",
-        "custoataque": [
-          "water",
-          "metal"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019470_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/eoyaztieu69zvvu-hisuian-sliggoo"
-  },
-  {
-    "id": "els5oa59n3scr4u-hisuian-goodra",
-    "nome": "Goodra de Hisui",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "50 / 106",
-    "hp": 150,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Impacto Pesado",
-        "dano": "120",
-        "custoataque": [
-          "water",
-          "metal",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 3,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019480_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/els5oa59n3scr4u-hisuian-goodra"
-  },
-  {
-    "id": "f2izczfm0yn1945-jigglypuff",
-    "nome": "Jigglypuff",
+    "id": "l92bcuz137sacjo-teddiursa",
+    "nome": "Teddiursa",
     "tipo": "Pokemon",
     "elemento": "Incolor",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "51 / 106",
+    "numero": "56 / 106",
     "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Pisada",
+        "nomeataque": "Encantar",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019540_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l92bcuz137sacjo-teddiursa"
+  },
+  {
+    "id": "yi3pq2iqyfvlaov-hisuian-zorua",
+    "nome": "Zorua de Hisui",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "59 / 106",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Zoar",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019000_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yi3pq2iqyfvlaov-hisuian-zorua"
+  },
+  {
+    "id": "mzdabj0v9e7m7gw-furfrou",
+    "nome": "Furfrou",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "61 / 106",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada Dupla",
         "dano": "30 ×",
         "custoataque": [
-          "colorless",
           "colorless"
         ],
         "efeito": "Flip 2 coins. This attack does 30 damage for each heads"
@@ -1725,155 +1883,50 @@
     ],
     "fraqueza": "Luta",
     "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019490_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f2izczfm0yn1945-jigglypuff"
-  },
-  {
-    "id": "o7e944vr45ww8yq-greedent",
-    "nome": "Greedent",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "63 / 106",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Colapso",
-        "dano": "100",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This Pokémon is now Asleep"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019600_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o7e944vr45ww8yq-greedent"
-  },
-  {
-    "id": "bc98zwbzo9xr8e2-ursaluna",
-    "nome": "Ursaluna",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "58 / 106",
-    "hp": 160,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Braço de Martelo",
-        "dano": "110",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "Discard the top card of your opponent's deck"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 3,
     "temHabilidade": true,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019560_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bc98zwbzo9xr8e2-ursaluna"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019580_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mzdabj0v9e7m7gw-furfrou"
   },
   {
-    "id": "wtsaq1g2kgzzuot-hisuian-zoroark-ex",
-    "nome": "Zoroark de Hisui ex",
+    "id": "wtci5cdwvjmgfyw-skwovet",
+    "nome": "Skwovet",
     "tipo": "Pokemon",
     "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "60 / 106",
-    "hp": 150,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Ilusão Rancorosa",
-        "dano": "80 +",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This attack does 20 more damage for each Pokémon in your discardp ile."
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019570_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wtsaq1g2kgzzuot-hisuian-zoroark-ex"
-  },
-  {
-    "id": "peyyubj8uakw955-wallace",
-    "nome": "Wallace",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
+    "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "68 / 106",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_10_001470_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/peyyubj8uakw955-wallace"
-  },
-  {
-    "id": "2gk4hzpnp39jdgp-vulpix",
-    "nome": "Vulpix",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "70 / 106",
+    "numero": "62 / 106",
     "hp": 60,
     "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Agua",
+    "ataque": [
+      {
+        "nomeataque": "Investida",
+        "dano": "20",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019110_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2gk4hzpnp39jdgp-vulpix"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019590_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wtci5cdwvjmgfyw-skwovet"
   },
   {
-    "id": "9p15bpnzwyyf0m4-wallace",
-    "nome": "Wallace",
+    "id": "iwk0kmsswxor7st-elesa",
+    "nome": "Elesa",
     "tipo": "Treinador",
     "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
+    "raridade": "Incomum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "85 / 106",
+    "numero": "66 / 106",
     "hp": 0,
     "evolucao": "",
     "ataque": [],
@@ -1881,8 +1934,8 @@
     "recuo": 0,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_20_001470_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9p15bpnzwyyf0m4-wallace"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_10_001450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iwk0kmsswxor7st-elesa"
   },
   {
     "id": "81fnyfg2it1aumi-puppy-loving-girl",
@@ -1903,6 +1956,35 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_10_001460_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/81fnyfg2it1aumi-puppy-loving-girl"
+  },
+  {
+    "id": "2gk4hzpnp39jdgp-vulpix",
+    "nome": "Vulpix",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "70 / 106",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ficar Parado",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Heal 20 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2gk4hzpnp39jdgp-vulpix"
   },
   {
     "id": "s59ziojb4ekw5yl-piplup",
@@ -1934,6 +2016,26 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s59ziojb4ekw5yl-piplup"
   },
   {
+    "id": "peyyubj8uakw955-wallace",
+    "nome": "Wallace",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "68 / 106",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_10_001470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/peyyubj8uakw955-wallace"
+  },
+  {
     "id": "chnckvj5uo9nynl-kids-room",
     "nome": "Quarto de Criança",
     "tipo": "Treinador",
@@ -1954,54 +2056,34 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/chnckvj5uo9nynl-kids-room"
   },
   {
-    "id": "88tpxxjuc847bie-mareanie",
-    "nome": "Mareanie",
+    "id": "1atd6orpacx7zt1-pikachu",
+    "nome": "Pikachu",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
+    "elemento": "Elétrico",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "74 / 106",
+    "numero": "72 / 106",
     "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Venochoque",
-        "dano": "20 +",
+        "nomeataque": "Bola Elétrica",
+        "dano": "40",
         "custoataque": [
-          "darkness",
-          "colorless"
+          "lightning",
+          "lightning"
         ],
-        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage"
+        "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Luta",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019440_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/88tpxxjuc847bie-mareanie"
-  },
-  {
-    "id": "d0g9pimx63qompl-elesa",
-    "nome": "Elesa",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "83 / 106",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_20_001450_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d0g9pimx63qompl-elesa"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1atd6orpacx7zt1-pikachu"
   },
   {
     "id": "zne7746icg5g4po-sylveon",
@@ -2034,144 +2116,34 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zne7746icg5g4po-sylveon"
   },
   {
-    "id": "mzdabj0v9e7m7gw-furfrou",
-    "nome": "Furfrou",
+    "id": "88tpxxjuc847bie-mareanie",
+    "nome": "Mareanie",
     "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "61 / 106",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Cabeçada Dupla",
-        "dano": "30 ×",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "Flip 2 coins. This attack does 30 damage for each heads"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_10_019580_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mzdabj0v9e7m7gw-furfrou"
-  },
-  {
-    "id": "njgocl8ftvszv2b-greedent",
-    "nome": "Greedent",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
+    "elemento": "Noturno",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "77 / 106",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Colapso",
-        "dano": "100",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This Pokémon is now Asleep"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019600_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/njgocl8ftvszv2b-greedent"
-  },
-  {
-    "id": "iwk0kmsswxor7st-elesa",
-    "nome": "Elesa",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "66 / 106",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_10_001450_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iwk0kmsswxor7st-elesa"
-  },
-  {
-    "id": "3ppxmhv4u995ws2-dedenne-ex",
-    "nome": "Dedenne ex",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "79 / 106",
-    "hp": 120,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Dedecircuito",
-        "dano": "40 ×",
-        "custoataque": [
-          "lightning",
-          "lightning"
-        ],
-        "efeito": "This attack does 40 damage for each Pokémon Tool attached to all of your Pokémon"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019220_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3ppxmhv4u995ws2-dedenne-ex"
-  },
-  {
-    "id": "d0xn0hbkr6iodpg-jigglypuff",
-    "nome": "Jigglypuff",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "75 / 106",
+    "numero": "74 / 106",
     "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Pisada",
-        "dano": "30 ×",
+        "nomeataque": "Venochoque",
+        "dano": "20 +",
         "custoataque": [
-          "colorless",
+          "darkness",
           "colorless"
         ],
-        "efeito": "Flip 2 coins. This attack does 30 damage for each heads"
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage"
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Planta",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019490_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d0xn0hbkr6iodpg-jigglypuff"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019440_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/88tpxxjuc847bie-mareanie"
   },
   {
     "id": "wo7nl9c1lmccqyk-milotic-ex",
@@ -2205,6 +2177,36 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wo7nl9c1lmccqyk-milotic-ex"
   },
   {
+    "id": "d0xn0hbkr6iodpg-jigglypuff",
+    "nome": "Jigglypuff",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "75 / 106",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Pisada",
+        "dano": "30 ×",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip 2 coins. This attack does 30 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d0xn0hbkr6iodpg-jigglypuff"
+  },
+  {
     "id": "cix7prbd1spdt8i-snorlax",
     "nome": "Snorlax",
     "tipo": "Pokemon",
@@ -2236,34 +2238,35 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cix7prbd1spdt8i-snorlax"
   },
   {
-    "id": "1atd6orpacx7zt1-pikachu",
-    "nome": "Pikachu",
+    "id": "njgocl8ftvszv2b-greedent",
+    "nome": "Greedent",
     "tipo": "Pokemon",
-    "elemento": "Elétrico",
+    "elemento": "Incolor",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "72 / 106",
-    "hp": 60,
+    "numero": "77 / 106",
+    "hp": 130,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Bola Elétrica",
-        "dano": "40",
+        "nomeataque": "Colapso",
+        "dano": "100",
         "custoataque": [
-          "lightning",
-          "lightning"
+          "colorless",
+          "colorless",
+          "colorless"
         ],
-        "efeito": ""
+        "efeito": "This Pokémon is now Asleep"
       }
     ],
     "fraqueza": "Luta",
-    "recuo": 1,
+    "recuo": 3,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019210_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1atd6orpacx7zt1-pikachu"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019600_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/njgocl8ftvszv2b-greedent"
   },
   {
     "id": "giwa2j7j83ua5pk-mega-diancie-ex",
@@ -2297,65 +2300,54 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/giwa2j7j83ua5pk-mega-diancie-ex"
   },
   {
-    "id": "7nc3jtv9ps2nvx9-mega-sableye-ex",
-    "nome": "Mega Sableye ex",
+    "id": "3ppxmhv4u995ws2-dedenne-ex",
+    "nome": "Dedenne ex",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
+    "elemento": "Elétrico",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "81 / 106",
-    "hp": 170,
+    "numero": "79 / 106",
+    "hp": 120,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Joia Amaldiçoada",
-        "dano": "80",
+        "nomeataque": "Dedecircuito",
+        "dano": "40 ×",
         "custoataque": [
-          "darkness",
-          "colorless"
+          "lightning",
+          "lightning"
         ],
-        "efeito": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon"
+        "efeito": "This attack does 40 damage for each Pokémon Tool attached to all of your Pokémon"
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Luta",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019390_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7nc3jtv9ps2nvx9-mega-sableye-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3ppxmhv4u995ws2-dedenne-ex"
   },
   {
-    "id": "gjzsn9rxiin307r-mega-diancie-ex",
-    "nome": "Mega Diancie ex",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
+    "id": "d0g9pimx63qompl-elesa",
+    "nome": "Elesa",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "87 / 106",
-    "hp": 170,
+    "numero": "83 / 106",
+    "hp": 0,
     "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Tempestade Brilhante",
-        "dano": "40 +",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This attack does 20 more damage for each Psychic Energy attached to all of your Pokémon"
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 1,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019300_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gjzsn9rxiin307r-mega-diancie-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_20_001450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d0g9pimx63qompl-elesa"
   },
   {
     "id": "16ad3gy4zyu4utk-hisuian-zoroark-ex",
@@ -2389,35 +2381,74 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/16ad3gy4zyu4utk-hisuian-zoroark-ex"
   },
   {
-    "id": "5qzx58ioia70gf2-hisuian-zoroark-ex",
-    "nome": "Zoroark de Hisui ex",
+    "id": "7nc3jtv9ps2nvx9-mega-sableye-ex",
+    "nome": "Mega Sableye ex",
     "tipo": "Pokemon",
-    "elemento": "Incolor",
+    "elemento": "Noturno",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "89 / 106",
-    "hp": 150,
+    "numero": "81 / 106",
+    "hp": 170,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Ilusão Rancorosa",
-        "dano": "80 +",
+        "nomeataque": "Joia Amaldiçoada",
+        "dano": "80",
         "custoataque": [
-          "colorless",
-          "colorless",
+          "darkness",
           "colorless"
         ],
-        "efeito": "This attack does 20 more damage for each Pokémon in your discardp ile."
+        "efeito": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 2,
+    "fraqueza": "Planta",
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019570_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5qzx58ioia70gf2-hisuian-zoroark-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7nc3jtv9ps2nvx9-mega-sableye-ex"
+  },
+  {
+    "id": "4180vhspkv38igz-puppy-loving-girl",
+    "nome": "Fã de Filhotes",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "84 / 106",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_20_001460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4180vhspkv38igz-puppy-loving-girl"
+  },
+  {
+    "id": "9p15bpnzwyyf0m4-wallace",
+    "nome": "Wallace",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "85 / 106",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_20_001470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9p15bpnzwyyf0m4-wallace"
   },
   {
     "id": "zzplofs9a0t8dbu-milotic-ex",
@@ -2451,24 +2482,35 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zzplofs9a0t8dbu-milotic-ex"
   },
   {
-    "id": "4180vhspkv38igz-puppy-loving-girl",
-    "nome": "Fã de Filhotes",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
+    "id": "gjzsn9rxiin307r-mega-diancie-ex",
+    "nome": "Mega Diancie ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "84 / 106",
-    "hp": 0,
+    "numero": "87 / 106",
+    "hp": 170,
     "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
+    "ataque": [
+      {
+        "nomeataque": "Tempestade Brilhante",
+        "dano": "40 +",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 20 more damage for each Psychic Energy attached to all of your Pokémon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_20_001460_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4180vhspkv38igz-puppy-loving-girl"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019300_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gjzsn9rxiin307r-mega-diancie-ex"
   },
   {
     "id": "z5mx7jj6yjlt5fd-mega-sableye-ex",
@@ -2501,274 +2543,35 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z5mx7jj6yjlt5fd-mega-sableye-ex"
   },
   {
-    "id": "4ggmlpml1cwqbol-flaaffy",
-    "nome": "Flaaffy",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "95 / 106",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Murro Elétrico",
-        "dano": "40",
-        "custoataque": [
-          "lightning",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_011650_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4ggmlpml1cwqbol-flaaffy"
-  },
-  {
-    "id": "64xnj74cbkw129i-kangaskhan",
-    "nome": "Kangaskhan",
+    "id": "5qzx58ioia70gf2-hisuian-zoroark-ex",
+    "nome": "Zoroark de Hisui ex",
     "tipo": "Pokemon",
     "elemento": "Incolor",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "98 / 106",
-    "hp": 110,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Soco Firme",
-        "dano": "60 +",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_014920_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/64xnj74cbkw129i-kangaskhan"
-  },
-  {
-    "id": "etlfeziejmp4tct-caterpie",
-    "nome": "Caterpie",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "91 / 106",
-    "hp": 40,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Gancho",
-        "dano": "20",
-        "custoataque": [
-          "grass"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 1,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019040_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/etlfeziejmp4tct-caterpie"
-  },
-  {
-    "id": "dk8cczrej11r778-butterfree",
-    "nome": "Butterfree",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "93 / 106",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Vento Ensolarado",
-        "dano": "60",
-        "custoataque": [
-          "grass"
-        ],
-        "efeito": "Heal 20 damage from this Pokémon"
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019060_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dk8cczrej11r778-butterfree"
-  },
-  {
-    "id": "nfipdfyhyo8rzud-mega-ampharos-ex",
-    "nome": "Mega Ampharos ex",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "103 / 106",
-    "hp": 210,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Lanceiro Relâmpago",
-        "dano": "100",
-        "custoataque": [
-          "lightning",
-          "lightning",
-          "colorless"
-        ],
-        "efeito": "1 of your opponent's Benched Pokémon is chosen at random3 times. For each time a Pokémon was chosen, also do 20 damage to it"
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_011670_02_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nfipdfyhyo8rzud-mega-ampharos-ex"
-  },
-  {
-    "id": "aynpbzxzfm76hqg-munchlax",
-    "nome": "Munchlax",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Ultra Rara",
+    "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "105 / 106",
-    "hp": 50,
+    "numero": "89 / 106",
+    "hp": 150,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Fome de Comprar",
-        "dano": "10",
-        "custoataque": [
-          "empty"
-        ],
-        "efeito": "Draw a card"
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019520_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aynpbzxzfm76hqg-munchlax"
-  },
-  {
-    "id": "5wi3zex3khrolyb-metapod",
-    "nome": "Metapod",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "92 / 106",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Aríete",
-        "dano": "30",
-        "custoataque": [
-          "grass"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019050_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5wi3zex3khrolyb-metapod"
-  },
-  {
-    "id": "uhtn403y2wcu1nb-snorlax",
-    "nome": "Snorlax",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "100 / 106",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Megassoco",
-        "dano": "70",
+        "nomeataque": "Ilusão Rancorosa",
+        "dano": "80 +",
         "custoataque": [
           "colorless",
           "colorless",
           "colorless"
         ],
-        "efeito": ""
+        "efeito": "This attack does 20 more damage for each Pokémon in your discardp ile."
       }
     ],
-    "fraqueza": "",
-    "recuo": 3,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019530_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uhtn403y2wcu1nb-snorlax"
-  },
-  {
-    "id": "y32921znh7fvznx-ampharos",
-    "nome": "Ampharos",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Everyday Wonders",
-    "numero": "96 / 106",
-    "hp": 140,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Projétil Eletrizante",
-        "dano": "90",
-        "custoataque": [
-          "lightning",
-          "lightning",
-          "colorless"
-        ],
-        "efeito": "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 20 damage to it"
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 1,
+    "fraqueza": "Luta",
+    "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_011660_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y32921znh7fvznx-ampharos"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019570_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5qzx58ioia70gf2-hisuian-zoroark-ex"
   },
   {
     "id": "a9pyw4yg1tm0fsr-dedenne-ex",
@@ -2801,11 +2604,69 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a9pyw4yg1tm0fsr-dedenne-ex"
   },
   {
+    "id": "5wi3zex3khrolyb-metapod",
+    "nome": "Metapod",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "92 / 106",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "30",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019050_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5wi3zex3khrolyb-metapod"
+  },
+  {
+    "id": "etlfeziejmp4tct-caterpie",
+    "nome": "Caterpie",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "91 / 106",
+    "hp": 40,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Gancho",
+        "dano": "20",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/etlfeziejmp4tct-caterpie"
+  },
+  {
     "id": "s4cytw23tqib6d3-mareep",
     "nome": "Mareep",
     "tipo": "Pokemon",
     "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
+    "raridade": "Raro Brilhante",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
@@ -2830,11 +2691,101 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s4cytw23tqib6d3-mareep"
   },
   {
+    "id": "4ggmlpml1cwqbol-flaaffy",
+    "nome": "Flaaffy",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "95 / 106",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Murro Elétrico",
+        "dano": "40",
+        "custoataque": [
+          "lightning",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_011650_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4ggmlpml1cwqbol-flaaffy"
+  },
+  {
+    "id": "dk8cczrej11r778-butterfree",
+    "nome": "Butterfree",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "93 / 106",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Vento Ensolarado",
+        "dano": "60",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": "Heal 20 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019060_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dk8cczrej11r778-butterfree"
+  },
+  {
+    "id": "y32921znh7fvznx-ampharos",
+    "nome": "Ampharos",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "96 / 106",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Projétil Eletrizante",
+        "dano": "90",
+        "custoataque": [
+          "lightning",
+          "lightning",
+          "colorless"
+        ],
+        "efeito": "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 20 damage to it"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_011660_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y32921znh7fvznx-ampharos"
+  },
+  {
     "id": "sb3rsg2b28io4nx-slowbro",
     "nome": "Slowbro",
     "tipo": "Pokemon",
     "elemento": "Psíquico",
-    "raridade": "Ultra Rara",
+    "raridade": "Raro Brilhante",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
@@ -2865,14 +2816,23 @@
     "nome": "Ditto",
     "tipo": "Pokemon",
     "elemento": "Incolor",
-    "raridade": "Ultra Rara",
+    "raridade": "Raro Brilhante",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
     "numero": "99 / 106",
     "hp": 60,
     "evolucao": "",
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Copiar um Amigo",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Choose 1 of your Benched Pokémon' attacks, except any Pokémon ex, and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing"
+      }
+    ],
     "fraqueza": "",
     "recuo": 1,
     "temHabilidade": false,
@@ -2881,31 +2841,73 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9aqz45uclt8clic-ditto"
   },
   {
-    "id": "8rxcr9qd09y1ui9-small-balloon",
-    "nome": "Balão Pequeno",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Ultra Rara",
-    "custoDeck": 8,
+    "id": "64xnj74cbkw129i-kangaskhan",
+    "nome": "Kangaskhan",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "106 / 106",
-    "hp": 0,
+    "numero": "98 / 106",
+    "hp": 110,
     "evolucao": "",
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Soco Firme",
+        "dano": "60 +",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
     "fraqueza": "",
-    "recuo": 0,
+    "recuo": 3,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_20_001430_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8rxcr9qd09y1ui9-small-balloon"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_014920_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/64xnj74cbkw129i-kangaskhan"
+  },
+  {
+    "id": "uhtn403y2wcu1nb-snorlax",
+    "nome": "Snorlax",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "100 / 106",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Megassoco",
+        "dano": "70",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019530_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uhtn403y2wcu1nb-snorlax"
   },
   {
     "id": "1o7lsytq3hagl8b-mega-gyarados-ex",
     "nome": "Mega Gyarados ex",
     "tipo": "Pokemon",
     "elemento": "Água",
-    "raridade": "Ultra Rara",
+    "raridade": "Duplo Brilhante Raro",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
@@ -2933,11 +2935,72 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1o7lsytq3hagl8b-mega-gyarados-ex"
   },
   {
+    "id": "pc6ycznaq1vyd50-vaporeon-ex",
+    "nome": "Vaporeon ex",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "102 / 106",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Onda Borrifante",
+        "dano": "80",
+        "custoataque": [
+          "water",
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 3,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_017020_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pc6ycznaq1vyd50-vaporeon-ex"
+  },
+  {
+    "id": "nfipdfyhyo8rzud-mega-ampharos-ex",
+    "nome": "Mega Ampharos ex",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "103 / 106",
+    "hp": 210,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lanceiro Relâmpago",
+        "dano": "100",
+        "custoataque": [
+          "lightning",
+          "lightning",
+          "colorless"
+        ],
+        "efeito": "1 of your opponent's Benched Pokémon is chosen at random3 times. For each time a Pokémon was chosen, also do 20 damage to it"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_011670_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nfipdfyhyo8rzud-mega-ampharos-ex"
+  },
+  {
     "id": "15191e7meiu7sgl-indeedee-ex",
     "nome": "Indeedee ex",
     "tipo": "Pokemon",
     "elemento": "Psíquico",
-    "raridade": "Ultra Rara",
+    "raridade": "Duplo Brilhante Raro",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
@@ -2963,33 +3026,52 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/15191e7meiu7sgl-indeedee-ex"
   },
   {
-    "id": "pc6ycznaq1vyd50-vaporeon-ex",
-    "nome": "Vaporeon ex",
+    "id": "aynpbzxzfm76hqg-munchlax",
+    "nome": "Munchlax",
     "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
+    "elemento": "Incolor",
+    "raridade": "Coroa Rara",
+    "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Everyday Wonders",
-    "numero": "102 / 106",
-    "hp": 160,
+    "numero": "105 / 106",
+    "hp": 50,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Onda Borrifante",
-        "dano": "80",
+        "nomeataque": "Fome de Comprar",
+        "dano": "10",
         "custoataque": [
-          "water",
-          "water"
+          "empty"
         ],
-        "efeito": ""
+        "efeito": "Draw a card"
       }
     ],
     "fraqueza": "",
-    "recuo": 3,
-    "temHabilidade": true,
+    "recuo": 2,
+    "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_017020_02_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pc6ycznaq1vyd50-vaporeon-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/PK_20_019520_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aynpbzxzfm76hqg-munchlax"
+  },
+  {
+    "id": "8rxcr9qd09y1ui9-small-balloon",
+    "nome": "Balão Pequeno",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Coroa Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Everyday Wonders",
+    "numero": "106 / 106",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3b/TR_20_001430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8rxcr9qd09y1ui9-small-balloon"
   }
 ]

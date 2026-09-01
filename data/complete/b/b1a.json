@@ -55,7 +55,16 @@
     "evolucao": "",
     "tipo": "Planta",
     "hp": 100,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Síntese",
+        "dano": "",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Take 2 Grass Energy from your Energy Zone and attach it to this Pokémon"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Incomum",
@@ -677,7 +686,16 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Rugido",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon)"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
@@ -1053,7 +1071,16 @@
     "evolucao": "",
     "tipo": "Agua",
     "hp": 100,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Aqua Ducha",
+        "dano": "",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "This attack does 20 damage to each of your opponent's Pokémon"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Incomum",
@@ -1377,7 +1404,16 @@
     "evolucao": "",
     "tipo": "Psiquico",
     "hp": 50,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Liderar",
+        "dano": "",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "Put a random Supporter card from your deck into your hand"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
@@ -1607,7 +1643,16 @@
     "evolucao": "",
     "tipo": "Psiquico",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Aroma Doce",
+        "dano": "",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "Heal 20 damage from 1 of your Pokémon"
+      }
+    ],
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
@@ -2566,7 +2611,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Copiar um Amigo",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Choose 1 of your Benched Pokémon's attacks, except any Pokémon ex, and use it as this attack. If this Pokémon doesn't have the necessary energy to use that attack, this attack does nothing"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
@@ -2604,7 +2658,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Fortificar",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, this Pokémon takes -20 damage from attacks"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -2739,7 +2802,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Chamar a Família",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Put 1 random Starly from your deck onto your bench"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
@@ -4567,6 +4639,16 @@
         "dano": "30",
         "custoataque": [
           "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Big Beat",
+        "dano": "120",
+        "custoataque": [
+          "Planta",
+          "Planta",
           "Incolor"
         ],
         "efeito": "During your next turn, this Pokémon can't use Big Beat"

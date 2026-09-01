@@ -537,7 +537,16 @@
     "evolucao": "",
     "tipo": "Grama",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Sinais de Evolução",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Put a random card that evolves from Spewpa from your deck into your hand"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Comum",
@@ -1056,8 +1065,18 @@
     "ataque": [
       {
         "nomeataque": "Chamuscada",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Burned"
+      },
+      {
+        "nomeataque": "Pop-Punk",
         "dano": "140",
         "custoataque": [
+          "Fogo",
+          "Fogo",
           "Fogo"
         ],
         "efeito": "Discard 3 Fire Energy from this Pokémon"
@@ -1483,7 +1502,17 @@
     "evolucao": "",
     "tipo": "Água",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Caixa de Surpresas",
+        "dano": "",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 70 damage to your opponent's Active Pokémon. If tails, heal 30 damage from your opponent's Active Pokéon"
+      }
+    ],
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Incomum",
@@ -2100,7 +2129,16 @@
     "evolucao": "",
     "tipo": "Água",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Cuspido e Disparado",
+        "dano": "",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "This attack does 30 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
@@ -2327,7 +2365,17 @@
     "evolucao": "",
     "tipo": "Elétrico",
     "hp": 110,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Lança do Trovão",
+        "dano": "",
+        "custoataque": [
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's Pokémon"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Rara",
@@ -2365,7 +2413,18 @@
     "evolucao": "",
     "tipo": "Elétrico",
     "hp": 100,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Trovão Pesado",
+        "dano": "",
+        "custoataque": [
+          "Raio",
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "1 other Pokémon (either yours or your opponent's) is chosen at random 1 time. Do 100 damage to that Pokémon"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Rara",
@@ -2599,7 +2658,16 @@
     "evolucao": "",
     "tipo": "Elétrico",
     "hp": 50,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Carga",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Take a Lightning Energy form your Energy Zone and attach it to this Pokémon"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -2926,7 +2994,16 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Raio da Confusão",
+        "dano": "",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
@@ -3441,7 +3518,16 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 30,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Esconder",
+        "dano": "",
+        "custoataque": [
+          "Psiquico"
+        ],
+        "efeito": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from-and effects of- attacks done to this Pokémon"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
@@ -3526,7 +3612,18 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Caco Zen",
+        "dano": "",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico",
+          "Psiquico"
+        ],
+        "efeito": "This attack does 70 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
@@ -4039,7 +4136,14 @@
     "evolucao": "",
     "tipo": "Lutador",
     "hp": 190,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Canhão Megaton",
+        "dano": "",
+        "custoataque": [],
+        "efeito": ""
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 4,
     "raridade": "Duplamente Raro",
@@ -4223,7 +4327,16 @@
     "evolucao": "",
     "tipo": "Lutador",
     "hp": 90,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Arremessar",
+        "dano": "",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": "This attack does 30 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Comum",
@@ -4356,7 +4469,16 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Arrogância",
+        "dano": "",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
@@ -4825,7 +4947,16 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Voz Chorosa",
+        "dano": "",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Flip a coin. If heads, look at a random card in your opponenet's hand, and shuffle it into their deck"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
@@ -5054,7 +5185,19 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 150,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Breakcore",
+        "dano": "",
+        "custoataque": [
+          "Escuridao",
+          "Escuridao",
+          "Escuridao",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, discard your opponent's Active Pokémon"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 4,
     "raridade": "Rara",
@@ -5765,7 +5908,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 50,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Sensação Boa",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Draw a card"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -6238,7 +6390,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 70,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Bocejo",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokéon is now Asleep"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Comum",
@@ -6610,7 +6771,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 40,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Bando",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Put 3 random cards from among Tandemaus and Muashold from your deck onto your bench"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -7535,7 +7705,16 @@
     "evolucao": "",
     "tipo": "Água",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Cuspido e Disparado",
+        "dano": "",
+        "custoataque": [
+          "Agua"
+        ],
+        "efeito": "This attack does 30 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -7765,7 +7944,18 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Caco Zen",
+        "dano": "",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico",
+          "Psiquico"
+        ],
+        "efeito": "This attack does 70 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -7995,7 +8185,16 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Voz Chorosa",
+        "dano": "",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Flip a coin. If heads, look at a random card in your opponenet's hand, and shuffle it into their deck"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -8227,7 +8426,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 70,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Bocejo",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokéon is now Asleep"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Ilustração Rara",
@@ -8317,8 +8525,18 @@
     "ataque": [
       {
         "nomeataque": "Chamuscada",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Burned"
+      },
+      {
+        "nomeataque": "Pop-Punk",
         "dano": "140",
         "custoataque": [
+          "Fogo",
+          "Fogo",
           "Fogo"
         ],
         "efeito": "Discard 3 Fire Energy from this Pokémon"
@@ -8609,7 +8827,14 @@
     "evolucao": "",
     "tipo": "Lutador",
     "hp": 190,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Canhão Megaton",
+        "dano": "",
+        "custoataque": [],
+        "efeito": ""
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 4,
     "raridade": "Super Raro",
@@ -8951,8 +9176,18 @@
     "ataque": [
       {
         "nomeataque": "Chamuscada",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Burned"
+      },
+      {
+        "nomeataque": "Pop-Punk",
         "dano": "140",
         "custoataque": [
+          "Fogo",
+          "Fogo",
           "Fogo"
         ],
         "efeito": "Discard 3 Fire Energy from this Pokémon"
@@ -9194,7 +9429,14 @@
     "evolucao": "",
     "tipo": "Lutador",
     "hp": 190,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Canhão Megaton",
+        "dano": "",
+        "custoataque": [],
+        "efeito": ""
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 4,
     "raridade": "Arte Especial Raro",
@@ -9381,7 +9623,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 50,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Sensação Boa",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Draw a card"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Raro Imersivo",
@@ -9467,7 +9718,16 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 30,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Arremesso Incandescente",
+        "dano": "",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon"
+      }
+    ],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Raro Brilhante",
@@ -9505,7 +9765,16 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Carregar",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Take a Fire Energy from your Energy Zone and attach it to this Pokémon"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Raro Brilhante",
@@ -9638,7 +9907,16 @@
     "evolucao": "",
     "tipo": "Água",
     "hp": 30,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Lançamento de Água",
+        "dano": "",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon"
+      }
+    ],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Raro Brilhante",
@@ -9772,7 +10050,16 @@
     "evolucao": "",
     "tipo": "Elétrico",
     "hp": 30,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Lançamento Energético",
+        "dano": "",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon"
+      }
+    ],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Raro Brilhante",
@@ -10000,7 +10287,16 @@
     "evolucao": "",
     "tipo": "Lutador",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Chute Esticado",
+        "dano": "",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": "This attack does 30 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Raro Brilhante",

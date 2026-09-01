@@ -28,7 +28,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "1 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-001.jpg",
@@ -55,7 +55,16 @@
     "evolucao": "",
     "tipo": "Grama",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Colecionador de Casulos",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Comum",
@@ -66,7 +75,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "2 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-002.jpg",
@@ -113,7 +122,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "3 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-003.jpg",
@@ -140,7 +149,16 @@
     "evolucao": "",
     "tipo": "Grama",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Colecionador de Casulos",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Comum",
@@ -151,7 +169,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "4 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-004.jpg",
@@ -199,7 +217,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "5 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-005.jpg",
@@ -246,7 +264,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "6 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-006.jpg",
@@ -294,7 +312,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "7 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-007.jpg",
@@ -341,7 +359,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "8 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-008.jpg",
@@ -388,7 +406,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "9 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-009.jpg",
@@ -435,7 +453,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "10 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-010.jpg",
@@ -484,7 +502,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "11 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-011.jpg",
@@ -532,7 +550,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "12 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-012.jpg",
@@ -579,7 +597,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "13 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-013.jpg",
@@ -627,7 +645,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "14 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-014.jpg",
@@ -676,7 +694,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "15 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-015.jpg",
@@ -724,7 +742,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "16 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-016.jpg",
@@ -771,7 +789,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "17 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-017.jpg",
@@ -819,7 +837,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "18 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-018.jpg",
@@ -846,7 +864,18 @@
     "evolucao": "",
     "tipo": "Grama",
     "hp": 90,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Chicote de Ogro",
+        "dano": "",
+        "custoataque": [
+          "Planta",
+          "Planta",
+          "Incolor"
+        ],
+        "efeito": "This attack does damage to your opponent's Active Pokémon equal to this Pokémon's remaining HP"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
@@ -857,7 +886,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "19 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-019.jpg",
@@ -884,7 +913,16 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Carregar",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Take a Fire Energy from your Energy Zone and attach it to this Pokémon"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
@@ -895,7 +933,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "20 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-020.jpg",
@@ -944,7 +982,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "21 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-021.jpg",
@@ -993,7 +1031,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "22 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-022.jpg",
@@ -1043,7 +1081,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "23 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-023.jpg",
@@ -1070,7 +1108,16 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Chamuscada",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
@@ -1081,7 +1128,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "24 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-024.jpg",
@@ -1129,7 +1176,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "25 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-025.jpg",
@@ -1179,7 +1226,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "26 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-026.jpg",
@@ -1226,7 +1273,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "27 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-027.jpg",
@@ -1274,7 +1321,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "28 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-028.jpg",
@@ -1324,7 +1371,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "29 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-029.jpg",
@@ -1371,7 +1418,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "30 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-030.jpg",
@@ -1420,7 +1467,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "31 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-031.jpg",
@@ -1467,7 +1514,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "32 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-032.jpg",
@@ -1515,7 +1562,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "33 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-033.jpg",
@@ -1562,7 +1609,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "34 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-034.jpg",
@@ -1610,7 +1657,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "35 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-035.jpg",
@@ -1659,7 +1706,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "36 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-036.jpg",
@@ -1710,7 +1757,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "37 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-037.jpg",
@@ -1758,7 +1805,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "38 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-038.jpg",
@@ -1807,7 +1854,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "39 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-039.jpg",
@@ -1857,7 +1904,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "40 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-040.jpg",
@@ -1884,7 +1931,19 @@
     "evolucao": "",
     "tipo": "Água",
     "hp": 120,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Maré Explosiva",
+        "dano": "",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "efeito": "Discard 1 Water Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Rara",
@@ -1895,7 +1954,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "41 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-041.jpg",
@@ -1942,7 +2001,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "42 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-042.jpg",
@@ -1989,7 +2048,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "43 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-043.jpg",
@@ -2037,7 +2096,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "44 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-044.jpg",
@@ -2085,7 +2144,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "45 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-045.jpg",
@@ -2132,7 +2191,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "46 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-046.jpg",
@@ -2180,7 +2239,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "47 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-047.jpg",
@@ -2227,7 +2286,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "48 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-048.jpg",
@@ -2254,7 +2313,16 @@
     "evolucao": "",
     "tipo": "Elétrico",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Rosnadura",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, tattacks used by the defending Pokémon do -20 damage"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -2265,7 +2333,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "49 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-049.jpg",
@@ -2313,7 +2381,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "50 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-050.jpg",
@@ -2361,7 +2429,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "51 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-051.jpg",
@@ -2409,7 +2477,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "52 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-052.jpg",
@@ -2458,7 +2526,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "53 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-053.jpg",
@@ -2505,7 +2573,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "54 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-054.jpg",
@@ -2555,7 +2623,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "55 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-055.jpg",
@@ -2602,7 +2670,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "56 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-056.jpg",
@@ -2650,7 +2718,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "57 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-057.jpg",
@@ -2698,7 +2766,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "58 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-058.jpg",
@@ -2747,7 +2815,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "59 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-059.jpg",
@@ -2774,7 +2842,16 @@
     "evolucao": "",
     "tipo": "Elétrico",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Voadora",
+        "dano": "",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "This attack does 10 damage to 1 of your opponent's Pokémon"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -2785,7 +2862,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "60 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-060.jpg",
@@ -2832,7 +2909,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "61 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-061.jpg",
@@ -2879,7 +2956,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "62 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-062.jpg",
@@ -2928,7 +3005,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "63 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-063.jpg",
@@ -2955,7 +3032,18 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Mini-metrônomo",
+        "dano": "",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, dchoose 1 of youro pponent's Active Pokémon's attacks and use it as this attack"
+      }
+    ],
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
@@ -2966,7 +3054,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "64 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-064.jpg",
@@ -3015,7 +3103,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "65 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-065.jpg",
@@ -3063,7 +3151,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "66 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-066.jpg",
@@ -3112,7 +3200,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "67 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-067.jpg",
@@ -3139,7 +3227,16 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 30,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Embaralhada Imitante",
+        "dano": "",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand"
+      }
+    ],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Rara",
@@ -3150,7 +3247,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "68 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-068.jpg",
@@ -3198,7 +3295,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "69 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-069.jpg",
@@ -3247,7 +3344,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "70 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-070.jpg",
@@ -3274,7 +3371,16 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Liderar",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Put a random Supporter card from your deck into your hand"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
@@ -3285,7 +3391,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "71 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-071.jpg",
@@ -3332,7 +3438,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "72 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-072.jpg",
@@ -3380,7 +3486,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "73 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-073.jpg",
@@ -3407,7 +3513,16 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 30,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Pisada Bloqueante",
+        "dano": "",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the defending Pokémon cost 1 Colorless more"
+      }
+    ],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Rara",
@@ -3418,7 +3533,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "74 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-074.jpg",
@@ -3465,7 +3580,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "75 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-075.jpg",
@@ -3512,7 +3627,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "76 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-076.jpg",
@@ -3559,7 +3674,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "77 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-077.jpg",
@@ -3606,7 +3721,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "78 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-078.jpg",
@@ -3654,7 +3769,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "79 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-079.jpg",
@@ -3703,7 +3818,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "80 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-080.jpg",
@@ -3750,7 +3865,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "81 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-081.jpg",
@@ -3777,7 +3892,18 @@
     "evolucao": "",
     "tipo": "Lutador",
     "hp": 150,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Queda Abissal",
+        "dano": "",
+        "custoataque": [
+          "Luta",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Discard all Energy from ths Pokémon. Chose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, Knock Out the Pokémon I nthe spot you chose"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Rara",
@@ -3788,7 +3914,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "82 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-082.jpg",
@@ -3837,7 +3963,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "83 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-083.jpg",
@@ -3887,7 +4013,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "84 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-084.jpg",
@@ -3934,7 +4060,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "85 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-085.jpg",
@@ -3981,7 +4107,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "86 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-086.jpg",
@@ -4029,7 +4155,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "87 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-087.jpg",
@@ -4077,7 +4203,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "88 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-088.jpg",
@@ -4126,7 +4252,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "89 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-089.jpg",
@@ -4173,7 +4299,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "90 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-090.jpg",
@@ -4220,7 +4346,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "91 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-091.jpg",
@@ -4267,7 +4393,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "92 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-092.jpg",
@@ -4294,7 +4420,16 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Caçada em Equipe",
+        "dano": "",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Draw a card for each Poochyena you have in play"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
@@ -4305,7 +4440,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "93 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-093.jpg",
@@ -4352,7 +4487,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "94 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-094.jpg",
@@ -4399,7 +4534,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "95 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-095.jpg",
@@ -4446,7 +4581,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "96 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-096.jpg",
@@ -4473,7 +4608,18 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 140,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Controle de Baixo",
+        "dano": "",
+        "custoataque": [
+          "Escuridao",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "This attack does 80 damage to 1 of your opponent's Pokémon"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Rara",
@@ -4484,7 +4630,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "97 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-097.jpg",
@@ -4531,7 +4677,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "98 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-098.jpg",
@@ -4580,7 +4726,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "99 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-099.jpg",
@@ -4627,7 +4773,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "100 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-100.jpg",
@@ -4654,7 +4800,16 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Zoar",
+        "dano": "",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
@@ -4665,7 +4820,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "101 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-101.jpg",
@@ -4714,7 +4869,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "102 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-102.jpg",
@@ -4772,7 +4927,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "103 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-103.jpg",
@@ -4820,7 +4975,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "104 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-104.jpg",
@@ -4868,7 +5023,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "105 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-105.jpg",
@@ -4915,7 +5070,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "106 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-106.jpg",
@@ -4963,7 +5118,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "107 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-107.jpg",
@@ -5012,7 +5167,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "108 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-108.jpg",
@@ -5062,7 +5217,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "109 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-109.jpg",
@@ -5110,7 +5265,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "110 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-110.jpg",
@@ -5158,7 +5313,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "111 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-111.jpg",
@@ -5207,7 +5362,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "112 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-112.jpg",
@@ -5257,7 +5412,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "113 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-113.jpg",
@@ -5305,7 +5460,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "114 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-114.jpg",
@@ -5355,7 +5510,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "115 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-115.jpg",
@@ -5402,7 +5557,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "116 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-116.jpg",
@@ -5450,7 +5605,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "117 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-117.jpg",
@@ -5499,7 +5654,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "118 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-118.jpg",
@@ -5549,7 +5704,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "119 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-119.jpg",
@@ -5598,7 +5753,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "120 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-120.jpg",
@@ -5646,7 +5801,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "121 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-121.jpg",
@@ -5673,7 +5828,18 @@
     "evolucao": "",
     "tipo": "Dragão",
     "hp": 100,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Meteoro do Dragão",
+        "dano": "",
+        "custoataque": [
+          "Psiquico",
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 60 damage to it"
+      }
+    ],
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Rara",
@@ -5684,7 +5850,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "122 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-122.jpg",
@@ -5733,7 +5899,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "123 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-123.jpg",
@@ -5781,7 +5947,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "124 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-124.jpg",
@@ -5829,7 +5995,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "125 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-125.jpg",
@@ -5877,7 +6043,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "126 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-126.jpg",
@@ -5925,7 +6091,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "127 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-127.jpg",
@@ -5974,7 +6140,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "128 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-128.jpg",
@@ -6022,7 +6188,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "129 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-129.jpg",
@@ -6070,7 +6236,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "130 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-130.jpg",
@@ -6117,7 +6283,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "131 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-131.jpg",
@@ -6165,7 +6331,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "132 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-132.jpg",
@@ -6213,7 +6379,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "133 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-133.jpg",
@@ -6240,7 +6406,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Encantar",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -6251,7 +6426,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "134 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-134.jpg",
@@ -6299,7 +6474,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "135 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-135.jpg",
@@ -6346,7 +6521,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "136 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-136.jpg",
@@ -6393,7 +6568,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "137 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-137.jpg",
@@ -6440,7 +6615,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "138 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-138.jpg",
@@ -6488,7 +6663,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "139 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-139.jpg",
@@ -6536,7 +6711,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "140 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-140.jpg",
@@ -6586,7 +6761,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "141 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-141.jpg",
@@ -6633,7 +6808,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "142 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-142.jpg",
@@ -6681,7 +6856,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "143 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-143.jpg",
@@ -6730,7 +6905,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "144 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-144.jpg",
@@ -6768,7 +6943,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "145 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-145.jpg",
@@ -6806,7 +6981,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "146 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-146.jpg",
@@ -6844,7 +7019,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "147 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-147.jpg",
@@ -6882,7 +7057,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "148 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-148.jpg",
@@ -6920,7 +7095,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "149 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-149.jpg",
@@ -6958,7 +7133,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "150 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-150.jpg",
@@ -6996,7 +7171,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "151 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-151.jpg",
@@ -7034,7 +7209,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "152 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-152.jpg",
@@ -7072,7 +7247,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "153 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-153.jpg",
@@ -7110,7 +7285,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "154 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-154.jpg",
@@ -7148,7 +7323,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "155 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-155.jpg",
@@ -7195,7 +7370,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "156 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-156.jpg",
@@ -7242,7 +7417,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "157 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-157.jpg",
@@ -7289,7 +7464,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "158 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-158.jpg",
@@ -7337,7 +7512,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "159 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-159.jpg",
@@ -7364,7 +7539,16 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Carregar",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Take a Fire Energy from your Energy Zone and attach it to this Pokémon"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -7375,7 +7559,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "160 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-160.jpg",
@@ -7423,7 +7607,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "161 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-161.jpg",
@@ -7450,7 +7634,19 @@
     "evolucao": "",
     "tipo": "Água",
     "hp": 120,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Maré Explosiva",
+        "dano": "",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "efeito": "Discard 1 Water Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Ilustração Rara",
@@ -7461,7 +7657,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "162 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-162.jpg",
@@ -7509,7 +7705,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "163 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-163.jpg",
@@ -7557,7 +7753,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "164 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-164.jpg",
@@ -7604,7 +7800,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "165 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-165.jpg",
@@ -7631,7 +7827,18 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Mini-metrônomo",
+        "dano": "",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, dchoose 1 of youro pponent's Active Pokémon's attacks and use it as this attack"
+      }
+    ],
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -7642,7 +7849,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "166 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-166.jpg",
@@ -7669,7 +7876,16 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Liderar",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Put a random Supporter card from your deck into your hand"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -7680,7 +7896,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "167 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-167.jpg",
@@ -7707,7 +7923,16 @@
     "evolucao": "",
     "tipo": "Psíquico",
     "hp": 30,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Pisada Bloqueante",
+        "dano": "",
+        "custoataque": [
+          "empty"
+        ],
+        "efeito": "During your opponent's next turn, attacks used by the defending Pokémon cost 1 Colorless more"
+      }
+    ],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Ilustração Rara",
@@ -7718,7 +7943,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "168 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-168.jpg",
@@ -7765,7 +7990,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "169 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-169.jpg",
@@ -7812,7 +8037,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "170 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-170.jpg",
@@ -7839,7 +8064,16 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Caçada em Equipe",
+        "dano": "",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Draw a card for each Poochyena you have in play"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -7850,7 +8084,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "171 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-171.jpg",
@@ -7897,7 +8131,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "172 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-172.jpg",
@@ -7924,7 +8158,16 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Zoar",
+        "dano": "",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -7935,7 +8178,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "173 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-173.jpg",
@@ -7983,7 +8226,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "174 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-174.jpg",
@@ -8031,7 +8274,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "175 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-175.jpg",
@@ -8058,7 +8301,18 @@
     "evolucao": "",
     "tipo": "Dragão",
     "hp": 100,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Meteoro do Dragão",
+        "dano": "",
+        "custoataque": [
+          "Psiquico",
+          "Escuridao",
+          "Escuridao"
+        ],
+        "efeito": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 60 damage to it"
+      }
+    ],
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -8069,7 +8323,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "176 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-176.jpg",
@@ -8118,7 +8372,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "177 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-177.jpg",
@@ -8166,7 +8420,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "178 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-178.jpg",
@@ -8214,7 +8468,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "179 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-179.jpg",
@@ -8263,7 +8517,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "180 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-180.jpg",
@@ -8313,7 +8567,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "181 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-181.jpg",
@@ -8361,7 +8615,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "182 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-182.jpg",
@@ -8412,7 +8666,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "183 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-183.jpg",
@@ -8462,7 +8716,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "184 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-184.jpg",
@@ -8512,7 +8766,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "185 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-185.jpg",
@@ -8570,7 +8824,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "186 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-186.jpg",
@@ -8620,7 +8874,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "187 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-187.jpg",
@@ -8669,7 +8923,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "188 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-188.jpg",
@@ -8719,7 +8973,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "189 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-189.jpg",
@@ -8757,7 +9011,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "190 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-190.jpg",
@@ -8795,7 +9049,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "191 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-191.jpg",
@@ -8833,7 +9087,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "192 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-192.jpg",
@@ -8871,7 +9125,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "193 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-193.jpg",
@@ -8920,7 +9174,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "194 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-194.jpg",
@@ -8970,7 +9224,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "195 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-195.jpg",
@@ -9018,7 +9272,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "196 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-196.jpg",
@@ -9069,7 +9323,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "197 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-197.jpg",
@@ -9119,7 +9373,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "198 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-198.jpg",
@@ -9177,7 +9431,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "199 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-199.jpg",
@@ -9227,7 +9481,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "200 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-200.jpg",
@@ -9277,7 +9531,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "201 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-201.jpg",
@@ -9327,7 +9581,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "202 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-202.jpg",
@@ -9376,7 +9630,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "203 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-203.jpg",
@@ -9423,7 +9677,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "204 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-204.jpg",
@@ -9470,7 +9724,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "205 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-205.jpg",
@@ -9518,7 +9772,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "206 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-206.jpg",
@@ -9567,7 +9821,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "207 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-207.jpg",
@@ -9614,7 +9868,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "208 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-208.jpg",
@@ -9661,7 +9915,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "209 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-209.jpg",
@@ -9708,7 +9962,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "210 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-210.jpg",
@@ -9756,7 +10010,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "211 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-211.jpg",
@@ -9805,7 +10059,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "212 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-212.jpg",
@@ -9853,7 +10107,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "213 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-213.jpg",
@@ -9902,7 +10156,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "214 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-214.jpg",
@@ -9949,7 +10203,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "215 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-215.jpg",
@@ -9996,7 +10250,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "216 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-216.jpg",
@@ -10044,7 +10298,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "217 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-217.jpg",
@@ -10091,7 +10345,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "218 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-218.jpg",
@@ -10139,7 +10393,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "219 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-219.jpg",
@@ -10187,7 +10441,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "220 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-220.jpg",
@@ -10235,7 +10489,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "221 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-221.jpg",
@@ -10283,7 +10537,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "222 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-222.jpg",
@@ -10330,7 +10584,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "223 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-223.jpg",
@@ -10360,8 +10614,18 @@
     "ataque": [
       {
         "nomeataque": "Chamuscada",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Your oppoennt's Active Pokémon is now Burned"
+      },
+      {
+        "nomeataque": "Pop-Punk",
         "dano": "140",
         "custoataque": [
+          "Fogo",
+          "Fogo",
           "Fogo"
         ],
         "efeito": "Discard 3 Fire Energy from this Pokémon"
@@ -10378,7 +10642,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "224 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-224.jpg",
@@ -10427,7 +10691,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "225 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-225.jpg",
@@ -10477,7 +10741,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "226 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-226.jpg",
@@ -10526,7 +10790,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "227 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-227.jpg",
@@ -10575,7 +10839,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "228 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-228.jpg",
@@ -10602,7 +10866,19 @@
     "evolucao": "",
     "tipo": "Lutador",
     "hp": 190,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Canhão Megaton",
+        "dano": "",
+        "custoataque": [
+          "Luta",
+          "Luta",
+          "Luta",
+          "Luta"
+        ],
+        "efeito": "This attack does 140 damage to 1 of your opponent's Pokémno. During your next turn, this Pokémon can't attack"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 4,
     "raridade": "Duplo Brilhante Raro",
@@ -10614,7 +10890,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "229 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-229.jpg",
@@ -10662,7 +10938,7 @@
       "basic",
       "ex"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "230 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-230.jpg",
@@ -10712,7 +10988,7 @@
       "basic",
       "mega"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "231 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-231.jpg",
@@ -10760,7 +11036,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "232 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-232.jpg",
@@ -10808,7 +11084,7 @@
     "tags": [
       "basic"
     ],
-    "expansao": "Ruler of the Skies (B4)",
+    "expansao": "Mestre dos Céus (B4)",
     "numero": "233 / 233",
     "pacote": "Ruler of the Skies",
     "imageLocal": "./assets/cards/cartas_b4/b4-233.jpg",

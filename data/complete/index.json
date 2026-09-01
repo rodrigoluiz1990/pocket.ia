@@ -128,17 +128,24 @@
     },
     {
       "code": "B3B",
-      "expansion": "Everyday Wonders",
+      "expansion": "Encantos Cotidianos",
       "series": "b",
       "path": "./data/complete/b/b3b.json",
       "count": 106
     },
     {
       "code": "B4",
-      "expansion": "Ruler of the Skies",
+      "expansion": "Mestre dos Céus",
       "series": "b",
       "path": "./data/complete/b/b4.json",
       "count": 233
+    },
+    {
+      "code": "B4A",
+      "expansion": "Ambição da Equipe Rocket",
+      "series": "b",
+      "path": "./data/complete/b/b4a.json",
+      "count": 110
     },
     {
       "code": "PROMO-A",
@@ -152,7 +159,7 @@
       "expansion": "PROMO-B",
       "series": "b",
       "path": "./data/complete/b/promo-b.json",
-      "count": 48
+      "count": 94
     }
   ]
 }

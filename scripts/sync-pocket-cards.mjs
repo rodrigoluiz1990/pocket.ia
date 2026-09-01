@@ -152,13 +152,16 @@ function parseMoves(html) {
 
   const out = [];
   const moveRegex =
-    /<ul[^>]*aria-label="Tipo de Energia"[^>]*>([\s\S]*?)<\/ul>\s*<h3[^>]*>\s*(?:<a[^>]*href="\/(?:pt\/)?attack\/[^"]+"[^>]*>)?([^<]+)(?:<\/a>)?\s*<\/h3>[\s\S]*?<span[^>]*class="[^"]*shrink-0 font-bold[^"]*"[^>]*>([\s\S]*?)<\/span>(?:[\s\S]*?<p[^>]*class="[^"]*text-sm[^"]*"[^>]*>([\s\S]*?)<\/p>)?/gi;
+    /<ul[^>]*aria-label="Tipo de Energia"[^>]*>([\s\S]*?)<\/ul>\s*<h3[^>]*>\s*(?:<a[^>]*href="\/(?:pt\/)?attack\/[^"]+"[^>]*>)?([^<]+)(?:<\/a>)?\s*<\/h3>([\s\S]*?)(?=<ul[^>]*aria-label="Tipo de Energia"|$)/gi;
   let itemMatch;
   while ((itemMatch = moveRegex.exec(section)) !== null) {
     const costsBlock = itemMatch[1] || "";
     const name = clean(itemMatch[2] || "");
-    const damage = clean((itemMatch[3] || "").replace(/<!--[\s\S]*?-->/g, ""));
-    const effect = clean(itemMatch[4] || "");
+    const details = itemMatch[3] || "";
+    const damageMatch = details.match(/<span[^>]*class="[^"]*shrink-0 font-bold[^"]*"[^>]*>([\s\S]*?)<\/span>/i);
+    const effectMatch = details.match(/<p[^>]*class="[^"]*text-sm[^"]*"[^>]*>([\s\S]*?)<\/p>/i);
+    const damage = clean((damageMatch?.[1] || "").replace(/<!--[\s\S]*?-->/g, ""));
+    const effect = clean(effectMatch?.[1] || "");
     const costs = [...costsBlock.matchAll(/<img[^>]+alt="([^"]+)"/gi)].map((match) => normalizeKey(match[1]));
 
     if (!name) continue;

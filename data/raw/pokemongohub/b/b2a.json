@@ -1,34 +1,5 @@
 [
   {
-    "id": "s4llqq1qla5dsl6-capsakid",
-    "nome": "Capsakid",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "12 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Chute Brincalhão",
-        "dano": "10",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015210_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s4llqq1qla5dsl6-capsakid"
-  },
-  {
     "id": "460m9k0oovu5dnw-sprigatito",
     "nome": "Sprigatito",
     "tipo": "Pokemon",
@@ -58,22 +29,31 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/460m9k0oovu5dnw-sprigatito"
   },
   {
-    "id": "mi32jfjbck0g2fc-floragato",
-    "nome": "Floragato",
+    "id": "lbmjajh48jwupus-meowscarada-ex",
+    "nome": "Meowscarada ex",
     "tipo": "Pokemon",
     "elemento": "Grama",
-    "raridade": "Incomum",
-    "custoDeck": 1,
+    "raridade": "Rara",
+    "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "2 / 131",
-    "hp": 90,
+    "numero": "3 / 131",
+    "hp": 160,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Passo de Folha",
-        "dano": "30",
+        "nomeataque": "Truque Floral",
+        "dano": "",
         "custoataque": [
+          "grass"
+        ],
+        "efeito": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose"
+      },
+      {
+        "nomeataque": "Raio Solar",
+        "dano": "80",
+        "custoataque": [
+          "grass",
           "grass"
         ],
         "efeito": ""
@@ -83,97 +63,8 @@
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015110_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mi32jfjbck0g2fc-floragato"
-  },
-  {
-    "id": "uvioqsd423zw97r-smoliv",
-    "nome": "Smoliv",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "7 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Absorção",
-        "dano": "10",
-        "custoataque": [
-          "grass"
-        ],
-        "efeito": "Heal 10 damage from this Pokémon"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015160_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uvioqsd423zw97r-smoliv"
-  },
-  {
-    "id": "g9rpxjbk7binvk4-brambleghast",
-    "nome": "Brambleghast",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "11 / 131",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Tombo Contínuo",
-        "dano": "60 ×",
-        "custoataque": [
-          "grass",
-          "colorless"
-        ],
-        "efeito": "Flip a coin until you get tails>. This attack does 60 damage for each heads"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015200_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g9rpxjbk7binvk4-brambleghast"
-  },
-  {
-    "id": "tqe3g195jqy6033-chi-yu",
-    "nome": "Chi-Yu",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "21 / 131",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Megafogo da Inveja",
-        "dano": "40 +",
-        "custoataque": [
-          "fire",
-          "colorless"
-        ],
-        "efeito": "If any of your Pokémon were Knocked Out by damage from an attack during your opponet's last turn, this attack does 60 more damage"
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015300_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tqe3g195jqy6033-chi-yu"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015120_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lbmjajh48jwupus-meowscarada-ex"
   },
   {
     "id": "rtotgr0lma8fg6f-tarountula",
@@ -203,174 +94,6 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015130_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rtotgr0lma8fg6f-tarountula"
-  },
-  {
-    "id": "425y20ydjocfo91-spidops",
-    "nome": "Spidops",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "5 / 131",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Aprisionamento",
-        "dano": "40",
-        "custoataque": [
-          "grass"
-        ],
-        "efeito": "During your opponent's next turn, the Defending Pokémon can't retreat"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015140_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/425y20ydjocfo91-spidops"
-  },
-  {
-    "id": "lbmjajh48jwupus-meowscarada-ex",
-    "nome": "Meowscarada ex",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "3 / 131",
-    "hp": 160,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Truque Floral",
-        "dano": "80",
-        "custoataque": [
-          "grass"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015120_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lbmjajh48jwupus-meowscarada-ex"
-  },
-  {
-    "id": "wsrqmgjek8qqi4j-rellor",
-    "nome": "Rellor",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "14 / 131",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Rolo Bola",
-        "dano": "20 ×",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "Flip a coin until you get tails. This attack does 20 damage for each heads"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015230_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wsrqmgjek8qqi4j-rellor"
-  },
-  {
-    "id": "wop7iyz7qdrzoyu-dolliv",
-    "nome": "Dolliv",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "8 / 131",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Bomba de Sementes",
-        "dano": "40",
-        "custoataque": [
-          "grass",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015170_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wop7iyz7qdrzoyu-dolliv"
-  },
-  {
-    "id": "44hoa6utfjqsuat-armarouge-ex",
-    "nome": "Armarouge ex",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "20 / 131",
-    "hp": 140,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Canhão de Armadura",
-        "dano": "120",
-        "custoataque": [
-          "fire",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "Discard a Fire Energy from this Pokémon"
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015290_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/44hoa6utfjqsuat-armarouge-ex"
-  },
-  {
-    "id": "6sx2iimchu2le6s-fuecoco",
-    "nome": "Fuecoco",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "16 / 131",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Agua",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015250_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6sx2iimchu2le6s-fuecoco"
   },
   {
     "id": "8sz6p7hrb6zt3yb-arboliva",
@@ -403,64 +126,267 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8sz6p7hrb6zt3yb-arboliva"
   },
   {
-    "id": "3ejopytj3e9o0pc-quaxly",
-    "nome": "Quaxly",
+    "id": "g9rpxjbk7binvk4-brambleghast",
+    "nome": "Brambleghast",
     "tipo": "Pokemon",
-    "elemento": "Água",
+    "elemento": "Grama",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "11 / 131",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tombo Contínuo",
+        "dano": "60 ×",
+        "custoataque": [
+          "grass",
+          "colorless"
+        ],
+        "efeito": "Flip a coin until you get tails>. This attack does 60 damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015200_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g9rpxjbk7binvk4-brambleghast"
+  },
+  {
+    "id": "mi32jfjbck0g2fc-floragato",
+    "nome": "Floragato",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "2 / 131",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Passo de Folha",
+        "dano": "30",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mi32jfjbck0g2fc-floragato"
+  },
+  {
+    "id": "425y20ydjocfo91-spidops",
+    "nome": "Spidops",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "5 / 131",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aprisionamento",
+        "dano": "40",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": "During your opponent's next turn, the Defending Pokémon can't retreat"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015140_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/425y20ydjocfo91-spidops"
+  },
+  {
+    "id": "xmum3qcjdeebb8j-nymble",
+    "nome": "Nymble",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "22 / 131",
+    "numero": "6 / 131",
+    "hp": 40,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Fazer Retorno",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015150_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xmum3qcjdeebb8j-nymble"
+  },
+  {
+    "id": "uvioqsd423zw97r-smoliv",
+    "nome": "Smoliv",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "7 / 131",
     "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Evasão de Borrifada",
+        "nomeataque": "Absorção",
         "dano": "10",
         "custoataque": [
-          "water"
+          "grass"
         ],
-        "efeito": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from-and effects of-attacks done to this Pokémon"
+        "efeito": "Heal 10 damage from this Pokémon"
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015310_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3ejopytj3e9o0pc-quaxly"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015160_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uvioqsd423zw97r-smoliv"
   },
   {
-    "id": "lxlnmb5c883t7d3-quaquaval",
-    "nome": "Quaquaval",
+    "id": "wop7iyz7qdrzoyu-dolliv",
+    "nome": "Dolliv",
     "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 3,
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "24 / 131",
-    "hp": 150,
+    "numero": "8 / 131",
+    "hp": 90,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Chute d’Água",
-        "dano": "90",
+        "nomeataque": "Bomba de Sementes",
+        "dano": "40",
         "custoataque": [
-          "water",
-          "water",
+          "grass",
           "colorless"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
-    "recuo": 2,
-    "temHabilidade": true,
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015330_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lxlnmb5c883t7d3-quaquaval"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015170_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wop7iyz7qdrzoyu-dolliv"
+  },
+  {
+    "id": "lwbtoun57ywl3ex-bramblin",
+    "nome": "Bramblin",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "10 / 131",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Rolagem",
+        "dano": "20",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lwbtoun57ywl3ex-bramblin"
+  },
+  {
+    "id": "s4llqq1qla5dsl6-capsakid",
+    "nome": "Capsakid",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "12 / 131",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Chute Brincalhão",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s4llqq1qla5dsl6-capsakid"
+  },
+  {
+    "id": "wsrqmgjek8qqi4j-rellor",
+    "nome": "Rellor",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "14 / 131",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Rolo Bola",
+        "dano": "20 ×",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Flip a coin until you get tails. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wsrqmgjek8qqi4j-rellor"
   },
   {
     "id": "vwjndpkurisp09q-wo-chien",
@@ -495,6 +421,126 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vwjndpkurisp09q-wo-chien"
   },
   {
+    "id": "44hoa6utfjqsuat-armarouge-ex",
+    "nome": "Armarouge ex",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "20 / 131",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Canhão de Armadura",
+        "dano": "120",
+        "custoataque": [
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Discard a Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015290_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/44hoa6utfjqsuat-armarouge-ex"
+  },
+  {
+    "id": "46grk05ofjemcgv-charcadet",
+    "nome": "Charcadet",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "19 / 131",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/46grk05ofjemcgv-charcadet"
+  },
+  {
+    "id": "6sx2iimchu2le6s-fuecoco",
+    "nome": "Fuecoco",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "16 / 131",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cantoria Contente",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Put 1 random Basic Pokémon from your deck onto your bench"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6sx2iimchu2le6s-fuecoco"
+  },
+  {
+    "id": "lxlnmb5c883t7d3-quaquaval",
+    "nome": "Quaquaval",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "24 / 131",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Chute d’Água",
+        "dano": "90",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015330_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lxlnmb5c883t7d3-quaquaval"
+  },
+  {
     "id": "uyjmxd1wd9kj0pk-scovillain",
     "nome": "Scovillain",
     "tipo": "Pokemon",
@@ -523,35 +569,6 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015220_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uyjmxd1wd9kj0pk-scovillain"
-  },
-  {
-    "id": "xmum3qcjdeebb8j-nymble",
-    "nome": "Nymble",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "6 / 131",
-    "hp": 40,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Fazer Retorno",
-        "dano": "10",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015150_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xmum3qcjdeebb8j-nymble"
   },
   {
     "id": "r5pckqty8iwhvhy-crocalor",
@@ -584,35 +601,6 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r5pckqty8iwhvhy-crocalor"
   },
   {
-    "id": "lwbtoun57ywl3ex-bramblin",
-    "nome": "Bramblin",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "10 / 131",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Rolagem",
-        "dano": "20",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015190_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lwbtoun57ywl3ex-bramblin"
-  },
-  {
     "id": "ep0vs1zmuc7buuu-skeledirge",
     "nome": "Skeledirge",
     "tipo": "Pokemon",
@@ -643,62 +631,63 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ep0vs1zmuc7buuu-skeledirge"
   },
   {
-    "id": "6d72u6mmy2u7ya2-wiglett",
-    "nome": "Wiglett",
+    "id": "tqe3g195jqy6033-chi-yu",
+    "nome": "Chi-Yu",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "21 / 131",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Megafogo da Inveja",
+        "dano": "40 +",
+        "custoataque": [
+          "fire",
+          "colorless"
+        ],
+        "efeito": "If any of your Pokémon were Knocked Out by damage from an attack during your opponet's last turn, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015300_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tqe3g195jqy6033-chi-yu"
+  },
+  {
+    "id": "3ejopytj3e9o0pc-quaxly",
+    "nome": "Quaxly",
     "tipo": "Pokemon",
     "elemento": "Água",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "25 / 131",
+    "numero": "22 / 131",
     "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Revólver d’Água",
-        "dano": "20",
+        "nomeataque": "Evasão de Borrifada",
+        "dano": "10",
         "custoataque": [
           "water"
         ],
-        "efeito": ""
+        "efeito": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from-and effects of-attacks done to this Pokémon"
       }
     ],
     "fraqueza": "Raio",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015340_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6d72u6mmy2u7ya2-wiglett"
-  },
-  {
-    "id": "q0ax0iapjj4ne5j-wugtrio",
-    "nome": "Wugtrio",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "26 / 131",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Chicote Triplo",
-        "dano": "30 ×",
-        "custoataque": [
-          "water"
-        ],
-        "efeito": "Flip 3 coins. This attack does 30 damage for each heads"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015350_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q0ax0iapjj4ne5j-wugtrio"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015310_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3ejopytj3e9o0pc-quaxly"
   },
   {
     "id": "p5lmnwllmwr3mzy-quaxwell",
@@ -731,269 +720,33 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p5lmnwllmwr3mzy-quaxwell"
   },
   {
-    "id": "wf974tuln59hj9l-palafin",
-    "nome": "Palafin",
+    "id": "q0ax0iapjj4ne5j-wugtrio",
+    "nome": "Wugtrio",
     "tipo": "Pokemon",
     "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "28 / 131",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Soco Jato",
-        "dano": "50",
-        "custoataque": [
-          "water",
-          "water",
-          "water"
-        ],
-        "efeito": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015370_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wf974tuln59hj9l-palafin"
-  },
-  {
-    "id": "x9u84dhw4fuaswu-chien-pao-ex",
-    "nome": "Chien-Pao ex",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "37 / 131",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Pingente de Gelo",
-        "dano": "20",
-        "custoataque": [
-          "water"
-        ],
-        "efeito": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon"
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015460_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x9u84dhw4fuaswu-chien-pao-ex"
-  },
-  {
-    "id": "yritb6ezw2zi1po-pawmi",
-    "nome": "Pawmi",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Comum",
+    "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "38 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015470_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yritb6ezw2zi1po-pawmi"
-  },
-  {
-    "id": "0kv2rc9hsrjjhha-arctibax",
-    "nome": "Arctibax",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "35 / 131",
+    "numero": "26 / 131",
     "hp": 90,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Pancada Congelada",
-        "dano": "50",
-        "custoataque": [
-          "water",
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015440_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0kv2rc9hsrjjhha-arctibax"
-  },
-  {
-    "id": "qj6wex496zpym42-dondozo",
-    "nome": "Dondozo",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "32 / 131",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Gigaimpacto",
-        "dano": "120",
-        "custoataque": [
-          "water",
-          "water",
-          "water",
-          "colorless"
-        ],
-        "efeito": "During your next turn, this Pokémon can't attack"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 4,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015410_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qj6wex496zpym42-dondozo"
-  },
-  {
-    "id": "hvm4lpzrhx65sbn-cetitan",
-    "nome": "Cetitan",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "30 / 131",
-    "hp": 150,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Soco de Gelo",
-        "dano": "80",
-        "custoataque": [
-          "water",
-          "water",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 4,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015390_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hvm4lpzrhx65sbn-cetitan"
-  },
-  {
-    "id": "64a684brmm1rd8c-cetoddle",
-    "nome": "Cetoddle",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "29 / 131",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Míssil Gélido",
-        "dano": "60",
-        "custoataque": [
-          "water",
-          "water",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015380_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/64a684brmm1rd8c-cetoddle"
-  },
-  {
-    "id": "x0ycl8vfrctb1yo-tatsugiri",
-    "nome": "Tatsugiri",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "33 / 131",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Responder à Altura",
-        "dano": "20 +",
+        "nomeataque": "Chicote Triplo",
+        "dano": "30 ×",
         "custoataque": [
           "water"
         ],
-        "efeito": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's next turn, this attack does 60 more damage"
+        "efeito": "Flip 3 coins. This attack does 30 damage for each heads"
       }
     ],
     "fraqueza": "Raio",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015420_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x0ycl8vfrctb1yo-tatsugiri"
-  },
-  {
-    "id": "46grk05ofjemcgv-charcadet",
-    "nome": "Charcadet",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "19 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Soco",
-        "dano": "10",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015280_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/46grk05ofjemcgv-charcadet"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015350_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q0ax0iapjj4ne5j-wugtrio"
   },
   {
     "id": "1pxm1w3d7y15dm3-finizen",
@@ -1025,272 +778,35 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1pxm1w3d7y15dm3-finizen"
   },
   {
-    "id": "tvmrow0g81bkte7-pawmot",
-    "nome": "Pawmot",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "40 / 131",
-    "hp": 140,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Explosão de Trovões",
-        "dano": "100",
-        "custoataque": [
-          "lightning",
-          "lightning"
-        ],
-        "efeito": "Discard a Lightning Energy from this Pokémon"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015490_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tvmrow0g81bkte7-pawmot"
-  },
-  {
-    "id": "mq1iw9r0gl7z4ki-frigibax",
-    "nome": "Frigibax",
+    "id": "64a684brmm1rd8c-cetoddle",
+    "nome": "Cetoddle",
     "tipo": "Pokemon",
     "elemento": "Água",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "34 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Frio",
-        "dano": "20",
-        "custoataque": [
-          "water"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015430_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mq1iw9r0gl7z4ki-frigibax"
-  },
-  {
-    "id": "ey8xspws2wh5x97-bellibolt-ex",
-    "nome": "Bellibolt ex",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "42 / 131",
-    "hp": 160,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Canhão de Alta Voltagem",
-        "dano": "70 +",
-        "custoataque": [
-          "lightning",
-          "lightning"
-        ],
-        "efeito": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015510_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ey8xspws2wh5x97-bellibolt-ex"
-  },
-  {
-    "id": "9chgkxnep10qml7-baxcalibur",
-    "nome": "Baxcalibur",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "36 / 131",
-    "hp": 140,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Cauda Aniquiladora",
-        "dano": "90",
-        "custoataque": [
-          "water",
-          "water",
-          "water"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 3,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015450_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9chgkxnep10qml7-baxcalibur"
-  },
-  {
-    "id": "wgkhjzfwre0r31s-tadbulb",
-    "nome": "Tadbulb",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "41 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Bola Elétrica",
-        "dano": "20",
-        "custoataque": [
-          "lightning"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015500_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wgkhjzfwre0r31s-tadbulb"
-  },
-  {
-    "id": "3hqois4cq1hyap3-kilowattrel",
-    "nome": "Kilowattrel",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "44 / 131",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Asa da Velocidade",
-        "dano": "40",
-        "custoataque": [
-          "lightning"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015530_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3hqois4cq1hyap3-kilowattrel"
-  },
-  {
-    "id": "dp6bpemztzsmi0y-dachsbun",
-    "nome": "Dachsbun",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "47 / 131",
+    "numero": "29 / 131",
     "hp": 100,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Jogo Duro",
-        "dano": "50 +",
+        "nomeataque": "Míssil Gélido",
+        "dano": "60",
         "custoataque": [
-          "psychic",
-          "psychic"
-        ],
-        "efeito": "Flip a coin. If heads, this attack does 50 more damage"
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015560_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dp6bpemztzsmi0y-dachsbun"
-  },
-  {
-    "id": "ri4qto2eyys86wg-pawmo",
-    "nome": "Pawmo",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "39 / 131",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Raio de Cabeça",
-        "dano": "30",
-        "custoataque": [
-          "lightning"
+          "water",
+          "water",
+          "colorless"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 1,
+    "fraqueza": "Metal",
+    "recuo": 3,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015480_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ri4qto2eyys86wg-pawmo"
-  },
-  {
-    "id": "k1478d7rtj6l243-miraidon",
-    "nome": "Miraidon",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "45 / 131",
-    "hp": 120,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Laser Relampejante",
-        "dano": "60",
-        "custoataque": [
-          "lightning",
-          "lightning",
-          "lightning"
-        ],
-        "efeito": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015540_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k1478d7rtj6l243-miraidon"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015380_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/64a684brmm1rd8c-cetoddle"
   },
   {
     "id": "690l4lp1pqwz1ra-veluza",
@@ -1325,33 +841,583 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/690l4lp1pqwz1ra-veluza"
   },
   {
-    "id": "8brwv4kebjke8ct-greavard",
-    "nome": "Greavard",
+    "id": "x0ycl8vfrctb1yo-tatsugiri",
+    "nome": "Tatsugiri",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "33 / 131",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Responder à Altura",
+        "dano": "20 +",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's next turn, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x0ycl8vfrctb1yo-tatsugiri"
+  },
+  {
+    "id": "9chgkxnep10qml7-baxcalibur",
+    "nome": "Baxcalibur",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "36 / 131",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cauda Aniquiladora",
+        "dano": "90",
+        "custoataque": [
+          "water",
+          "water",
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 3,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9chgkxnep10qml7-baxcalibur"
+  },
+  {
+    "id": "6d72u6mmy2u7ya2-wiglett",
+    "nome": "Wiglett",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "25 / 131",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Revólver d’Água",
+        "dano": "20",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015340_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6d72u6mmy2u7ya2-wiglett"
+  },
+  {
+    "id": "wf974tuln59hj9l-palafin",
+    "nome": "Palafin",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "28 / 131",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco Jato",
+        "dano": "50",
+        "custoataque": [
+          "water",
+          "water",
+          "water"
+        ],
+        "efeito": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015370_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wf974tuln59hj9l-palafin"
+  },
+  {
+    "id": "hvm4lpzrhx65sbn-cetitan",
+    "nome": "Cetitan",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "30 / 131",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco de Gelo",
+        "dano": "80",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 4,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hvm4lpzrhx65sbn-cetitan"
+  },
+  {
+    "id": "mq1iw9r0gl7z4ki-frigibax",
+    "nome": "Frigibax",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "34 / 131",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Frio",
+        "dano": "20",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mq1iw9r0gl7z4ki-frigibax"
+  },
+  {
+    "id": "qj6wex496zpym42-dondozo",
+    "nome": "Dondozo",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "32 / 131",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Gigaimpacto",
+        "dano": "120",
+        "custoataque": [
+          "water",
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "During your next turn, this Pokémon can't attack"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 4,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qj6wex496zpym42-dondozo"
+  },
+  {
+    "id": "0kv2rc9hsrjjhha-arctibax",
+    "nome": "Arctibax",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "35 / 131",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Pancada Congelada",
+        "dano": "50",
+        "custoataque": [
+          "water",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015440_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0kv2rc9hsrjjhha-arctibax"
+  },
+  {
+    "id": "x9u84dhw4fuaswu-chien-pao-ex",
+    "nome": "Chien-Pao ex",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "37 / 131",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Pingente de Gelo",
+        "dano": "20",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Mergulho Gélido",
+        "dano": "",
+        "custoataque": [
+          "water",
+          "water",
+          "water"
+        ],
+        "efeito": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x9u84dhw4fuaswu-chien-pao-ex"
+  },
+  {
+    "id": "ri4qto2eyys86wg-pawmo",
+    "nome": "Pawmo",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "39 / 131",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Raio de Cabeça",
+        "dano": "30",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015480_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ri4qto2eyys86wg-pawmo"
+  },
+  {
+    "id": "ey8xspws2wh5x97-bellibolt-ex",
+    "nome": "Bellibolt ex",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "42 / 131",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Canhão de Alta Voltagem",
+        "dano": "70 +",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ey8xspws2wh5x97-bellibolt-ex"
+  },
+  {
+    "id": "dp6bpemztzsmi0y-dachsbun",
+    "nome": "Dachsbun",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "47 / 131",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Jogo Duro",
+        "dano": "50 +",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 50 more damage"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015560_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dp6bpemztzsmi0y-dachsbun"
+  },
+  {
+    "id": "a9w14bgkf4tq23k-fidough",
+    "nome": "Fidough",
     "tipo": "Pokemon",
     "elemento": "Psíquico",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "52 / 131",
-    "hp": 70,
+    "numero": "46 / 131",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Disparo da Alma",
-        "dano": "30",
+        "nomeataque": "Chute Traseiro",
+        "dano": "20",
         "custoataque": [
           "psychic"
         ],
-        "efeito": "Discard a card from your hand. If you can't, this attack does nothing"
+        "efeito": ""
       }
     ],
-    "fraqueza": "Escuridao",
+    "fraqueza": "Metal",
     "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015610_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8brwv4kebjke8ct-greavard"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015550_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a9w14bgkf4tq23k-fidough"
+  },
+  {
+    "id": "3hqois4cq1hyap3-kilowattrel",
+    "nome": "Kilowattrel",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "44 / 131",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Asa da Velocidade",
+        "dano": "40",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015530_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3hqois4cq1hyap3-kilowattrel"
+  },
+  {
+    "id": "yritb6ezw2zi1po-pawmi",
+    "nome": "Pawmi",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "38 / 131",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Fagulha Aleatória",
+        "dano": "",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": "This attack does 10 damage to 1 of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yritb6ezw2zi1po-pawmi"
+  },
+  {
+    "id": "tvmrow0g81bkte7-pawmot",
+    "nome": "Pawmot",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "40 / 131",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Explosão de Trovões",
+        "dano": "100",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "Discard a Lightning Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tvmrow0g81bkte7-pawmot"
+  },
+  {
+    "id": "wgkhjzfwre0r31s-tadbulb",
+    "nome": "Tadbulb",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "41 / 131",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bola Elétrica",
+        "dano": "20",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015500_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wgkhjzfwre0r31s-tadbulb"
+  },
+  {
+    "id": "utg5i90lvqxfq0e-wattrel",
+    "nome": "Wattrel",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "43 / 131",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Asa",
+        "dano": "20",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015520_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/utg5i90lvqxfq0e-wattrel"
+  },
+  {
+    "id": "k1478d7rtj6l243-miraidon",
+    "nome": "Miraidon",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "45 / 131",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Laser Relampejante",
+        "dano": "60",
+        "custoataque": [
+          "lightning",
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015540_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k1478d7rtj6l243-miraidon"
   },
   {
     "id": "e65jkho2hr73f2t-flittle",
@@ -1383,33 +1449,95 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e65jkho2hr73f2t-flittle"
   },
   {
-    "id": "kj3ppe6lz7cp8o0-annihilape",
-    "nome": "Annihilape",
+    "id": "v4imqj4mlqt2ku1-houndstone",
+    "nome": "Houndstone",
     "tipo": "Pokemon",
-    "elemento": "Lutador",
+    "elemento": "Psíquico",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "57 / 131",
-    "hp": 140,
+    "numero": "53 / 131",
+    "hp": 130,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Soco Dinamite",
-        "dano": "90",
+        "nomeataque": "Último Adeus",
+        "dano": "50 +",
         "custoataque": [
-          "fighting"
+          "psychic",
+          "colorless"
         ],
-        "efeito": "This Pokémon also does 30 damage to itself"
+        "efeito": "This attack does 20 more damage for each Psychic Pokémon in your discard pile"
       }
     ],
-    "fraqueza": "Psiquico",
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015620_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v4imqj4mlqt2ku1-houndstone"
+  },
+  {
+    "id": "k1co3tg9n746md5-ceruledge",
+    "nome": "Ceruledge",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "48 / 131",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Espada de Combate",
+        "dano": "70 +",
+        "custoataque": [
+          "psychic",
+          "psychic",
+          "colorless"
+        ],
+        "efeito": "If your opponent's Active Pokémon is aP okémon ex, this attack does 70 more damage"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015570_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k1co3tg9n746md5-ceruledge"
+  },
+  {
+    "id": "vi4x660ou3iofcn-rabsca",
+    "nome": "Rabsca",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "49 / 131",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Feixe Psíquico",
+        "dano": "80",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "Escuridao",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015660_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kj3ppe6lz7cp8o0-annihilape"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015580_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vi4x660ou3iofcn-rabsca"
   },
   {
     "id": "up5ywncz7exdyct-espathra",
@@ -1439,6 +1567,241 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015600_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/up5ywncz7exdyct-espathra"
+  },
+  {
+    "id": "yqrv78er8glpbel-toedscool",
+    "nome": "Toedscool",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "59 / 131",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Chute Poderoso",
+        "dano": "20",
+        "custoataque": [
+          "fighting"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015680_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yqrv78er8glpbel-toedscool"
+  },
+  {
+    "id": "8brwv4kebjke8ct-greavard",
+    "nome": "Greavard",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "52 / 131",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Disparo da Alma",
+        "dano": "30",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "Discard a card from your hand. If you can't, this attack does nothing"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015610_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8brwv4kebjke8ct-greavard"
+  },
+  {
+    "id": "c9r7vk9fm7dkgrp-gimmighoul",
+    "nome": "Gimmighoul",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "54 / 131",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Jogadas de Moeda Contínuas",
+        "dano": "20 ×",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Flip a coin until you get tails. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015630_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c9r7vk9fm7dkgrp-gimmighoul"
+  },
+  {
+    "id": "deek2h3x14cu32n-mankey",
+    "nome": "Mankey",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "55 / 131",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpes de Fúria",
+        "dano": "10 ×",
+        "custoataque": [
+          "fighting"
+        ],
+        "efeito": "Flip 3 coins. This attack does 10 damage for each heads"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015640_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/deek2h3x14cu32n-mankey"
+  },
+  {
+    "id": "c11qdc7zcax10rm-primeape",
+    "nome": "Primeape",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "56 / 131",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ira",
+        "dano": "30 +",
+        "custoataque": [
+          "fighting"
+        ],
+        "efeito": "This attack does more damage equal to the damage this Pokémon has on it"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015650_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c11qdc7zcax10rm-primeape"
+  },
+  {
+    "id": "kj3ppe6lz7cp8o0-annihilape",
+    "nome": "Annihilape",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "57 / 131",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco Dinamite",
+        "dano": "90",
+        "custoataque": [
+          "fighting"
+        ],
+        "efeito": "This Pokémon also does 30 damage to itself"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015660_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kj3ppe6lz7cp8o0-annihilape"
+  },
+  {
+    "id": "26ysjyg2vvew9gq-paldean-tauros",
+    "nome": "Tauros de Paldea",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "58 / 131",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Chute Traseiro",
+        "dano": "50",
+        "custoataque": [
+          "fighting",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015670_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/26ysjyg2vvew9gq-paldean-tauros"
+  },
+  {
+    "id": "ceyvusn8g3totij-toedscruel",
+    "nome": "Toedscruel",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "60 / 131",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Esporos Atordoantes",
+        "dano": "70",
+        "custoataque": [
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015690_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ceyvusn8g3totij-toedscruel"
   },
   {
     "id": "w7owum60rqez5lj-klawf",
@@ -1503,270 +1866,95 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2enluuo86i6exvu-ting-lu"
   },
   {
-    "id": "k1co3tg9n746md5-ceruledge",
-    "nome": "Ceruledge",
+    "id": "bm6boq08hf9yt5d-paldean-wooper",
+    "nome": "Wooper de Paldea",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 3,
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "48 / 131",
-    "hp": 110,
+    "numero": "64 / 131",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Espada de Combate",
-        "dano": "70 +",
+        "nomeataque": "Baque",
+        "dano": "40",
         "custoataque": [
-          "psychic",
-          "psychic",
+          "darkness",
           "colorless"
         ],
-        "efeito": "If your opponent's Active Pokémon is aP okémon ex, this attack does 70 more damage"
+        "efeito": ""
       }
     ],
-    "fraqueza": "Escuridao",
-    "recuo": 2,
+    "fraqueza": "Planta",
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015570_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k1co3tg9n746md5-ceruledge"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015730_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bm6boq08hf9yt5d-paldean-wooper"
   },
   {
-    "id": "v4imqj4mlqt2ku1-houndstone",
-    "nome": "Houndstone",
+    "id": "q1ybq2jf17n5g0c-paldean-clodsire",
+    "nome": "Clodsire de Paldea",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
+    "elemento": "Noturno",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "53 / 131",
-    "hp": 130,
+    "numero": "65 / 131",
+    "hp": 120,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Último Adeus",
-        "dano": "50 +",
+        "nomeataque": "Martelo Lamacento",
+        "dano": "70",
         "custoataque": [
-          "psychic",
+          "darkness",
+          "darkness",
           "colorless"
         ],
-        "efeito": "This attack does 20 more damage for each Psychic Pokémon in your discard pile"
+        "efeito": "Discard the top card of your opponent's deck"
       }
     ],
-    "fraqueza": "Escuridao",
+    "fraqueza": "Planta",
     "recuo": 3,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015620_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v4imqj4mlqt2ku1-houndstone"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015740_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q1ybq2jf17n5g0c-paldean-clodsire"
   },
   {
-    "id": "vi4x660ou3iofcn-rabsca",
-    "nome": "Rabsca",
+    "id": "ffosl026407by0h-maschiff",
+    "nome": "Maschiff",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Incomum",
+    "elemento": "Noturno",
+    "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "49 / 131",
+    "numero": "67 / 131",
     "hp": 70,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Feixe Psíquico",
-        "dano": "80",
+        "nomeataque": "Mordida",
+        "dano": "30",
         "custoataque": [
-          "psychic",
-          "psychic"
-        ],
-        "efeito": "Your opponent's Active Pokémon is now Confused"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015580_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vi4x660ou3iofcn-rabsca"
-  },
-  {
-    "id": "c11qdc7zcax10rm-primeape",
-    "nome": "Primeape",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "56 / 131",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Ira",
-        "dano": "30 +",
-        "custoataque": [
-          "fighting"
-        ],
-        "efeito": "This attack does more damage equal to the damage this Pokémon has on it"
-      }
-    ],
-    "fraqueza": "Psiquico",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015650_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c11qdc7zcax10rm-primeape"
-  },
-  {
-    "id": "a9w14bgkf4tq23k-fidough",
-    "nome": "Fidough",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "46 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Chute Traseiro",
-        "dano": "20",
-        "custoataque": [
-          "psychic"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015550_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a9w14bgkf4tq23k-fidough"
-  },
-  {
-    "id": "utg5i90lvqxfq0e-wattrel",
-    "nome": "Wattrel",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "43 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Asa",
-        "dano": "20",
-        "custoataque": [
-          "lightning"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015520_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/utg5i90lvqxfq0e-wattrel"
-  },
-  {
-    "id": "deek2h3x14cu32n-mankey",
-    "nome": "Mankey",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "55 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Golpes de Fúria",
-        "dano": "10 ×",
-        "custoataque": [
-          "fighting"
-        ],
-        "efeito": "Flip 3 coins. This attack does 10 damage for each heads"
-      }
-    ],
-    "fraqueza": "Psiquico",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015640_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/deek2h3x14cu32n-mankey"
-  },
-  {
-    "id": "26ysjyg2vvew9gq-paldean-tauros",
-    "nome": "Tauros de Paldea",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "58 / 131",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Chute Traseiro",
-        "dano": "50",
-        "custoataque": [
-          "fighting",
+          "darkness",
           "colorless"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Psiquico",
+    "fraqueza": "Planta",
     "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015670_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/26ysjyg2vvew9gq-paldean-tauros"
-  },
-  {
-    "id": "yqrv78er8glpbel-toedscool",
-    "nome": "Toedscool",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "59 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Chute Poderoso",
-        "dano": "20",
-        "custoataque": [
-          "fighting"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Psiquico",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015680_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yqrv78er8glpbel-toedscool"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015760_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ffosl026407by0h-maschiff"
   },
   {
     "id": "25loo7v5rchc67q-koraidon",
@@ -1801,6 +1989,95 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/25loo7v5rchc67q-koraidon"
   },
   {
+    "id": "e3nhxhkrr48jhrc-shroodle",
+    "nome": "Shroodle",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "69 / 131",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Arranhão",
+        "dano": "20",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015780_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e3nhxhkrr48jhrc-shroodle"
+  },
+  {
+    "id": "7l8tdafija0v9d3-bombirdier",
+    "nome": "Bombirdier",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "71 / 131",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Voar",
+        "dano": "70",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing. If heads, during youro pponent's next turn, prevent all damage from-and effects of- attacks done to this Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015800_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7l8tdafija0v9d3-bombirdier"
+  },
+  {
+    "id": "5apvo7te4smhv1w-lokix",
+    "nome": "Lokix",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "66 / 131",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Pulo de Foguete",
+        "dano": "80",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015750_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5apvo7te4smhv1w-lokix"
+  },
+  {
     "id": "omph2v8m6ojg1at-mabosstiff",
     "nome": "Mabosstiff",
     "tipo": "Pokemon",
@@ -1832,36 +2109,6 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/omph2v8m6ojg1at-mabosstiff"
   },
   {
-    "id": "ffosl026407by0h-maschiff",
-    "nome": "Maschiff",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "67 / 131",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Mordida",
-        "dano": "30",
-        "custoataque": [
-          "darkness",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015760_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ffosl026407by0h-maschiff"
-  },
-  {
     "id": "0ei9ejmw17m3qmi-grafaiai",
     "nome": "Grafaiai",
     "tipo": "Pokemon",
@@ -1891,33 +2138,93 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0ei9ejmw17m3qmi-grafaiai"
   },
   {
-    "id": "5apvo7te4smhv1w-lokix",
-    "nome": "Lokix",
+    "id": "7gf5dbpgk2sb0s1-tinkatink",
+    "nome": "Tinkatink",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Incomum",
+    "elemento": "Metálico",
+    "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "66 / 131",
-    "hp": 100,
+    "numero": "72 / 131",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Pulo de Foguete",
-        "dano": "80",
+        "nomeataque": "Pulso",
+        "dano": "30",
         "custoataque": [
-          "darkness"
+          "metal",
+          "colorless"
         ],
-        "efeito": "Flip a coin. If tails, this attack does nothing"
+        "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015750_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5apvo7te4smhv1w-lokix"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015810_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7gf5dbpgk2sb0s1-tinkatink"
+  },
+  {
+    "id": "v8cx9sof226fnxd-tinkatuff",
+    "nome": "Tinkatuff",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "73 / 131",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco de Luz",
+        "dano": "50",
+        "custoataque": [
+          "metal",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015820_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v8cx9sof226fnxd-tinkatuff"
+  },
+  {
+    "id": "1rgg9egrdc5s0ej-varoom",
+    "nome": "Varoom",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "75 / 131",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "20",
+        "custoataque": [
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015840_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1rgg9egrdc5s0ej-varoom"
   },
   {
     "id": "2hzx393p1cuxni9-tinkaton",
@@ -1951,243 +2258,34 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2hzx393p1cuxni9-tinkaton"
   },
   {
-    "id": "c9r7vk9fm7dkgrp-gimmighoul",
-    "nome": "Gimmighoul",
+    "id": "qiiks1zsxq5ppx1-revavroom",
+    "nome": "Revavroom",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "54 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Jogadas de Moeda Contínuas",
-        "dano": "20 ×",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "Flip a coin until you get tails. This attack does 20 damage for each heads"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015630_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c9r7vk9fm7dkgrp-gimmighoul"
-  },
-  {
-    "id": "nfvmd60owyih4p1-big-air-balloon",
-    "nome": "Grande Balão de Ar",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
+    "elemento": "Metálico",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "87 / 131",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_10_001180_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nfvmd60owyih4p1-big-air-balloon"
-  },
-  {
-    "id": "bm6boq08hf9yt5d-paldean-wooper",
-    "nome": "Wooper de Paldea",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "64 / 131",
-    "hp": 60,
+    "numero": "76 / 131",
+    "hp": 110,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Baque",
-        "dano": "40",
-        "custoataque": [
-          "darkness",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015730_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bm6boq08hf9yt5d-paldean-wooper"
-  },
-  {
-    "id": "v8cx9sof226fnxd-tinkatuff",
-    "nome": "Tinkatuff",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "73 / 131",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Soco de Luz",
+        "nomeataque": "Gás Venenoso",
         "dano": "50",
         "custoataque": [
           "metal",
           "colorless"
         ],
-        "efeito": ""
+        "efeito": "Your opponent's Active Pokémon is now Poisoned"
       }
     ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015820_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v8cx9sof226fnxd-tinkatuff"
-  },
-  {
-    "id": "ceyvusn8g3totij-toedscruel",
-    "nome": "Toedscruel",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "60 / 131",
-    "hp": 120,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Esporos Atordoantes",
-        "dano": "70",
-        "custoataque": [
-          "fighting",
-          "fighting",
-          "colorless"
-        ],
-        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
-      }
-    ],
-    "fraqueza": "Psiquico",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015690_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ceyvusn8g3totij-toedscruel"
-  },
-  {
-    "id": "e3nhxhkrr48jhrc-shroodle",
-    "nome": "Shroodle",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "69 / 131",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Arranhão",
-        "dano": "20",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015780_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e3nhxhkrr48jhrc-shroodle"
-  },
-  {
-    "id": "7gf5dbpgk2sb0s1-tinkatink",
-    "nome": "Tinkatink",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "72 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Pulso",
-        "dano": "30",
-        "custoataque": [
-          "metal",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015810_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7gf5dbpgk2sb0s1-tinkatink"
-  },
-  {
-    "id": "jxy72x3gibemi9y-team-star-grunt",
-    "nome": "Recruta da Equipe Star",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "88 / 131",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_10_001190_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jxy72x3gibemi9y-team-star-grunt"
-  },
-  {
-    "id": "qtmuyvfcrw825ms-gholdengo-ex",
-    "nome": "Gholdengo ex",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "78 / 131",
-    "hp": 150,
-    "evolucao": "",
-    "ataque": [],
     "fraqueza": "Fogo",
     "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015870_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qtmuyvfcrw825ms-gholdengo-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015850_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qiiks1zsxq5ppx1-revavroom"
   },
   {
     "id": "f4bxhq6u64e3xys-orthworm",
@@ -2219,176 +2317,93 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f4bxhq6u64e3xys-orthworm"
   },
   {
-    "id": "q1ybq2jf17n5g0c-paldean-clodsire",
-    "nome": "Clodsire de Paldea",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "65 / 131",
-    "hp": 120,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Martelo Lamacento",
-        "dano": "70",
-        "custoataque": [
-          "darkness",
-          "darkness",
-          "colorless"
-        ],
-        "efeito": "Discard the top card of your opponent's deck"
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015740_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q1ybq2jf17n5g0c-paldean-clodsire"
-  },
-  {
-    "id": "pqyfmei96fltwoa-electric-generator",
-    "nome": "Gerador Elétrico",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "86 / 131",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_10_001170_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pqyfmei96fltwoa-electric-generator"
-  },
-  {
-    "id": "qiiks1zsxq5ppx1-revavroom",
-    "nome": "Revavroom",
+    "id": "qtmuyvfcrw825ms-gholdengo-ex",
+    "nome": "Gholdengo ex",
     "tipo": "Pokemon",
     "elemento": "Metálico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
+    "raridade": "Rara",
+    "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "76 / 131",
-    "hp": 110,
+    "numero": "78 / 131",
+    "hp": 150,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Gás Venenoso",
-        "dano": "50",
+        "nomeataque": "Golpe de Gastança",
+        "dano": "",
         "custoataque": [
-          "metal",
-          "colorless"
+          "metal"
         ],
-        "efeito": "Your opponent's Active Pokémon is now Poisoned"
+        "efeito": "1 of your opponent's Pokémon is chosen at random for each Mertal Wenergy attached to this Pokémon. For each time a Pokémon is chosen, do 40 damage to it"
       }
     ],
     "fraqueza": "Fogo",
     "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015850_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qiiks1zsxq5ppx1-revavroom"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015870_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qtmuyvfcrw825ms-gholdengo-ex"
   },
   {
-    "id": "1rgg9egrdc5s0ej-varoom",
-    "nome": "Varoom",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "75 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Aríete",
-        "dano": "20",
-        "custoataque": [
-          "metal"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015840_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1rgg9egrdc5s0ej-varoom"
-  },
-  {
-    "id": "iagu1mf4ec91wd9-flamigo",
-    "nome": "Flamigo",
+    "id": "6r1uweq1hbjuzmb-lechonk",
+    "nome": "Lechonk",
     "tipo": "Pokemon",
     "elemento": "Incolor",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "85 / 131",
-    "hp": 90,
+    "numero": "79 / 131",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Ataque de Asa",
-        "dano": "50",
+        "nomeataque": "Investida",
+        "dano": "20",
         "custoataque": [
-          "colorless",
-          "colorless",
           "colorless"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Luta",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015940_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iagu1mf4ec91wd9-flamigo"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015880_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6r1uweq1hbjuzmb-lechonk"
   },
   {
-    "id": "7l8tdafija0v9d3-bombirdier",
-    "nome": "Bombirdier",
+    "id": "3v5525d0dqetu7j-oinkologne",
+    "nome": "Oinkologne",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
+    "elemento": "Incolor",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "71 / 131",
-    "hp": 90,
+    "numero": "80 / 131",
+    "hp": 110,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Voar",
-        "dano": "70",
+        "nomeataque": "Pisoteada de Pernas",
+        "dano": "100",
         "custoataque": [
           "colorless",
           "colorless",
           "colorless"
         ],
-        "efeito": "Flip a coin. If tails, this attack does nothing. If heads, during youro pponent's next turn, prevent all damage from-and effects of- attacks done to this Pokémon"
+        "efeito": "Flip a coin. If tails, during your next turn this Pokémon can't attack"
       }
     ],
-    "fraqueza": "Raio",
-    "recuo": 1,
+    "fraqueza": "Luta",
+    "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015800_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7l8tdafija0v9d3-bombirdier"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015890_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3v5525d0dqetu7j-oinkologne"
   },
   {
     "id": "q9lss3ehjnl7opj-maushold",
@@ -2451,55 +2466,35 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s3lqd8x1r8mro1j-tandemaus"
   },
   {
-    "id": "ojel0m4towk2vft-penny",
-    "nome": "Penélope",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "92 / 131",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_10_000700_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ojel0m4towk2vft-penny"
-  },
-  {
-    "id": "3v5525d0dqetu7j-oinkologne",
-    "nome": "Oinkologne",
+    "id": "4ak705ldv1ieh7l-squawkabilly",
+    "nome": "Squawkabilly",
     "tipo": "Pokemon",
     "elemento": "Incolor",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "80 / 131",
-    "hp": 110,
+    "numero": "83 / 131",
+    "hp": 70,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Pisoteada de Pernas",
-        "dano": "100",
+        "nomeataque": "Ataque Rápido",
+        "dano": "30 +",
         "custoataque": [
           "colorless",
           "colorless",
           "colorless"
         ],
-        "efeito": "Flip a coin. If tails, during your next turn this Pokémon can't attack"
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
       }
     ],
     "fraqueza": "Luta",
-    "recuo": 2,
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015890_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3v5525d0dqetu7j-oinkologne"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015920_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4ak705ldv1ieh7l-squawkabilly"
   },
   {
     "id": "e0rt5uypz9ia2b4-cyclizar",
@@ -2533,6 +2528,77 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e0rt5uypz9ia2b4-cyclizar"
   },
   {
+    "id": "iagu1mf4ec91wd9-flamigo",
+    "nome": "Flamigo",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "85 / 131",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque de Asa",
+        "dano": "50",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015940_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iagu1mf4ec91wd9-flamigo"
+  },
+  {
+    "id": "nfvmd60owyih4p1-big-air-balloon",
+    "nome": "Grande Balão de Ar",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "87 / 131",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_10_001180_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nfvmd60owyih4p1-big-air-balloon"
+  },
+  {
+    "id": "pqyfmei96fltwoa-electric-generator",
+    "nome": "Gerador Elétrico",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "86 / 131",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_10_001170_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pqyfmei96fltwoa-electric-generator"
+  },
+  {
     "id": "muwu8cx0m9m9b0u-iono",
     "nome": "Kissera",
     "tipo": "Treinador",
@@ -2553,44 +2619,15 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/muwu8cx0m9m9b0u-iono"
   },
   {
-    "id": "6r1uweq1hbjuzmb-lechonk",
-    "nome": "Lechonk",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "79 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Investida",
-        "dano": "20",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015880_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6r1uweq1hbjuzmb-lechonk"
-  },
-  {
-    "id": "n6fpei45j3sffqb-nemona",
-    "nome": "Noêmia",
+    "id": "jxy72x3gibemi9y-team-star-grunt",
+    "nome": "Recruta da Equipe Star",
     "tipo": "Treinador",
     "elemento": "Neutro",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "90 / 131",
+    "numero": "88 / 131",
     "hp": 0,
     "evolucao": "",
     "ataque": [],
@@ -2598,28 +2635,8 @@
     "recuo": 0,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_10_001200_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/n6fpei45j3sffqb-nemona"
-  },
-  {
-    "id": "sw9r98o6dccd7ph-mesagoza",
-    "nome": "Mesaledo",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "93 / 131",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_10_001220_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sw9r98o6dccd7ph-mesagoza"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_10_001190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jxy72x3gibemi9y-team-star-grunt"
   },
   {
     "id": "kzldc94gp9sb3dz-arven",
@@ -2642,6 +2659,95 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kzldc94gp9sb3dz-arven"
   },
   {
+    "id": "sw9r98o6dccd7ph-mesagoza",
+    "nome": "Mesaledo",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "93 / 131",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_10_001220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sw9r98o6dccd7ph-mesagoza"
+  },
+  {
+    "id": "n6fpei45j3sffqb-nemona",
+    "nome": "Noêmia",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "90 / 131",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_10_001200_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/n6fpei45j3sffqb-nemona"
+  },
+  {
+    "id": "gnmx2s58pppbcrv-greavard",
+    "nome": "Greavard",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "95 / 131",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Disparo da Alma",
+        "dano": "30",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "Discard a card from your hand. If you can't, this attack does nothing"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015610_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gnmx2s58pppbcrv-greavard"
+  },
+  {
+    "id": "ojel0m4towk2vft-penny",
+    "nome": "Penélope",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "92 / 131",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_10_000700_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ojel0m4towk2vft-penny"
+  },
+  {
     "id": "tucjbu34rum7vr5-fuecoco",
     "nome": "Fuecoco",
     "tipo": "Pokemon",
@@ -2653,7 +2759,16 @@
     "numero": "94 / 131",
     "hp": 70,
     "evolucao": "",
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Cantoria Contente",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Put 1 random Basic Pokémon from your deck onto your bench"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 2,
     "temHabilidade": false,
@@ -2662,33 +2777,33 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tucjbu34rum7vr5-fuecoco"
   },
   {
-    "id": "c6m36ejmnmw2dik-gimmighoul",
-    "nome": "Gimmighoul",
+    "id": "fqf8sb02owsb6cz-orthworm",
+    "nome": "Orthworm",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
+    "elemento": "Metálico",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "96 / 131",
-    "hp": 60,
+    "numero": "98 / 131",
+    "hp": 100,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Jogadas de Moeda Contínuas",
-        "dano": "20 ×",
+        "nomeataque": "Estoque de Ferro",
+        "dano": "10",
         "custoataque": [
-          "colorless"
+          "metal"
         ],
-        "efeito": "Flip a coin until you get tails. This attack does 20 damage for each heads"
+        "efeito": "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon"
       }
     ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
+    "fraqueza": "Fogo",
+    "recuo": 3,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015630_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c6m36ejmnmw2dik-gimmighoul"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015860_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fqf8sb02owsb6cz-orthworm"
   },
   {
     "id": "k97urye94px9k04-maushold",
@@ -2722,104 +2837,63 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k97urye94px9k04-maushold"
   },
   {
-    "id": "wah6h7y1rn1ayqw-team-star-grunt",
-    "nome": "Recruta da Equipe Star",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "105 / 131",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_20_001190_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wah6h7y1rn1ayqw-team-star-grunt"
-  },
-  {
-    "id": "ecg4ol3wglzboz8-nemona",
-    "nome": "Noêmia",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "107 / 131",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_20_001200_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ecg4ol3wglzboz8-nemona"
-  },
-  {
-    "id": "isxaxqxuog5zfzu-chien-pao-ex",
-    "nome": "Chien-Pao ex",
+    "id": "c6m36ejmnmw2dik-gimmighoul",
+    "nome": "Gimmighoul",
     "tipo": "Pokemon",
-    "elemento": "Água",
+    "elemento": "Psíquico",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "102 / 131",
-    "hp": 130,
+    "numero": "96 / 131",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Pingente de Gelo",
-        "dano": "20",
+        "nomeataque": "Jogadas de Moeda Contínuas",
+        "dano": "20 ×",
         "custoataque": [
-          "water"
-        ],
-        "efeito": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon"
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015460_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/isxaxqxuog5zfzu-chien-pao-ex"
-  },
-  {
-    "id": "4ak705ldv1ieh7l-squawkabilly",
-    "nome": "Squawkabilly",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "83 / 131",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Ataque Rápido",
-        "dano": "30 +",
-        "custoataque": [
-          "colorless",
-          "colorless",
           "colorless"
         ],
-        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+        "efeito": "Flip a coin until you get tails. This attack does 20 damage for each heads"
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Escuridao",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_10_015920_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4ak705ldv1ieh7l-squawkabilly"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015630_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c6m36ejmnmw2dik-gimmighoul"
+  },
+  {
+    "id": "1h6blhagkcz2slz-paldean-wooper",
+    "nome": "Wooper de Paldea",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "97 / 131",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Baque",
+        "dano": "40",
+        "custoataque": [
+          "darkness",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015730_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1h6blhagkcz2slz-paldean-wooper"
   },
   {
     "id": "opeymlzfaub99yr-armarouge-ex",
@@ -2867,8 +2941,17 @@
     "ataque": [
       {
         "nomeataque": "Truque Floral",
+        "dano": "",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose"
+      },
+      {
+        "nomeataque": "Raio Solar",
         "dano": "80",
         "custoataque": [
+          "grass",
           "grass"
         ],
         "efeito": ""
@@ -2882,85 +2965,76 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wfhdb69q8lzb9oc-meowscarada-ex"
   },
   {
-    "id": "gnmx2s58pppbcrv-greavard",
-    "nome": "Greavard",
+    "id": "isxaxqxuog5zfzu-chien-pao-ex",
+    "nome": "Chien-Pao ex",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
+    "elemento": "Água",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "95 / 131",
-    "hp": 70,
+    "numero": "102 / 131",
+    "hp": 130,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Disparo da Alma",
-        "dano": "30",
+        "nomeataque": "Pingente de Gelo",
+        "dano": "20",
         "custoataque": [
-          "psychic"
+          "water"
         ],
-        "efeito": "Discard a card from your hand. If you can't, this attack does nothing"
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Mergulho Gélido",
+        "dano": "",
+        "custoataque": [
+          "water",
+          "water",
+          "water"
+        ],
+        "efeito": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon"
       }
     ],
-    "fraqueza": "Escuridao",
-    "recuo": 2,
+    "fraqueza": "Metal",
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015610_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gnmx2s58pppbcrv-greavard"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/isxaxqxuog5zfzu-chien-pao-ex"
   },
   {
-    "id": "p0kmc1yi83kx6h2-arven",
-    "nome": "Arven",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "115 / 131",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_20_001210_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p0kmc1yi83kx6h2-arven"
-  },
-  {
-    "id": "fqf8sb02owsb6cz-orthworm",
-    "nome": "Orthworm",
+    "id": "4s0rzdxumg2lwsq-bellibolt-ex",
+    "nome": "Bellibolt ex",
     "tipo": "Pokemon",
-    "elemento": "Metálico",
+    "elemento": "Elétrico",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "98 / 131",
-    "hp": 100,
+    "numero": "103 / 131",
+    "hp": 160,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Estoque de Ferro",
-        "dano": "10",
+        "nomeataque": "Canhão de Alta Voltagem",
+        "dano": "70 +",
         "custoataque": [
-          "metal"
+          "lightning",
+          "lightning"
         ],
-        "efeito": "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon"
+        "efeito": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage"
       }
     ],
-    "fraqueza": "Fogo",
+    "fraqueza": "Luta",
     "recuo": 3,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015860_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fqf8sb02owsb6cz-orthworm"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4s0rzdxumg2lwsq-bellibolt-ex"
   },
   {
-    "id": "616qaut03uagylo-gholdengo-ex",
+    "id": "0h9j0wd6u1m840k-gholdengo-ex",
     "nome": "Gholdengo ex",
     "tipo": "Pokemon",
     "elemento": "Metálico",
@@ -2968,46 +3042,143 @@
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "114 / 131",
+    "numero": "104 / 131",
     "hp": 150,
     "evolucao": "",
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Golpe de Gastança",
+        "dano": "",
+        "custoataque": [
+          "metal"
+        ],
+        "efeito": "1 of your opponent's Pokémon is chosen at random for each Mertal Wenergy attached to this Pokémon. For each time a Pokémon is chosen, do 40 damage to it"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015870_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/616qaut03uagylo-gholdengo-ex"
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0h9j0wd6u1m840k-gholdengo-ex"
   },
   {
-    "id": "1h6blhagkcz2slz-paldean-wooper",
-    "nome": "Wooper de Paldea",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
+    "id": "wah6h7y1rn1ayqw-team-star-grunt",
+    "nome": "Recruta da Equipe Star",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "97 / 131",
-    "hp": 60,
+    "numero": "105 / 131",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_20_001190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wah6h7y1rn1ayqw-team-star-grunt"
+  },
+  {
+    "id": "nbyhyt20ibgzmtx-iono",
+    "nome": "Kissera",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "106 / 131",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_20_000420_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nbyhyt20ibgzmtx-iono"
+  },
+  {
+    "id": "ecg4ol3wglzboz8-nemona",
+    "nome": "Noêmia",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "107 / 131",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_20_001200_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ecg4ol3wglzboz8-nemona"
+  },
+  {
+    "id": "rmcn08limmbc1dr-penny",
+    "nome": "Penélope",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "109 / 131",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_20_000700_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rmcn08limmbc1dr-penny"
+  },
+  {
+    "id": "nf71eulfro7r9w2-meowscarada-ex",
+    "nome": "Meowscarada ex",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "110 / 131",
+    "hp": 160,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Baque",
-        "dano": "40",
+        "nomeataque": "Truque Floral",
+        "dano": "",
         "custoataque": [
-          "darkness",
-          "colorless"
+          "grass"
+        ],
+        "efeito": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose"
+      },
+      {
+        "nomeataque": "Raio Solar",
+        "dano": "80",
+        "custoataque": [
+          "grass",
+          "grass"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015730_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1h6blhagkcz2slz-paldean-wooper"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015120_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nf71eulfro7r9w2-meowscarada-ex"
   },
   {
     "id": "3rkci35d4lx32ej-armarouge-ex",
@@ -3041,105 +3212,6 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3rkci35d4lx32ej-armarouge-ex"
   },
   {
-    "id": "4s0rzdxumg2lwsq-bellibolt-ex",
-    "nome": "Bellibolt ex",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "103 / 131",
-    "hp": 160,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Canhão de Alta Voltagem",
-        "dano": "70 +",
-        "custoataque": [
-          "lightning",
-          "lightning"
-        ],
-        "efeito": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015510_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4s0rzdxumg2lwsq-bellibolt-ex"
-  },
-  {
-    "id": "rmcn08limmbc1dr-penny",
-    "nome": "Penélope",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "109 / 131",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_20_000700_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rmcn08limmbc1dr-penny"
-  },
-  {
-    "id": "0h9j0wd6u1m840k-gholdengo-ex",
-    "nome": "Gholdengo ex",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "104 / 131",
-    "hp": 150,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Fogo",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015870_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0h9j0wd6u1m840k-gholdengo-ex"
-  },
-  {
-    "id": "3oojsequ9i5818p-pawmo",
-    "nome": "Pawmo",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "120 / 131",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Raio de Cabeça",
-        "dano": "30",
-        "custoataque": [
-          "lightning"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015480_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3oojsequ9i5818p-pawmo"
-  },
-  {
     "id": "r9dk4bpqzrekxpn-chien-pao-ex",
     "nome": "Chien-Pao ex",
     "tipo": "Pokemon",
@@ -3158,6 +3230,16 @@
         "custoataque": [
           "water"
         ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Mergulho Gélido",
+        "dano": "",
+        "custoataque": [
+          "water",
+          "water",
+          "water"
+        ],
         "efeito": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon"
       }
     ],
@@ -3169,93 +3251,15 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r9dk4bpqzrekxpn-chien-pao-ex"
   },
   {
-    "id": "nf71eulfro7r9w2-meowscarada-ex",
-    "nome": "Meowscarada ex",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "110 / 131",
-    "hp": 160,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Truque Floral",
-        "dano": "80",
-        "custoataque": [
-          "grass"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015120_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nf71eulfro7r9w2-meowscarada-ex"
-  },
-  {
-    "id": "2p2de9c0u0uy01x-gimmighoul",
-    "nome": "Gimmighoul",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "122 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Jogadas de Moeda Contínuas",
-        "dano": "20 ×",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "Flip a coin until you get tails. This attack does 20 damage for each heads"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015630_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2p2de9c0u0uy01x-gimmighoul"
-  },
-  {
-    "id": "x5ymaed5bx04ra1-pawmi",
-    "nome": "Pawmi",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "119 / 131",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015470_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x5ymaed5bx04ra1-pawmi"
-  },
-  {
-    "id": "nbyhyt20ibgzmtx-iono",
-    "nome": "Kissera",
+    "id": "x6x3jh8l8vym3lg-arven",
+    "nome": "Arven",
     "tipo": "Treinador",
     "elemento": "Neutro",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "106 / 131",
+    "numero": "108 / 131",
     "hp": 0,
     "evolucao": "",
     "ataque": [],
@@ -3263,37 +3267,37 @@
     "recuo": 0,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_20_000420_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nbyhyt20ibgzmtx-iono"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_20_001210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x6x3jh8l8vym3lg-arven"
   },
   {
-    "id": "lqn8s0yxny6n0xi-floragato",
-    "nome": "Floragato",
+    "id": "616qaut03uagylo-gholdengo-ex",
+    "nome": "Gholdengo ex",
     "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
+    "elemento": "Metálico",
+    "raridade": "Rara",
+    "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "117 / 131",
-    "hp": 90,
+    "numero": "114 / 131",
+    "hp": 150,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Passo de Folha",
-        "dano": "30",
+        "nomeataque": "Golpe de Gastança",
+        "dano": "",
         "custoataque": [
-          "grass"
+          "metal"
         ],
-        "efeito": ""
+        "efeito": "1 of your opponent's Pokémon is chosen at random for each Mertal Wenergy attached to this Pokémon. For each time a Pokémon is chosen, do 40 damage to it"
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 1,
+    "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015110_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lqn8s0yxny6n0xi-floragato"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015870_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/616qaut03uagylo-gholdengo-ex"
   },
   {
     "id": "a1uncfhg4nayeca-bellibolt-ex",
@@ -3326,11 +3330,90 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a1uncfhg4nayeca-bellibolt-ex"
   },
   {
+    "id": "p0kmc1yi83kx6h2-arven",
+    "nome": "Arven",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "115 / 131",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_20_001210_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p0kmc1yi83kx6h2-arven"
+  },
+  {
+    "id": "hd7m8dp0ky993z0-meowscarada",
+    "nome": "Meowscarada",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "118 / 131",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Garras de Luta",
+        "dano": "60 +",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_005260_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hd7m8dp0ky993z0-meowscarada"
+  },
+  {
+    "id": "x5ymaed5bx04ra1-pawmi",
+    "nome": "Pawmi",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "119 / 131",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Fagulha Aleatória",
+        "dano": "",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": "This attack does 10 damage to 1 of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x5ymaed5bx04ra1-pawmi"
+  },
+  {
     "id": "vzurooz43js8pnp-sprigatito",
     "nome": "Sprigatito",
     "tipo": "Pokemon",
     "elemento": "Grama",
-    "raridade": "Ultra Rara",
+    "raridade": "Raro Brilhante",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
@@ -3355,142 +3438,188 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vzurooz43js8pnp-sprigatito"
   },
   {
-    "id": "y5n8aw0v7ql5bm6-raikou-ex",
-    "nome": "Raikou ex",
+    "id": "lqn8s0yxny6n0xi-floragato",
+    "nome": "Floragato",
     "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
+    "elemento": "Grama",
+    "raridade": "Raro Brilhante",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "128 / 131",
-    "hp": 130,
+    "numero": "117 / 131",
+    "hp": 90,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Projétil Voltaico",
-        "dano": "60",
+        "nomeataque": "Passo de Folha",
+        "dano": "30",
         "custoataque": [
-          "lightning",
-          "lightning"
+          "grass"
         ],
-        "efeito": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon"
+        "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": true,
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_010440_02_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y5n8aw0v7ql5bm6-raikou-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lqn8s0yxny6n0xi-floragato"
   },
   {
-    "id": "a72ai9p3ylox7ne-entei-ex",
-    "nome": "Entei ex",
+    "id": "3oojsequ9i5818p-pawmo",
+    "nome": "Pawmo",
     "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Ultra Rara",
+    "elemento": "Elétrico",
+    "raridade": "Raro Brilhante",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "126 / 131",
+    "numero": "120 / 131",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Raio de Cabeça",
+        "dano": "30",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015480_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3oojsequ9i5818p-pawmo"
+  },
+  {
+    "id": "5q8k43ekpdn65bx-pawmot",
+    "nome": "Pawmot",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "121 / 131",
     "hp": 140,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Batida Escaldante",
-        "dano": "60 +",
+        "nomeataque": "Explosão de Trovões",
+        "dano": "100",
         "custoataque": [
-          "fire",
-          "fire"
+          "lightning",
+          "lightning"
         ],
-        "efeito": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage"
+        "efeito": "Discard a Lightning Energy from this Pokémon"
       }
     ],
-    "fraqueza": "Agua",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_010210_02_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a72ai9p3ylox7ne-entei-ex"
-  },
-  {
-    "id": "x6x3jh8l8vym3lg-arven",
-    "nome": "Arven",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "108 / 131",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
+    "fraqueza": "Luta",
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_20_001210_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x6x3jh8l8vym3lg-arven"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5q8k43ekpdn65bx-pawmot"
   },
   {
-    "id": "sok5zx4bajkt1g8-electric-generator",
-    "nome": "Gerador Elétrico",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Ultra Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "131 / 131",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_20_001170_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sok5zx4bajkt1g8-electric-generator"
-  },
-  {
-    "id": "yt3pjn8lzj9417l-gholdengo",
-    "nome": "Gholdengo",
+    "id": "2p2de9c0u0uy01x-gimmighoul",
+    "nome": "Gimmighoul",
     "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Ultra Rara",
+    "elemento": "Psíquico",
+    "raridade": "Raro Brilhante",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "125 / 131",
-    "hp": 120,
+    "numero": "122 / 131",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Surfe Extravagante",
-        "dano": "50 ×",
+        "nomeataque": "Jogadas de Moeda Contínuas",
+        "dano": "20 ×",
         "custoataque": [
-          "metal",
-          "colorless",
           "colorless"
         ],
-        "efeito": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads"
+        "efeito": "Flip a coin until you get tails. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015630_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2p2de9c0u0uy01x-gimmighoul"
+  },
+  {
+    "id": "skn4710ogk1cfoe-tinkatink",
+    "nome": "Tinkatink",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "123 / 131",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Pulso",
+        "dano": "30",
+        "custoataque": [
+          "metal",
+          "colorless"
+        ],
+        "efeito": ""
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 0,
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_005720_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yt3pjn8lzj9417l-gholdengo"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015810_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/skn4710ogk1cfoe-tinkatink"
+  },
+  {
+    "id": "gkukq3l892uny86-tinkatuff",
+    "nome": "Tinkatuff",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "124 / 131",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco de Luz",
+        "dano": "50",
+        "custoataque": [
+          "metal",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015820_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gkukq3l892uny86-tinkatuff"
   },
   {
     "id": "iyle8ws7bvhy10i-tinkaton-ex",
     "nome": "Tinkaton ex",
     "tipo": "Pokemon",
     "elemento": "Metálico",
-    "raridade": "Ultra Rara",
+    "raridade": "Duplo Brilhante Raro",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
@@ -3517,101 +3646,41 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iyle8ws7bvhy10i-tinkaton-ex"
   },
   {
-    "id": "h5atce4337mvhfl-suicune-ex",
-    "nome": "Suicune ex",
+    "id": "y5n8aw0v7ql5bm6-raikou-ex",
+    "nome": "Raikou ex",
     "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Ultra Rara",
+    "elemento": "Elétrico",
+    "raridade": "Duplo Brilhante Raro",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "127 / 131",
-    "hp": 140,
+    "numero": "128 / 131",
+    "hp": 130,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Valsa de Cristal",
-        "dano": "20 ×",
+        "nomeataque": "Projétil Voltaico",
+        "dano": "60",
         "custoataque": [
-          "water",
-          "water"
+          "lightning",
+          "lightning"
         ],
-        "efeito": "This attac does 20 damage for each Benched Pokémon (both yours and youro pponent's)"
+        "efeito": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon"
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Luta",
     "recuo": 2,
     "temHabilidade": true,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_010400_02_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h5atce4337mvhfl-suicune-ex"
-  },
-  {
-    "id": "hd7m8dp0ky993z0-meowscarada",
-    "nome": "Meowscarada",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "118 / 131",
-    "hp": 140,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Garras de Luta",
-        "dano": "60 +",
-        "custoataque": [
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_005260_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hd7m8dp0ky993z0-meowscarada"
-  },
-  {
-    "id": "gkukq3l892uny86-tinkatuff",
-    "nome": "Tinkatuff",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Maravilhas de Paldea",
-    "numero": "124 / 131",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Soco de Luz",
-        "dano": "50",
-        "custoataque": [
-          "metal",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015820_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gkukq3l892uny86-tinkatuff"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_010440_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y5n8aw0v7ql5bm6-raikou-ex"
   },
   {
     "id": "rqvlxwivqk70ey3-baxcalibur",
     "nome": "Baxcalibur",
     "tipo": "Pokemon",
     "elemento": "Água",
-    "raridade": "Ultra Rara",
+    "raridade": "Coroa Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
@@ -3638,63 +3707,114 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rqvlxwivqk70ey3-baxcalibur"
   },
   {
-    "id": "5q8k43ekpdn65bx-pawmot",
-    "nome": "Pawmot",
+    "id": "yt3pjn8lzj9417l-gholdengo",
+    "nome": "Gholdengo",
     "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
+    "elemento": "Metálico",
+    "raridade": "Duplo Brilhante Raro",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "121 / 131",
+    "numero": "125 / 131",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Surfe Extravagante",
+        "dano": "50 ×",
+        "custoataque": [
+          "metal",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_005720_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yt3pjn8lzj9417l-gholdengo"
+  },
+  {
+    "id": "a72ai9p3ylox7ne-entei-ex",
+    "nome": "Entei ex",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "126 / 131",
     "hp": 140,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Explosão de Trovões",
-        "dano": "100",
+        "nomeataque": "Batida Escaldante",
+        "dano": "60 +",
         "custoataque": [
-          "lightning",
-          "lightning"
+          "fire",
+          "fire"
         ],
-        "efeito": "Discard a Lightning Energy from this Pokémon"
+        "efeito": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": true,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015490_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5q8k43ekpdn65bx-pawmot"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_010210_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a72ai9p3ylox7ne-entei-ex"
   },
   {
-    "id": "skn4710ogk1cfoe-tinkatink",
-    "nome": "Tinkatink",
+    "id": "h5atce4337mvhfl-suicune-ex",
+    "nome": "Suicune ex",
     "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Ultra Rara",
+    "elemento": "Água",
+    "raridade": "Duplo Brilhante Raro",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Maravilhas de Paldea",
-    "numero": "123 / 131",
-    "hp": 60,
+    "numero": "127 / 131",
+    "hp": 140,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Pulso",
-        "dano": "30",
+        "nomeataque": "Valsa de Cristal",
+        "dano": "20 ×",
         "custoataque": [
-          "metal",
-          "colorless"
+          "water",
+          "water"
         ],
-        "efeito": ""
+        "efeito": "This attac does 20 damage for each Benched Pokémon (both yours and youro pponent's)"
       }
     ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_010400_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h5atce4337mvhfl-suicune-ex"
+  },
+  {
+    "id": "sok5zx4bajkt1g8-electric-generator",
+    "nome": "Gerador Elétrico",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Coroa Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Maravilhas de Paldea",
+    "numero": "131 / 131",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/PK_20_015810_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/skn4710ogk1cfoe-tinkatink"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b2a/TR_20_001170_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sok5zx4bajkt1g8-electric-generator"
   }
 ]

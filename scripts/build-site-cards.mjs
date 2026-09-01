@@ -163,6 +163,10 @@ async function resolveImageLocal(card) {
     const nextPreferred = buildImageLocalFromCard(card, preferredFileName) || preferred;
     const abs = resolve(process.cwd(), nextPreferred.replace(/^\.\//, ""));
     if (await exists(abs)) return nextPreferred;
+
+    const webpPath = nextPreferred.replace(/\.[^.]+$/, ".webp");
+    const webpAbs = resolve(process.cwd(), webpPath.replace(/^\.\//, ""));
+    if (webpPath !== nextPreferred && (await exists(webpAbs))) return webpPath;
   }
 
   const token = sourceTokenFromCard(card);

@@ -1,8 +1,23 @@
 ﻿import { mkdir, writeFile, access } from "node:fs/promises";
 import { resolve, extname } from "node:path";
+import { readFile } from "node:fs/promises";
+import { unlink } from "node:fs/promises";
 import { argValue, filterFilesByCode, loadIndexFiles, readCardsFromEntry, writeCardsToEntry } from "./lib/cards-store.mjs";
 
 const OUT_DIR = resolve(process.cwd(), "assets", "cards");
+const COMPLETE_INDEX_PATH = resolve(process.cwd(), "data", "complete", "index.json");
+
+async function loadCardIndexFiles() {
+  try {
+    const raw = await readFile(COMPLETE_INDEX_PATH, "utf8");
+    const payload = JSON.parse(raw.replace(/^\uFEFF/, ""));
+    const files = Array.isArray(payload) ? payload : payload.files || [];
+    if (files.length) return { files };
+  } catch {
+    // Mantem compatibilidade com a base consolidada legada.
+  }
+  return loadIndexFiles();
+}
 
 function sanitizeFileName(text) {
   return String(text).replace(/[^a-zA-Z0-9_-]/g, "_");
@@ -30,6 +45,16 @@ async function fetchBuffer(url) {
   return Buffer.from(ab);
 }
 
+function cardOnlyImageUrl(imageUrl) {
+  const url = new URL(imageUrl);
+  const match = url.pathname.match(/^\/tcg-pocket\/cards\/wallpapers\/([^/]+)\/(\d+)_([a-z]{2})_wallpaper\.jpg$/i);
+  if (!match) return imageUrl;
+
+  const [, setCode, number, language] = match;
+  url.pathname = `/tcg-pocket/cards/${setCode}/webp/${number}_${language}.webp`;
+  return url.toString();
+}
+
 function assetCodeFromEntry(entry) {
   const normalizedCode = String(entry?.code || "").trim().toUpperCase();
   if (normalizedCode === "PROMO-A") return "pa";
@@ -39,7 +64,9 @@ function assetCodeFromEntry(entry) {
 
 async function run() {
   const code = argValue("--code", "");
-  const { files } = await loadIndexFiles();
+  const cardOnly = process.argv.includes("--card-only");
+  const force = process.argv.includes("--force");
+  const { files } = await loadCardIndexFiles();
   const targetFiles = filterFilesByCode(files, code);
 
   await mkdir(OUT_DIR, { recursive: true });
@@ -70,16 +97,22 @@ async function run() {
       while (cursor < withImages.length) {
         const i = cursor++;
         const card = withImages[i];
-        const rawExt = extname(new URL(card.imageUrl).pathname) || ".jpg";
+        const downloadUrl = cardOnly ? cardOnlyImageUrl(card.imageUrl) : card.imageUrl;
+        const rawExt = extname(new URL(downloadUrl).pathname) || ".jpg";
         const normalizedId = sanitizeFileName(card.id).replace(/^p-a-/i, "pa-").replace(/^p-b-/i, "pb-");
         const fileName = `${normalizedId}${rawExt}`.toLowerCase();
         const outPath = resolve(targetDir, fileName);
         const relPath = `./assets/cards/cartas_${assetCode}/${fileName}`;
+        const previousPath = String(card.imageLocal || "").trim();
+        const previousAbs = previousPath ? resolve(process.cwd(), previousPath.replace(/^\.\//, "")) : "";
 
         try {
-          if (!(await exists(outPath))) {
-            const bytes = await fetchBuffer(card.imageUrl);
+          if (force || !(await exists(outPath))) {
+            const bytes = await fetchBuffer(downloadUrl);
             await writeFile(outPath, bytes);
+          }
+          if (force && previousAbs && previousAbs !== outPath && await exists(previousAbs)) {
+            await unlink(previousAbs);
           }
           card.imageLocal = relPath;
         } catch (error) {

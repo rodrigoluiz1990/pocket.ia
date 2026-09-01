@@ -1,209 +1,5 @@
 [
   {
-    "id": "7217nelxkwt3otl-bounsweet",
-    "nome": "Bounsweet",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "3 / 107",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Baque",
-        "dano": "10",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007990_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7217nelxkwt3otl-bounsweet"
-  },
-  {
-    "id": "5z63o4u3az71zm9-tsareena",
-    "nome": "Tsareena",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 2",
-    "expansao": "Bosque dos Eevee",
-    "numero": "5 / 107",
-    "hp": 140,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Chute Precipitante",
-        "dano": "50",
-        "custoataque": [
-          "grass"
-        ],
-        "efeito": "Your opponent reveals a random card from their hand and shuffles it into their deck"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008010_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5z63o4u3az71zm9-tsareena"
-  },
-  {
-    "id": "49wilt7757hgizt-leafeon",
-    "nome": "Leafeon",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "2 / 107",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Folhas Bombásticas",
-        "dano": "10 +",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "This attack does 20 damage for each Grass Energy attached to this Pokémon"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007980_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/49wilt7757hgizt-leafeon"
-  },
-  {
-    "id": "83r5rkb9gmb8zr7-salazzle",
-    "nome": "Salazzle",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "15 / 107",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Combustão",
-        "dano": "40",
-        "custoataque": [
-          "fire"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008110_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/83r5rkb9gmb8zr7-salazzle"
-  },
-  {
-    "id": "2nrwr2c352zk0f6-applin",
-    "nome": "Applin",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "6 / 107",
-    "hp": 40,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Aríete",
-        "dano": "20",
-        "custoataque": [
-          "grass"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008020_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2nrwr2c352zk0f6-applin"
-  },
-  {
-    "id": "g3c83z90ll6426m-steenee",
-    "nome": "Steenee",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "4 / 107",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Passo de Folha",
-        "dano": "40",
-        "custoataque": [
-          "grass"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008000_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g3c83z90ll6426m-steenee"
-  },
-  {
-    "id": "87cj1h581l7v861-torracat",
-    "nome": "Torracat",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "12 / 107",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Golpe de Garra",
-        "dano": "50",
-        "custoataque": [
-          "fire",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008080_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/87cj1h581l7v861-torracat"
-  },
-  {
     "id": "93yb6cdd566bp5v-tropius",
     "nome": "Tropius",
     "tipo": "Pokemon",
@@ -235,34 +31,62 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/93yb6cdd566bp5v-tropius"
   },
   {
-    "id": "f5yw75px3lv9k97-litten",
-    "nome": "Litten",
+    "id": "49wilt7757hgizt-leafeon",
+    "nome": "Leafeon",
     "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
+    "elemento": "Grama",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Estágio 1",
     "expansao": "Bosque dos Eevee",
-    "numero": "11 / 107",
-    "hp": 70,
+    "numero": "2 / 107",
+    "hp": 90,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Chama",
+        "nomeataque": "Folhas Bombásticas",
+        "dano": "10 +",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "This attack does 20 damage for each Grass Energy attached to this Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007980_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/49wilt7757hgizt-leafeon"
+  },
+  {
+    "id": "g3c83z90ll6426m-steenee",
+    "nome": "Steenee",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "4 / 107",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Passo de Folha",
         "dano": "40",
         "custoataque": [
-          "fire",
-          "colorless"
+          "grass"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Agua",
-    "recuo": 1,
+    "fraqueza": "Fogo",
+    "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008070_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f5yw75px3lv9k97-litten"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008000_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g3c83z90ll6426m-steenee"
   },
   {
     "id": "0l4ux6lv243yga2-torkoal",
@@ -295,93 +119,121 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0l4ux6lv243yga2-torkoal"
   },
   {
-    "id": "9m28k0053z9z39l-vanillish",
-    "nome": "Vanillish",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "19 / 107",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Revezamento Doce",
-        "dano": "30 +",
-        "custoataque": [
-          "water"
-        ],
-        "efeito": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008140_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9m28k0053z9z39l-vanillish"
-  },
-  {
-    "id": "ld9jv931b13aa0p-incineroar",
-    "nome": "Incineroar",
+    "id": "f5yw75px3lv9k97-litten",
+    "nome": "Litten",
     "tipo": "Pokemon",
     "elemento": "Fogo",
-    "raridade": "Incomum",
+    "raridade": "Comum",
     "custoDeck": 1,
-    "estagio": "Estágio 2",
+    "estagio": "Básico",
     "expansao": "Bosque dos Eevee",
-    "numero": "13 / 107",
-    "hp": 150,
+    "numero": "11 / 107",
+    "hp": 70,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Lariat Escuro",
-        "dano": "100 ×",
+        "nomeataque": "Chama",
+        "dano": "40",
         "custoataque": [
-          "fire",
           "fire",
           "colorless"
         ],
-        "efeito": "Flip 2 coins. This attack does 100 damage for each heads"
+        "efeito": ""
       }
     ],
     "fraqueza": "Agua",
-    "recuo": 3,
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008090_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ld9jv931b13aa0p-incineroar"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008070_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f5yw75px3lv9k97-litten"
   },
   {
-    "id": "e2053hv93o4kma4-appletun",
-    "nome": "Appletun",
+    "id": "7217nelxkwt3otl-bounsweet",
+    "nome": "Bounsweet",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "3 / 107",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Baque",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007990_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7217nelxkwt3otl-bounsweet"
+  },
+  {
+    "id": "2nrwr2c352zk0f6-applin",
+    "nome": "Applin",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "6 / 107",
+    "hp": 40,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "20",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008020_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2nrwr2c352zk0f6-applin"
+  },
+  {
+    "id": "5z63o4u3az71zm9-tsareena",
+    "nome": "Tsareena",
     "tipo": "Pokemon",
     "elemento": "Grama",
     "raridade": "Incomum",
     "custoDeck": 1,
-    "estagio": "Estágio 1",
+    "estagio": "Estágio 2",
     "expansao": "Bosque dos Eevee",
-    "numero": "7 / 107",
-    "hp": 90,
+    "numero": "5 / 107",
+    "hp": 140,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Revezamento Doce",
-        "dano": "40 +",
+        "nomeataque": "Chute Precipitante",
+        "dano": "50",
         "custoataque": [
           "grass"
         ],
-        "efeito": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 30 more damage"
+        "efeito": "Your opponent reveals a random card from their hand and shuffles it into their deck"
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 3,
+    "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008030_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e2053hv93o4kma4-appletun"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008010_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5z63o4u3az71zm9-tsareena"
   },
   {
     "id": "01q1u7gv07f9il0-flareon",
@@ -412,117 +264,6 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008040_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/01q1u7gv07f9il0-flareon"
-  },
-  {
-    "id": "ae8v2dd2512l05m-popplio",
-    "nome": "Popplio",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "22 / 107",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Irrigação",
-        "dano": "30",
-        "custoataque": [
-          "water",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008170_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ae8v2dd2512l05m-popplio"
-  },
-  {
-    "id": "z3jstp6aw5pb1ii-salandit",
-    "nome": "Salandit",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "14 / 107",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Brasa",
-        "dano": "30",
-        "custoataque": [
-          "fire"
-        ],
-        "efeito": "Discard a Fire Energy from this Pokémon"
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008100_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z3jstp6aw5pb1ii-salandit"
-  },
-  {
-    "id": "8rblrm451g0211o-glaceon",
-    "nome": "Glaceon",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "17 / 107",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Raio",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008130_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8rblrm451g0211o-glaceon"
-  },
-  {
-    "id": "910v79584356zc5-brionne",
-    "nome": "Brionne",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "23 / 107",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Revólver d’Água",
-        "dano": "40",
-        "custoataque": [
-          "water",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008180_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/910v79584356zc5-brionne"
   },
   {
     "id": "m0800qm1tuktmzt-flareon-ex",
@@ -556,114 +297,183 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m0800qm1tuktmzt-flareon-ex"
   },
   {
-    "id": "1i11uwnx6er7s4t-joltik",
-    "nome": "Joltik",
+    "id": "e2053hv93o4kma4-appletun",
+    "nome": "Appletun",
     "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Comum",
+    "elemento": "Grama",
+    "raridade": "Incomum",
     "custoDeck": 1,
-    "estagio": "Básico",
+    "estagio": "Estágio 1",
     "expansao": "Bosque dos Eevee",
-    "numero": "26 / 107",
-    "hp": 40,
+    "numero": "7 / 107",
+    "hp": 90,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Choque",
-        "dano": "10",
+        "nomeataque": "Revezamento Doce",
+        "dano": "40 +",
         "custoataque": [
-          "lightning"
+          "grass"
         ],
-        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+        "efeito": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 30 more damage"
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008030_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e2053hv93o4kma4-appletun"
+  },
+  {
+    "id": "87cj1h581l7v861-torracat",
+    "nome": "Torracat",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "12 / 107",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe de Garra",
+        "dano": "50",
+        "custoataque": [
+          "fire",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008200_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1i11uwnx6er7s4t-joltik"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008080_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/87cj1h581l7v861-torracat"
   },
   {
-    "id": "i85cl562z336lj4-vanilluxe",
-    "nome": "Vanilluxe",
+    "id": "ld9jv931b13aa0p-incineroar",
+    "nome": "Incineroar",
     "tipo": "Pokemon",
-    "elemento": "Água",
+    "elemento": "Fogo",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Estágio 2",
     "expansao": "Bosque dos Eevee",
-    "numero": "20 / 107",
-    "hp": 140,
+    "numero": "13 / 107",
+    "hp": 150,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Giro Duplo",
-        "dano": "80 ×",
+        "nomeataque": "Lariat Escuro",
+        "dano": "100 ×",
+        "custoataque": [
+          "fire",
+          "fire",
+          "colorless"
+        ],
+        "efeito": "Flip 2 coins. This attack does 100 damage for each heads"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008090_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ld9jv931b13aa0p-incineroar"
+  },
+  {
+    "id": "83r5rkb9gmb8zr7-salazzle",
+    "nome": "Salazzle",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "15 / 107",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Combustão",
+        "dano": "40",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008110_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/83r5rkb9gmb8zr7-salazzle"
+  },
+  {
+    "id": "sasd21zinms6132-vaporeon",
+    "nome": "Vaporeon",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "16 / 107",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Hiper Redemoinho",
+        "dano": "70",
         "custoataque": [
           "water",
           "colorless",
           "colorless"
         ],
-        "efeito": "Flip 2 coins. This attack does 80 damage for each heads"
+        "efeito": "Flip a coin until you get a tails. For each heads, discard a random Energy from your opponent's Active Pokénon"
       }
     ],
     "fraqueza": "Raio",
     "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008150_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i85cl562z336lj4-vanilluxe"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008120_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sasd21zinms6132-vaporeon"
   },
   {
-    "id": "e69obpxg7xsq8g0-galvantula",
-    "nome": "Galvantula",
+    "id": "9m28k0053z9z39l-vanillish",
+    "nome": "Vanillish",
     "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Incomum",
+    "elemento": "Água",
+    "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Estágio 1",
     "expansao": "Bosque dos Eevee",
-    "numero": "27 / 107",
+    "numero": "19 / 107",
     "hp": 80,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Choque Elétrico",
-        "dano": "70",
+        "nomeataque": "Revezamento Doce",
+        "dano": "30 +",
         "custoataque": [
-          "lightning",
-          "lightning"
+          "water"
         ],
-        "efeito": "Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed"
+        "efeito": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 0,
+    "fraqueza": "Raio",
+    "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008210_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e69obpxg7xsq8g0-galvantula"
-  },
-  {
-    "id": "ms3a8n039w605j5-carbink",
-    "nome": "Carbink",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "42 / 107",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008350_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ms3a8n039w605j5-carbink"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008140_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9m28k0053z9z39l-vanillish"
   },
   {
     "id": "x0rp3mqt13289hy-alomomola",
@@ -697,6 +507,66 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x0rp3mqt13289hy-alomomola"
   },
   {
+    "id": "z3jstp6aw5pb1ii-salandit",
+    "nome": "Salandit",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "14 / 107",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Brasa",
+        "dano": "30",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": "Discard a Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008100_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z3jstp6aw5pb1ii-salandit"
+  },
+  {
+    "id": "910v79584356zc5-brionne",
+    "nome": "Brionne",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "23 / 107",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Revólver d’Água",
+        "dano": "40",
+        "custoataque": [
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008180_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/910v79584356zc5-brionne"
+  },
+  {
     "id": "1r3njew9s4t02vx-vanillite",
     "nome": "Vanillite",
     "tipo": "Pokemon",
@@ -724,6 +594,98 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007320_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1r3njew9s4t02vx-vanillite"
+  },
+  {
+    "id": "8rblrm451g0211o-glaceon",
+    "nome": "Glaceon",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "17 / 107",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lâmina de Gelo",
+        "dano": "",
+        "custoataque": [
+          "water",
+          "water"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008130_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8rblrm451g0211o-glaceon"
+  },
+  {
+    "id": "ae8v2dd2512l05m-popplio",
+    "nome": "Popplio",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "22 / 107",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Irrigação",
+        "dano": "30",
+        "custoataque": [
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008170_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ae8v2dd2512l05m-popplio"
+  },
+  {
+    "id": "i85cl562z336lj4-vanilluxe",
+    "nome": "Vanilluxe",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 2",
+    "expansao": "Bosque dos Eevee",
+    "numero": "20 / 107",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Giro Duplo",
+        "dano": "80 ×",
+        "custoataque": [
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip 2 coins. This attack does 80 damage for each heads"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008150_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i85cl562z336lj4-vanilluxe"
   },
   {
     "id": "4w04i8y2b1o737f-primarina-ex",
@@ -794,64 +756,93 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ydu7dkdg1omhb88-jolteon"
   },
   {
-    "id": "f760s9px11gs9bt-woobat",
-    "nome": "Woobat",
+    "id": "e69obpxg7xsq8g0-galvantula",
+    "nome": "Galvantula",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
+    "elemento": "Elétrico",
+    "raridade": "Incomum",
     "custoDeck": 1,
-    "estagio": "Básico",
+    "estagio": "Estágio 1",
     "expansao": "Bosque dos Eevee",
-    "numero": "29 / 107",
-    "hp": 60,
+    "numero": "27 / 107",
+    "hp": 80,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Lufada de Vento",
-        "dano": "20",
+        "nomeataque": "Choque Elétrico",
+        "dano": "70",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008210_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e69obpxg7xsq8g0-galvantula"
+  },
+  {
+    "id": "178s2bi0dkj2dnu-espeon",
+    "nome": "Espeon",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "28 / 107",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Esmagamento de Energia",
+        "dano": "20 +",
         "custoataque": [
           "psychic"
         ],
-        "efeito": ""
+        "efeito": "This attack does 20 damage for each Energy atached to all your opponent's Pokémon"
       }
     ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008230_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f760s9px11gs9bt-woobat"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/178s2bi0dkj2dnu-espeon"
   },
   {
-    "id": "sasd21zinms6132-vaporeon",
-    "nome": "Vaporeon",
+    "id": "398zmsudxc81p6r-mimikyu",
+    "nome": "Mimikyu",
     "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Estágio 1",
+    "elemento": "Psíquico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
     "expansao": "Bosque dos Eevee",
-    "numero": "16 / 107",
-    "hp": 120,
+    "numero": "35 / 107",
+    "hp": 70,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Hiper Redemoinho",
-        "dano": "70",
+        "nomeataque": "Tentar Imitar",
+        "dano": "",
         "custoataque": [
-          "water",
-          "colorless",
-          "colorless"
+          "psychic",
+          "psychic"
         ],
-        "efeito": "Flip a coin until you get a tails. For each heads, discard a random Energy from your opponent's Active Pokénon"
+        "efeito": "Flip a coin. If heads, choose 1 of your opponent's Pokémon's attacks and use it as this attack"
       }
     ],
-    "fraqueza": "Raio",
-    "recuo": 2,
+    "fraqueza": "Metal",
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008120_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sasd21zinms6132-vaporeon"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008290_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/398zmsudxc81p6r-mimikyu"
   },
   {
     "id": "401apq126qea9jr-swoobat",
@@ -883,33 +874,62 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/401apq126qea9jr-swoobat"
   },
   {
-    "id": "mc8up980u0eof9t-swirlix",
-    "nome": "Swirlix",
+    "id": "1i11uwnx6er7s4t-joltik",
+    "nome": "Joltik",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "26 / 107",
+    "hp": 40,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Choque",
+        "dano": "10",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008200_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1i11uwnx6er7s4t-joltik"
+  },
+  {
+    "id": "f760s9px11gs9bt-woobat",
+    "nome": "Woobat",
     "tipo": "Pokemon",
     "elemento": "Psíquico",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Bosque dos Eevee",
-    "numero": "31 / 107",
+    "numero": "29 / 107",
     "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Revezamento Doce",
-        "dano": "10 +",
+        "nomeataque": "Lufada de Vento",
+        "dano": "20",
         "custoataque": [
-          "colorless"
+          "psychic"
         ],
-        "efeito": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage"
+        "efeito": ""
       }
     ],
-    "fraqueza": "Metal",
+    "fraqueza": "Escuridao",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008250_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mc8up980u0eof9t-swirlix"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f760s9px11gs9bt-woobat"
   },
   {
     "id": "d5z46aexlcyt69h-sylveon",
@@ -942,35 +962,6 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d5z46aexlcyt69h-sylveon"
   },
   {
-    "id": "178s2bi0dkj2dnu-espeon",
-    "nome": "Espeon",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "28 / 107",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Esmagamento de Energia",
-        "dano": "20 +",
-        "custoataque": [
-          "psychic"
-        ],
-        "efeito": "This attack does 20 damage for each Energy atached to all your opponent's Pokémon"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008220_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/178s2bi0dkj2dnu-espeon"
-  },
-  {
     "id": "aaeozq89o92528f-slurpuff",
     "nome": "Slurpuff",
     "tipo": "Pokemon",
@@ -999,6 +990,64 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008260_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aaeozq89o92528f-slurpuff"
+  },
+  {
+    "id": "1klb3b011552y39-milcery",
+    "nome": "Milcery",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "36 / 107",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Revezamento Doce",
+        "dano": "10 +",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008300_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1klb3b011552y39-milcery"
+  },
+  {
+    "id": "mc8up980u0eof9t-swirlix",
+    "nome": "Swirlix",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "31 / 107",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Revezamento Doce",
+        "dano": "10 +",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008250_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mc8up980u0eof9t-swirlix"
   },
   {
     "id": "j905ii831785t65-alcremie",
@@ -1030,6 +1079,38 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j905ii831785t65-alcremie"
   },
   {
+    "id": "lhv5do522e7z99a-whiscash",
+    "nome": "Whiscash",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "39 / 107",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Terremoto",
+        "dano": "130",
+        "custoataque": [
+          "fighting",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 10 damagr to each of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008320_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lhv5do522e7z99a-whiscash"
+  },
+  {
     "id": "75zm3a0uzx4f74r-sylveon-ex",
     "nome": "Sylveon ex",
     "tipo": "Pokemon",
@@ -1058,56 +1139,6 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008280_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/75zm3a0uzx4f74r-sylveon-ex"
-  },
-  {
-    "id": "phohwgq49z196h7-mienshao",
-    "nome": "Mienshao",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "41 / 107",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Rasteira",
-        "dano": "70",
-        "custoataque": [
-          "fighting",
-          "fighting"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Psiquico",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008340_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/phohwgq49z196h7-mienshao"
-  },
-  {
-    "id": "19q3xs29178wu97-liepard",
-    "nome": "Liepard",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "46 / 107",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008390_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/19q3xs29178wu97-liepard"
   },
   {
     "id": "lzc07258ilk561h-barboach",
@@ -1169,85 +1200,64 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jo8w0seu72uam7w-mienfoo"
   },
   {
-    "id": "lhv5do522e7z99a-whiscash",
-    "nome": "Whiscash",
+    "id": "phohwgq49z196h7-mienshao",
+    "nome": "Mienshao",
     "tipo": "Pokemon",
     "elemento": "Lutador",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Estágio 1",
     "expansao": "Bosque dos Eevee",
-    "numero": "39 / 107",
-    "hp": 130,
+    "numero": "41 / 107",
+    "hp": 90,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Terremoto",
-        "dano": "130",
+        "nomeataque": "Rasteira",
+        "dano": "70",
         "custoataque": [
           "fighting",
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This attack does 10 damagr to each of your Benched Pokémon"
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008320_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lhv5do522e7z99a-whiscash"
-  },
-  {
-    "id": "7ytp8j7f7s65j40-sableye",
-    "nome": "Sableye",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "44 / 107",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Arranhão",
-        "dano": "30",
-        "custoataque": [
-          "darkness"
+          "fighting"
         ],
         "efeito": ""
       }
     ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008340_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/phohwgq49z196h7-mienshao"
+  },
+  {
+    "id": "ms3a8n039w605j5-carbink",
+    "nome": "Carbink",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "42 / 107",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Rolagem Rígida",
+        "dano": "",
+        "custoataque": [
+          "fighting",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from - and effects of - attacks done to this Pokémon"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008370_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7ytp8j7f7s65j40-sableye"
-  },
-  {
-    "id": "398zmsudxc81p6r-mimikyu",
-    "nome": "Mimikyu",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "35 / 107",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008290_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/398zmsudxc81p6r-mimikyu"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008350_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ms3a8n039w605j5-carbink"
   },
   {
     "id": "7b0qtyd4t4rl9ka-purrloin",
@@ -1261,7 +1271,16 @@
     "numero": "45 / 107",
     "hp": 60,
     "evolucao": "",
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Nocaute Brincalhão",
+        "dano": "",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "Discard all Pokémon Tools from your opponent's Active Pokémon"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 1,
     "temHabilidade": false,
@@ -1300,6 +1319,37 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z7f7b4f3q7623e5-mawile"
   },
   {
+    "id": "o4s59y8y7uas6e8-melmetal",
+    "nome": "Melmetal",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "50 / 107",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Megassoco",
+        "dano": "90",
+        "custoataque": [
+          "metal",
+          "metal",
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o4s59y8y7uas6e8-melmetal"
+  },
+  {
     "id": "b9b215n12l7o924-umbreon",
     "nome": "Umbreon",
     "tipo": "Pokemon",
@@ -1329,34 +1379,63 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b9b215n12l7o924-umbreon"
   },
   {
-    "id": "1o5w92780zan52i-drampa",
-    "nome": "Drampa",
+    "id": "7ytp8j7f7s65j40-sableye",
+    "nome": "Sableye",
     "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Incomum",
+    "elemento": "Noturno",
+    "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Bosque dos Eevee",
-    "numero": "54 / 107",
-    "hp": 100,
+    "numero": "44 / 107",
+    "hp": 70,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Sopro do Dragão",
-        "dano": "70",
+        "nomeataque": "Arranhão",
+        "dano": "30",
         "custoataque": [
-          "colorless",
-          "colorless"
+          "darkness"
         ],
-        "efeito": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now Paralyzed"
+        "efeito": ""
       }
     ],
-    "fraqueza": "",
-    "recuo": 2,
+    "fraqueza": "Planta",
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008460_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1o5w92780zan52i-drampa"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008370_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7ytp8j7f7s65j40-sableye"
+  },
+  {
+    "id": "19q3xs29178wu97-liepard",
+    "nome": "Liepard",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "46 / 107",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Garra Cortadora",
+        "dano": "",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/19q3xs29178wu97-liepard"
   },
   {
     "id": "iilo9s3v36e2964-togedemaru",
@@ -1389,35 +1468,33 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iilo9s3v36e2964-togedemaru"
   },
   {
-    "id": "o4s59y8y7uas6e8-melmetal",
-    "nome": "Melmetal",
+    "id": "y5870523q7od4bl-meltan",
+    "nome": "Meltan",
     "tipo": "Pokemon",
     "elemento": "Metálico",
-    "raridade": "Incomum",
+    "raridade": "Comum",
     "custoDeck": 1,
-    "estagio": "Estágio 1",
+    "estagio": "Básico",
     "expansao": "Bosque dos Eevee",
-    "numero": "50 / 107",
-    "hp": 140,
+    "numero": "49 / 107",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Megassoco",
-        "dano": "90",
+        "nomeataque": "Cabeçada",
+        "dano": "20",
         "custoataque": [
-          "metal",
-          "metal",
           "metal"
         ],
         "efeito": ""
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 4,
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008420_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o4s59y8y7uas6e8-melmetal"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y5870523q7od4bl-meltan"
   },
   {
     "id": "6j28rq9305m87gy-dratini",
@@ -1449,33 +1526,186 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6j28rq9305m87gy-dratini"
   },
   {
-    "id": "1klb3b011552y39-milcery",
-    "nome": "Milcery",
+    "id": "1o5w92780zan52i-drampa",
+    "nome": "Drampa",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
+    "elemento": "Dragão",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "54 / 107",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Sopro do Dragão",
+        "dano": "70",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1o5w92780zan52i-drampa"
+  },
+  {
+    "id": "5nd3m7y1e8qax04-eevee-ex",
+    "nome": "Eevee ex",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "56 / 107",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "30",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008480_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5nd3m7y1e8qax04-eevee-ex"
+  },
+  {
+    "id": "4436u9edc15qt61-snorlax-ex",
+    "nome": "Snorlax ex",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "57 / 107",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Sopapo Adormecedor",
+        "dano": "130",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 4,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4436u9edc15qt61-snorlax-ex"
+  },
+  {
+    "id": "l2cbv3a7704s0nw-dragonair",
+    "nome": "Dragonair",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "52 / 107",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cachoeira",
+        "dano": "60",
+        "custoataque": [
+          "water",
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008440_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l2cbv3a7704s0nw-dragonair"
+  },
+  {
+    "id": "sd53a4mn00k40d5-ambipom",
+    "nome": "Ambipom",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "59 / 107",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco Saca-rolha",
+        "dano": "50",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sd53a4mn00k40d5-ambipom"
+  },
+  {
+    "id": "p7e69ggmbb04z93-eevee",
+    "nome": "Eevee",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Bosque dos Eevee",
-    "numero": "36 / 107",
-    "hp": 50,
+    "numero": "55 / 107",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Revezamento Doce",
-        "dano": "10 +",
+        "nomeataque": "Coleta",
+        "dano": "",
         "custoataque": [
           "colorless"
         ],
-        "efeito": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage"
+        "efeito": "Draw a card"
       }
     ],
-    "fraqueza": "Metal",
+    "fraqueza": "Luta",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008300_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1klb3b011552y39-milcery"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p7e69ggmbb04z93-eevee"
   },
   {
     "id": "i7i69fgn1438wp8-chatot",
@@ -1538,176 +1768,63 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7o62l41lma5wuue-dragonite-ex"
   },
   {
-    "id": "sd53a4mn00k40d5-ambipom",
-    "nome": "Ambipom",
+    "id": "dyh09s2p89yc44w-audino",
+    "nome": "Audino",
     "tipo": "Pokemon",
     "elemento": "Incolor",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "59 / 107",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Soco Saca-rolha",
-        "dano": "50",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008510_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sd53a4mn00k40d5-ambipom"
-  },
-  {
-    "id": "y5870523q7od4bl-meltan",
-    "nome": "Meltan",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Bosque dos Eevee",
-    "numero": "49 / 107",
+    "numero": "61 / 107",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Fazer a \"Ola\"",
+        "dano": "20 ×",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 20 damage for each of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008530_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dyh09s2p89yc44w-audino"
+  },
+  {
+    "id": "26lzc93wel0wq1o-aipom",
+    "nome": "Aipom",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "58 / 107",
     "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Cabeçada",
-        "dano": "20",
-        "custoataque": [
-          "metal"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008410_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y5870523q7od4bl-meltan"
-  },
-  {
-    "id": "4436u9edc15qt61-snorlax-ex",
-    "nome": "Snorlax ex",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "57 / 107",
-    "hp": 160,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Sopapo Adormecedor",
-        "dano": "130",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This Pokémon is now Asleep"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 4,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008490_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4436u9edc15qt61-snorlax-ex"
-  },
-  {
-    "id": "5nd3m7y1e8qax04-eevee-ex",
-    "nome": "Eevee ex",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "56 / 107",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Mordida",
-        "dano": "30",
+        "nomeataque": "Golpe Duplo",
+        "dano": "20 ×",
         "custoataque": [
           "colorless"
         ],
-        "efeito": ""
+        "efeito": "Flip 2 coins. This attack does 20 damage for each heads"
       }
     ],
     "fraqueza": "Luta",
     "recuo": 1,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008480_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5nd3m7y1e8qax04-eevee-ex"
-  },
-  {
-    "id": "l2cbv3a7704s0nw-dragonair",
-    "nome": "Dragonair",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "52 / 107",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Cachoeira",
-        "dano": "60",
-        "custoataque": [
-          "water",
-          "lightning"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008440_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l2cbv3a7704s0nw-dragonair"
-  },
-  {
-    "id": "867l17246h84ab5-eevee-bag",
-    "nome": "Bolsa de Eevee",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "66 / 107",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_10_000670_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/867l17246h84ab5-eevee-bag"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008500_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/26lzc93wel0wq1o-aipom"
   },
   {
     "id": "4lb066qs17ow7ye-minccino",
@@ -1739,33 +1856,194 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4lb066qs17ow7ye-minccino"
   },
   {
-    "id": "26lzc93wel0wq1o-aipom",
-    "nome": "Aipom",
+    "id": "300w9sj1f2lvj6l-cinccino",
+    "nome": "Cinccino",
     "tipo": "Pokemon",
     "elemento": "Incolor",
-    "raridade": "Comum",
+    "raridade": "Incomum",
     "custoDeck": 1,
-    "estagio": "Básico",
+    "estagio": "Estágio 1",
     "expansao": "Bosque dos Eevee",
-    "numero": "58 / 107",
-    "hp": 60,
+    "numero": "63 / 107",
+    "hp": 90,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Golpe Duplo",
-        "dano": "20 ×",
+        "nomeataque": "Tapa",
+        "dano": "40",
         "custoataque": [
           "colorless"
         ],
-        "efeito": "Flip 2 coins. This attack does 20 damage for each heads"
+        "efeito": ""
       }
     ],
     "fraqueza": "Luta",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008500_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/26lzc93wel0wq1o-aipom"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008550_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/300w9sj1f2lvj6l-cinccino"
+  },
+  {
+    "id": "djbum2806n3usp6-greedent",
+    "nome": "Greedent",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "65 / 107",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Presa Acentuada",
+        "dano": "50 +",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007400_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/djbum2806n3usp6-greedent"
+  },
+  {
+    "id": "8vucu9lh6taqf8n-leftovers",
+    "nome": "Sobras",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "67 / 107",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_10_000680_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8vucu9lh6taqf8n-leftovers"
+  },
+  {
+    "id": "0yc3a713ga52m28-glaceon",
+    "nome": "Glaceon",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "73 / 107",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lâmina de Gelo",
+        "dano": "",
+        "custoataque": [
+          "water",
+          "water"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008130_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0yc3a713ga52m28-glaceon"
+  },
+  {
+    "id": "8e1k14s9u7w83c3-flareon",
+    "nome": "Flareon",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "71 / 107",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Caldeira de Apoio",
+        "dano": "40",
+        "custoataque": [
+          "fire",
+          "colorless"
+        ],
+        "efeito": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008040_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8e1k14s9u7w83c3-flareon"
+  },
+  {
+    "id": "0h1qk3i319mhd66-skwovet",
+    "nome": "Skwovet",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "64 / 107",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "30",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008560_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0h1qk3i319mhd66-skwovet"
+  },
+  {
+    "id": "867l17246h84ab5-eevee-bag",
+    "nome": "Bolsa de Eevee",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "66 / 107",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_10_000670_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/867l17246h84ab5-eevee-bag"
   },
   {
     "id": "25y9530c76rk6wc-penny",
@@ -1808,164 +2086,33 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2239h87h20x54lt-hau"
   },
   {
-    "id": "p7e69ggmbb04z93-eevee",
-    "nome": "Eevee",
+    "id": "19s19676r6bl5io-leafeon",
+    "nome": "Leafeon",
     "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "55 / 107",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008470_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p7e69ggmbb04z93-eevee"
-  },
-  {
-    "id": "8vucu9lh6taqf8n-leftovers",
-    "nome": "Sobras",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "67 / 107",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_10_000680_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8vucu9lh6taqf8n-leftovers"
-  },
-  {
-    "id": "dyh09s2p89yc44w-audino",
-    "nome": "Audino",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "61 / 107",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Fazer a \"Ola\"",
-        "dano": "20 ×",
-        "custoataque": [
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This attack does 20 damage for each of your Benched Pokémon"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008530_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dyh09s2p89yc44w-audino"
-  },
-  {
-    "id": "djbum2806n3usp6-greedent",
-    "nome": "Greedent",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "65 / 107",
-    "hp": 120,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Presa Acentuada",
-        "dano": "50 +",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_007400_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/djbum2806n3usp6-greedent"
-  },
-  {
-    "id": "300w9sj1f2lvj6l-cinccino",
-    "nome": "Cinccino",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "63 / 107",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Tapa",
-        "dano": "40",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008550_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/300w9sj1f2lvj6l-cinccino"
-  },
-  {
-    "id": "8e1k14s9u7w83c3-flareon",
-    "nome": "Flareon",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
+    "elemento": "Grama",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Estágio 1",
     "expansao": "Bosque dos Eevee",
-    "numero": "71 / 107",
-    "hp": 110,
+    "numero": "70 / 107",
+    "hp": 90,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Caldeira de Apoio",
-        "dano": "40",
+        "nomeataque": "Folhas Bombásticas",
+        "dano": "10 +",
         "custoataque": [
-          "fire",
           "colorless"
         ],
-        "efeito": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon"
+        "efeito": "This attack does 20 damage for each Grass Energy attached to this Pokémon"
       }
     ],
-    "fraqueza": "Agua",
-    "recuo": 2,
+    "fraqueza": "Fogo",
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008040_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8e1k14s9u7w83c3-flareon"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_007980_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/19s19676r6bl5io-leafeon"
   },
   {
     "id": "6x1zl9fcm81w0i6-vaporeon",
@@ -1999,124 +2146,6 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6x1zl9fcm81w0i6-vaporeon"
   },
   {
-    "id": "lhoq27rtw2661ve-espeon",
-    "nome": "Espeon",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "75 / 107",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Esmagamento de Energia",
-        "dano": "20 +",
-        "custoataque": [
-          "psychic"
-        ],
-        "efeito": "This attack does 20 damage for each Energy atached to all your opponent's Pokémon"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008220_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lhoq27rtw2661ve-espeon"
-  },
-  {
-    "id": "0h1qk3i319mhd66-skwovet",
-    "nome": "Skwovet",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "64 / 107",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Mordida",
-        "dano": "30",
-        "custoataque": [
-          "colorless",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_10_008560_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0h1qk3i319mhd66-skwovet"
-  },
-  {
-    "id": "gd76xufi5h41a2q-primarina-ex",
-    "nome": "Primarina ex",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 2",
-    "expansao": "Bosque dos Eevee",
-    "numero": "80 / 107",
-    "hp": 180,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Jato d’Água",
-        "dano": "40 +",
-        "custoataque": [
-          "water"
-        ],
-        "efeito": "If this Pokémon has at least 1 extra Water Energy attached, this attack does 40 more damage"
-      },
-      {
-        "nomeataque": "Aria Cintilante",
-        "dano": "100",
-        "custoataque": [
-          "water",
-          "water",
-          "water"
-        ],
-        "efeito": "Heal 20 damage from this Pokémon"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008190_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gd76xufi5h41a2q-primarina-ex"
-  },
-  {
-    "id": "r61bdo8e516ui96-penny",
-    "nome": "Penélope",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "86 / 107",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_20_000700_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r61bdo8e516ui96-penny"
-  },
-  {
     "id": "9fpu5v6l38y5033-jolteon",
     "nome": "Jolteon",
     "tipo": "Pokemon",
@@ -2146,305 +2175,33 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9fpu5v6l38y5033-jolteon"
   },
   {
-    "id": "19s19676r6bl5io-leafeon",
-    "nome": "Leafeon",
+    "id": "lhoq27rtw2661ve-espeon",
+    "nome": "Espeon",
     "tipo": "Pokemon",
-    "elemento": "Grama",
+    "elemento": "Psíquico",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Estágio 1",
     "expansao": "Bosque dos Eevee",
-    "numero": "70 / 107",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Folhas Bombásticas",
-        "dano": "10 +",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "This attack does 20 damage for each Grass Energy attached to this Pokémon"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_007980_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/19s19676r6bl5io-leafeon"
-  },
-  {
-    "id": "0yc3a713ga52m28-glaceon",
-    "nome": "Glaceon",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "73 / 107",
+    "numero": "75 / 107",
     "hp": 100,
     "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Metal",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008130_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0yc3a713ga52m28-glaceon"
-  },
-  {
-    "id": "6iu3la6ro74z5ue-dragonite-ex",
-    "nome": "Dragonite ex",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 2",
-    "expansao": "Bosque dos Eevee",
-    "numero": "82 / 107",
-    "hp": 180,
-    "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Gigaimpacto",
-        "dano": "180",
+        "nomeataque": "Esmagamento de Energia",
+        "dano": "20 +",
         "custoataque": [
-          "water",
-          "lightning",
-          "colorless"
+          "psychic"
         ],
-        "efeito": "During your next turn, this Pokémon can't attack"
+        "efeito": "This attack does 20 damage for each Energy atached to all your opponent's Pokémon"
       }
     ],
-    "fraqueza": "",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008450_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6iu3la6ro74z5ue-dragonite-ex"
-  },
-  {
-    "id": "49c484986582r31-sylveon-ex",
-    "nome": "Sylveon ex",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "81 / 107",
-    "hp": 140,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Vento de Fada",
-        "dano": "70",
-        "custoataque": [
-          "psychic",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008280_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/49c484986582r31-sylveon-ex"
-  },
-  {
-    "id": "9x8g9dq7t9aj08t-flareon-ex",
-    "nome": "Flareon ex",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "87 / 107",
-    "hp": 150,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Chama Furacão",
-        "dano": "130",
-        "custoataque": [
-          "fire",
-          "fire",
-          "colorless"
-        ],
-        "efeito": "Discard 2 Fire Energy from this Pokémon"
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008050_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9x8g9dq7t9aj08t-flareon-ex"
-  },
-  {
-    "id": "duria2jmbx04s77-eevee",
-    "nome": "Eevee",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "78 / 107",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Luta",
+    "fraqueza": "Escuridao",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008470_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/duria2jmbx04s77-eevee"
-  },
-  {
-    "id": "6pecbj070j13377-electrode",
-    "nome": "Electrode",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "96 / 107",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Golpe Rolador",
-        "dano": "50",
-        "custoataque": [
-          "lightning"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_003360_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6pecbj070j13377-electrode"
-  },
-  {
-    "id": "y6395ib8n44y953-hau",
-    "nome": "Hibi",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "85 / 107",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_20_000690_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y6395ib8n44y953-hau"
-  },
-  {
-    "id": "pesv5700id43yze-snorlax-ex",
-    "nome": "Snorlax ex",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "84 / 107",
-    "hp": 160,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Sopapo Adormecedor",
-        "dano": "130",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This Pokémon is now Asleep"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 4,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008490_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pesv5700id43yze-snorlax-ex"
-  },
-  {
-    "id": "f007ym57osh40g5-voltorb",
-    "nome": "Voltorb",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "95 / 107",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Grande Explosão",
-        "dano": "30",
-        "custoataque": [
-          "lightning"
-        ],
-        "efeito": "This Pokémon also does 10 damage to itself"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_003350_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f007ym57osh40g5-voltorb"
-  },
-  {
-    "id": "r7uq9s41d9m638w-sylveon",
-    "nome": "Sylveon",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "76 / 107",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Harmonia Evolutiva",
-        "dano": "30 +",
-        "custoataque": [
-          "psychic",
-          "colorless"
-        ],
-        "efeito": "This attack does 30 more damage for each Evolution Pokémon on your Bench"
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008270_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r7uq9s41d9m638w-sylveon"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lhoq27rtw2661ve-espeon"
   },
   {
     "id": "84c3u76tue67o44-umbreon",
@@ -2507,6 +2264,237 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/80pv8bh454lj484-flareon-ex"
   },
   {
+    "id": "pesv5700id43yze-snorlax-ex",
+    "nome": "Snorlax ex",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "84 / 107",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Sopapo Adormecedor",
+        "dano": "130",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 4,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pesv5700id43yze-snorlax-ex"
+  },
+  {
+    "id": "6iu3la6ro74z5ue-dragonite-ex",
+    "nome": "Dragonite ex",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Bosque dos Eevee",
+    "numero": "82 / 107",
+    "hp": 180,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Gigaimpacto",
+        "dano": "180",
+        "custoataque": [
+          "water",
+          "lightning",
+          "colorless"
+        ],
+        "efeito": "During your next turn, this Pokémon can't attack"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6iu3la6ro74z5ue-dragonite-ex"
+  },
+  {
+    "id": "r61bdo8e516ui96-penny",
+    "nome": "Penélope",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "86 / 107",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_20_000700_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r61bdo8e516ui96-penny"
+  },
+  {
+    "id": "y6395ib8n44y953-hau",
+    "nome": "Hibi",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "85 / 107",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_20_000690_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y6395ib8n44y953-hau"
+  },
+  {
+    "id": "r7uq9s41d9m638w-sylveon",
+    "nome": "Sylveon",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "76 / 107",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Harmonia Evolutiva",
+        "dano": "30 +",
+        "custoataque": [
+          "psychic",
+          "colorless"
+        ],
+        "efeito": "This attack does 30 more damage for each Evolution Pokémon on your Bench"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r7uq9s41d9m638w-sylveon"
+  },
+  {
+    "id": "duria2jmbx04s77-eevee",
+    "nome": "Eevee",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "78 / 107",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Coleta",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Draw a card"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/duria2jmbx04s77-eevee"
+  },
+  {
+    "id": "gd76xufi5h41a2q-primarina-ex",
+    "nome": "Primarina ex",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Bosque dos Eevee",
+    "numero": "80 / 107",
+    "hp": 180,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Jato d’Água",
+        "dano": "40 +",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": "If this Pokémon has at least 1 extra Water Energy attached, this attack does 40 more damage"
+      },
+      {
+        "nomeataque": "Aria Cintilante",
+        "dano": "100",
+        "custoataque": [
+          "water",
+          "water",
+          "water"
+        ],
+        "efeito": "Heal 20 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008190_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gd76xufi5h41a2q-primarina-ex"
+  },
+  {
+    "id": "49c484986582r31-sylveon-ex",
+    "nome": "Sylveon ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "81 / 107",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Vento de Fada",
+        "dano": "70",
+        "custoataque": [
+          "psychic",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/49c484986582r31-sylveon-ex"
+  },
+  {
     "id": "pu0i76f4oj41461-eevee-ex",
     "nome": "Eevee ex",
     "tipo": "Pokemon",
@@ -2536,36 +2524,97 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pu0i76f4oj41461-eevee-ex"
   },
   {
-    "id": "1c1m0538zo0d0t5-snorlax-ex",
-    "nome": "Snorlax ex",
+    "id": "9x8g9dq7t9aj08t-flareon-ex",
+    "nome": "Flareon ex",
     "tipo": "Pokemon",
-    "elemento": "Incolor",
+    "elemento": "Fogo",
     "raridade": "Rara",
     "custoDeck": 8,
-    "estagio": "Básico",
+    "estagio": "Estágio 1",
     "expansao": "Bosque dos Eevee",
-    "numero": "91 / 107",
-    "hp": 160,
+    "numero": "87 / 107",
+    "hp": 150,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Sopapo Adormecedor",
+        "nomeataque": "Chama Furacão",
         "dano": "130",
         "custoataque": [
-          "colorless",
-          "colorless",
+          "fire",
+          "fire",
+          "colorless"
+        ],
+        "efeito": "Discard 2 Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008050_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9x8g9dq7t9aj08t-flareon-ex"
+  },
+  {
+    "id": "k2n3cn231ok9b48-dragonite-ex",
+    "nome": "Dragonite ex",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Bosque dos Eevee",
+    "numero": "90 / 107",
+    "hp": 180,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Gigaimpacto",
+        "dano": "180",
+        "custoataque": [
+          "water",
+          "lightning",
+          "colorless"
+        ],
+        "efeito": "During your next turn, this Pokémon can't attack"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008450_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k2n3cn231ok9b48-dragonite-ex"
+  },
+  {
+    "id": "erk112w949q5387-pinsir",
+    "nome": "Pinsir",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "93 / 107",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Guilhotina Descontrolada",
+        "dano": "50 +",
+        "custoataque": [
+          "grass",
           "colorless",
           "colorless"
         ],
-        "efeito": "This Pokémon is now Asleep"
+        "efeito": "Flip a coin until you get a tails. This attack does 40 more damage for each heads"
       }
     ],
-    "fraqueza": "Luta",
-    "recuo": 4,
-    "temHabilidade": true,
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008490_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1c1m0538zo0d0t5-snorlax-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_005240_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/erk112w949q5387-pinsir"
   },
   {
     "id": "923pf68t8k41k81-primarina-ex",
@@ -2607,35 +2656,6 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/923pf68t8k41k81-primarina-ex"
   },
   {
-    "id": "5t973u4632j0hr6-kirlia",
-    "nome": "Kirlia",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "98 / 107",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Tapa",
-        "dano": "20",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_003500_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5t973u4632j0hr6-kirlia"
-  },
-  {
     "id": "d350e8046ctwf25-sylveon-ex",
     "nome": "Sylveon ex",
     "tipo": "Pokemon",
@@ -2666,252 +2686,36 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d350e8046ctwf25-sylveon-ex"
   },
   {
-    "id": "jjos1689pg6d891-eevee-bag",
-    "nome": "Bolsa de Eevee",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Ultra Rara",
+    "id": "1c1m0538zo0d0t5-snorlax-ex",
+    "nome": "Snorlax ex",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Bosque dos Eevee",
-    "numero": "107 / 107",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_20_000670_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jjos1689pg6d891-eevee-bag"
-  },
-  {
-    "id": "0s7yha05lxyt7jg-ekans",
-    "nome": "Ekans",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "100 / 107",
-    "hp": 60,
+    "numero": "91 / 107",
+    "hp": 160,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Mordida",
-        "dano": "20",
+        "nomeataque": "Sopapo Adormecedor",
+        "dano": "130",
         "custoataque": [
-          "darkness"
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
         ],
-        "efeito": ""
+        "efeito": "This Pokémon is now Asleep"
       }
     ],
     "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001640_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0s7yha05lxyt7jg-ekans"
-  },
-  {
-    "id": "p7p0atb5f2a1202-ralts",
-    "nome": "Ralts",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "97 / 107",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_003490_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p7p0atb5f2a1202-ralts"
-  },
-  {
-    "id": "ohm2840la24173a-gardevoir",
-    "nome": "Gardevoir",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 2",
-    "expansao": "Bosque dos Eevee",
-    "numero": "99 / 107",
-    "hp": 110,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Tiro Psíquico",
-        "dano": "60",
-        "custoataque": [
-          "psychic",
-          "psychic",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 2,
+    "recuo": 4,
     "temHabilidade": true,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001320_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ohm2840la24173a-gardevoir"
-  },
-  {
-    "id": "nj05d375g3886aw-farfetchd",
-    "nome": "Farfetch’d",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "102 / 107",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Golpe Alho Poró",
-        "dano": "40",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001980_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nj05d375g3886aw-farfetchd"
-  },
-  {
-    "id": "k2n3cn231ok9b48-dragonite-ex",
-    "nome": "Dragonite ex",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 2",
-    "expansao": "Bosque dos Eevee",
-    "numero": "90 / 107",
-    "hp": 180,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Gigaimpacto",
-        "dano": "180",
-        "custoataque": [
-          "water",
-          "lightning",
-          "colorless"
-        ],
-        "efeito": "During your next turn, this Pokémon can't attack"
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008450_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k2n3cn231ok9b48-dragonite-ex"
-  },
-  {
-    "id": "c81h36e4sx7tz68-lapras",
-    "nome": "Lapras",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "94 / 107",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Jato d’Água",
-        "dano": "20 +",
-        "custoataque": [
-          "water"
-        ],
-        "efeito": "If this Pokémon has at least 1 extra Water Energy attached, this attack does 70 more damage"
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_000790_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c81h36e4sx7tz68-lapras"
-  },
-  {
-    "id": "upls14kic2177pj-zapdos-ex",
-    "nome": "Zapdos ex",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "105 / 107",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Bicada",
-        "dano": "20",
-        "custoataque": [
-          "lightning"
-        ],
-        "efeito": "Flip 4 coins. This attack does 50 damage for each head"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001040_02_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/upls14kic2177pj-zapdos-ex"
-  },
-  {
-    "id": "3i5azi19yzqjm01-articuno-ex",
-    "nome": "Articuno ex",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Bosque dos Eevee",
-    "numero": "104 / 107",
-    "hp": 140,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Asa de Gelo",
-        "dano": "40",
-        "custoataque": [
-          "water",
-          "colorless"
-        ],
-        "efeito": "This attack does 10 damage to each of your opponent's Benched Pokémon"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_000840_02_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3i5azi19yzqjm01-articuno-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_008490_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1c1m0538zo0d0t5-snorlax-ex"
   },
   {
     "id": "0ui6s935zrc22kr-eevee-ex",
@@ -2943,11 +2747,354 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0ui6s935zrc22kr-eevee-ex"
   },
   {
+    "id": "c81h36e4sx7tz68-lapras",
+    "nome": "Lapras",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "94 / 107",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Jato d’Água",
+        "dano": "20 +",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": "If this Pokémon has at least 1 extra Water Energy attached, this attack does 70 more damage"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_000790_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c81h36e4sx7tz68-lapras"
+  },
+  {
+    "id": "f007ym57osh40g5-voltorb",
+    "nome": "Voltorb",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "95 / 107",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Grande Explosão",
+        "dano": "30",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_003350_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f007ym57osh40g5-voltorb"
+  },
+  {
+    "id": "p7p0atb5f2a1202-ralts",
+    "nome": "Ralts",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "97 / 107",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Teleporte",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_003490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p7p0atb5f2a1202-ralts"
+  },
+  {
+    "id": "suf8vy088796313-arbok",
+    "nome": "Arbok",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "101 / 107",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Quina",
+        "dano": "",
+        "custoataque": [
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "During your opponent's next turn, the Defending Pokémon can't retreat"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001650_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/suf8vy088796313-arbok"
+  },
+  {
+    "id": "ohm2840la24173a-gardevoir",
+    "nome": "Gardevoir",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Estágio 2",
+    "expansao": "Bosque dos Eevee",
+    "numero": "99 / 107",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "60",
+        "custoataque": [
+          "psychic",
+          "psychic",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001320_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ohm2840la24173a-gardevoir"
+  },
+  {
+    "id": "0s7yha05lxyt7jg-ekans",
+    "nome": "Ekans",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "100 / 107",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "20",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001640_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0s7yha05lxyt7jg-ekans"
+  },
+  {
+    "id": "3i5azi19yzqjm01-articuno-ex",
+    "nome": "Articuno ex",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "104 / 107",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Asa de Gelo",
+        "dano": "40",
+        "custoataque": [
+          "water",
+          "colorless"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Nevasca",
+        "dano": "80",
+        "custoataque": [
+          "water",
+          "water",
+          "water"
+        ],
+        "efeito": "This attack does 10 damage to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_000840_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3i5azi19yzqjm01-articuno-ex"
+  },
+  {
+    "id": "6pecbj070j13377-electrode",
+    "nome": "Electrode",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "96 / 107",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe Rolador",
+        "dano": "50",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_003360_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6pecbj070j13377-electrode"
+  },
+  {
+    "id": "5t973u4632j0hr6-kirlia",
+    "nome": "Kirlia",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Estágio 1",
+    "expansao": "Bosque dos Eevee",
+    "numero": "98 / 107",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tapa",
+        "dano": "20",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_003500_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5t973u4632j0hr6-kirlia"
+  },
+  {
+    "id": "nj05d375g3886aw-farfetchd",
+    "nome": "Farfetch’d",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "102 / 107",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe Alho Poró",
+        "dano": "40",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001980_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nj05d375g3886aw-farfetchd"
+  },
+  {
+    "id": "b2qi6oqu6q2v5yl-moltres-ex",
+    "nome": "Moltres ex",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Bosque dos Eevee",
+    "numero": "103 / 107",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Dança Infernal",
+        "dano": "",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads to 1 of your Benched pokémon"
+      },
+      {
+        "nomeataque": "Raio de Calor",
+        "dano": "70",
+        "custoataque": [
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_000470_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b2qi6oqu6q2v5yl-moltres-ex"
+  },
+  {
     "id": "ii012704wr84413-gallade-ex",
     "nome": "Gallade ex",
     "tipo": "Pokemon",
     "elemento": "Psíquico",
-    "raridade": "Ultra Rara",
+    "raridade": "Duplo Brilhante Raro",
     "custoDeck": 2,
     "estagio": "Estágio 2",
     "expansao": "Bosque dos Eevee",
@@ -2973,83 +3120,62 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ii012704wr84413-gallade-ex"
   },
   {
-    "id": "suf8vy088796313-arbok",
-    "nome": "Arbok",
+    "id": "upls14kic2177pj-zapdos-ex",
+    "nome": "Zapdos ex",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Estágio 1",
-    "expansao": "Bosque dos Eevee",
-    "numero": "101 / 107",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001650_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/suf8vy088796313-arbok"
-  },
-  {
-    "id": "b2qi6oqu6q2v5yl-moltres-ex",
-    "nome": "Moltres ex",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Ultra Rara",
+    "elemento": "Elétrico",
+    "raridade": "Duplo Brilhante Raro",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Bosque dos Eevee",
-    "numero": "103 / 107",
-    "hp": 140,
+    "numero": "105 / 107",
+    "hp": 130,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Dança Infernal",
-        "dano": "70",
+        "nomeataque": "Bicada",
+        "dano": "20",
         "custoataque": [
-          "fire"
+          "lightning"
         ],
         "efeito": ""
+      },
+      {
+        "nomeataque": "Furacão Trovejante",
+        "dano": "50 ×",
+        "custoataque": [
+          "lightning",
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "Flip 4 coins. This attack does 50 damage for each head"
       }
     ],
     "fraqueza": "Raio",
-    "recuo": 2,
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_000470_02_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b2qi6oqu6q2v5yl-moltres-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_001040_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/upls14kic2177pj-zapdos-ex"
   },
   {
-    "id": "erk112w949q5387-pinsir",
-    "nome": "Pinsir",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
+    "id": "jjos1689pg6d891-eevee-bag",
+    "nome": "Bolsa de Eevee",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Coroa Rara",
+    "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Bosque dos Eevee",
-    "numero": "93 / 107",
-    "hp": 90,
+    "numero": "107 / 107",
+    "hp": 0,
     "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Guilhotina Descontrolada",
-        "dano": "50 +",
-        "custoataque": [
-          "grass",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "Flip a coin until you get a tails. This attack does 40 more damage for each heads"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 2,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/PK_20_005240_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/erk112w949q5387-pinsir"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3b/TR_20_000670_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jjos1689pg6d891-eevee-bag"
   }
 ]

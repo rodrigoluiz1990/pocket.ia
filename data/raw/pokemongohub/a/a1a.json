@@ -1,5 +1,34 @@
 [
   {
+    "id": "njtqzb4g1xvmyte-exeggcute",
+    "nome": "Exeggcute",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "1 / 86",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Estirão",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Take a Grass Energy from your Energy Zone and attach it to this Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002150_00_TAMATAMA_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/njtqzb4g1xvmyte-exeggcute"
+  },
+  {
     "id": "h1lxnlhpl5zljro-celebi-ex",
     "nome": "Celebi ex",
     "tipo": "Pokemon",
@@ -28,176 +57,6 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002170_00_CELEBIex_RR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h1lxnlhpl5zljro-celebi-ex"
-  },
-  {
-    "id": "24gcgk3xh24yy3c-servine",
-    "nome": "Servine",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "5 / 86",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Chicote de Vinha",
-        "dano": "50",
-        "custoataque": [
-          "grass",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002190_00_JANOVY_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/24gcgk3xh24yy3c-servine"
-  },
-  {
-    "id": "njtqzb4g1xvmyte-exeggcute",
-    "nome": "Exeggcute",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "1 / 86",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002150_00_TAMATAMA_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/njtqzb4g1xvmyte-exeggcute"
-  },
-  {
-    "id": "upwu4egfe8n09oe-exeggutor",
-    "nome": "Exeggutor",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "2 / 86",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Psíquico",
-        "dano": "80 +",
-        "custoataque": [
-          "grass",
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002160_00_NASSY_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/upwu4egfe8n09oe-exeggutor"
-  },
-  {
-    "id": "9fuzldsjs86vk1y-snivy",
-    "nome": "Snivy",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "4 / 86",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Chicote de Vinha",
-        "dano": "40",
-        "custoataque": [
-          "grass",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002180_00_TSUTARJA_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9fuzldsjs86vk1y-snivy"
-  },
-  {
-    "id": "fpax2tzmqojixxm-salazzle",
-    "nome": "Salazzle",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "16 / 86",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Garras Venenosas",
-        "dano": "30",
-        "custoataque": [
-          "fire"
-        ],
-        "efeito": "Your opponent's Active Pokémon is now Poisoned"
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002300_00_ENNEWT_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fpax2tzmqojixxm-salazzle"
-  },
-  {
-    "id": "tn0m919glf7p4ui-salandit",
-    "nome": "Salandit",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "15 / 86",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Venochoque",
-        "dano": "10 +",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage"
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002290_00_YATOUMORI_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tn0m919glf7p4ui-salandit"
   },
   {
     "id": "ewaplkoi5ko7x9w-serperior",
@@ -232,34 +91,34 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ewaplkoi5ko7x9w-serperior"
   },
   {
-    "id": "z7j1kqi2e8tl06r-rapidash",
-    "nome": "Rapidash",
+    "id": "24gcgk3xh24yy3c-servine",
+    "nome": "Servine",
     "tipo": "Pokemon",
-    "elemento": "Fogo",
+    "elemento": "Grama",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Estágio 1",
     "expansao": "Ilha Mitica",
-    "numero": "11 / 86",
-    "hp": 100,
+    "numero": "5 / 86",
+    "hp": 80,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Investida Ascendente",
-        "dano": "40 +",
+        "nomeataque": "Chicote de Vinha",
+        "dano": "50",
         "custoataque": [
-          "fire",
+          "grass",
           "colorless"
         ],
-        "efeito": "Flip a coin. If heads, this attack does 60 more damage"
+        "efeito": ""
       }
     ],
-    "fraqueza": "Agua",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002250_00_GALLOP_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z7j1kqi2e8tl06r-rapidash"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002190_00_JANOVY_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/24gcgk3xh24yy3c-servine"
   },
   {
     "id": "aq1a8ns3zq3r3d4-larvesta",
@@ -290,6 +149,245 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002270_00_MERLARVA_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aq1a8ns3zq3r3d4-larvesta"
+  },
+  {
+    "id": "cmpiz48676erqu2-morelull",
+    "nome": "Morelull",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "7 / 86",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "20",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002210_00_NEMASYU_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cmpiz48676erqu2-morelull"
+  },
+  {
+    "id": "upwu4egfe8n09oe-exeggutor",
+    "nome": "Exeggutor",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Ilha Mitica",
+    "numero": "2 / 86",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Psíquico",
+        "dano": "80 +",
+        "custoataque": [
+          "grass",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002160_00_NASSY_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/upwu4egfe8n09oe-exeggutor"
+  },
+  {
+    "id": "kj9tvr5n5cjfbx9-dhelmise",
+    "nome": "Dhelmise",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "9 / 86",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Chicote Energético",
+        "dano": "20 +",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": "If this Pokémon has at least 3 extra Grass Energy attached, this attack does 70 more damage."
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002230_00_DADARIN_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kj9tvr5n5cjfbx9-dhelmise"
+  },
+  {
+    "id": "8loxhhip6gekxvr-shiinotic",
+    "nome": "Shiinotic",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Ilha Mitica",
+    "numero": "8 / 86",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Esporos Tremeluzentes",
+        "dano": "50",
+        "custoataque": [
+          "grass",
+          "grass"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002220_00_MASHADE_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8loxhhip6gekxvr-shiinotic"
+  },
+  {
+    "id": "7e1adx2kf4udcld-ponyta",
+    "nome": "Ponyta",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "10 / 86",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Pisotear",
+        "dano": "10 +",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002240_00_PONYTA_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7e1adx2kf4udcld-ponyta"
+  },
+  {
+    "id": "z7j1kqi2e8tl06r-rapidash",
+    "nome": "Rapidash",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Ilha Mitica",
+    "numero": "11 / 86",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Investida Ascendente",
+        "dano": "40 +",
+        "custoataque": [
+          "fire",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 60 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002250_00_GALLOP_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z7j1kqi2e8tl06r-rapidash"
+  },
+  {
+    "id": "9fuzldsjs86vk1y-snivy",
+    "nome": "Snivy",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "4 / 86",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Chicote de Vinha",
+        "dano": "40",
+        "custoataque": [
+          "grass",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002180_00_TSUTARJA_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9fuzldsjs86vk1y-snivy"
+  },
+  {
+    "id": "tqn51pibscr7zx2-magmar",
+    "nome": "Magmar",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "12 / 86",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Rajada de Fogo",
+        "dano": "80",
+        "custoataque": [
+          "fire",
+          "fire"
+        ],
+        "efeito": "Discard 2 Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002260_00_BOOBER_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tqn51pibscr7zx2-magmar"
   },
   {
     "id": "5jsi6xvwpmx4rd8-volcarona",
@@ -323,33 +421,62 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5jsi6xvwpmx4rd8-volcarona"
   },
   {
-    "id": "kj9tvr5n5cjfbx9-dhelmise",
-    "nome": "Dhelmise",
+    "id": "tn0m919glf7p4ui-salandit",
+    "nome": "Salandit",
     "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Incomum",
+    "elemento": "Fogo",
+    "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Ilha Mitica",
-    "numero": "9 / 86",
-    "hp": 100,
+    "numero": "15 / 86",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Chicote Energético",
-        "dano": "20 +",
+        "nomeataque": "Venochoque",
+        "dano": "10 +",
         "custoataque": [
-          "grass"
+          "colorless"
         ],
-        "efeito": "If this Pokémon has at least 3 extra Grass Energy attached, this attack does 70 more damage."
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage"
       }
     ],
-    "fraqueza": "Fogo",
-    "recuo": 2,
+    "fraqueza": "Agua",
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002230_00_DADARIN_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kj9tvr5n5cjfbx9-dhelmise"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002290_00_YATOUMORI_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tn0m919glf7p4ui-salandit"
+  },
+  {
+    "id": "fpax2tzmqojixxm-salazzle",
+    "nome": "Salazzle",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Ilha Mitica",
+    "numero": "16 / 86",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Garras Venenosas",
+        "dano": "30",
+        "custoataque": [
+          "fire"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002300_00_ENNEWT_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fpax2tzmqojixxm-salazzle"
   },
   {
     "id": "dkxuvrd749iha5i-magikarp",
@@ -363,489 +490,22 @@
     "numero": "17 / 86",
     "hp": 30,
     "evolucao": "",
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Pular Fora",
+        "dano": "",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": "Switch this Pokémon with 1 of your Benched Pokémon"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002310_00_KOIKING_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dkxuvrd749iha5i-magikarp"
-  },
-  {
-    "id": "8loxhhip6gekxvr-shiinotic",
-    "nome": "Shiinotic",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "8 / 86",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Esporos Tremeluzentes",
-        "dano": "50",
-        "custoataque": [
-          "grass",
-          "grass"
-        ],
-        "efeito": "Your opponent's Active Pokémon is now Asleep"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002220_00_MASHADE_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8loxhhip6gekxvr-shiinotic"
-  },
-  {
-    "id": "1izrnidqwlh57zf-vaporeon",
-    "nome": "Vaporeon",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "19 / 86",
-    "hp": 120,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Onda Borrifante",
-        "dano": "60",
-        "custoataque": [
-          "water",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002330_00_SHOWERS_R_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1izrnidqwlh57zf-vaporeon"
-  },
-  {
-    "id": "najoy11qoykq5a4-joltik",
-    "nome": "Joltik",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "28 / 86",
-    "hp": 40,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Picada",
-        "dano": "30",
-        "custoataque": [
-          "lightning"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002420_00_BACHURU_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/najoy11qoykq5a4-joltik"
-  },
-  {
-    "id": "812ymr06ftodvyk-chewtle",
-    "nome": "Chewtle",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "22 / 86",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Mordida",
-        "dano": "30",
-        "custoataque": [
-          "water",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002360_00_KAMUKAME_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/812ymr06ftodvyk-chewtle"
-  },
-  {
-    "id": "7e1adx2kf4udcld-ponyta",
-    "nome": "Ponyta",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "10 / 86",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Pisotear",
-        "dano": "10 +",
-        "custoataque": [
-          "fire"
-        ],
-        "efeito": "Flip a coin. If heads, this attack does 30 more damage"
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002240_00_PONYTA_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7e1adx2kf4udcld-ponyta"
-  },
-  {
-    "id": "tqn51pibscr7zx2-magmar",
-    "nome": "Magmar",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "12 / 86",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Rajada de Fogo",
-        "dano": "80",
-        "custoataque": [
-          "fire",
-          "fire"
-        ],
-        "efeito": "Discard 2 Fire Energy from this Pokémon"
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002260_00_BOOBER_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tqn51pibscr7zx2-magmar"
-  },
-  {
-    "id": "j3m8vyl62sk6mnp-drednaw",
-    "nome": "Drednaw",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "23 / 86",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Mastigada",
-        "dano": "70",
-        "custoataque": [
-          "water",
-          "water",
-          "water"
-        ],
-        "efeito": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002370_00_KAJIRIGAME_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j3m8vyl62sk6mnp-drednaw"
-  },
-  {
-    "id": "ud1jhjmo8ypor5m-electabuzz",
-    "nome": "Electabuzz",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "27 / 86",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Lança do Trovão",
-        "dano": "40",
-        "custoataque": [
-          "lightning",
-          "lightning"
-        ],
-        "efeito": "This attack does 40 damage to 1 of your opponent's Pokémon"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002410_00_ELEBOO_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ud1jhjmo8ypor5m-electabuzz"
-  },
-  {
-    "id": "io8pmf1np20ivkt-sigilyph",
-    "nome": "Sigilyph",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "33 / 86",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Comprada Espinhosa",
-        "dano": "10",
-        "custoataque": [
-          "psychic"
-        ],
-        "efeito": "Draw a card."
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002460_00_SYMBOLER_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/io8pmf1np20ivkt-sigilyph"
-  },
-  {
-    "id": "apn3egss9zs1oel-galvantula",
-    "nome": "Galvantula",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "29 / 86",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Teia Elétrica",
-        "dano": "70",
-        "custoataque": [
-          "lightning",
-          "lightning"
-        ],
-        "efeito": "During your opponent's next turn, the Defending Pokémon can't retreat"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002430_00_DENTULA_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/apn3egss9zs1oel-galvantula"
-  },
-  {
-    "id": "l8ixwzd0kidm7rw-cramorant",
-    "nome": "Cramorant",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "24 / 86",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Mergulho",
-        "dano": "60",
-        "custoataque": [
-          "water",
-          "water",
-          "colorless"
-        ],
-        "efeito": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002380_00_UU_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l8ixwzd0kidm7rw-cramorant"
-  },
-  {
-    "id": "4i9rpfwox9ld9yn-pikachu",
-    "nome": "Pikachu",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "25 / 86",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Circuito Circular",
-        "dano": "10 ×",
-        "custoataque": [
-          "lightning"
-        ],
-        "efeito": "This attack does 10 damage for each of your Benched Electric Pokémon"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002390_00_PIKACHU_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4i9rpfwox9ld9yn-pikachu"
-  },
-  {
-    "id": "cmpiz48676erqu2-morelull",
-    "nome": "Morelull",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "7 / 86",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Aríete",
-        "dano": "20",
-        "custoataque": [
-          "grass"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002210_00_NEMASYU_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cmpiz48676erqu2-morelull"
-  },
-  {
-    "id": "5fnq79pzk3j7ns3-finneon",
-    "nome": "Finneon",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "20 / 86",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Revólver d’Água",
-        "dano": "20",
-        "custoataque": [
-          "water"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002340_00_KEIKOUO_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5fnq79pzk3j7ns3-finneon"
-  },
-  {
-    "id": "vf0r9kvdsazl74z-mew",
-    "nome": "Mew",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "31 / 86",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Relatório Psíquico",
-        "dano": "20",
-        "custoataque": [
-          "psychic"
-        ],
-        "efeito": "Your opponent reveals their hand"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002140_00_MEW_R_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vf0r9kvdsazl74z-mew"
-  },
-  {
-    "id": "hmaw88f1sd4n0eg-slurpuff",
-    "nome": "Slurpuff",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "40 / 86",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Tiro Mágico",
-        "dano": "60",
-        "custoataque": [
-          "psychic",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002530_00_PEROREAM_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hmaw88f1sd4n0eg-slurpuff"
   },
   {
     "id": "hmda751busew0m6-gyarados-ex",
@@ -880,142 +540,156 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hmda751busew0m6-gyarados-ex"
   },
   {
-    "id": "pa4w0evig08bx6m-elgyem",
-    "nome": "Elgyem",
+    "id": "1izrnidqwlh57zf-vaporeon",
+    "nome": "Vaporeon",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "34 / 86",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Cabeçada",
-        "dano": "20",
-        "custoataque": [
-          "psychic"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002470_00_LIGRAY_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pa4w0evig08bx6m-elgyem"
-  },
-  {
-    "id": "5yi2fgnh2xat86l-mew-ex",
-    "nome": "Mew ex",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
+    "elemento": "Água",
     "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
+    "custoDeck": 3,
+    "estagio": "Estágio 1",
     "expansao": "Ilha Mitica",
-    "numero": "32 / 86",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Tiro Psíquico",
-        "dano": "20",
-        "custoataque": [
-          "psychic"
-        ],
-        "efeito": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002450_00_MEWex_RR_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5yi2fgnh2xat86l-mew-ex"
-  },
-  {
-    "id": "4rjiv5t6kgenqjp-flabeb",
-    "nome": "Flabébé",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "36 / 86",
-    "hp": 40,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002510_00_FLABEBE_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4rjiv5t6kgenqjp-flabeb"
-  },
-  {
-    "id": "oif9hc1l2182yck-stonjourner",
-    "nome": "Stonjourner",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "48 / 86",
+    "numero": "19 / 86",
     "hp": 120,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Megachute",
-        "dano": "90",
+        "nomeataque": "Onda Borrifante",
+        "dano": "60",
         "custoataque": [
-          "fighting",
-          "fighting",
-          "fighting"
+          "water",
+          "colorless",
+          "colorless"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 3,
-    "temHabilidade": false,
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": true,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002610_00_ISHIHENGIN_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oif9hc1l2182yck-stonjourner"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002330_00_SHOWERS_R_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1izrnidqwlh57zf-vaporeon"
   },
   {
-    "id": "v8krjbv35yat9rr-beheeyem",
-    "nome": "Beheeyem",
+    "id": "j3m8vyl62sk6mnp-drednaw",
+    "nome": "Drednaw",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
+    "elemento": "Água",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Estágio 1",
     "expansao": "Ilha Mitica",
-    "numero": "35 / 86",
-    "hp": 90,
+    "numero": "23 / 86",
+    "hp": 130,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Tomada Mental",
-        "dano": "10 +",
+        "nomeataque": "Mastigada",
+        "dano": "70",
         "custoataque": [
-          "psychic"
+          "water",
+          "water",
+          "water"
         ],
-        "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
+        "efeito": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon"
       }
     ],
-    "fraqueza": "Escuridao",
+    "fraqueza": "Raio",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002370_00_KAJIRIGAME_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j3m8vyl62sk6mnp-drednaw"
+  },
+  {
+    "id": "812ymr06ftodvyk-chewtle",
+    "nome": "Chewtle",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "22 / 86",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Mordida",
+        "dano": "30",
+        "custoataque": [
+          "water",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002360_00_KAMUKAME_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/812ymr06ftodvyk-chewtle"
+  },
+  {
+    "id": "l8ixwzd0kidm7rw-cramorant",
+    "nome": "Cramorant",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "24 / 86",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Mergulho",
+        "dano": "60",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002500_00_OHBEM_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v8krjbv35yat9rr-beheeyem"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002380_00_UU_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l8ixwzd0kidm7rw-cramorant"
+  },
+  {
+    "id": "5fnq79pzk3j7ns3-finneon",
+    "nome": "Finneon",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "20 / 86",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Revólver d’Água",
+        "dano": "20",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002340_00_KEIKOUO_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5fnq79pzk3j7ns3-finneon"
   },
   {
     "id": "wb0l84qjlf8pjto-lumineon",
@@ -1048,33 +722,218 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wb0l84qjlf8pjto-lumineon"
   },
   {
-    "id": "cvxg6bdbnxhtuey-floette",
-    "nome": "Floette",
+    "id": "4i9rpfwox9ld9yn-pikachu",
+    "nome": "Pikachu",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
+    "elemento": "Elétrico",
     "raridade": "Comum",
     "custoDeck": 1,
-    "estagio": "Estágio 1",
+    "estagio": "Básico",
     "expansao": "Ilha Mitica",
-    "numero": "37 / 86",
-    "hp": 70,
+    "numero": "25 / 86",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Dreno Folha",
-        "dano": "40",
+        "nomeataque": "Circuito Circular",
+        "dano": "10 ×",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": "This attack does 10 damage for each of your Benched Electric Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002390_00_PIKACHU_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4i9rpfwox9ld9yn-pikachu"
+  },
+  {
+    "id": "apn3egss9zs1oel-galvantula",
+    "nome": "Galvantula",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Ilha Mitica",
+    "numero": "29 / 86",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Teia Elétrica",
+        "dano": "70",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "During your opponent's next turn, the Defending Pokémon can't retreat"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002430_00_DENTULA_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/apn3egss9zs1oel-galvantula"
+  },
+  {
+    "id": "6cnxjgx3cvgf45w-dedenne",
+    "nome": "Dedenne",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "30 / 86",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Trovoada de Choques",
+        "dano": "10",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002440_00_DEDENNE_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6cnxjgx3cvgf45w-dedenne"
+  },
+  {
+    "id": "5yi2fgnh2xat86l-mew-ex",
+    "nome": "Mew ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "32 / 86",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "20",
         "custoataque": [
           "psychic"
         ],
-        "efeito": "Heal 10 damage from this Pokémon"
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Hackear Genoma",
+        "dano": "",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack"
       }
     ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002520_00_FLOETTE_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cvxg6bdbnxhtuey-floette"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002450_00_MEWex_RR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5yi2fgnh2xat86l-mew-ex"
+  },
+  {
+    "id": "v8krjbv35yat9rr-beheeyem",
+    "nome": "Beheeyem",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Ilha Mitica",
+    "numero": "35 / 86",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tomada Mental",
+        "dano": "10 +",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002500_00_OHBEM_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v8krjbv35yat9rr-beheeyem"
+  },
+  {
+    "id": "io8pmf1np20ivkt-sigilyph",
+    "nome": "Sigilyph",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "33 / 86",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Comprada Espinhosa",
+        "dano": "10",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "Draw a card."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002460_00_SYMBOLER_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/io8pmf1np20ivkt-sigilyph"
+  },
+  {
+    "id": "4rjiv5t6kgenqjp-flabeb",
+    "nome": "Flabébé",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "36 / 86",
+    "hp": 40,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Olhar Hipnótico",
+        "dano": "",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "Your opponent's Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002510_00_FLABEBE_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4rjiv5t6kgenqjp-flabeb"
   },
   {
     "id": "6tuaztw76k9faao-raichu",
@@ -1108,33 +967,210 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6tuaztw76k9faao-raichu"
   },
   {
-    "id": "6cnxjgx3cvgf45w-dedenne",
-    "nome": "Dedenne",
+    "id": "ud1jhjmo8ypor5m-electabuzz",
+    "nome": "Electabuzz",
     "tipo": "Pokemon",
     "elemento": "Elétrico",
-    "raridade": "Comum",
+    "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Ilha Mitica",
-    "numero": "30 / 86",
-    "hp": 60,
+    "numero": "27 / 86",
+    "hp": 70,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Trovoada de Choques",
-        "dano": "10",
+        "nomeataque": "Lança do Trovão",
+        "dano": "40",
         "custoataque": [
+          "lightning",
           "lightning"
         ],
-        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+        "efeito": "This attack does 40 damage to 1 of your opponent's Pokémon"
       }
     ],
     "fraqueza": "Luta",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002440_00_DEDENNE_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6cnxjgx3cvgf45w-dedenne"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002410_00_ELEBOO_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ud1jhjmo8ypor5m-electabuzz"
+  },
+  {
+    "id": "najoy11qoykq5a4-joltik",
+    "nome": "Joltik",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "28 / 86",
+    "hp": 40,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Picada",
+        "dano": "30",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002420_00_BACHURU_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/najoy11qoykq5a4-joltik"
+  },
+  {
+    "id": "vf0r9kvdsazl74z-mew",
+    "nome": "Mew",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "31 / 86",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Relatório Psíquico",
+        "dano": "20",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "Your opponent reveals their hand"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002140_00_MEW_R_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vf0r9kvdsazl74z-mew"
+  },
+  {
+    "id": "pa4w0evig08bx6m-elgyem",
+    "nome": "Elgyem",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "34 / 86",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "20",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002470_00_LIGRAY_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pa4w0evig08bx6m-elgyem"
+  },
+  {
+    "id": "cvxg6bdbnxhtuey-floette",
+    "nome": "Floette",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Ilha Mitica",
+    "numero": "37 / 86",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Dreno Folha",
+        "dano": "40",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "Heal 10 damage from this Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002520_00_FLOETTE_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cvxg6bdbnxhtuey-floette"
+  },
+  {
+    "id": "zxtei9is63ll464-florges",
+    "nome": "Florges",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 2",
+    "expansao": "Ilha Mitica",
+    "numero": "38 / 86",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Brilho Florido",
+        "dano": "80",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "Heal 20 damage from each of your Pokémon."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002480_00_FLORGES_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zxtei9is63ll464-florges"
+  },
+  {
+    "id": "hmaw88f1sd4n0eg-slurpuff",
+    "nome": "Slurpuff",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Ilha Mitica",
+    "numero": "40 / 86",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tiro Mágico",
+        "dano": "60",
+        "custoataque": [
+          "psychic",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002530_00_PEROREAM_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hmaw88f1sd4n0eg-slurpuff"
   },
   {
     "id": "clwrerk7zkp56nd-swirlix",
@@ -1164,38 +1200,6 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002490_00_PEROPPAFU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/clwrerk7zkp56nd-swirlix"
-  },
-  {
-    "id": "aeybbymedewzboe-golem",
-    "nome": "Golem",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Estágio 2",
-    "expansao": "Ilha Mitica",
-    "numero": "45 / 86",
-    "hp": 160,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Aperto Protetor",
-        "dano": "120",
-        "custoataque": [
-          "fighting",
-          "fighting",
-          "fighting",
-          "colorless"
-        ],
-        "efeito": "During your opponent's next turn, this Pokémon takes -30 damage from attacks"
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002580_00_GOLONYA_R_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aeybbymedewzboe-golem"
   },
   {
     "id": "xqlbewvndwjsv0g-primeape",
@@ -1286,63 +1290,34 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h3kjwqdud9vzbir-mankey"
   },
   {
-    "id": "yi4ngt04jh845m9-whirlipede",
-    "nome": "Whirlipede",
+    "id": "lfi58nyo9hdyeg9-geodude",
+    "nome": "Geodude",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
+    "elemento": "Lutador",
     "raridade": "Comum",
     "custoDeck": 1,
-    "estagio": "Estágio 1",
+    "estagio": "Básico",
     "expansao": "Ilha Mitica",
-    "numero": "54 / 86",
-    "hp": 90,
+    "numero": "43 / 86",
+    "hp": 70,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Ferrão Venenoso",
-        "dano": "20",
+        "nomeataque": "Soco de Luz",
+        "dano": "30",
         "custoataque": [
-          "darkness"
+          "fighting",
+          "colorless"
         ],
-        "efeito": "Your opponent's Active Pokémon is now Poisoned."
+        "efeito": ""
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "Planta",
     "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002670_00_WHEEGA_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yi4ngt04jh845m9-whirlipede"
-  },
-  {
-    "id": "zxtei9is63ll464-florges",
-    "nome": "Florges",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 2",
-    "expansao": "Ilha Mitica",
-    "numero": "38 / 86",
-    "hp": 120,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Brilho Florido",
-        "dano": "80",
-        "custoataque": [
-          "psychic",
-          "psychic"
-        ],
-        "efeito": "Heal 20 damage from each of your Pokémon."
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002480_00_FLORGES_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zxtei9is63ll464-florges"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002560_00_ISITSUBUTE_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lfi58nyo9hdyeg9-geodude"
   },
   {
     "id": "wxa0dmxiysjkh19-marshadow",
@@ -1375,21 +1350,21 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wxa0dmxiysjkh19-marshadow"
   },
   {
-    "id": "lfi58nyo9hdyeg9-geodude",
-    "nome": "Geodude",
+    "id": "z13co4oge3d8vwt-aerodactyl-ex",
+    "nome": "Aerodactyl ex",
     "tipo": "Pokemon",
     "elemento": "Lutador",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 1",
     "expansao": "Ilha Mitica",
-    "numero": "43 / 86",
-    "hp": 70,
+    "numero": "46 / 86",
+    "hp": 140,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Soco de Luz",
-        "dano": "30",
+        "nomeataque": "Aperto de Terra",
+        "dano": "80",
         "custoataque": [
           "fighting",
           "colorless"
@@ -1397,12 +1372,252 @@
         "efeito": ""
       }
     ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002590_00_PTERAex_RR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z13co4oge3d8vwt-aerodactyl-ex"
+  },
+  {
+    "id": "aeybbymedewzboe-golem",
+    "nome": "Golem",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Estágio 2",
+    "expansao": "Ilha Mitica",
+    "numero": "45 / 86",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aperto Protetor",
+        "dano": "120",
+        "custoataque": [
+          "fighting",
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "efeito": "During your opponent's next turn, this Pokémon takes -30 damage from attacks"
+      }
+    ],
     "fraqueza": "Planta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002580_00_GOLONYA_R_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aeybbymedewzboe-golem"
+  },
+  {
+    "id": "oif9hc1l2182yck-stonjourner",
+    "nome": "Stonjourner",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "48 / 86",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Megachute",
+        "dano": "90",
+        "custoataque": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002610_00_ISHIHENGIN_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oif9hc1l2182yck-stonjourner"
+  },
+  {
+    "id": "3rytiasmgwj4dll-koffing",
+    "nome": "Koffing",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "49 / 86",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Divisão",
+        "dano": "",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "Put 1 random Koffing from your deck onto your Bench."
+      }
+    ],
+    "fraqueza": "Luta",
     "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002560_00_ISITSUBUTE_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lfi58nyo9hdyeg9-geodude"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002620_00_DOGARS_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3rytiasmgwj4dll-koffing"
+  },
+  {
+    "id": "yeya26y0p6b1urk-weezing",
+    "nome": "Weezing",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Ilha Mitica",
+    "numero": "50 / 86",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cortina de Fumaça",
+        "dano": "50",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002630_00_MATADOGAS_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yeya26y0p6b1urk-weezing"
+  },
+  {
+    "id": "nkd9f2amdhd657e-liepard",
+    "nome": "Liepard",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Ilha Mitica",
+    "numero": "52 / 86",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Talho",
+        "dano": "40",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002650_00_LEPARDAS_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nkd9f2amdhd657e-liepard"
+  },
+  {
+    "id": "yi4ngt04jh845m9-whirlipede",
+    "nome": "Whirlipede",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Ilha Mitica",
+    "numero": "54 / 86",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ferrão Venenoso",
+        "dano": "20",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002670_00_WHEEGA_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yi4ngt04jh845m9-whirlipede"
+  },
+  {
+    "id": "loj95zzm39lc9s5-purrloin",
+    "nome": "Purrloin",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "51 / 86",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Arranhão",
+        "dano": "20",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002640_00_CHORONEKO_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/loj95zzm39lc9s5-purrloin"
+  },
+  {
+    "id": "e21ldsyk80arifk-druddigon",
+    "nome": "Druddigon",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "56 / 86",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Garra de Dragão",
+        "dano": "90",
+        "custoataque": [
+          "fire",
+          "water",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002690_00_CRIMGAN_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e21ldsyk80arifk-druddigon"
   },
   {
     "id": "var7rxly2080w98-venipede",
@@ -1434,6 +1649,33 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/var7rxly2080w98-venipede"
   },
   {
+    "id": "awn64f65f1m7k6n-eevee",
+    "nome": "Eevee",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "61 / 86",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Passos Contínuos",
+        "dano": "20 ×",
+        "custoataque": [],
+        "efeito": "Flip a coin until you get a tails. This attack does 20 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002740_00_EIEVUI_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/awn64f65f1m7k6n-eevee"
+  },
+  {
     "id": "qvb758zb4ijhjg4-scolipede",
     "nome": "Scolipede",
     "tipo": "Pokemon",
@@ -1462,87 +1704,6 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002680_00_PENDROR_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qvb758zb4ijhjg4-scolipede"
-  },
-  {
-    "id": "3rytiasmgwj4dll-koffing",
-    "nome": "Koffing",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "49 / 86",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002620_00_DOGARS_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3rytiasmgwj4dll-koffing"
-  },
-  {
-    "id": "7y5t30djskzt031-pidgeotto",
-    "nome": "Pidgeotto",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "58 / 86",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Ataque de Asa",
-        "dano": "50",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002710_00_PIGEON_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7y5t30djskzt031-pidgeotto"
-  },
-  {
-    "id": "yeya26y0p6b1urk-weezing",
-    "nome": "Weezing",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "50 / 86",
-    "hp": 110,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Cortina de Fumaça",
-        "dano": "50",
-        "custoataque": [
-          "darkness",
-          "darkness"
-        ],
-        "efeito": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002630_00_MATADOGAS_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yeya26y0p6b1urk-weezing"
   },
   {
     "id": "mk4yq4bmy9p73ij-tauros",
@@ -1576,6 +1737,66 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mk4yq4bmy9p73ij-tauros"
   },
   {
+    "id": "7y5t30djskzt031-pidgeotto",
+    "nome": "Pidgeotto",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Estágio 1",
+    "expansao": "Ilha Mitica",
+    "numero": "58 / 86",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque de Asa",
+        "dano": "50",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002710_00_PIGEON_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7y5t30djskzt031-pidgeotto"
+  },
+  {
+    "id": "fwowr179gwvn0wi-pidgey",
+    "nome": "Pidgey",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "57 / 86",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Asa",
+        "dano": "20",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002700_00_POPPO_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fwowr179gwvn0wi-pidgey"
+  },
+  {
     "id": "5o5naaasoda63qt-pidgeot-ex",
     "nome": "Pidgeot ex",
     "tipo": "Pokemon",
@@ -1607,15 +1828,15 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5o5naaasoda63qt-pidgeot-ex"
   },
   {
-    "id": "9cvnctq71ts6ocj-leaf",
-    "nome": "Leaf",
+    "id": "tzfcmr5r03hyksk-mythical-slab",
+    "nome": "Placa Mística",
     "tipo": "Treinador",
     "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
+    "raridade": "Incomum",
+    "custoDeck": 1,
     "estagio": "Desconhecido",
     "expansao": "Ilha Mitica",
-    "numero": "82 / 86",
+    "numero": "65 / 86",
     "hp": 0,
     "evolucao": "",
     "ataque": [],
@@ -1623,35 +1844,8 @@
     "recuo": 0,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_20_000230_00_LEAF_SR_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9cvnctq71ts6ocj-leaf"
-  },
-  {
-    "id": "awn64f65f1m7k6n-eevee",
-    "nome": "Eevee",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "61 / 86",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Passos Contínuos",
-        "dano": "20 ×",
-        "custoataque": [],
-        "efeito": "Flip a coin until you get a tails. This attack does 20 damage for each heads"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002740_00_EIEVUI_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/awn64f65f1m7k6n-eevee"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000190_00_MABOROSHINOSEKIBAN_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tzfcmr5r03hyksk-mythical-slab"
   },
   {
     "id": "59y3ogqwlc7t1q6-budding-expeditioner",
@@ -1694,145 +1888,6 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z2ofwxxu6bb8z6n-leaf"
   },
   {
-    "id": "1s1tq7sqqgvq8tc-chatot",
-    "nome": "Chatot",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "62 / 86",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002750_00_PERAP_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1s1tq7sqqgvq8tc-chatot"
-  },
-  {
-    "id": "fwowr179gwvn0wi-pidgey",
-    "nome": "Pidgey",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "57 / 86",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Asa",
-        "dano": "20",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002700_00_POPPO_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fwowr179gwvn0wi-pidgey"
-  },
-  {
-    "id": "e21ldsyk80arifk-druddigon",
-    "nome": "Druddigon",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "56 / 86",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Garra de Dragão",
-        "dano": "90",
-        "custoataque": [
-          "fire",
-          "water",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002690_00_CRIMGAN_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e21ldsyk80arifk-druddigon"
-  },
-  {
-    "id": "z13co4oge3d8vwt-aerodactyl-ex",
-    "nome": "Aerodactyl ex",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "46 / 86",
-    "hp": 140,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Aperto de Terra",
-        "dano": "80",
-        "custoataque": [
-          "fighting",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002590_00_PTERAex_RR_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z13co4oge3d8vwt-aerodactyl-ex"
-  },
-  {
-    "id": "nkd9f2amdhd657e-liepard",
-    "nome": "Liepard",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "52 / 86",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Talho",
-        "dano": "40",
-        "custoataque": [
-          "darkness"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002650_00_LEPARDAS_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nkd9f2amdhd657e-liepard"
-  },
-  {
     "id": "j197ch2entsxdup-blue",
     "nome": "Blue",
     "tipo": "Treinador",
@@ -1853,125 +1908,15 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j197ch2entsxdup-blue"
   },
   {
-    "id": "0afyr6z43839idd-pokemon-flute",
-    "nome": "Flauta Pokémon",
+    "id": "fo7ec02e0ucc7x8-old-amber",
+    "nome": "Âmbar Velho",
     "tipo": "Treinador",
     "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Desconhecido",
-    "expansao": "Ilha Mitica",
-    "numero": "64 / 86",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000200_00_POKEMONNOFUE_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0afyr6z43839idd-pokemon-flute"
-  },
-  {
-    "id": "b210ploeuw8kc3o-exeggutor",
-    "nome": "Exeggutor",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "69 / 86",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Psíquico",
-        "dano": "80 +",
-        "custoataque": [
-          "grass",
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002160_00_NASSY_AR_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b210ploeuw8kc3o-exeggutor"
-  },
-  {
-    "id": "loj95zzm39lc9s5-purrloin",
-    "nome": "Purrloin",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
     "raridade": "Comum",
     "custoDeck": 1,
-    "estagio": "Básico",
+    "estagio": "Item",
     "expansao": "Ilha Mitica",
-    "numero": "51 / 86",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Arranhão",
-        "dano": "20",
-        "custoataque": [
-          "darkness"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002640_00_CHORONEKO_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/loj95zzm39lc9s5-purrloin"
-  },
-  {
-    "id": "vm8rykfyesi8psj-salandit",
-    "nome": "Salandit",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "71 / 86",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Venochoque",
-        "dano": "10 +",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage"
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002290_00_YATOUMORI_AR_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vm8rykfyesi8psj-salandit"
-  },
-  {
-    "id": "tzfcmr5r03hyksk-mythical-slab",
-    "nome": "Placa Mística",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Desconhecido",
-    "expansao": "Ilha Mitica",
-    "numero": "65 / 86",
+    "numero": "63 / 86",
     "hp": 0,
     "evolucao": "",
     "ataque": [],
@@ -1979,132 +1924,8 @@
     "recuo": 0,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000190_00_MABOROSHINOSEKIBAN_U_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tzfcmr5r03hyksk-mythical-slab"
-  },
-  {
-    "id": "5y62vvr58pxazez-pidgeot-ex",
-    "nome": "Pidgeot ex",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 2",
-    "expansao": "Ilha Mitica",
-    "numero": "79 / 86",
-    "hp": 170,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Ciclone Disperso",
-        "dano": "80 +",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002720_00_PIGEOTex_SR_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5y62vvr58pxazez-pidgeot-ex"
-  },
-  {
-    "id": "fgzqfijb00tqiy2-vaporeon",
-    "nome": "Vaporeon",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "72 / 86",
-    "hp": 120,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Onda Borrifante",
-        "dano": "60",
-        "custoataque": [
-          "water",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002330_00_SHOWERS_AR_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fgzqfijb00tqiy2-vaporeon"
-  },
-  {
-    "id": "zm3n389x9y6o1as-marshadow",
-    "nome": "Marshadow",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "74 / 86",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Vingança",
-        "dano": "40 +",
-        "custoataque": [
-          "fighting",
-          "colorless"
-        ],
-        "efeito": "If any of your Pokémon were knocked out by damage from an attack during your opponent's last turn, this attack does 60 more damage"
-      }
-    ],
-    "fraqueza": "Psiquico",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002600_00_MARSHADOW_AR_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zm3n389x9y6o1as-marshadow"
-  },
-  {
-    "id": "k4hllj09hixdi6m-gyarados-ex",
-    "nome": "Gyarados ex",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Estágio 1",
-    "expansao": "Ilha Mitica",
-    "numero": "76 / 86",
-    "hp": 30,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Redemoinho Furioso",
-        "dano": "140",
-        "custoataque": [
-          "water",
-          "water",
-          "water",
-          "colorless"
-        ],
-        "efeito": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002320_00_GYARADOSex_SR_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k4hllj09hixdi6m-gyarados-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000100_00_HIMITSUNOKOHAKU_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fo7ec02e0ucc7x8-old-amber"
   },
   {
     "id": "ijpqniv1h7k4uzs-dedenne",
@@ -2136,94 +1957,42 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ijpqniv1h7k4uzs-dedenne"
   },
   {
-    "id": "5eatuaiywrs77bc-mew-ex",
-    "nome": "Mew ex",
+    "id": "1s1tq7sqqgvq8tc-chatot",
+    "nome": "Chatot",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 8,
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Ilha Mitica",
-    "numero": "77 / 86",
-    "hp": 130,
+    "numero": "62 / 86",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Tiro Psíquico",
-        "dano": "20",
-        "custoataque": [
-          "psychic"
-        ],
-        "efeito": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack"
+        "nomeataque": "Mímica",
+        "dano": "",
+        "custoataque": [],
+        "efeito": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand"
       }
     ],
-    "fraqueza": "Escuridao",
+    "fraqueza": "Raio",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_00_MEWex_SR_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5eatuaiywrs77bc-mew-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002750_00_PERAP_C_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1s1tq7sqqgvq8tc-chatot"
   },
   {
-    "id": "xpv0hpyt1z1rz7f-celebi-ex",
-    "nome": "Celebi ex",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Ilha Mitica",
-    "numero": "85 / 86",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Florescer Poderoso",
-        "dano": "50 ×",
-        "custoataque": [
-          "grass",
-          "colorless"
-        ],
-        "efeito": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002170_01_CELEBIex_IM_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xpv0hpyt1z1rz7f-celebi-ex"
-  },
-  {
-    "id": "fo7ec02e0ucc7x8-old-amber",
-    "nome": "Âmbar Velho",
+    "id": "0afyr6z43839idd-pokemon-flute",
+    "nome": "Flauta Pokémon",
     "tipo": "Treinador",
     "elemento": "Neutro",
-    "raridade": "Comum",
+    "raridade": "Incomum",
     "custoDeck": 1,
-    "estagio": "Item",
-    "expansao": "Ilha Mitica",
-    "numero": "63 / 86",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000100_00_HIMITSUNOKOHAKU_C_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fo7ec02e0ucc7x8-old-amber"
-  },
-  {
-    "id": "a91f9i3l5do91lu-blue",
-    "nome": "Blue",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
     "estagio": "Desconhecido",
     "expansao": "Ilha Mitica",
-    "numero": "81 / 86",
+    "numero": "64 / 86",
     "hp": 0,
     "evolucao": "",
     "ataque": [],
@@ -2231,8 +2000,8 @@
     "recuo": 0,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_20_000210_00_GREEN_SR_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a91f9i3l5do91lu-blue"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000200_00_POKEMONNOFUE_U_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0afyr6z43839idd-pokemon-flute"
   },
   {
     "id": "c59pgs3a6gf02su-serperior",
@@ -2267,6 +2036,148 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c59pgs3a6gf02su-serperior"
   },
   {
+    "id": "vm8rykfyesi8psj-salandit",
+    "nome": "Salandit",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "71 / 86",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Venochoque",
+        "dano": "10 +",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002290_00_YATOUMORI_AR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vm8rykfyesi8psj-salandit"
+  },
+  {
+    "id": "fgzqfijb00tqiy2-vaporeon",
+    "nome": "Vaporeon",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 1",
+    "expansao": "Ilha Mitica",
+    "numero": "72 / 86",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Onda Borrifante",
+        "dano": "60",
+        "custoataque": [
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002330_00_SHOWERS_AR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fgzqfijb00tqiy2-vaporeon"
+  },
+  {
+    "id": "b210ploeuw8kc3o-exeggutor",
+    "nome": "Exeggutor",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 1",
+    "expansao": "Ilha Mitica",
+    "numero": "69 / 86",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Psíquico",
+        "dano": "80 +",
+        "custoataque": [
+          "grass",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002160_00_NASSY_AR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b210ploeuw8kc3o-exeggutor"
+  },
+  {
+    "id": "kz21cxjbnl78n7k-celebi-ex",
+    "nome": "Celebi ex",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "75 / 86",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Florescer Poderoso",
+        "dano": "50 ×",
+        "custoataque": [
+          "grass",
+          "colorless"
+        ],
+        "efeito": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002170_00_CELEBIex_SR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kz21cxjbnl78n7k-celebi-ex"
+  },
+  {
+    "id": "9cvnctq71ts6ocj-leaf",
+    "nome": "Leaf",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Desconhecido",
+    "expansao": "Ilha Mitica",
+    "numero": "82 / 86",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_20_000230_00_LEAF_SR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9cvnctq71ts6ocj-leaf"
+  },
+  {
     "id": "trsczskf0z2z12p-aerodactyl-ex",
     "nome": "Aerodactyl ex",
     "tipo": "Pokemon",
@@ -2297,33 +2208,36 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/trsczskf0z2z12p-aerodactyl-ex"
   },
   {
-    "id": "98f36d2k9cqin6s-mew-ex",
-    "nome": "Mew ex",
+    "id": "k4hllj09hixdi6m-gyarados-ex",
+    "nome": "Gyarados ex",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Ultra Rara",
+    "elemento": "Água",
+    "raridade": "Rara",
     "custoDeck": 8,
-    "estagio": "Básico",
+    "estagio": "Estágio 1",
     "expansao": "Ilha Mitica",
-    "numero": "86 / 86",
-    "hp": 130,
+    "numero": "76 / 86",
+    "hp": 30,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Tiro Psíquico",
-        "dano": "20",
+        "nomeataque": "Redemoinho Furioso",
+        "dano": "140",
         "custoataque": [
-          "psychic"
+          "water",
+          "water",
+          "water",
+          "colorless"
         ],
-        "efeito": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack"
+        "efeito": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)"
       }
     ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
+    "fraqueza": "Raio",
+    "recuo": 3,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_02_MEWex_UR_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/98f36d2k9cqin6s-mew-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002320_00_GYARADOSex_SR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k4hllj09hixdi6m-gyarados-ex"
   },
   {
     "id": "30koqtat89as3os-budding-expeditioner",
@@ -2346,33 +2260,34 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/30koqtat89as3os-budding-expeditioner"
   },
   {
-    "id": "1qfj5pkve2jtpx1-mew-ex",
-    "nome": "Mew ex",
+    "id": "zm3n389x9y6o1as-marshadow",
+    "nome": "Marshadow",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
+    "elemento": "Lutador",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Ilha Mitica",
-    "numero": "83 / 86",
-    "hp": 130,
+    "numero": "74 / 86",
+    "hp": 80,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Tiro Psíquico",
-        "dano": "20",
+        "nomeataque": "Vingança",
+        "dano": "40 +",
         "custoataque": [
-          "psychic"
+          "fighting",
+          "colorless"
         ],
-        "efeito": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack"
+        "efeito": "If any of your Pokémon were knocked out by damage from an attack during your opponent's last turn, this attack does 60 more damage"
       }
     ],
-    "fraqueza": "Escuridao",
+    "fraqueza": "Psiquico",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_01_MEWex_SAR_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1qfj5pkve2jtpx1-mew-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002600_00_MARSHADOW_AR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zm3n389x9y6o1as-marshadow"
   },
   {
     "id": "v0z6lar0cdel1ay-aerodactyl-ex",
@@ -2405,7 +2320,136 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v0z6lar0cdel1ay-aerodactyl-ex"
   },
   {
-    "id": "kz21cxjbnl78n7k-celebi-ex",
+    "id": "5y62vvr58pxazez-pidgeot-ex",
+    "nome": "Pidgeot ex",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Estágio 2",
+    "expansao": "Ilha Mitica",
+    "numero": "79 / 86",
+    "hp": 170,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ciclone Disperso",
+        "dano": "80 +",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002720_00_PIGEOTex_SR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5y62vvr58pxazez-pidgeot-ex"
+  },
+  {
+    "id": "a91f9i3l5do91lu-blue",
+    "nome": "Blue",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Desconhecido",
+    "expansao": "Ilha Mitica",
+    "numero": "81 / 86",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_20_000210_00_GREEN_SR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a91f9i3l5do91lu-blue"
+  },
+  {
+    "id": "5eatuaiywrs77bc-mew-ex",
+    "nome": "Mew ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "77 / 86",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "20",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Hackear Genoma",
+        "dano": "",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_00_MEWex_SR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5eatuaiywrs77bc-mew-ex"
+  },
+  {
+    "id": "1qfj5pkve2jtpx1-mew-ex",
+    "nome": "Mew ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "83 / 86",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "20",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Hackear Genoma",
+        "dano": "",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_01_MEWex_SAR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1qfj5pkve2jtpx1-mew-ex"
+  },
+  {
+    "id": "xpv0hpyt1z1rz7f-celebi-ex",
     "nome": "Celebi ex",
     "tipo": "Pokemon",
     "elemento": "Grama",
@@ -2413,7 +2457,7 @@
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Ilha Mitica",
-    "numero": "75 / 86",
+    "numero": "85 / 86",
     "hp": 130,
     "evolucao": "",
     "ataque": [
@@ -2431,7 +2475,46 @@
     "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002170_00_CELEBIex_SR_M_M_en_US_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kz21cxjbnl78n7k-celebi-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002170_01_CELEBIex_IM_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xpv0hpyt1z1rz7f-celebi-ex"
+  },
+  {
+    "id": "98f36d2k9cqin6s-mew-ex",
+    "nome": "Mew ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Coroa Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Ilha Mitica",
+    "numero": "86 / 86",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Tiro Psíquico",
+        "dano": "20",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Hackear Genoma",
+        "dano": "",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_02_MEWex_UR_M_M_en_US_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/98f36d2k9cqin6s-mew-ex"
   }
 ]

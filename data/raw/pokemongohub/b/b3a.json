@@ -1,34 +1,92 @@
 [
   {
-    "id": "z0bh0oxtv39k41m-iron-bundle-ex",
-    "nome": "Pacote Férreo ex",
+    "id": "m3vmvvkrdq5ghqo-surskit",
+    "nome": "Surskit",
     "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "13 / 109",
-    "hp": 130,
+    "numero": "1 / 109",
+    "hp": 60,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Começo Frio",
-        "dano": "60",
+        "nomeataque": "Aríete",
+        "dano": "10",
         "custoataque": [
-          "water",
-          "water",
           "colorless"
         ],
-        "efeito": "If this is the first time this Pokémon has used an attack after coming into play, this attack does 20 more damage and your opponent's Active Pokémon is now Paralyzed"
+        "efeito": ""
       }
     ],
-    "fraqueza": "Raio",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018280_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z0bh0oxtv39k41m-iron-bundle-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018160_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m3vmvvkrdq5ghqo-surskit"
+  },
+  {
+    "id": "urflfsay5ar4joy-masquerain",
+    "nome": "Masquerain",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "2 / 109",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe de Ar",
+        "dano": "70",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Discard a random Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018170_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/urflfsay5ar4joy-masquerain"
+  },
+  {
+    "id": "ivsfdwucjyrh8t3-brute-bonnet",
+    "nome": "Capuz Bruto",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "3 / 109",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bofetada Animada",
+        "dano": "90",
+        "custoataque": [
+          "grass",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If tails, this attack does nothing"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018180_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ivsfdwucjyrh8t3-brute-bonnet"
   },
   {
     "id": "y92fnlysd6qdpf1-slither-wing",
@@ -62,94 +120,34 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y92fnlysd6qdpf1-slither-wing"
   },
   {
-    "id": "ivsfdwucjyrh8t3-brute-bonnet",
-    "nome": "Capuz Bruto",
+    "id": "j42av3bis5wr04x-iron-moth",
+    "nome": "Mariposa Férrea",
     "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "3 / 109",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Bofetada Animada",
-        "dano": "90",
-        "custoataque": [
-          "grass",
-          "colorless"
-        ],
-        "efeito": "Flip a coin. If tails, this attack does nothing"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018180_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ivsfdwucjyrh8t3-brute-bonnet"
-  },
-  {
-    "id": "9qbm6niri8gulfq-vaporeon",
-    "nome": "Vaporeon",
-    "tipo": "Pokemon",
-    "elemento": "Água",
+    "elemento": "Fogo",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "8 / 109",
-    "hp": 120,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Apreensão",
-        "dano": "60",
-        "custoataque": [
-          "water",
-          "water"
-        ],
-        "efeito": "During your opponent's next turn, the Defending Pokémon can't retreat."
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018230_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9qbm6niri8gulfq-vaporeon"
-  },
-  {
-    "id": "urflfsay5ar4joy-masquerain",
-    "nome": "Masquerain",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "2 / 109",
+    "numero": "5 / 109",
     "hp": 90,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Golpe de Ar",
-        "dano": "70",
+        "nomeataque": "Ventania Termal",
+        "dano": "10 +",
         "custoataque": [
-          "colorless",
+          "fire",
           "colorless"
         ],
-        "efeito": "Discard a random Energy from this Pokémon"
+        "efeito": "Flip 3 coins. If 1 of them is heads, this attack does 20 more damage. If 2 of them are heads, this attack does 50 ,ore damage. If all of them are heads, this attack does 120 more damage"
       }
     ],
-    "fraqueza": "Fogo",
+    "fraqueza": "Agua",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018170_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/urflfsay5ar4joy-masquerain"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018200_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j42av3bis5wr04x-iron-moth"
   },
   {
     "id": "qxwu16qkrgrbl8i-psyduck",
@@ -181,240 +179,6 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qxwu16qkrgrbl8i-psyduck"
   },
   {
-    "id": "m3vmvvkrdq5ghqo-surskit",
-    "nome": "Surskit",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "1 / 109",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Aríete",
-        "dano": "10",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018160_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m3vmvvkrdq5ghqo-surskit"
-  },
-  {
-    "id": "j42av3bis5wr04x-iron-moth",
-    "nome": "Mariposa Férrea",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "5 / 109",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Ventania Termal",
-        "dano": "10 +",
-        "custoataque": [
-          "fire",
-          "colorless"
-        ],
-        "efeito": "Flip 3 coins. If 1 of them is heads, this attack does 20 more damage. If 2 of them are heads, this attack does 50 ,ore damage. If all of them are heads, this attack does 120 more damage"
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018200_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j42av3bis5wr04x-iron-moth"
-  },
-  {
-    "id": "ztbdgi0ox51dd67-snom",
-    "nome": "Snom",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "11 / 109",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Roída",
-        "dano": "20",
-        "custoataque": [
-          "water"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018260_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ztbdgi0ox51dd67-snom"
-  },
-  {
-    "id": "rw8nnkjfktqtmas-flittle",
-    "nome": "Flittle",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "21 / 109",
-    "hp": 40,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Raio Psíquico",
-        "dano": "10",
-        "custoataque": [
-          "psychic"
-        ],
-        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018360_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rw8nnkjfktqtmas-flittle"
-  },
-  {
-    "id": "r3spbfqn199yzyp-pawmo",
-    "nome": "Pawmo",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "15 / 109",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Faísca",
-        "dano": "20",
-        "custoataque": [
-          "lightning"
-        ],
-        "efeito": "This attack does 10 damage to 1 of your opponent's Benched Pokémon"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018300_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r3spbfqn199yzyp-pawmo"
-  },
-  {
-    "id": "u6uerkeq154yho2-frosmoth",
-    "nome": "Frosmoth",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "12 / 109",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Raio Aurora",
-        "dano": "60",
-        "custoataque": [
-          "water",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018270_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u6uerkeq154yho2-frosmoth"
-  },
-  {
-    "id": "z64kwrulku4faez-pawmot",
-    "nome": "Pawmot",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "16 / 109",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Onda de Volts",
-        "dano": "60",
-        "custoataque": [
-          "lightning"
-        ],
-        "efeito": "Flip a coin> If heads, your opponent's Active Pokémon is now Paralyzed."
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018310_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z64kwrulku4faez-pawmot"
-  },
-  {
-    "id": "nils9vzdnw6sj0z-nacli",
-    "nome": "Nacli",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "31 / 109",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Cabeçada",
-        "dano": "20",
-        "custoataque": [
-          "fighting"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018460_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nils9vzdnw6sj0z-nacli"
-  },
-  {
     "id": "gz6moskulo6urna-golduck",
     "nome": "Golduck",
     "tipo": "Pokemon",
@@ -442,6 +206,36 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018220_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gz6moskulo6urna-golduck"
+  },
+  {
+    "id": "9qbm6niri8gulfq-vaporeon",
+    "nome": "Vaporeon",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "8 / 109",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Apreensão",
+        "dano": "60",
+        "custoataque": [
+          "water",
+          "water"
+        ],
+        "efeito": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9qbm6niri8gulfq-vaporeon"
   },
   {
     "id": "44ellzlcqkbpnsr-buizel",
@@ -505,64 +299,152 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vyed6krqj79ftsb-floatzel"
   },
   {
-    "id": "5vseq5lls3e2ayd-pawmi",
-    "nome": "Pawmi",
+    "id": "z0bh0oxtv39k41m-iron-bundle-ex",
+    "nome": "Pacote Férreo ex",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "13 / 109",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Começo Frio",
+        "dano": "60",
+        "custoataque": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "efeito": "If this is the first time this Pokémon has used an attack after coming into play, this attack does 20 more damage and your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z0bh0oxtv39k41m-iron-bundle-ex"
+  },
+  {
+    "id": "ztbdgi0ox51dd67-snom",
+    "nome": "Snom",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "11 / 109",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Roída",
+        "dano": "20",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018260_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ztbdgi0ox51dd67-snom"
+  },
+  {
+    "id": "r3spbfqn199yzyp-pawmo",
+    "nome": "Pawmo",
     "tipo": "Pokemon",
     "elemento": "Elétrico",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "14 / 109",
-    "hp": 50,
+    "numero": "15 / 109",
+    "hp": 80,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Aríete",
-        "dano": "30",
+        "nomeataque": "Faísca",
+        "dano": "20",
         "custoataque": [
           "lightning"
         ],
-        "efeito": ""
+        "efeito": "This attack does 10 damage to 1 of your opponent's Benched Pokémon"
       }
     ],
     "fraqueza": "Luta",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018290_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5vseq5lls3e2ayd-pawmi"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018300_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r3spbfqn199yzyp-pawmo"
   },
   {
-    "id": "bfea5ibtx17p65q-iron-leaves",
-    "nome": "Folhas Férreas",
+    "id": "z64kwrulku4faez-pawmot",
+    "nome": "Pawmot",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 3,
+    "elemento": "Elétrico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "28 / 109",
-    "hp": 90,
+    "numero": "16 / 109",
+    "hp": 130,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Gume Vingativo",
-        "dano": "50 +",
+        "nomeataque": "Onda de Volts",
+        "dano": "60",
         "custoataque": [
-          "psychic",
-          "colorless",
-          "colorless"
+          "lightning"
         ],
-        "efeito": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 50 more damage"
+        "efeito": "Flip a coin> If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "fraqueza": "Escuridao",
+    "fraqueza": "Luta",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018430_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bfea5ibtx17p65q-iron-leaves"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018310_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z64kwrulku4faez-pawmot"
+  },
+  {
+    "id": "u6uerkeq154yho2-frosmoth",
+    "nome": "Frosmoth",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "12 / 109",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Raio Aurora",
+        "dano": "60",
+        "custoataque": [
+          "water",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018270_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u6uerkeq154yho2-frosmoth"
   },
   {
     "id": "tw56g3yxn3bwk28-iron-hands",
@@ -596,34 +478,93 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tw56g3yxn3bwk28-iron-hands"
   },
   {
-    "id": "6k7bst4vugqc4xf-espathra",
-    "nome": "Espathra",
+    "id": "8eetwb9kriexeko-iron-thorns",
+    "nome": "Espinhos Férreos",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "18 / 109",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Trovão Binário",
+        "dano": "40 +",
+        "custoataque": [
+          "lightning",
+          "lightning",
+          "colorless"
+        ],
+        "efeito": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018330_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8eetwb9kriexeko-iron-thorns"
+  },
+  {
+    "id": "5vseq5lls3e2ayd-pawmi",
+    "nome": "Pawmi",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "14 / 109",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Aríete",
+        "dano": "30",
+        "custoataque": [
+          "lightning"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018290_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5vseq5lls3e2ayd-pawmi"
+  },
+  {
+    "id": "v5nj3uv55bdf9f3-espeon",
+    "nome": "Espeon",
     "tipo": "Pokemon",
     "elemento": "Psíquico",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "22 / 109",
-    "hp": 100,
+    "numero": "20 / 109",
+    "hp": 90,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Colisão Luminosa",
-        "dano": "50",
+        "nomeataque": "Borrifada Hipnótica",
+        "dano": "40",
         "custoataque": [
-          "psychic",
           "psychic"
         ],
-        "efeito": "During your next turn, the Defendign Pokémon takes +50 damage from attacks"
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
       }
     ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018370_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6k7bst4vugqc4xf-espathra"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018350_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v5nj3uv55bdf9f3-espeon"
   },
   {
     "id": "z5ain26wv7icnwj-miraidon-ex",
@@ -657,34 +598,63 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z5ain26wv7icnwj-miraidon-ex"
   },
   {
-    "id": "onc7tb9efl25aco-flutter-mane-ex",
-    "nome": "Juba Sopro ex",
+    "id": "6k7bst4vugqc4xf-espathra",
+    "nome": "Espathra",
     "tipo": "Pokemon",
     "elemento": "Psíquico",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "26 / 109",
-    "hp": 130,
+    "numero": "22 / 109",
+    "hp": 100,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Começo Enfeitiçador",
-        "dano": "70",
+        "nomeataque": "Colisão Luminosa",
+        "dano": "50",
         "custoataque": [
           "psychic",
           "psychic"
         ],
-        "efeito": "If this is the first time this Pokémon has used an attack after coming into play,during your opponent's next turn, they can't use any Trainer cards from their hand"
+        "efeito": "During your next turn, the Defendign Pokémon takes +50 damage from attacks"
       }
     ],
-    "fraqueza": "Metal",
+    "fraqueza": "Escuridao",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018410_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/onc7tb9efl25aco-flutter-mane-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018370_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6k7bst4vugqc4xf-espathra"
+  },
+  {
+    "id": "rw8nnkjfktqtmas-flittle",
+    "nome": "Flittle",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "21 / 109",
+    "hp": 40,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Raio Psíquico",
+        "dano": "10",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018360_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rw8nnkjfktqtmas-flittle"
   },
   {
     "id": "s0nru57vienqy06-greavard",
@@ -714,156 +684,6 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018380_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s0nru57vienqy06-greavard"
-  },
-  {
-    "id": "2470qyw0amrgdrn-iron-valiant",
-    "nome": "Valentia Férrea",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "27 / 109",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Lâmina Fatiante",
-        "dano": "50",
-        "custoataque": [
-          "psychic",
-          "psychic"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018420_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2470qyw0amrgdrn-iron-valiant"
-  },
-  {
-    "id": "v5nj3uv55bdf9f3-espeon",
-    "nome": "Espeon",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "20 / 109",
-    "hp": 90,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Borrifada Hipnótica",
-        "dano": "40",
-        "custoataque": [
-          "psychic"
-        ],
-        "efeito": "Your opponent's Active Pokémon is now Asleep"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018350_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v5nj3uv55bdf9f3-espeon"
-  },
-  {
-    "id": "8eetwb9kriexeko-iron-thorns",
-    "nome": "Espinhos Férreos",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "18 / 109",
-    "hp": 110,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Trovão Binário",
-        "dano": "40 +",
-        "custoataque": [
-          "lightning",
-          "lightning",
-          "colorless"
-        ],
-        "efeito": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 40 more damage"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018330_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8eetwb9kriexeko-iron-thorns"
-  },
-  {
-    "id": "lkjr4csex2inr8f-iron-crown",
-    "nome": "Chifres Férreos",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "30 / 109",
-    "hp": 110,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Lâmina Enumeradora",
-        "dano": "10 +",
-        "custoataque": [
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018450_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lkjr4csex2inr8f-iron-crown"
-  },
-  {
-    "id": "mutsv29vxebm514-naclstack",
-    "nome": "Naclstack",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "32 / 109",
-    "hp": 110,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Lançamento de Rocha",
-        "dano": "50",
-        "custoataque": [
-          "fighting",
-          "fighting"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018470_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mutsv29vxebm514-naclstack"
   },
   {
     "id": "1ga5fa64yre9hf3-houndstone",
@@ -908,13 +728,173 @@
     "numero": "25 / 109",
     "hp": 70,
     "evolucao": "",
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Expulsar a Grito",
+        "dano": "",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "Flip 2 coins. If both of them are heads, discard your opponent's Active Pokémon"
+      }
+    ],
     "fraqueza": "Escuridao",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018400_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qjeat9mn5coiwoi-scream-tail"
+  },
+  {
+    "id": "onc7tb9efl25aco-flutter-mane-ex",
+    "nome": "Juba Sopro ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "26 / 109",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Começo Enfeitiçador",
+        "dano": "70",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "If this is the first time this Pokémon has used an attack after coming into play,during your opponent's next turn, they can't use any Trainer cards from their hand"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/onc7tb9efl25aco-flutter-mane-ex"
+  },
+  {
+    "id": "2470qyw0amrgdrn-iron-valiant",
+    "nome": "Valentia Férrea",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "27 / 109",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lâmina Fatiante",
+        "dano": "50",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2470qyw0amrgdrn-iron-valiant"
+  },
+  {
+    "id": "mutsv29vxebm514-naclstack",
+    "nome": "Naclstack",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "32 / 109",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lançamento de Rocha",
+        "dano": "50",
+        "custoataque": [
+          "fighting",
+          "fighting"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018470_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mutsv29vxebm514-naclstack"
+  },
+  {
+    "id": "lkjr4csex2inr8f-iron-crown",
+    "nome": "Chifres Férreos",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "30 / 109",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lâmina Enumeradora",
+        "dano": "10 +",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 20 more damage for each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018450_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lkjr4csex2inr8f-iron-crown"
+  },
+  {
+    "id": "z5fs2g7hwjutes3-great-tusk",
+    "nome": "Presa Grande",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "34 / 109",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Pisada Trêmula",
+        "dano": "80",
+        "custoataque": [
+          "fighting",
+          "fighting"
+        ],
+        "efeito": "This attack also does 20 damage to each of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018490_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z5fs2g7hwjutes3-great-tusk"
   },
   {
     "id": "05f0m9qpr2vmdt9-iron-boulder",
@@ -949,75 +929,64 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/05f0m9qpr2vmdt9-iron-boulder"
   },
   {
-    "id": "4ly4uc5blrrau9g-sableye",
-    "nome": "Sableye",
+    "id": "bfea5ibtx17p65q-iron-leaves",
+    "nome": "Folhas Férreas",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "40 / 109",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018550_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4ly4uc5blrrau9g-sableye"
-  },
-  {
-    "id": "rus6l8m051fkr3v-koraidon-ex",
-    "nome": "Koraidon ex",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
+    "elemento": "Psíquico",
     "raridade": "Rara",
-    "custoDeck": 8,
+    "custoDeck": 3,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "36 / 109",
-    "hp": 150,
+    "numero": "28 / 109",
+    "hp": 90,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Destruidor de Mundos",
-        "dano": "110",
+        "nomeataque": "Gume Vingativo",
+        "dano": "50 +",
         "custoataque": [
-          "fighting",
-          "fighting",
-          "fighting"
+          "psychic",
+          "colorless",
+          "colorless"
         ],
-        "efeito": "Discard the top card of your deck"
+        "efeito": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 50 more damage"
       }
     ],
-    "fraqueza": "Psiquico",
-    "recuo": 2,
-    "temHabilidade": true,
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018510_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rus6l8m051fkr3v-koraidon-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018430_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bfea5ibtx17p65q-iron-leaves"
   },
   {
-    "id": "00u2psh1ts2ifk7-sandy-shocks",
-    "nome": "Choque Areia",
+    "id": "nils9vzdnw6sj0z-nacli",
+    "nome": "Nacli",
     "tipo": "Pokemon",
     "elemento": "Lutador",
     "raridade": "Incomum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "35 / 109",
-    "hp": 100,
+    "numero": "31 / 109",
+    "hp": 70,
     "evolucao": "",
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Cabeçada",
+        "dano": "20",
+        "custoataque": [
+          "fighting"
+        ],
+        "efeito": ""
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018500_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/00u2psh1ts2ifk7-sandy-shocks"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018460_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nils9vzdnw6sj0z-nacli"
   },
   {
     "id": "whiz5ag68adflwj-garganacl",
@@ -1051,115 +1020,35 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/whiz5ag68adflwj-garganacl"
   },
   {
-    "id": "z5fs2g7hwjutes3-great-tusk",
-    "nome": "Presa Grande",
+    "id": "00u2psh1ts2ifk7-sandy-shocks",
+    "nome": "Choque Areia",
     "tipo": "Pokemon",
     "elemento": "Lutador",
-    "raridade": "Rara",
-    "custoDeck": 3,
+    "raridade": "Incomum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "34 / 109",
-    "hp": 120,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Pisada Trêmula",
-        "dano": "80",
-        "custoataque": [
-          "fighting",
-          "fighting"
-        ],
-        "efeito": "This attack also does 20 damage to each of your Benched Pokémon"
-      }
-    ],
-    "fraqueza": "Psiquico",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018490_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z5fs2g7hwjutes3-great-tusk"
-  },
-  {
-    "id": "xfx8axpzgbgj3xr-roaring-moon",
-    "nome": "Lua Estrondo",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "47 / 109",
+    "numero": "35 / 109",
     "hp": 100,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Vento da Escuridão",
-        "dano": "70",
+        "nomeataque": "Puxar e Pisotear",
+        "dano": "",
         "custoataque": [
-          "darkness",
-          "darkness",
+          "fighting",
+          "fighting",
           "colorless"
         ],
-        "efeito": ""
+        "efeito": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 50 damage to the new Active Pokémon"
       }
     ],
     "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018620_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xfx8axpzgbgj3xr-roaring-moon"
-  },
-  {
-    "id": "3ss4zxvdwxwz2ma-raging-bolt",
-    "nome": "Raio Fúria",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "55 / 109",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 3,
+    "recuo": 2,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018700_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3ss4zxvdwxwz2ma-raging-bolt"
-  },
-  {
-    "id": "yplmpxx8272rugf-sneasel",
-    "nome": "Sneasel",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "38 / 109",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Ataque Rápido",
-        "dano": "10 +",
-        "custoataque": [
-          "darkness",
-          "colorless"
-        ],
-        "efeito": "Flip a coin. If heads, this attack does 20 more damage"
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018530_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yplmpxx8272rugf-sneasel"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018500_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/00u2psh1ts2ifk7-sandy-shocks"
   },
   {
     "id": "q2hx9zufzg3f0io-umbreon",
@@ -1192,34 +1081,34 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q2hx9zufzg3f0io-umbreon"
   },
   {
-    "id": "pxerq65tgsqmvs0-kingambit",
-    "nome": "Kingambit",
+    "id": "6xdxzz2zbdaau6f-pawniard",
+    "nome": "Pawniard",
     "tipo": "Pokemon",
     "elemento": "Noturno",
-    "raridade": "Rara",
-    "custoDeck": 3,
+    "raridade": "Comum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "43 / 109",
-    "hp": 140,
+    "numero": "41 / 109",
+    "hp": 50,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Lâmina do General",
-        "dano": "60 +",
+        "nomeataque": "Talho",
+        "dano": "30",
         "custoataque": [
           "darkness",
-          "darkness"
+          "colorless"
         ],
-        "efeito": "This attack does 40 more damage for each time your Pokémon have been Knocked Out during this game"
+        "efeito": ""
       }
     ],
     "fraqueza": "Planta",
-    "recuo": 3,
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018580_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pxerq65tgsqmvs0-kingambit"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018560_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6xdxzz2zbdaau6f-pawniard"
   },
   {
     "id": "2gs4o8dwg91w6wm-weavile",
@@ -1281,6 +1170,96 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zg4j4ktoe1vbxwo-glimmet"
   },
   {
+    "id": "rus6l8m051fkr3v-koraidon-ex",
+    "nome": "Koraidon ex",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "36 / 109",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Destruidor de Mundos",
+        "dano": "110",
+        "custoataque": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "efeito": "Discard the top card of your deck"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rus6l8m051fkr3v-koraidon-ex"
+  },
+  {
+    "id": "yplmpxx8272rugf-sneasel",
+    "nome": "Sneasel",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "38 / 109",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Ataque Rápido",
+        "dano": "10 +",
+        "custoataque": [
+          "darkness",
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 20 more damage"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018530_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yplmpxx8272rugf-sneasel"
+  },
+  {
+    "id": "4ly4uc5blrrau9g-sableye",
+    "nome": "Sableye",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "40 / 109",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Prenda Preciosa",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Take a random Energy from among Grass, Fire, Water, Lightning, Psychic, Fighting, Darkness and Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018550_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4ly4uc5blrrau9g-sableye"
+  },
+  {
     "id": "xzhy86sgp6wk1h5-bisharp",
     "nome": "Bisharp",
     "tipo": "Pokemon",
@@ -1309,6 +1288,311 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018570_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xzhy86sgp6wk1h5-bisharp"
+  },
+  {
+    "id": "5ct5ugs7tje7832-iron-jugulis",
+    "nome": "Jugulares Férreas",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "46 / 109",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Vendaval Avassalador",
+        "dano": "70",
+        "custoataque": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018610_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5ct5ugs7tje7832-iron-jugulis"
+  },
+  {
+    "id": "pxerq65tgsqmvs0-kingambit",
+    "nome": "Kingambit",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "43 / 109",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Lâmina do General",
+        "dano": "60 +",
+        "custoataque": [
+          "darkness",
+          "darkness"
+        ],
+        "efeito": "This attack does 40 more damage for each time your Pokémon have been Knocked Out during this game"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018580_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pxerq65tgsqmvs0-kingambit"
+  },
+  {
+    "id": "s94kdgdkgr8pegn-glimmora",
+    "nome": "Glimmora",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "45 / 109",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Golpe Venenoso",
+        "dano": "30",
+        "custoataque": [
+          "darkness"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Poisnoed"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018600_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s94kdgdkgr8pegn-glimmora"
+  },
+  {
+    "id": "xfx8axpzgbgj3xr-roaring-moon",
+    "nome": "Lua Estrondo",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "47 / 109",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Vento da Escuridão",
+        "dano": "70",
+        "custoataque": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018620_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xfx8axpzgbgj3xr-roaring-moon"
+  },
+  {
+    "id": "q1e44pvyip2ze8a-iron-treads",
+    "nome": "Trilho Férreo",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "51 / 109",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Rolar e Lançar",
+        "dano": "50 +",
+        "custoataque": [
+          "metal",
+          "metal",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip a coin until you get tails. This attack does 30 more damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018660_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q1e44pvyip2ze8a-iron-treads"
+  },
+  {
+    "id": "a5279mquhappem4-walking-wake",
+    "nome": "Onda Ando",
+    "tipo": "Pokemon",
+    "elemento": "Dragão",
+    "raridade": "Rara",
+    "custoDeck": 3,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "53 / 109",
+    "hp": 110,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Arrebentação Vagante",
+        "dano": "60",
+        "custoataque": [
+          "fire",
+          "water"
+        ],
+        "efeito": "Discard an Energy from this Pokémon, and this attack also does 20 damage to each of your opponent's Benched Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018680_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a5279mquhappem4-walking-wake"
+  },
+  {
+    "id": "xhpp4jxvy4et2qz-copperajah",
+    "nome": "Copperajah",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "50 / 109",
+    "hp": 170,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Giro Metálico",
+        "dano": "100 ×",
+        "custoataque": [
+          "metal",
+          "metal",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip 2 coins. This attack does 100 damage for each heads"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 4,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018650_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xhpp4jxvy4et2qz-copperajah"
+  },
+  {
+    "id": "jf86t8r16j67455-eevee",
+    "nome": "Eevee",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "56 / 109",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Cauda Chicote",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018710_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jf86t8r16j67455-eevee"
+  },
+  {
+    "id": "gd3h3glbijv660a-corviknight",
+    "nome": "Corviknight",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "48 / 109",
+    "hp": 140,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Garra de Metal",
+        "dano": "90",
+        "custoataque": [
+          "metal",
+          "metal"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018630_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gd3h3glbijv660a-corviknight"
+  },
+  {
+    "id": "m2snv4a3jlpivf9-cufant",
+    "nome": "Cufant",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "49 / 109",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Força",
+        "dano": "60",
+        "custoataque": [
+          "metal",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018640_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m2snv4a3jlpivf9-cufant"
   },
   {
     "id": "u26bp3v5ud0rknw-altaria",
@@ -1371,279 +1655,127 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h2d9l9a86ivarl1-gouging-fire"
   },
   {
-    "id": "5ct5ugs7tje7832-iron-jugulis",
-    "nome": "Jugulares Férreas",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "46 / 109",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Vendaval Avassalador",
-        "dano": "70",
-        "custoataque": [
-          "darkness",
-          "darkness",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018610_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5ct5ugs7tje7832-iron-jugulis"
-  },
-  {
-    "id": "gd3h3glbijv660a-corviknight",
-    "nome": "Corviknight",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "48 / 109",
-    "hp": 140,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Garra de Metal",
-        "dano": "90",
-        "custoataque": [
-          "metal",
-          "metal"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018630_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gd3h3glbijv660a-corviknight"
-  },
-  {
-    "id": "6xdxzz2zbdaau6f-pawniard",
-    "nome": "Pawniard",
-    "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "41 / 109",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Talho",
-        "dano": "30",
-        "custoataque": [
-          "darkness",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018560_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6xdxzz2zbdaau6f-pawniard"
-  },
-  {
-    "id": "xhpp4jxvy4et2qz-copperajah",
-    "nome": "Copperajah",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "50 / 109",
-    "hp": 170,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Giro Metálico",
-        "dano": "100 ×",
-        "custoataque": [
-          "metal",
-          "metal",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "Flip 2 coins. This attack does 100 damage for each heads"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 4,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018650_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xhpp4jxvy4et2qz-copperajah"
-  },
-  {
-    "id": "q1e44pvyip2ze8a-iron-treads",
-    "nome": "Trilho Férreo",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "51 / 109",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Rolar e Lançar",
-        "dano": "50 +",
-        "custoataque": [
-          "metal",
-          "metal",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "Flip a coin until you get tails. This attack does 30 more damage for each heads"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018660_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q1e44pvyip2ze8a-iron-treads"
-  },
-  {
-    "id": "m2snv4a3jlpivf9-cufant",
-    "nome": "Cufant",
-    "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "49 / 109",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Força",
-        "dano": "60",
-        "custoataque": [
-          "metal",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018640_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m2snv4a3jlpivf9-cufant"
-  },
-  {
-    "id": "mdduh3huclsndp7-dudunsparce",
-    "nome": "Dudunsparce",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 3,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "60 / 109",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Escavação Repentina",
-        "dano": "60",
-        "custoataque": [
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "If this Pokémon evolved from Dunsparce during this turn, discard 2 random Energy from your opponent's Active Pokémon"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018750_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mdduh3huclsndp7-dudunsparce"
-  },
-  {
-    "id": "a5279mquhappem4-walking-wake",
-    "nome": "Onda Ando",
+    "id": "3ss4zxvdwxwz2ma-raging-bolt",
+    "nome": "Raio Fúria",
     "tipo": "Pokemon",
     "elemento": "Dragão",
     "raridade": "Rara",
     "custoDeck": 3,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "53 / 109",
-    "hp": 110,
+    "numero": "55 / 109",
+    "hp": 130,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Arrebentação Vagante",
-        "dano": "60",
+        "nomeataque": "Fragor Fulminante",
+        "dano": "",
         "custoataque": [
-          "fire",
-          "water"
+          "water",
+          "water",
+          "lightning",
+          "lightning",
+          "colorless"
         ],
-        "efeito": "Discard an Energy from this Pokémon, and this attack also does 20 damage to each of your opponent's Benched Pokémon"
+        "efeito": "Discard all Energy from this Pokémon. Knock Out your opponent's Active Pokémon"
       }
     ],
     "fraqueza": "",
-    "recuo": 2,
+    "recuo": 3,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018680_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a5279mquhappem4-walking-wake"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018700_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3ss4zxvdwxwz2ma-raging-bolt"
   },
   {
-    "id": "s94kdgdkgr8pegn-glimmora",
-    "nome": "Glimmora",
+    "id": "4pdo1byaaijfocs-girafarig",
+    "nome": "Girafarig",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Rara",
-    "custoDeck": 3,
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "45 / 109",
-    "hp": 90,
+    "numero": "57 / 109",
+    "hp": 70,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Golpe Venenoso",
+        "nomeataque": "Baque de Cabeça",
         "dano": "30",
         "custoataque": [
-          "darkness"
+          "colorless",
+          "colorless"
         ],
-        "efeito": "Your opponent's Active Pokémon is now Poisnoed"
+        "efeito": ""
       }
     ],
     "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": true,
+    "recuo": 1,
+    "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018600_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s94kdgdkgr8pegn-glimmora"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018720_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4pdo1byaaijfocs-girafarig"
+  },
+  {
+    "id": "iutd2fdpieb6eni-farigiraf",
+    "nome": "Farigiraf",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "58 / 109",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Chifre Duplo",
+        "dano": "60 ×",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Flip 2 coins. This attack does 60 damage for each heads"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018730_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iutd2fdpieb6eni-farigiraf"
+  },
+  {
+    "id": "j6p1bia1anbursx-dunsparce",
+    "nome": "Dunsparce",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "59 / 109",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Rolagem",
+        "dano": "30",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018740_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j6p1bia1anbursx-dunsparce"
   },
   {
     "id": "tglld7mndg30qad-swablu",
@@ -1675,63 +1807,34 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tglld7mndg30qad-swablu"
   },
   {
-    "id": "ra0d9ganv5ye65r-hawlucha",
-    "nome": "Hawlucha",
+    "id": "mdduh3huclsndp7-dudunsparce",
+    "nome": "Dudunsparce",
     "tipo": "Pokemon",
     "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
+    "raridade": "Rara",
+    "custoDeck": 3,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "64 / 109",
-    "hp": 80,
+    "numero": "60 / 109",
+    "hp": 100,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Acrobático",
-        "dano": "10 +",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "Flip 2 coins. This attack does 20 more damage for each heads"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018790_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ra0d9ganv5ye65r-hawlucha"
-  },
-  {
-    "id": "j6p1bia1anbursx-dunsparce",
-    "nome": "Dunsparce",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "59 / 109",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Rolagem",
-        "dano": "30",
+        "nomeataque": "Escavação Repentina",
+        "dano": "60",
         "custoataque": [
           "colorless",
           "colorless"
         ],
-        "efeito": ""
+        "efeito": "If this Pokémon evolved from Dunsparce during this turn, discard 2 random Energy from your opponent's Active Pokémon"
       }
     ],
     "fraqueza": "Luta",
-    "recuo": 1,
+    "recuo": 3,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018740_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j6p1bia1anbursx-dunsparce"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018750_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mdduh3huclsndp7-dudunsparce"
   },
   {
     "id": "7d84srezu9litbs-braviary",
@@ -1765,56 +1868,34 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7d84srezu9litbs-braviary"
   },
   {
-    "id": "ideditrtzun18w7-iron-boulder",
-    "nome": "Rocha Férrea",
+    "id": "h2vf4ron0gir53e-rufflet",
+    "nome": "Rufflet",
     "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 8,
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "77 / 109",
-    "hp": 120,
+    "numero": "62 / 109",
+    "hp": 70,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Machado Modular",
-        "dano": "80 +",
+        "nomeataque": "Bicada",
+        "dano": "30",
         "custoataque": [
-          "psychic",
-          "psychic",
           "colorless",
           "colorless"
         ],
-        "efeito": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage"
+        "efeito": ""
       }
     ],
-    "fraqueza": "Escuridao",
-    "recuo": 3,
+    "fraqueza": "Raio",
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018440_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ideditrtzun18w7-iron-boulder"
-  },
-  {
-    "id": "3608tv0t70v3v2q-raging-bolt",
-    "nome": "Raio Fúria",
-    "tipo": "Pokemon",
-    "elemento": "Dragão",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "79 / 109",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018700_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3608tv0t70v3v2q-raging-bolt"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018770_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h2vf4ron0gir53e-rufflet"
   },
   {
     "id": "n8jjlvhenzn0f14-rookidee",
@@ -1846,326 +1927,33 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/n8jjlvhenzn0f14-rookidee"
   },
   {
-    "id": "9zvw12zaxf76qgo-flamigo",
-    "nome": "Flamigo",
+    "id": "ra0d9ganv5ye65r-hawlucha",
+    "nome": "Hawlucha",
     "tipo": "Pokemon",
     "elemento": "Incolor",
     "raridade": "Comum",
     "custoDeck": 1,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "67 / 109",
-    "hp": 90,
+    "numero": "64 / 109",
+    "hp": 80,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Mergulhar de Bico",
-        "dano": "80",
+        "nomeataque": "Acrobático",
+        "dano": "10 +",
         "custoataque": [
-          "colorless",
-          "colorless",
           "colorless"
         ],
-        "efeito": "This Pokémon also does 20 damage to itself"
+        "efeito": "Flip 2 coins. This attack does 20 more damage for each heads"
       }
     ],
     "fraqueza": "Raio",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018820_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9zvw12zaxf76qgo-flamigo"
-  },
-  {
-    "id": "iutd2fdpieb6eni-farigiraf",
-    "nome": "Farigiraf",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "58 / 109",
-    "hp": 120,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Chifre Duplo",
-        "dano": "60 ×",
-        "custoataque": [
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "Flip 2 coins. This attack does 60 damage for each heads"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018730_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iutd2fdpieb6eni-farigiraf"
-  },
-  {
-    "id": "h2vf4ron0gir53e-rufflet",
-    "nome": "Rufflet",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "62 / 109",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Bicada",
-        "dano": "30",
-        "custoataque": [
-          "colorless",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018770_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h2vf4ron0gir53e-rufflet"
-  },
-  {
-    "id": "4epmxt33fqhvjad-area-zero",
-    "nome": "Área Zero",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "74 / 109",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001420_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4epmxt33fqhvjad-area-zero"
-  },
-  {
-    "id": "4pdo1byaaijfocs-girafarig",
-    "nome": "Girafarig",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "57 / 109",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Baque de Cabeça",
-        "dano": "30",
-        "custoataque": [
-          "colorless",
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018720_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4pdo1byaaijfocs-girafarig"
-  },
-  {
-    "id": "elmlabe87u2airj-iron-bundle-ex",
-    "nome": "Pacote Férreo ex",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "89 / 109",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Começo Frio",
-        "dano": "60",
-        "custoataque": [
-          "water",
-          "water",
-          "colorless"
-        ],
-        "efeito": "If this is the first time this Pokémon has used an attack after coming into play, this attack does 20 more damage and your opponent's Active Pokémon is now Paralyzed"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018280_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/elmlabe87u2airj-iron-bundle-ex"
-  },
-  {
-    "id": "fkzbbmxpmdzqtu2-snom",
-    "nome": "Snom",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "75 / 109",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Roída",
-        "dano": "20",
-        "custoataque": [
-          "water"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018260_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fkzbbmxpmdzqtu2-snom"
-  },
-  {
-    "id": "1dfy3uz7pp1hhlt-iron-bundle-ex",
-    "nome": "Pacote Férreo ex",
-    "tipo": "Pokemon",
-    "elemento": "Água",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "81 / 109",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Começo Frio",
-        "dano": "60",
-        "custoataque": [
-          "water",
-          "water",
-          "colorless"
-        ],
-        "efeito": "If this is the first time this Pokémon has used an attack after coming into play, this attack does 20 more damage and your opponent's Active Pokémon is now Paralyzed"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018280_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1dfy3uz7pp1hhlt-iron-bundle-ex"
-  },
-  {
-    "id": "b2906660nkau0q6-professor-turo",
-    "nome": "Professor Turo",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "73 / 109",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001410_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b2906660nkau0q6-professor-turo"
-  },
-  {
-    "id": "dirxy51qyp3vd3g-ancient-booster-energy-capsule",
-    "nome": "Cápsula Energética de Melhoria Ancestral",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "69 / 109",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001370_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dirxy51qyp3vd3g-ancient-booster-energy-capsule"
-  },
-  {
-    "id": "2srzn4qiyz0s2fu-flutter-mane-ex",
-    "nome": "Juba Sopro ex",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "83 / 109",
-    "hp": 130,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Começo Enfeitiçador",
-        "dano": "70",
-        "custoataque": [
-          "psychic",
-          "psychic"
-        ],
-        "efeito": "If this is the first time this Pokémon has used an attack after coming into play,during your opponent's next turn, they can't use any Trainer cards from their hand"
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018410_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2srzn4qiyz0s2fu-flutter-mane-ex"
-  },
-  {
-    "id": "oqqj79n85ggwvg7-future-booster-energy-capsule",
-    "nome": "Cápsula Energética de Melhoria Futurista",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "70 / 109",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001380_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oqqj79n85ggwvg7-future-booster-energy-capsule"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018790_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ra0d9ganv5ye65r-hawlucha"
   },
   {
     "id": "crt8snrfdlhcvxw-terapagos-ex",
@@ -2199,6 +1987,126 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/crt8snrfdlhcvxw-terapagos-ex"
   },
   {
+    "id": "oqqj79n85ggwvg7-future-booster-energy-capsule",
+    "nome": "Cápsula Energética de Melhoria Futurista",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "70 / 109",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001380_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oqqj79n85ggwvg7-future-booster-energy-capsule"
+  },
+  {
+    "id": "tt8mlkjh1no5ct0-corvisquire",
+    "nome": "Corvisquire",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "66 / 109",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Asa",
+        "dano": "40",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018810_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tt8mlkjh1no5ct0-corvisquire"
+  },
+  {
+    "id": "9zvw12zaxf76qgo-flamigo",
+    "nome": "Flamigo",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Comum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "67 / 109",
+    "hp": 90,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Mergulhar de Bico",
+        "dano": "80",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This Pokémon also does 20 damage to itself"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018820_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9zvw12zaxf76qgo-flamigo"
+  },
+  {
+    "id": "dirxy51qyp3vd3g-ancient-booster-energy-capsule",
+    "nome": "Cápsula Energética de Melhoria Ancestral",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "69 / 109",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001370_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dirxy51qyp3vd3g-ancient-booster-energy-capsule"
+  },
+  {
+    "id": "mefga7ccor2pexo-juliana",
+    "nome": "Juliana",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "71 / 109",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mefga7ccor2pexo-juliana"
+  },
+  {
     "id": "thbmje807xbmxbc-professor-sada",
     "nome": "Professora Arka",
     "tipo": "Treinador",
@@ -2217,6 +2125,26 @@
     "pacote": "",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001400_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/thbmje807xbmxbc-professor-sada"
+  },
+  {
+    "id": "4epmxt33fqhvjad-area-zero",
+    "nome": "Área Zero",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "74 / 109",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001420_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4epmxt33fqhvjad-area-zero"
   },
   {
     "id": "mln8udqerkl1y9a-flittle",
@@ -2277,535 +2205,68 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o08bpr4rj9m6vlq-glimmora"
   },
   {
-    "id": "5zo6rjns37v1fmy-terapagos-ex",
-    "nome": "Terapagos ex",
+    "id": "3608tv0t70v3v2q-raging-bolt",
+    "nome": "Raio Fúria",
     "tipo": "Pokemon",
-    "elemento": "Incolor",
+    "elemento": "Dragão",
     "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "85 / 109",
-    "hp": 150,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Impacto Prismático",
-        "dano": "80 +",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This attack does 20 more damage for each type of Energy attached to this Pokémon"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018830_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5zo6rjns37v1fmy-terapagos-ex"
-  },
-  {
-    "id": "tt8mlkjh1no5ct0-corvisquire",
-    "nome": "Corvisquire",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "66 / 109",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Asa",
-        "dano": "40",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018810_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tt8mlkjh1no5ct0-corvisquire"
-  },
-  {
-    "id": "mefga7ccor2pexo-juliana",
-    "nome": "Juliana",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Incomum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "71 / 109",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001390_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mefga7ccor2pexo-juliana"
-  },
-  {
-    "id": "jf86t8r16j67455-eevee",
-    "nome": "Eevee",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Comum",
-    "custoDeck": 1,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "56 / 109",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Luta",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018710_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jf86t8r16j67455-eevee"
-  },
-  {
-    "id": "di7vzpg91d8ywrs-professor-turo",
-    "nome": "Professor Turo",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "88 / 109",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_20_001410_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/di7vzpg91d8ywrs-professor-turo"
-  },
-  {
-    "id": "z3vdyc2u1z5avlf-juliana",
-    "nome": "Juliana",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "86 / 109",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_20_001390_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z3vdyc2u1z5avlf-juliana"
-  },
-  {
-    "id": "djwnqyad1mph25f-flutter-mane-ex",
-    "nome": "Juba Sopro ex",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "91 / 109",
+    "numero": "79 / 109",
     "hp": 130,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Começo Enfeitiçador",
-        "dano": "70",
+        "nomeataque": "Fragor Fulminante",
+        "dano": "",
         "custoataque": [
-          "psychic",
-          "psychic"
-        ],
-        "efeito": "If this is the first time this Pokémon has used an attack after coming into play,during your opponent's next turn, they can't use any Trainer cards from their hand"
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018410_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/djwnqyad1mph25f-flutter-mane-ex"
-  },
-  {
-    "id": "xmvwu84w7m3nr2h-terapagos-ex",
-    "nome": "Terapagos ex",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "93 / 109",
-    "hp": 150,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Impacto Prismático",
-        "dano": "80 +",
-        "custoataque": [
-          "colorless",
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This attack does 20 more damage for each type of Energy attached to this Pokémon"
-      }
-    ],
-    "fraqueza": "Luta",
-    "recuo": 2,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018830_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xmvwu84w7m3nr2h-terapagos-ex"
-  },
-  {
-    "id": "4omoi148nqcpte8-altaria",
-    "nome": "Altaria",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "103 / 109",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Fazer a \"Ola\"",
-        "dano": "20 +",
-        "custoataque": [
-          "colorless",
-          "colorless"
-        ],
-        "efeito": "This attack does 30 more damage for each of your Benched Pokémon"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_012790_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4omoi148nqcpte8-altaria"
-  },
-  {
-    "id": "8yyz84mvkr1nmr3-koraidon-ex",
-    "nome": "Koraidon ex",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "84 / 109",
-    "hp": 150,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Destruidor de Mundos",
-        "dano": "110",
-        "custoataque": [
-          "fighting",
-          "fighting",
-          "fighting"
-        ],
-        "efeito": "Discard the top card of your deck"
-      }
-    ],
-    "fraqueza": "Psiquico",
-    "recuo": 2,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018510_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8yyz84mvkr1nmr3-koraidon-ex"
-  },
-  {
-    "id": "o7vglo31e27lm9g-professor-sada",
-    "nome": "Professora Arka",
-    "tipo": "Treinador",
-    "elemento": "Neutro",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "87 / 109",
-    "hp": 0,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "",
-    "recuo": 0,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_20_001400_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o7vglo31e27lm9g-professor-sada"
-  },
-  {
-    "id": "3315cw3qvfx71df-hawlucha",
-    "nome": "Hawlucha",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Rara",
-    "custoDeck": 8,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "80 / 109",
-    "hp": 80,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Acrobático",
-        "dano": "10 +",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "Flip 2 coins. This attack does 20 more damage for each heads"
-      }
-    ],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018790_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3315cw3qvfx71df-hawlucha"
-  },
-  {
-    "id": "3bszspolhd8qvjd-rabsca",
-    "nome": "Rabsca",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "97 / 109",
-    "hp": 70,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Feixe Psíquico",
-        "dano": "80",
-        "custoataque": [
-          "psychic",
-          "psychic"
-        ],
-        "efeito": "Your opponent's Active Pokémon is now Confused"
-      }
-    ],
-    "fraqueza": "Escuridao",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015580_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3bszspolhd8qvjd-rabsca"
-  },
-  {
-    "id": "i58adzlpjerua0s-klawf",
-    "nome": "Klawf",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "100 / 109",
-    "hp": 100,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Martelo de Adrenalina",
-        "dano": "70",
-        "custoataque": [
-          "fighting",
-          "fighting"
-        ],
-        "efeito": "This Pokémon is now Confused"
-      }
-    ],
-    "fraqueza": "Planta",
-    "recuo": 3,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015700_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i58adzlpjerua0s-klawf"
-  },
-  {
-    "id": "fbw0eecpm8f60uz-swablu",
-    "nome": "Swablu",
-    "tipo": "Pokemon",
-    "elemento": "Incolor",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "102 / 109",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Raio",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_012780_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fbw0eecpm8f60uz-swablu"
-  },
-  {
-    "id": "q58krp2gv2zhe2g-charcadet",
-    "nome": "Charcadet",
-    "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "95 / 109",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Soco",
-        "dano": "10",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": ""
-      }
-    ],
-    "fraqueza": "Agua",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015280_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q58krp2gv2zhe2g-charcadet"
-  },
-  {
-    "id": "i3zq8nwvd44pa2x-mega-altaria-ex",
-    "nome": "Mega Altaria ex",
-    "tipo": "Pokemon",
-    "elemento": "Psíquico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "107 / 109",
-    "hp": 190,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Mega-harmonia",
-        "dano": "40 +",
-        "custoataque": [
-          "psychic",
-          "psychic"
-        ],
-        "efeito": "This attack does 30 more damage for each of your Benched Pokémon"
-      }
-    ],
-    "fraqueza": "Metal",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_011840_02_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i3zq8nwvd44pa2x-mega-altaria-ex"
-  },
-  {
-    "id": "l5tjr1fvp0jby5d-bellibolt-ex",
-    "nome": "Bellibolt ex",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "106 / 109",
-    "hp": 160,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Canhão de Alta Voltagem",
-        "dano": "70 +",
-        "custoataque": [
+          "water",
+          "water",
           "lightning",
-          "lightning"
+          "lightning",
+          "colorless"
         ],
-        "efeito": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage"
+        "efeito": "Discard all Energy from this Pokémon. Knock Out your opponent's Active Pokémon"
       }
     ],
-    "fraqueza": "Luta",
+    "fraqueza": "",
     "recuo": 3,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015510_02_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l5tjr1fvp0jby5d-bellibolt-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018700_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3608tv0t70v3v2q-raging-bolt"
   },
   {
-    "id": "mjzj6qpn9uvs3mt-roaring-moon",
-    "nome": "Lua Estrondo",
+    "id": "1dfy3uz7pp1hhlt-iron-bundle-ex",
+    "nome": "Pacote Férreo ex",
     "tipo": "Pokemon",
-    "elemento": "Noturno",
-    "raridade": "Ultra Rara",
+    "elemento": "Água",
+    "raridade": "Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "109 / 109",
-    "hp": 100,
+    "numero": "81 / 109",
+    "hp": 130,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Vento da Escuridão",
-        "dano": "70",
+        "nomeataque": "Começo Frio",
+        "dano": "60",
         "custoataque": [
-          "darkness",
-          "darkness",
+          "water",
+          "water",
           "colorless"
         ],
-        "efeito": ""
+        "efeito": "If this is the first time this Pokémon has used an attack after coming into play, this attack does 20 more damage and your opponent's Active Pokémon is now Paralyzed"
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 1,
-    "temHabilidade": true,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018620_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mjzj6qpn9uvs3mt-roaring-moon"
-  },
-  {
-    "id": "3a9sf7b449amt3z-tadbulb",
-    "nome": "Tadbulb",
-    "tipo": "Pokemon",
-    "elemento": "Elétrico",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "96 / 109",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [],
-    "fraqueza": "Luta",
+    "fraqueza": "Raio",
     "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_014220_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3a9sf7b449amt3z-tadbulb"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1dfy3uz7pp1hhlt-iron-bundle-ex"
   },
   {
     "id": "rm41r1ccbnp9b9d-miraidon-ex",
@@ -2839,6 +2300,298 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rm41r1ccbnp9b9d-miraidon-ex"
   },
   {
+    "id": "b2906660nkau0q6-professor-turo",
+    "nome": "Professor Turo",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Incomum",
+    "custoDeck": 1,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "73 / 109",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b2906660nkau0q6-professor-turo"
+  },
+  {
+    "id": "ideditrtzun18w7-iron-boulder",
+    "nome": "Rocha Férrea",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "77 / 109",
+    "hp": 120,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Machado Modular",
+        "dano": "80 +",
+        "custoataque": [
+          "psychic",
+          "psychic",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018440_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ideditrtzun18w7-iron-boulder"
+  },
+  {
+    "id": "fkzbbmxpmdzqtu2-snom",
+    "nome": "Snom",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "75 / 109",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Roída",
+        "dano": "20",
+        "custoataque": [
+          "water"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018260_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fkzbbmxpmdzqtu2-snom"
+  },
+  {
+    "id": "3315cw3qvfx71df-hawlucha",
+    "nome": "Hawlucha",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "80 / 109",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Acrobático",
+        "dano": "10 +",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Flip 2 coins. This attack does 20 more damage for each heads"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018790_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3315cw3qvfx71df-hawlucha"
+  },
+  {
+    "id": "2srzn4qiyz0s2fu-flutter-mane-ex",
+    "nome": "Juba Sopro ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "83 / 109",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Começo Enfeitiçador",
+        "dano": "70",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "If this is the first time this Pokémon has used an attack after coming into play,during your opponent's next turn, they can't use any Trainer cards from their hand"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2srzn4qiyz0s2fu-flutter-mane-ex"
+  },
+  {
+    "id": "8yyz84mvkr1nmr3-koraidon-ex",
+    "nome": "Koraidon ex",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "84 / 109",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Destruidor de Mundos",
+        "dano": "110",
+        "custoataque": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "efeito": "Discard the top card of your deck"
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018510_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8yyz84mvkr1nmr3-koraidon-ex"
+  },
+  {
+    "id": "z3vdyc2u1z5avlf-juliana",
+    "nome": "Juliana",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "86 / 109",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_20_001390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z3vdyc2u1z5avlf-juliana"
+  },
+  {
+    "id": "o7vglo31e27lm9g-professor-sada",
+    "nome": "Professora Arka",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "87 / 109",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_20_001400_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o7vglo31e27lm9g-professor-sada"
+  },
+  {
+    "id": "5zo6rjns37v1fmy-terapagos-ex",
+    "nome": "Terapagos ex",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "85 / 109",
+    "hp": 150,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Impacto Prismático",
+        "dano": "80 +",
+        "custoataque": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 20 more damage for each type of Energy attached to this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 2,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018830_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5zo6rjns37v1fmy-terapagos-ex"
+  },
+  {
+    "id": "di7vzpg91d8ywrs-professor-turo",
+    "nome": "Professor Turo",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "88 / 109",
+    "hp": 0,
+    "evolucao": "",
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_20_001410_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/di7vzpg91d8ywrs-professor-turo"
+  },
+  {
+    "id": "djwnqyad1mph25f-flutter-mane-ex",
+    "nome": "Juba Sopro ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "91 / 109",
+    "hp": 130,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Começo Enfeitiçador",
+        "dano": "70",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "If this is the first time this Pokémon has used an attack after coming into play,during your opponent's next turn, they can't use any Trainer cards from their hand"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018410_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/djwnqyad1mph25f-flutter-mane-ex"
+  },
+  {
     "id": "z1btz9oaok207ga-koraidon-ex",
     "nome": "Koraidon ex",
     "tipo": "Pokemon",
@@ -2870,94 +2623,95 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z1btz9oaok207ga-koraidon-ex"
   },
   {
-    "id": "fkgr7voqe1hp7d7-armarouge-ex",
-    "nome": "Armarouge ex",
+    "id": "xmvwu84w7m3nr2h-terapagos-ex",
+    "nome": "Terapagos ex",
     "tipo": "Pokemon",
-    "elemento": "Fogo",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
+    "elemento": "Incolor",
+    "raridade": "Rara",
+    "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "105 / 109",
-    "hp": 140,
+    "numero": "93 / 109",
+    "hp": 150,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Canhão de Armadura",
-        "dano": "120",
+        "nomeataque": "Impacto Prismático",
+        "dano": "80 +",
         "custoataque": [
-          "fire",
+          "colorless",
           "colorless",
           "colorless"
         ],
-        "efeito": "Discard a Fire Energy from this Pokémon"
+        "efeito": "This attack does 20 more damage for each type of Energy attached to this Pokémon"
       }
     ],
-    "fraqueza": "Agua",
+    "fraqueza": "Luta",
     "recuo": 2,
-    "temHabilidade": true,
+    "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015290_02_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fkgr7voqe1hp7d7-armarouge-ex"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018830_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xmvwu84w7m3nr2h-terapagos-ex"
   },
   {
-    "id": "nq6in2mw3i25th4-orthworm",
-    "nome": "Orthworm",
+    "id": "t3kcxh02xejtjd9-rellor",
+    "nome": "Rellor",
     "tipo": "Pokemon",
-    "elemento": "Metálico",
-    "raridade": "Ultra Rara",
+    "elemento": "Grama",
+    "raridade": "Raro Brilhante",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "101 / 109",
-    "hp": 100,
+    "numero": "94 / 109",
+    "hp": 50,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Estoque de Ferro",
-        "dano": "10",
+        "nomeataque": "Rolo Bola",
+        "dano": "20 ×",
         "custoataque": [
-          "metal"
+          "colorless"
         ],
-        "efeito": "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon"
+        "efeito": "Flip a coin until you get tails. This attack does 20 more damage for each heads"
       }
     ],
     "fraqueza": "Fogo",
-    "recuo": 3,
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015860_01_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nq6in2mw3i25th4-orthworm"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015230_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t3kcxh02xejtjd9-rellor"
   },
   {
-    "id": "72wmu1hqoap80w4-dugtrio",
-    "nome": "Dugtrio",
+    "id": "elmlabe87u2airj-iron-bundle-ex",
+    "nome": "Pacote Férreo ex",
     "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
+    "elemento": "Água",
+    "raridade": "Rara",
+    "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "99 / 109",
-    "hp": 80,
+    "numero": "89 / 109",
+    "hp": 130,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Bomba de Lama",
+        "nomeataque": "Começo Frio",
         "dano": "60",
         "custoataque": [
-          "fighting",
+          "water",
+          "water",
           "colorless"
         ],
-        "efeito": ""
+        "efeito": "If this is the first time this Pokémon has used an attack after coming into play, this attack does 20 more damage and your opponent's Active Pokémon is now Paralyzed"
       }
     ],
-    "fraqueza": "Planta",
-    "recuo": 0,
+    "fraqueza": "Raio",
+    "recuo": 1,
     "temHabilidade": false,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_016390_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/72wmu1hqoap80w4-dugtrio"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018280_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/elmlabe87u2airj-iron-bundle-ex"
   },
   {
     "id": "s2lanoc2sijkfjd-miraidon-ex",
@@ -2991,11 +2745,374 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s2lanoc2sijkfjd-miraidon-ex"
   },
   {
+    "id": "q58krp2gv2zhe2g-charcadet",
+    "nome": "Charcadet",
+    "tipo": "Pokemon",
+    "elemento": "Fogo",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "95 / 109",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Soco",
+        "dano": "10",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015280_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q58krp2gv2zhe2g-charcadet"
+  },
+  {
+    "id": "3a9sf7b449amt3z-tadbulb",
+    "nome": "Tadbulb",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "96 / 109",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Carga",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_014220_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3a9sf7b449amt3z-tadbulb"
+  },
+  {
+    "id": "3bszspolhd8qvjd-rabsca",
+    "nome": "Rabsca",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "97 / 109",
+    "hp": 70,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Feixe Psíquico",
+        "dano": "80",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015580_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3bszspolhd8qvjd-rabsca"
+  },
+  {
+    "id": "sndtlyvr4lg64yg-diglett",
+    "nome": "Diglett",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "98 / 109",
+    "hp": 60,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Leve Invasão",
+        "dano": "30",
+        "custoataque": [
+          "fighting"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_016380_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sndtlyvr4lg64yg-diglett"
+  },
+  {
+    "id": "i58adzlpjerua0s-klawf",
+    "nome": "Klawf",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "100 / 109",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Martelo de Adrenalina",
+        "dano": "70",
+        "custoataque": [
+          "fighting",
+          "fighting"
+        ],
+        "efeito": "This Pokémon is now Confused"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015700_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i58adzlpjerua0s-klawf"
+  },
+  {
+    "id": "72wmu1hqoap80w4-dugtrio",
+    "nome": "Dugtrio",
+    "tipo": "Pokemon",
+    "elemento": "Lutador",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "99 / 109",
+    "hp": 80,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Bomba de Lama",
+        "dano": "60",
+        "custoataque": [
+          "fighting",
+          "colorless"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 0,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_016390_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/72wmu1hqoap80w4-dugtrio"
+  },
+  {
+    "id": "nq6in2mw3i25th4-orthworm",
+    "nome": "Orthworm",
+    "tipo": "Pokemon",
+    "elemento": "Metálico",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "101 / 109",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Estoque de Ferro",
+        "dano": "10",
+        "custoataque": [
+          "metal"
+        ],
+        "efeito": "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015860_01_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nq6in2mw3i25th4-orthworm"
+  },
+  {
+    "id": "563jd8fz0wppv9j-meowscarada-ex",
+    "nome": "Meowscarada ex",
+    "tipo": "Pokemon",
+    "elemento": "Grama",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "104 / 109",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Truque Floral",
+        "dano": "",
+        "custoataque": [
+          "grass"
+        ],
+        "efeito": "Choose a spot from among your opponent's Active Pot and Bench. At the end of your opponent's next turn, do 70 dmage to the Pokémon I nthe spot you chose"
+      },
+      {
+        "nomeataque": "Raio Solar",
+        "dano": "80",
+        "custoataque": [
+          "grass",
+          "grass"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Fogo",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015120_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/563jd8fz0wppv9j-meowscarada-ex"
+  },
+  {
+    "id": "fbw0eecpm8f60uz-swablu",
+    "nome": "Swablu",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "102 / 109",
+    "hp": 50,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Canção",
+        "dano": "",
+        "custoataque": [
+          "colorless"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_012780_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fbw0eecpm8f60uz-swablu"
+  },
+  {
+    "id": "4omoi148nqcpte8-altaria",
+    "nome": "Altaria",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "raridade": "Raro Brilhante",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "103 / 109",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Fazer a \"Ola\"",
+        "dano": "20 +",
+        "custoataque": [
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "This attack does 30 more damage for each of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Raio",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_012790_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4omoi148nqcpte8-altaria"
+  },
+  {
+    "id": "i3zq8nwvd44pa2x-mega-altaria-ex",
+    "nome": "Mega Altaria ex",
+    "tipo": "Pokemon",
+    "elemento": "Psíquico",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "107 / 109",
+    "hp": 190,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Mega-harmonia",
+        "dano": "40 +",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "This attack does 30 more damage for each of your Benched Pokémon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_011840_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i3zq8nwvd44pa2x-mega-altaria-ex"
+  },
+  {
+    "id": "l5tjr1fvp0jby5d-bellibolt-ex",
+    "nome": "Bellibolt ex",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "raridade": "Duplo Brilhante Raro",
+    "custoDeck": 2,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "106 / 109",
+    "hp": 160,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Canhão de Alta Voltagem",
+        "dano": "70 +",
+        "custoataque": [
+          "lightning",
+          "lightning"
+        ],
+        "efeito": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 3,
+    "temHabilidade": false,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015510_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l5tjr1fvp0jby5d-bellibolt-ex"
+  },
+  {
     "id": "64cnmtjqbwoq39o-iron-valiant",
     "nome": "Valentia Férrea",
     "tipo": "Pokemon",
     "elemento": "Psíquico",
-    "raridade": "Ultra Rara",
+    "raridade": "Coroa Rara",
     "custoDeck": 8,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
@@ -3021,90 +3138,65 @@
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/64cnmtjqbwoq39o-iron-valiant"
   },
   {
-    "id": "563jd8fz0wppv9j-meowscarada-ex",
-    "nome": "Meowscarada ex",
+    "id": "fkgr7voqe1hp7d7-armarouge-ex",
+    "nome": "Armarouge ex",
     "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Ultra Rara",
+    "elemento": "Fogo",
+    "raridade": "Duplo Brilhante Raro",
     "custoDeck": 2,
     "estagio": "Básico",
     "expansao": "Impulso Paradoxal",
-    "numero": "104 / 109",
-    "hp": 160,
+    "numero": "105 / 109",
+    "hp": 140,
     "evolucao": "",
     "ataque": [
       {
-        "nomeataque": "Truque Floral",
-        "dano": "80",
+        "nomeataque": "Canhão de Armadura",
+        "dano": "120",
         "custoataque": [
-          "grass"
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "efeito": "Discard a Fire Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 2,
+    "temHabilidade": true,
+    "pacote": "",
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015290_02_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fkgr7voqe1hp7d7-armarouge-ex"
+  },
+  {
+    "id": "mjzj6qpn9uvs3mt-roaring-moon",
+    "nome": "Lua Estrondo",
+    "tipo": "Pokemon",
+    "elemento": "Noturno",
+    "raridade": "Coroa Rara",
+    "custoDeck": 8,
+    "estagio": "Básico",
+    "expansao": "Impulso Paradoxal",
+    "numero": "109 / 109",
+    "hp": 100,
+    "evolucao": "",
+    "ataque": [
+      {
+        "nomeataque": "Vento da Escuridão",
+        "dano": "70",
+        "custoataque": [
+          "darkness",
+          "darkness",
+          "colorless"
         ],
         "efeito": ""
       }
     ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015120_02_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/563jd8fz0wppv9j-meowscarada-ex"
-  },
-  {
-    "id": "t3kcxh02xejtjd9-rellor",
-    "nome": "Rellor",
-    "tipo": "Pokemon",
-    "elemento": "Grama",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "94 / 109",
-    "hp": 50,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Rolo Bola",
-        "dano": "20 ×",
-        "custoataque": [
-          "colorless"
-        ],
-        "efeito": "Flip a coin until you get tails. This attack does 20 more damage for each heads"
-      }
-    ],
-    "fraqueza": "Fogo",
-    "recuo": 1,
-    "temHabilidade": false,
-    "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015230_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t3kcxh02xejtjd9-rellor"
-  },
-  {
-    "id": "sndtlyvr4lg64yg-diglett",
-    "nome": "Diglett",
-    "tipo": "Pokemon",
-    "elemento": "Lutador",
-    "raridade": "Ultra Rara",
-    "custoDeck": 2,
-    "estagio": "Básico",
-    "expansao": "Impulso Paradoxal",
-    "numero": "98 / 109",
-    "hp": 60,
-    "evolucao": "",
-    "ataque": [
-      {
-        "nomeataque": "Leve Invasão",
-        "dano": "30",
-        "custoataque": [
-          "fighting"
-        ],
-        "efeito": "This Pokémon also does 10 damage to itself"
-      }
-    ],
     "fraqueza": "Planta",
     "recuo": 1,
-    "temHabilidade": false,
+    "temHabilidade": true,
     "pacote": "",
-    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_016380_00_wallpaper.jpg",
-    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sndtlyvr4lg64yg-diglett"
+    "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018620_00_wallpaper.jpg",
+    "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mjzj6qpn9uvs3mt-roaring-moon"
   }
 ]

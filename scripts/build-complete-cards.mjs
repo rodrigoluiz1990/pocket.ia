@@ -5,6 +5,7 @@ const EXPANSIONS_PATH = resolve(process.cwd(), "data", "expansions.json");
 const POKEMONGOHUB_INDEX_PATH = resolve(process.cwd(), "data", "raw", "pokemongohub", "index.json");
 const FLIBUSTIER_DIR = resolve(process.cwd(), "data", "raw", "flibustier");
 const OUT_ROOT = resolve(process.cwd(), "data", "complete");
+const CARD_CORRECTIONS_PATH = resolve(process.cwd(), "data", "card-corrections.json");
 
 const categoryMap = {
   pokemon: "Pokemon",
@@ -154,12 +155,13 @@ async function readJson(path) {
 }
 
 async function run() {
-  const [expansionsPayload, rawIndexPayload, cardsMin, cardsExtra, setsPayload] = await Promise.all([
+  const [expansionsPayload, rawIndexPayload, cardsMin, cardsExtra, setsPayload, correctionsPayload] = await Promise.all([
     readJson(EXPANSIONS_PATH),
     readJson(POKEMONGOHUB_INDEX_PATH),
     readJson(resolve(FLIBUSTIER_DIR, "cards.min.json")),
     readJson(resolve(FLIBUSTIER_DIR, "cards.extra.json")),
-    readJson(resolve(FLIBUSTIER_DIR, "sets.json"))
+    readJson(resolve(FLIBUSTIER_DIR, "sets.json")),
+    readJson(CARD_CORRECTIONS_PATH)
   ]);
 
   const expansions = Array.isArray(expansionsPayload) ? expansionsPayload : expansionsPayload.expansions || [];
@@ -167,6 +169,7 @@ async function run() {
   const minArray = Array.isArray(cardsMin) ? cardsMin : [];
   const extraArray = Array.isArray(cardsExtra) ? cardsExtra : [];
   const setEntries = Object.values(setsPayload || {}).flat().filter(Boolean);
+  const attackDamageCorrections = correctionsPayload?.attackDamage || {};
 
   const expansionByCode = new Map(
     expansions.map((entry) => [String(entry.code || "").toUpperCase(), String(entry.name || "").trim()])
@@ -201,10 +204,11 @@ async function run() {
         const min = minMap.get(key);
         const extra = extraMap.get(key);
         const packs = Array.isArray(min?.packs) ? min.packs : Array.isArray(setMeta?.packs) ? setMeta.packs : [];
+        const damageCorrection = attackDamageCorrections[key] || [];
         const ataqueLista = Array.isArray(rawCard.ataque)
-          ? rawCard.ataque.map((atk) => ({
+          ? rawCard.ataque.map((atk, index) => ({
               nomeataque: String(atk?.nomeataque || "").trim(),
-              dano: String(atk?.dano || "").trim(),
+              dano: String(damageCorrection[index] ?? atk?.dano ?? "").trim(),
               custoataque: Array.isArray(atk?.custoataque) ? atk.custoataque.map(mapEnergyType) : [],
               efeito: String(atk?.efeito || "").trim()
             }))
@@ -233,10 +237,10 @@ async function run() {
           estagio: stage,
           evolucao: String(rawCard.evolucao || "").trim(),
           tipo,
-          hp: safeNumber(extra?.health, safeNumber(rawCard.hp, 0)),
+          hp: safeNumber(rawCard.hp, safeNumber(extra?.health, 0)),
           ataque: ataqueLista,
-          fraqueza: mapWeakness(extra?.weakness) || mapWeaknessFromRaw(rawCard.fraqueza),
-          recuo: safeNumber(extra?.retreatCost, safeNumber(rawCard.recuo, 0)),
+          fraqueza: mapWeaknessFromRaw(rawCard.fraqueza) || mapWeakness(extra?.weakness),
+          recuo: safeNumber(rawCard.recuo, safeNumber(extra?.retreatCost, 0)),
           raridade: rarityLabelPt[rarityCode] || String(rawCard.raridade || "").trim(),
           habilidade: Boolean(rawCard.temHabilidade),
           promo: /^PROMO-/i.test(code) || normalizeKey(rawCard.raridade) === "promo",

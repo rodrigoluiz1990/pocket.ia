@@ -247,7 +247,17 @@
     "evolucao": "",
     "tipo": "Grama",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Disparo Afiado",
+        "dano": "",
+        "custoataque": [
+          "Planta",
+          "Planta"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Incomum",
@@ -476,7 +486,16 @@
     "evolucao": "",
     "tipo": "Grama",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Esporos",
+        "dano": "",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
@@ -702,7 +721,16 @@
     "evolucao": "",
     "tipo": "Grama",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Proteção",
+        "dano": "",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Flip a coin. If heads, durin your opponent's next turn, prevent all damage from-and effects of-attacks done to this Pokémon"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Comum",
@@ -836,7 +864,16 @@
     "evolucao": "",
     "tipo": "Grama",
     "hp": 40,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Compartilhar",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Heal 30 damage from 1 of your Becnhed Pokémon"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
@@ -1018,7 +1055,19 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 210,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Cabum Vulcânico",
+        "dano": "",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "1 of your opponnt's Pokémon is chosen at random. Do 160 damage to it"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 4,
     "raridade": "Duplamente Raro",
@@ -1152,7 +1201,16 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Carregar",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Flip a coin. If heads, take 2 Fire Energy from your Energy Zone and attach it to this Pokémon"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
@@ -1429,7 +1487,17 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 110,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Disparar Flecha",
+        "dano": "",
+        "custoataque": [
+          "Fogo",
+          "Fogo"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's Pokémon"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Incomum",
@@ -2185,7 +2253,16 @@
     "evolucao": "",
     "tipo": "Água",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Encontre um Amigo",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Put a random Pokémon from your deck into your hand"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
@@ -4518,7 +4595,16 @@
     "evolucao": "",
     "tipo": "Lutador",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Treinamento",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Take a Colorles Energy from your Energy Zone and attach it to this Pokémon"
+      }
+    ],
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
@@ -4699,7 +4785,16 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 70,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Bomba Gasosa",
+        "dano": "",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -4880,7 +4975,16 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Ascensão",
+        "dano": "",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
@@ -5108,7 +5212,16 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 100,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Ponto Cego",
+        "dano": "",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "This attack does 60 damage to 1 of your opponent's Pokémon that has damage on it"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
@@ -5434,7 +5547,16 @@
     "evolucao": "",
     "tipo": "Metálico",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Mergulho Veloz",
+        "dano": "",
+        "custoataque": [
+          "Metal"
+        ],
+        "efeito": ""
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
@@ -5809,7 +5931,16 @@
     "evolucao": "",
     "tipo": "Dragão",
     "hp": 90,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Vento de Areia",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "This attack does 10 damage to each of your opponent's Pokémon"
+      }
+    ],
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Incomum",
@@ -5897,7 +6028,17 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 100,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Ligar Ferida",
+        "dano": "",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Heal 30 damage from 1 of your Pokémon"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Comum",
@@ -5984,7 +6125,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Voadora",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "This attack does 10 damage to 1 of your opponent's Pokémon"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -6597,7 +6747,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 50,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Cauda Felpuda",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -7214,7 +7373,17 @@
     "evolucao": "",
     "tipo": "Grama",
     "hp": 80,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Disparo Afiado",
+        "dano": "",
+        "custoataque": [
+          "Planta",
+          "Planta"
+        ],
+        "efeito": "This attack does 50 damage to 1 of your opponent's Benched Pokémon"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -7252,7 +7421,16 @@
     "evolucao": "",
     "tipo": "Grama",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Esporos",
+        "dano": "",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -7384,7 +7562,16 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Carregar",
+        "dano": "",
+        "custoataque": [
+          "Fogo"
+        ],
+        "efeito": "Flip a coin. If heads, take 2 Fire Energy from your Energy Zone and attach it to this Pokémon"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -7901,7 +8088,16 @@
     "evolucao": "",
     "tipo": "Lutador",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Treinamento",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Take a Colorles Energy from your Energy Zone and attach it to this Pokémon"
+      }
+    ],
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -7986,7 +8182,16 @@
     "evolucao": "",
     "tipo": "Noturno",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Ascensão",
+        "dano": "",
+        "custoataque": [
+          "Escuridao"
+        ],
+        "efeito": "Put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it"
+      }
+    ],
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Ilustração Rara",
@@ -8310,7 +8515,19 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 210,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Cabum Vulcânico",
+        "dano": "",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "1 of your opponnt's Pokémon is chosen at random. Do 160 damage to it"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 4,
     "raridade": "Super Raro",
@@ -8945,7 +9162,19 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 210,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Cabum Vulcânico",
+        "dano": "",
+        "custoataque": [
+          "Fogo",
+          "Fogo",
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": "1 of your opponnt's Pokémon is chosen at random. Do 160 damage to it"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 4,
     "raridade": "Arte Especial Raro",
@@ -9330,7 +9559,16 @@
     "evolucao": "",
     "tipo": "Água",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Encontre um Amigo",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Put a random Pokémon from your deck into your hand"
+      }
+    ],
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Raro Imersivo",
@@ -10137,7 +10375,17 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 100,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Ligar Ferida",
+        "dano": "",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Heal 30 damage from 1 of your Pokémon"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Raro Brilhante",
@@ -10224,7 +10472,16 @@
     "evolucao": "",
     "tipo": "Incolor",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Fortificar",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "During your opponent's next turn, this Pokémon takes -20 damage from attacks"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Raro Brilhante",

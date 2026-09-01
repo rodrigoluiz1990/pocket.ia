@@ -105,8 +105,17 @@
     "ataque": [
       {
         "nomeataque": "Truque Floral",
+        "dano": "",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose"
+      },
+      {
+        "nomeataque": "Raio Solar",
         "dano": "80",
         "custoataque": [
+          "Planta",
           "Planta"
         ],
         "efeito": ""
@@ -721,7 +730,16 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 70,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Cantoria Contente",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Put 1 random Basic Pokémon from your deck onto your bench"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Comum",
@@ -1733,6 +1751,16 @@
         "custoataque": [
           "Agua"
         ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Mergulho Gélido",
+        "dano": "",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
         "efeito": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon"
       }
     ],
@@ -1774,7 +1802,16 @@
     "evolucao": "",
     "tipo": "Elétrico",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Fagulha Aleatória",
+        "dano": "",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "This attack does 10 damage to 1 of your opponent's Pokémon"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
@@ -3678,7 +3715,16 @@
     "evolucao": "",
     "tipo": "Metálico",
     "hp": 150,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Golpe de Gastança",
+        "dano": "",
+        "custoataque": [
+          "Metal"
+        ],
+        "efeito": "1 of your opponent's Pokémon is chosen at random for each Mertal Wenergy attached to this Pokémon. For each time a Pokémon is chosen, do 40 damage to it"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Duplamente Raro",
@@ -4360,7 +4406,16 @@
     "evolucao": "",
     "tipo": "Fogo",
     "hp": 70,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Cantoria Contente",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Put 1 random Basic Pokémon from your deck onto your bench"
+      }
+    ],
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Ilustração Rara",
@@ -4639,8 +4694,17 @@
     "ataque": [
       {
         "nomeataque": "Truque Floral",
+        "dano": "",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose"
+      },
+      {
+        "nomeataque": "Raio Solar",
         "dano": "80",
         "custoataque": [
+          "Planta",
           "Planta"
         ],
         "efeito": ""
@@ -4741,6 +4805,16 @@
         "custoataque": [
           "Agua"
         ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Mergulho Gélido",
+        "dano": "",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
         "efeito": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon"
       }
     ],
@@ -4831,7 +4905,16 @@
     "evolucao": "",
     "tipo": "Metálico",
     "hp": 150,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Golpe de Gastança",
+        "dano": "",
+        "custoataque": [
+          "Metal"
+        ],
+        "efeito": "1 of your opponent's Pokémon is chosen at random for each Mertal Wenergy attached to this Pokémon. For each time a Pokémon is chosen, do 40 damage to it"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Super Raro",
@@ -5063,8 +5146,17 @@
     "ataque": [
       {
         "nomeataque": "Truque Floral",
+        "dano": "",
+        "custoataque": [
+          "Planta"
+        ],
+        "efeito": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose"
+      },
+      {
+        "nomeataque": "Raio Solar",
         "dano": "80",
         "custoataque": [
+          "Planta",
           "Planta"
         ],
         "efeito": ""
@@ -5165,6 +5257,16 @@
         "custoataque": [
           "Agua"
         ],
+        "efeito": ""
+      },
+      {
+        "nomeataque": "Mergulho Gélido",
+        "dano": "",
+        "custoataque": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
         "efeito": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon"
       }
     ],
@@ -5255,7 +5357,16 @@
     "evolucao": "",
     "tipo": "Metálico",
     "hp": 150,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Golpe de Gastança",
+        "dano": "",
+        "custoataque": [
+          "Metal"
+        ],
+        "efeito": "1 of your opponent's Pokémon is chosen at random for each Mertal Wenergy attached to this Pokémon. For each time a Pokémon is chosen, do 40 damage to it"
+      }
+    ],
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Arte Especial Raro",
@@ -5474,7 +5585,16 @@
     "evolucao": "",
     "tipo": "Elétrico",
     "hp": 60,
-    "ataque": [],
+    "ataque": [
+      {
+        "nomeataque": "Fagulha Aleatória",
+        "dano": "",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "This attack does 10 damage to 1 of your opponent's Pokémon"
+      }
+    ],
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Raro Brilhante",
