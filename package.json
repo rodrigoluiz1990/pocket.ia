@@ -14,6 +14,8 @@
     "fix:rarities": "node scripts/fix-rarities-from-db.mjs",
     "fix:types-promo": "node scripts/fix-types-and-promo.mjs",
     "enrich:combat": "node scripts/enrich-combat-fields.mjs",
-    "enrich:trainer-subtypes": "node scripts/enrich-trainer-subtypes.mjs"
+    "enrich:trainer-subtypes": "node scripts/enrich-trainer-subtypes.mjs",
+    "import:meta": "node scripts/import-meta-decks.mjs",
+    "sync:meta:limitless": "node scripts/sync-limitless-meta-decks.mjs"
   }
 }

@@ -31,6 +31,7 @@ const el = {
   deckCount: document.getElementById("deckCount"),
   deckEnergyOptions: document.getElementById("deckEnergyOptions"),
   deckQrBtn: document.getElementById("deckQrBtn"),
+  saveDeckBtn: document.getElementById("saveDeckBtn"),
   clearDeckBtn: document.getElementById("clearDeckBtn"),
   deckQrModal: document.getElementById("deckQrModal"),
   deckQrImage: document.getElementById("deckQrImage"),
@@ -84,7 +85,7 @@ const el = {
 
 function canInit() {
   const required = [
-    "cardsGrid","deckList","deckCount","deckEnergyOptions","deckQrBtn","clearDeckBtn","deckQrModal","deckQrImage","deckQrNote","deckQrShareBtn","deckCardModal","deckCardModalTitle","deckCardModalImage","simResults","loadStatus","searchInput","tipoFilter","elementoFilter",
+    "cardsGrid","deckList","deckCount","deckEnergyOptions","deckQrBtn","saveDeckBtn","clearDeckBtn","deckQrModal","deckQrImage","deckQrNote","deckQrShareBtn","deckCardModal","deckCardModalTitle","deckCardModalImage","simResults","loadStatus","searchInput","tipoFilter","elementoFilter",
     "raridadeFilter","estagioFilter","expansaoFilter","fraquezaFilter","habilidadeFilter",
     "recuoFilter","recuoMinLabel","recuoMaxLabel","vidaSlider","ataqueSlider","vidaMinLabel","vidaMaxLabel","ataqueMinLabel","ataqueMaxLabel","custoAtaqueSlider","custoAtaqueMinLabel","custoAtaqueMaxLabel","formatoFilter","sortField","sortDir","imageOnlyToggle",
     "favoriteOnlyToggle","attackEnergyFilter","mostUsedList","metaDecksList",
@@ -347,6 +348,7 @@ function updateDeckActionButtons() {
         : "QR Code para importar no jogo";
   }
   if (el.clearDeckBtn) el.clearDeckBtn.disabled = deck.length === 0;
+  if (el.saveDeckBtn) el.saveDeckBtn.disabled = deck.length === 0;
 }
 
 function serializeDeckState() {
@@ -514,6 +516,24 @@ function clearDeck() {
   renderDeck();
 }
 
+function saveCurrentDeck() {
+  if (!deck.length || !window.PocketiaWorkspace) return;
+  const suggestedName = `Meu Deck ${new Date().toLocaleDateString("pt-BR")}`;
+  const nome = window.prompt("Nome do deck", suggestedName)?.trim();
+  if (!nome) return;
+
+  const savedDecks = window.PocketiaWorkspace.getSavedDecks();
+  savedDecks.unshift({
+    id: window.PocketiaWorkspace.nextId("deck"),
+    nome: nome.slice(0, 60),
+    cartas: [...deck],
+    energias: deckEnergyCodes(),
+    salvoEm: new Date().toISOString()
+  });
+  window.PocketiaWorkspace.saveSavedDecks(savedDecks);
+  alert("Deck salvo nesta sessao do navegador.");
+}
+
 function loadDeckFromUrl() {
   const params = new URLSearchParams(window.location.search);
   const raw = String(params.get(DECK_QUERY_PARAM) || "").trim();
@@ -541,6 +561,15 @@ function loadDeckFromUrl() {
   if (!nextDeck.length) return;
   deck.length = 0;
   deck.push(...nextDeck);
+
+  const energyRaw = String(params.get("energy") || "");
+  deckEnergySelection.clear();
+  energyRaw
+    .split(",")
+    .map(Number)
+    .filter((code) => code >= 1 && code <= 8)
+    .slice(0, 3)
+    .forEach((code) => deckEnergySelection.add(code));
 }
 
 function getMetaDeckPrincipalCard(def) {
@@ -699,7 +728,7 @@ function renderMetaDecks() {
     el.metaDecksList.innerHTML = "<p>Nenhum deck de meta carregado.</p>";
     return;
   }
-  metaDecks.forEach((d, i) => {
+  metaDecks.slice(0, 10).forEach((d, i) => {
     const principal = getMetaDeckPrincipalCard(d);
     const title = d.nome || `Deck ${i + 1}`;
     const imageSrc = principal ? getCardImageSrc(principal) : FALLBACK_IMAGE_SRC;
@@ -1528,6 +1557,7 @@ function init() {
     updateDeckActionButtons();
   });
   el.clearDeckBtn?.addEventListener("click", clearDeck);
+  el.saveDeckBtn?.addEventListener("click", saveCurrentDeck);
   el.deckQrModal?.addEventListener("click", (event) => {
     if (event.target.closest("[data-deck-qr-close]")) closeDeckQrModal();
   });
@@ -1551,10 +1581,7 @@ function init() {
 async function loadMetaDecksData() {
   try {
     const response = await fetch("./data/meta-decks.json", { cache: "no-store" });
-    if (!response.ok) {
-      metaDecks = [];
-      return;
-    }
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const payload = await response.json();
     metaDecks = Array.isArray(payload) ? payload : (Array.isArray(payload?.decks) ? payload.decks : []);
   } catch {

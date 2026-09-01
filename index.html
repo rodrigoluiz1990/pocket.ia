@@ -16,7 +16,15 @@
   <body>
     <header class="hero">
       <div class="hero-content">
-        <h1>Pocket.ia</h1>
+        <div class="hero-topline">
+          <h1>Pocket.ia</h1>
+          <nav class="app-nav" aria-label="Navegacao principal">
+            <a class="active" href="./index.html">Criar Deck</a>
+            <a href="./meus-decks.html">Meus Decks</a>
+            <a href="./decks-meta.html">Decks Meta</a>
+            <a href="./trocas.html">Trocas</a>
+          </nav>
+        </div>
         <p class="subtitle">Monte decks com filtros avancados e rode baterias de partidas com IA.</p>
       </div>
     </header>
@@ -36,24 +44,27 @@
             <h2>Seu Deck</h2>
             <p><span id="deckCount">0</span>/20 cartas</p>
           </div>
-          <fieldset class="deck-energy-fieldset">
-            <legend>Energia do deck</legend>
-            <div id="deckEnergyOptions" class="deck-energy-options">
-              <label><input type="checkbox" value="1" data-deck-energy />Planta</label>
-              <label><input type="checkbox" value="2" data-deck-energy />Fogo</label>
-              <label><input type="checkbox" value="3" data-deck-energy />Agua</label>
-              <label><input type="checkbox" value="4" data-deck-energy />Raio</label>
-              <label><input type="checkbox" value="5" data-deck-energy />Psiquico</label>
-              <label><input type="checkbox" value="6" data-deck-energy />Luta</label>
-              <label><input type="checkbox" value="7" data-deck-energy />Escuridao</label>
-              <label><input type="checkbox" value="8" data-deck-energy />Metal</label>
-            </div>
-          </fieldset>
           <div class="deck-actions">
+            <fieldset class="deck-energy-fieldset">
+              <legend>Energia do deck</legend>
+              <div id="deckEnergyOptions" class="deck-energy-options">
+                <label class="deck-energy-chip energy-grass" title="Planta"><input type="checkbox" value="1" data-deck-energy aria-label="Energia Planta" /><img src="./assets/energy/grass.webp" alt="" /></label>
+                <label class="deck-energy-chip energy-fire" title="Fogo"><input type="checkbox" value="2" data-deck-energy aria-label="Energia Fogo" /><img src="./assets/energy/fire.webp" alt="" /></label>
+                <label class="deck-energy-chip energy-water" title="Agua"><input type="checkbox" value="3" data-deck-energy aria-label="Energia Agua" /><img src="./assets/energy/water.webp" alt="" /></label>
+                <label class="deck-energy-chip energy-lightning" title="Raio"><input type="checkbox" value="4" data-deck-energy aria-label="Energia Raio" /><img src="./assets/energy/lightning.webp" alt="" /></label>
+                <label class="deck-energy-chip energy-psychic" title="Psiquico"><input type="checkbox" value="5" data-deck-energy aria-label="Energia Psiquico" /><img src="./assets/energy/psychic.webp" alt="" /></label>
+                <label class="deck-energy-chip energy-fighting" title="Luta"><input type="checkbox" value="6" data-deck-energy aria-label="Energia Luta" /><img src="./assets/energy/fighting.webp" alt="" /></label>
+                <label class="deck-energy-chip energy-darkness" title="Escuridao"><input type="checkbox" value="7" data-deck-energy aria-label="Energia Escuridao" /><img src="./assets/energy/darkness.webp" alt="" /></label>
+                <label class="deck-energy-chip energy-metal" title="Metal"><input type="checkbox" value="8" data-deck-energy aria-label="Energia Metal" /><img src="./assets/energy/metal.webp" alt="" /></label>
+              </div>
+            </fieldset>
             <button type="button" id="deckQrBtn" class="deck-qr-fab" disabled aria-label="Abrir QR Code do deck" title="QR Code">
               <span class="deck-qr-fab-icon" aria-hidden="true"></span>
             </button>
-            <button type="button" id="clearDeckBtn" class="deck-action-btn deck-action-secondary deck-clear-btn" disabled>Limpar</button>
+            <div class="deck-action-stack">
+              <button type="button" id="saveDeckBtn" class="deck-action-btn" disabled>Salvar</button>
+              <button type="button" id="clearDeckBtn" class="deck-action-btn deck-action-secondary deck-clear-btn" disabled>Limpar</button>
+            </div>
           </div>
           <div id="deckList" class="deck-list"></div>
         </section>
@@ -247,6 +258,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/nouislider@15.8.1/dist/nouislider.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.js"></script>
+    <script src="./workspace.js"></script>
     <script src="./suggestions.js"></script>
     <script src="./app.js"></script>
   </body>

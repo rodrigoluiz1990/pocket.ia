@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pocket.ia | Trocas</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Sora:wght@600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="hero page-hero">
+      <div class="hero-content">
+        <div class="hero-topline">
+          <h1>Pocket.ia</h1>
+          <nav class="app-nav" aria-label="Navegacao principal">
+            <a href="./index.html">Criar Deck</a>
+            <a href="./meus-decks.html">Meus Decks</a>
+            <a href="./decks-meta.html">Decks Meta</a>
+            <a class="active" href="./trocas.html">Trocas</a>
+          </nav>
+        </div>
+        <p class="subtitle">Organize cartas para oferecer, receber e combinar em trocas.</p>
+      </div>
+    </header>
+    <main class="workspace-layout">
+      <section class="panel workspace-panel">
+        <div class="panel-header"><h2>Adicionar Cartas</h2><p>Pesquise no catálogo e envie cada carta para a lista adequada.</p></div>
+        <input id="tradeSearch" class="workspace-search" type="search" placeholder="Buscar carta para troca..." />
+        <div id="tradeSearchResults" class="trade-search-results"></div>
+      </section>
+      <section class="workspace-two-columns">
+        <section class="panel workspace-panel"><div class="panel-header"><h2>Disponíveis</h2><p>Cartas que você pode oferecer.</p></div><div id="availableTradeList" class="trade-list"></div></section>
+        <section class="panel workspace-panel"><div class="panel-header"><h2>Desejadas</h2><p>Cartas que você procura.</p></div><div id="wantedTradeList" class="trade-list"></div></section>
+      </section>
+      <section class="panel workspace-panel">
+        <div class="panel-header"><h2>Criar Combo de Troca</h2><p>Monte uma oferta usando as listas desta sessão.</p></div>
+        <div class="combo-form">
+          <label>Nome<input id="comboName" type="text" maxlength="60" placeholder="Ex.: Troca para deck de Agua" /></label>
+          <label>Ofereço<select id="comboOffer" multiple size="5"></select></label>
+          <label>Quero receber<select id="comboWant" multiple size="5"></select></label>
+          <button id="saveComboBtn" type="button">Salvar Combo</button>
+        </div>
+        <div id="tradeCombos" class="trade-combo-list"></div>
+      </section>
+    </main>
+    <script src="./workspace.js"></script>
+    <script src="./trocas.js"></script>
+  </body>
+</html>

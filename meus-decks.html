@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pocket.ia | Meus Decks</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Sora:wght@600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="hero page-hero">
+      <div class="hero-content">
+        <div class="hero-topline">
+          <h1>Pocket.ia</h1>
+          <nav class="app-nav" aria-label="Navegacao principal">
+            <a href="./index.html">Criar Deck</a>
+            <a class="active" href="./meus-decks.html">Meus Decks</a>
+            <a href="./decks-meta.html">Decks Meta</a>
+            <a href="./trocas.html">Trocas</a>
+          </nav>
+        </div>
+        <p class="subtitle">Decks salvos durante esta sessao do navegador.</p>
+      </div>
+    </header>
+    <main class="workspace-layout">
+      <section class="panel workspace-panel">
+        <div class="panel-header">
+          <h2>Meus Decks</h2>
+          <p id="savedDeckStatus">Carregando decks salvos...</p>
+        </div>
+        <div id="savedDeckList" class="saved-deck-grid"></div>
+      </section>
+    </main>
+    <script src="./workspace.js"></script>
+    <script src="./meus-decks.js"></script>
+  </body>
+</html>
