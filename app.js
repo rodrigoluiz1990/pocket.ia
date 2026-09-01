@@ -35,6 +35,7 @@ const el = {
   deckQrModal: document.getElementById("deckQrModal"),
   deckQrImage: document.getElementById("deckQrImage"),
   deckQrNote: document.getElementById("deckQrNote"),
+  deckQrShareBtn: document.getElementById("deckQrShareBtn"),
   deckCardModal: document.getElementById("deckCardModal"),
   deckCardModalTitle: document.getElementById("deckCardModalTitle"),
   deckCardModalImage: document.getElementById("deckCardModalImage"),
@@ -83,7 +84,7 @@ const el = {
 
 function canInit() {
   const required = [
-    "cardsGrid","deckList","deckCount","deckEnergyOptions","deckQrBtn","clearDeckBtn","deckQrModal","deckQrImage","deckQrNote","deckCardModal","deckCardModalTitle","deckCardModalImage","simResults","loadStatus","searchInput","tipoFilter","elementoFilter",
+    "cardsGrid","deckList","deckCount","deckEnergyOptions","deckQrBtn","clearDeckBtn","deckQrModal","deckQrImage","deckQrNote","deckQrShareBtn","deckCardModal","deckCardModalTitle","deckCardModalImage","simResults","loadStatus","searchInput","tipoFilter","elementoFilter",
     "raridadeFilter","estagioFilter","expansaoFilter","fraquezaFilter","habilidadeFilter",
     "recuoFilter","recuoMinLabel","recuoMaxLabel","vidaSlider","ataqueSlider","vidaMinLabel","vidaMaxLabel","ataqueMinLabel","ataqueMaxLabel","custoAtaqueSlider","custoAtaqueMinLabel","custoAtaqueMaxLabel","formatoFilter","sortField","sortDir","imageOnlyToggle",
     "favoriteOnlyToggle","attackEnergyFilter","mostUsedList","metaDecksList",
@@ -448,6 +449,41 @@ function closeDeckQrModal() {
   el.deckQrModal.classList.remove("open");
   el.deckQrModal.setAttribute("aria-hidden", "true");
   document.body.classList.remove("meta-modal-open");
+}
+
+async function shareDeckQrCode() {
+  const dataUrl = String(el.deckQrImage?.src || "");
+  if (!dataUrl.startsWith("data:")) return;
+
+  const response = await fetch(dataUrl);
+  const blob = await response.blob();
+  const mimeType = blob.type || "image/png";
+  const extension = mimeType.split("/")[1] || "png";
+  const file = new File([blob], `pocketia-deck-qr.${extension}`, { type: mimeType });
+  const shareData = {
+    title: "QR Code do Deck",
+    text: "QR Code para importar este deck no Pokemon TCG Pocket.",
+    files: [file]
+  };
+  const isMobileDevice = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+
+  if (isMobileDevice && navigator.share && (!navigator.canShare || navigator.canShare(shareData))) {
+    try {
+      await navigator.share(shareData);
+      return;
+    } catch (error) {
+      if (error?.name === "AbortError") return;
+    }
+  }
+
+  const link = document.createElement("a");
+  const objectUrl = URL.createObjectURL(blob);
+  link.href = objectUrl;
+  link.download = file.name;
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+  setTimeout(() => URL.revokeObjectURL(objectUrl), 1000);
 }
 
 function openDeckCardModal(card) {
@@ -1479,6 +1515,9 @@ function init() {
     closeMetaDeckModal();
   });
   el.deckQrBtn?.addEventListener("click", openDeckQrModal);
+  el.deckQrShareBtn?.addEventListener("click", () => {
+    shareDeckQrCode().catch(() => alert("Nao foi possivel compartilhar o QR Code."));
+  });
   el.deckEnergyOptions?.addEventListener("change", (event) => {
     const input = event.target.closest("input[data-deck-energy]");
     if (!input) return;
