@@ -1851,6 +1851,98 @@ body.meta-modal-open {
 }
 
 @media (max-width: 760px) {
+  .layout {
+    padding: 12px 12px 24px;
+  }
+
+  .panel {
+    padding: 12px;
+  }
+
+  .filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .filters > * {
+    min-width: 0;
+  }
+
+  .ataque-filter,
+  .custo-ataque-filter,
+  .recuo-filter,
+  .vida-filter,
+  .multi-dd[data-for="attackEnergyFilter"] {
+    grid-row: auto;
+  }
+
+  .range-duo {
+    padding: 10px 8px;
+  }
+
+  .range-inline {
+    gap: 6px;
+  }
+
+  .range-value {
+    min-width: 22px;
+    font-size: 0.82rem;
+  }
+
+  .sort-row-bottom {
+    grid-column: 1 / -1;
+    grid-row: auto;
+  }
+
+  .sort-inline {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .toggle-row {
+    gap: 6px;
+  }
+
+  .cards-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .card {
+    width: 100%;
+    max-width: 180px;
+    justify-self: start;
+    padding: 7px;
+    border-radius: 12px;
+  }
+
+  .card img,
+  .card.image-only img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 63 / 88;
+    object-fit: contain;
+  }
+
+  .card-info-list {
+    margin-top: 4px;
+    padding-left: 14px;
+    gap: 2px;
+    font-size: 0.72rem;
+  }
+
+  .card-actions {
+    top: 5px;
+    right: 5px;
+    gap: 4px;
+  }
+
+  .card-actions button {
+    width: 30px;
+    height: 30px;
+    padding: 6px;
+  }
+
   .hero-topline,
   .workspace-two-columns,
   .combo-form,
