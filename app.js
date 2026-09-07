@@ -8,6 +8,7 @@ const DECK_QUERY_PARAM = "deck";
 let metaDecks = [];
 const favorites = new Set();
 const deckEnergySelection = new Set();
+let tradeState = { available: [], wanted: [], combos: [] };
 const FALLBACK_IMAGE_SRC = "./assets/cards/pokemon_pocket_card_back.png";
 
 let expansionOrder = [];
@@ -34,6 +35,7 @@ const el = {
   saveDeckBtn: document.getElementById("saveDeckBtn"),
   clearDeckBtn: document.getElementById("clearDeckBtn"),
   deckQrModal: document.getElementById("deckQrModal"),
+  deckQrModalTitle: document.getElementById("deckQrModalTitle"),
   deckQrImage: document.getElementById("deckQrImage"),
   deckQrNote: document.getElementById("deckQrNote"),
   deckQrShareBtn: document.getElementById("deckQrShareBtn"),
@@ -49,12 +51,14 @@ const el = {
   metaDeckModalTitle: document.getElementById("metaDeckModalTitle"),
   metaDeckModalGrid: document.getElementById("metaDeckModalGrid"),
   metaDeckModalLoadBtn: document.getElementById("metaDeckModalLoadBtn"),
+  metaDeckModalQrBtn: document.getElementById("metaDeckModalQrBtn"),
 
   searchInput: document.getElementById("searchInput"),
   tipoFilter: document.getElementById("tipoFilter"),
   elementoFilter: document.getElementById("elementoFilter"),
   raridadeFilter: document.getElementById("raridadeFilter"),
   estagioFilter: document.getElementById("estagioFilter"),
+  tagFilter: document.getElementById("tagFilter"),
   expansaoFilter: document.getElementById("expansaoFilter"),
   fraquezaFilter: document.getElementById("fraquezaFilter"),
   attackEnergyFilter: document.getElementById("attackEnergyFilter"),
@@ -76,6 +80,8 @@ const el = {
   sortDir: document.getElementById("sortDir"),
   imageOnlyToggle: document.getElementById("imageOnlyToggle"),
   favoriteOnlyToggle: document.getElementById("favoriteOnlyToggle"),
+  availableOnlyToggle: document.getElementById("availableOnlyToggle"),
+  wantedOnlyToggle: document.getElementById("wantedOnlyToggle"),
 
   simCount: document.getElementById("simCount"),
   aiProfile: document.getElementById("aiProfile"),
@@ -85,11 +91,11 @@ const el = {
 
 function canInit() {
   const required = [
-    "cardsGrid","deckList","deckCount","deckEnergyOptions","deckQrBtn","saveDeckBtn","clearDeckBtn","deckQrModal","deckQrImage","deckQrNote","deckQrShareBtn","deckCardModal","deckCardModalTitle","deckCardModalImage","simResults","loadStatus","searchInput","tipoFilter","elementoFilter",
-    "raridadeFilter","estagioFilter","expansaoFilter","fraquezaFilter","habilidadeFilter",
+    "cardsGrid","deckList","deckCount","deckEnergyOptions","deckQrBtn","saveDeckBtn","clearDeckBtn","deckQrModal","deckQrModalTitle","deckQrImage","deckQrNote","deckQrShareBtn","deckCardModal","deckCardModalTitle","deckCardModalImage","simResults","loadStatus","searchInput","tipoFilter","elementoFilter",
+    "raridadeFilter","estagioFilter","tagFilter","expansaoFilter","fraquezaFilter","habilidadeFilter",
     "recuoFilter","recuoMinLabel","recuoMaxLabel","vidaSlider","ataqueSlider","vidaMinLabel","vidaMaxLabel","ataqueMinLabel","ataqueMaxLabel","custoAtaqueSlider","custoAtaqueMinLabel","custoAtaqueMaxLabel","formatoFilter","sortField","sortDir","imageOnlyToggle",
-    "favoriteOnlyToggle","attackEnergyFilter","mostUsedList","metaDecksList",
-    "metaDeckModal","metaDeckModalTitle","metaDeckModalGrid","metaDeckModalLoadBtn",
+    "favoriteOnlyToggle","availableOnlyToggle","wantedOnlyToggle","attackEnergyFilter","mostUsedList","metaDecksList",
+    "metaDeckModal","metaDeckModalTitle","metaDeckModalGrid","metaDeckModalLoadBtn","metaDeckModalQrBtn",
     "simCount","aiProfile","runSimBtn"
   ];
   return required.every((k) => el[k]);
@@ -110,6 +116,56 @@ function normalizeKey(value) {
 
 function normalizeSetCode(value) {
   return String(value || "").trim().toUpperCase();
+}
+
+const specialCardTagPatterns = {
+  arceus: /(^|-)arceus(?:-|$)/,
+  futurista: /iron-moth|iron-bundle|iron-hands|iron-thorns|iron-valiant|iron-leaves|iron-boulder|iron-crown|iron-jugulis|iron-treads/,
+  ancestral: /brute-bonnet|slither-wing|scream-tail|flutter-mane|great-tusk|sandy-shocks|roaring-moon|walking-wake|gouging-fire|raging-bolt/,
+  equiperocket: /team-rocket/
+};
+
+const specialCardTagLabels = {
+  arceus: "Arceus",
+  futurista: "Futurista",
+  ancestral: "Ancestral",
+  equiperocket: "Equipe Rocket"
+};
+
+// Identificadores funcionais das oito cartas com Link Ability de Arceus.
+// Reimpressoes preservam o mesmo deckBuilderNr e tambem devem receber a tag.
+const arceusLinkDeckBuilderNumbers = new Set([433, 437, 445, 450, 459, 465, 474, 479]);
+
+function normalizeTagKey(value) {
+  return normalizeKey(value).replace(/[^\p{L}\p{N}]+/gu, "");
+}
+
+function inferSpecialCardTags(card) {
+  const source = String(card?.sourceId || "").toLowerCase();
+  const name = normalizeTagKey(card?.nome);
+  const interactionText = JSON.stringify({
+    ataques: card?.ataqueLista || card?.ataque || [],
+    habilidade: card?.habilidadeTexto || card?.habilidadeDescricao || card?.ability || card?.abilities || ""
+  }).toLowerCase();
+  const tags = Object.entries(specialCardTagPatterns)
+    .filter(([, pattern]) => pattern.test(source))
+    .map(([tag]) => tag);
+
+  if (
+    arceusLinkDeckBuilderNumbers.has(safeNumber(card?.deckBuilderNr, 0)) ||
+    /arceus/i.test(interactionText)
+  ) {
+    tags.push("arceus");
+  }
+  if (name.includes("equiperocket")) tags.push("equiperocket");
+
+  return [...new Set(tags)];
+}
+
+function getSpecialCardTagLabels(card) {
+  return Object.entries(specialCardTagLabels)
+    .filter(([tag]) => card?.tags?.includes(tag))
+    .map(([, label]) => label);
 }
 
 function assetCodeFromSetCode(code) {
@@ -437,9 +493,32 @@ function openDeckQrModal() {
   }
 
   deckQrOpen = true;
+  el.deckQrModalTitle.textContent = "QR Code do Deck";
   if (el.deckQrNote) {
     el.deckQrNote.textContent = "No Pokemon TCG Pocket, toque em Montar Novo e depois em Escanear Codigo para importar este deck.";
   }
+  el.deckQrModal.classList.add("open");
+  el.deckQrModal.setAttribute("aria-hidden", "false");
+  document.body.classList.add("meta-modal-open");
+}
+
+function openMetaDeckQr(index) {
+  const def = metaDecks[index];
+  if (!def || !Array.isArray(def.cartas) || !window.PocketiaWorkspace) return;
+  const deckCards = def.cartas.map(findCardByMetaRef).filter(Boolean);
+
+  try {
+    const energies = window.PocketiaWorkspace.inferDeckEnergyCodes(deckCards);
+    const payload = window.PocketiaWorkspace.encodeGameDeckPayload(deckCards, energies);
+    el.deckQrImage.src = window.PocketiaWorkspace.buildDeckQrDataUrl(payload);
+    el.deckQrModalTitle.textContent = `QR Code — ${def.nome || `Deck ${index + 1}`}`;
+    el.deckQrNote.textContent = "As energias foram identificadas automaticamente pelos custos de ataque do deck meta.";
+  } catch (error) {
+    alert(error.message || "Nao foi possivel gerar o QR Code deste deck meta.");
+    return;
+  }
+
+  deckQrOpen = true;
   el.deckQrModal.classList.add("open");
   el.deckQrModal.setAttribute("aria-hidden", "false");
   document.body.classList.add("meta-modal-open");
@@ -714,6 +793,9 @@ function renderMostUsedCards() {
     item.innerHTML = `
       <div class="deck-item-main" style="width:72px;aspect-ratio:63/88;">
         <img class="deck-thumb" src="${imageSrc}" alt="${card.nome}" title="${card.nome}" onload="if(this.naturalWidth>this.naturalHeight){this.classList.add('is-wallpaper')}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
+        <button class="deck-preview" data-preview="${card.id}" title="Ampliar carta" aria-label="Ampliar ${card.nome}">
+          <svg class="deck-preview-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="M3 21v-6h6"/><path d="m3 21 7-7"/></svg>
+        </button>
         <button class="deck-add" data-add="${card.id}" title="Adicionar ao deck" aria-label="Adicionar ${card.nome} ao deck">+</button>
       </div>
     `;
@@ -745,7 +827,12 @@ function renderMetaDecks() {
           onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
       </div>
       <h3 class="meta-deck-tile-name">${escapeHtml(title)}</h3>
-      <button type="button" class="meta-deck-load-btn" data-load-meta="${i}">Carregar no Seu Deck</button>
+      <div class="meta-deck-tile-actions">
+        <button type="button" class="deck-qr-fab meta-deck-qr-btn" data-qr-meta="${i}" aria-label="Abrir QR Code do deck" title="QR Code">
+          <span class="deck-qr-fab-icon" aria-hidden="true"></span>
+        </button>
+        <button type="button" class="meta-deck-load-btn" data-load-meta="${i}">Copiar</button>
+      </div>
     `;
     el.metaDecksList.appendChild(article);
   });
@@ -798,9 +885,10 @@ function normalizeCard(card) {
   const formato = String(card.formato || "noex").trim();
   const tags = new Set(
     (Array.isArray(card.tags) ? card.tags : [])
-      .map(normalizeKey)
+      .map(normalizeTagKey)
       .filter(Boolean)
   );
+  inferSpecialCardTags(card).forEach((tag) => tags.add(tag));
   const estagioKey = normalizeKey(estagio);
   if (estagioKey) tags.add(estagioKey);
   if (estagioKey === "baby") tags.add("basic");
@@ -913,6 +1001,28 @@ function compareCards(a, b, sortField, sortDir) {
 
   if (sortField === "nome") return String(a.nome).localeCompare(String(b.nome), "pt-BR") * dir;
   if (sortField === "numero-exp") return (parseCardNumber(a.numero) - parseCardNumber(b.numero)) * dir;
+  if (sortField === "tipo") {
+    const typeA = normalizeEnergyType(a.tipo);
+    const typeB = normalizeEnergyType(b.tipo);
+    const indexA = tipoDisplayOrder.findIndex((type) => normalizeEnergyType(type) === typeA);
+    const indexB = tipoDisplayOrder.findIndex((type) => normalizeEnergyType(type) === typeB);
+    const rankA = indexA === -1 ? Number.MAX_SAFE_INTEGER : indexA;
+    const rankB = indexB === -1 ? Number.MAX_SAFE_INTEGER : indexB;
+    if (rankA !== rankB) return (rankA - rankB) * dir;
+    if (typeA !== typeB) return String(a.tipo).localeCompare(String(b.tipo), "pt-BR") * dir;
+    return compareExpNumAsc(a, b) * dir;
+  }
+  if (sortField === "raridade") {
+    const rarityA = a.promo || String(a.raridade || "").toLowerCase() === "promo" ? "Promo" : String(a.raridade || "").trim();
+    const rarityB = b.promo || String(b.raridade || "").toLowerCase() === "promo" ? "Promo" : String(b.raridade || "").trim();
+    const indexA = defaultRarityOrder.indexOf(rarityA);
+    const indexB = defaultRarityOrder.indexOf(rarityB);
+    const rankA = indexA === -1 ? Number.MAX_SAFE_INTEGER : indexA;
+    const rankB = indexB === -1 ? Number.MAX_SAFE_INTEGER : indexB;
+    if (rankA !== rankB) return (rankA - rankB) * dir;
+    if (rarityA !== rarityB) return rarityA.localeCompare(rarityB, "pt-BR") * dir;
+    return compareExpNumAsc(a, b) * dir;
+  }
   if (sortField === "hp") return (a.hp - b.hp) * dir || String(a.nome).localeCompare(String(b.nome), "pt-BR");
   if (sortField === "ataque") return (a.ataque - b.ataque) * dir || String(a.nome).localeCompare(String(b.nome), "pt-BR");
   if (sortField === "exp-num") {
@@ -939,7 +1049,10 @@ function getFilteredCards() {
   const elementos = selectedValues(el.elementoFilter);
   const raridades = selectedValues(el.raridadeFilter);
   const favoriteOnly = Boolean(el.favoriteOnlyToggle.checked);
+  const availableOnly = Boolean(el.availableOnlyToggle.checked);
+  const wantedOnly = Boolean(el.wantedOnlyToggle.checked);
   const estagios = selectedValues(el.estagioFilter);
+  const tags = new Set([...selectedValues(el.tagFilter)].map(normalizeTagKey));
   const expansoes = selectedValues(el.expansaoFilter);
   const fraquezas = selectedValues(el.fraquezaFilter);
   const attackTypes = new Set([...selectedValues(el.attackEnergyFilter)].map(normalizeEnergyType));
@@ -972,7 +1085,10 @@ function getFilteredCards() {
         if (!(promoSelected && isPromo) && !normalSelected.includes(card.raridade)) return false;
       }
       if (favoriteOnly && !favorites.has(String(card.id))) return false;
+      if (availableOnly && !isCardInTradeList("available", card.id)) return false;
+      if (wantedOnly && !isCardInTradeList("wanted", card.id)) return false;
       if (estagios.size && ![card.estagio, ...card.tags].some((tag) => estagios.has(tag))) return false;
+      if (tags.size && !card.tags.some((tag) => tags.has(normalizeTagKey(tag)))) return false;
       if (expansoes.size && !expansoes.has(card.expansao)) return false;
       if (fraquezas.size && !fraquezas.has(card.fraqueza)) return false;
       if (!cardHasAttackType(card, attackTypes)) return false;
@@ -1023,6 +1139,33 @@ function toggleFavorite(cardId) {
   saveFavorites();
 }
 
+function loadTradeState() {
+  if (window.PocketiaWorkspace) tradeState = window.PocketiaWorkspace.getTradeState();
+}
+
+function isCardInTradeList(kind, cardId) {
+  const list = kind === "available" ? tradeState.available : tradeState.wanted;
+  return list.some((id) => String(id) === String(cardId));
+}
+
+function toggleCardTradeStatus(kind, cardId) {
+  if (!window.PocketiaWorkspace || !["available", "wanted"].includes(kind)) return false;
+  const id = String(cardId);
+  const list = kind === "available" ? tradeState.available : tradeState.wanted;
+  const isActive = list.some((item) => String(item) === id);
+
+  if (isActive) {
+    const next = list.filter((item) => String(item) !== id);
+    if (kind === "available") tradeState.available = next;
+    else tradeState.wanted = next;
+  } else {
+    list.push(id);
+  }
+
+  window.PocketiaWorkspace.saveTradeState(tradeState);
+  return !isActive;
+}
+
 
 function renderCards() {
   renderToken++;
@@ -1056,16 +1199,33 @@ function renderCards() {
       const danos = ataques.map(attackDamageLabel);
       const custoText = custos.join(" / ");
       const danoText = danos.join(" / ");
+      const specialTags = getSpecialCardTagLabels(card);
+      const tagsMarkup = specialTags.length
+        ? `<li class="card-tags-row"><strong>Tags:</strong><span class="card-tag-list">${specialTags.map((tag) => `<span class="card-tag">${tag}</span>`).join("")}</span></li>`
+        : "";
       const cardEl = document.createElement("article");
       cardEl.className = `card card-clickable ${imageOnly ? "image-only" : ""}`;
       cardEl.dataset.id = String(card.id);
       const fav = isFavorite(card.id);
+      const isAvailable = isCardInTradeList("available", card.id);
+      const isWanted = isCardInTradeList("wanted", card.id);
       cardEl.innerHTML = `
         <div class="card-actions">
           <button class="card-fav ${fav ? "active" : ""}" data-favorite="${card.id}" title="${fav ? "Remover dos favoritos" : "Adicionar aos favoritos"}" aria-label="${fav ? "Remover dos favoritos" : "Adicionar aos favoritos"}">
-          <svg class="fav-icon" viewBox="0 0 24 24" aria-hidden="true">
-            <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78L12 21.23l8.84-8.84a5.5 5.5 0 0 0 0-7.78Z"/>
-          </svg>
+            <svg class="card-status-icon fav-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="m12 2.8 2.85 5.78 6.38.93-4.62 4.5 1.09 6.35-5.7-3-5.7 3 1.09-6.35-4.62-4.5 6.38-.93L12 2.8Z"/>
+            </svg>
+          </button>
+          <button type="button" class="card-trade-button wanted ${isWanted ? "active" : ""}" data-trade-kind="wanted" data-trade-card="${card.id}" aria-pressed="${isWanted}" title="${isWanted ? "Remover das desejadas" : "Marcar como desejada"}" aria-label="${isWanted ? "Remover das desejadas" : "Marcar como desejada"}">
+            <svg class="card-status-icon wanted-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78L12 21.23l8.84-8.84a5.5 5.5 0 0 0 0-7.78Z"/>
+            </svg>
+          </button>
+          <button type="button" class="card-trade-button available ${isAvailable ? "active" : ""}" data-trade-kind="available" data-trade-card="${card.id}" aria-pressed="${isAvailable}" title="${isAvailable ? "Remover das disponiveis" : "Marcar como disponivel"}" aria-label="${isAvailable ? "Remover das disponiveis" : "Marcar como disponivel"}">
+            <svg class="card-status-icon available-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <circle class="available-icon-bg" cx="12" cy="12" r="9"/>
+              <path class="available-icon-check" d="m7.5 12 3 3 6-7"/>
+            </svg>
           </button>
           <button class="card-expand" data-preview="${card.id}" title="Ampliar carta" aria-label="Ampliar carta">
             <svg class="expand-icon" viewBox="0 0 24 24" aria-hidden="true">
@@ -1085,6 +1245,7 @@ function renderCards() {
           <li><strong>Fraqueza:</strong> ${card.fraqueza || "-"}</li>
           <li><strong>Recuo:</strong> ${card.recuo}</li>
           <li><strong>Pacote:</strong> ${card.pacote || card.expansao}</li>
+          ${tagsMarkup}
         </ul>
       `;
       fragment.appendChild(cardEl);
@@ -1180,6 +1341,9 @@ function renderSuggestions() {
     item.innerHTML = `
       <div class="deck-item-main suggestion-item-main" style="width:72px;aspect-ratio:63/88;">
         <img class="deck-thumb suggestion-thumb" src="${imageSrc}" alt="${card.nome}" title="${card.nome}" onload="if(this.naturalWidth>this.naturalHeight){this.classList.add('is-wallpaper')}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
+        <button class="deck-preview" data-preview="${card.id}" title="Ampliar carta" aria-label="Ampliar ${card.nome}">
+          <svg class="deck-preview-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="M3 21v-6h6"/><path d="m3 21 7-7"/></svg>
+        </button>
         <button class="deck-add" data-add="${card.id}" title="Adicionar ao deck" aria-label="Adicionar ${card.nome} ao deck">+</button>
       </div>
     `;
@@ -1273,7 +1437,7 @@ function bindInputLabels() {
 function bindCustomMultiSelects() {
   const multiSelects = [
     el.tipoFilter, el.elementoFilter, el.raridadeFilter, el.estagioFilter,
-    el.expansaoFilter, el.fraquezaFilter, el.attackEnergyFilter, el.formatoFilter
+    el.expansaoFilter, el.fraquezaFilter, el.attackEnergyFilter, el.formatoFilter, el.tagFilter
   ].filter(Boolean);
 
   const closeAll = (exceptPanel = null) => {
@@ -1423,6 +1587,7 @@ function bindCustomSingleSelects() {
 function init() {
   if (!canInit()) throw new Error("HTML desatualizado: faltam elementos obrigatorios dos filtros.");
   loadFavorites();
+  loadTradeState();
   if (!cards.length) throw new Error("Nenhuma carta encontrada na base de dados.");
   cards = cards.map(normalizeCard);
 
@@ -1450,8 +1615,8 @@ function init() {
   populateFilter(el.attackEnergyFilter, tipoDisplayOrder);
 
   [
-    el.searchInput, el.tipoFilter, el.elementoFilter, el.raridadeFilter, el.estagioFilter, el.expansaoFilter, el.fraquezaFilter, el.attackEnergyFilter,
-    el.habilidadeFilter, el.formatoFilter, el.sortField, el.sortDir, el.imageOnlyToggle, el.favoriteOnlyToggle
+    el.searchInput, el.tipoFilter, el.elementoFilter, el.raridadeFilter, el.estagioFilter, el.tagFilter, el.expansaoFilter, el.fraquezaFilter, el.attackEnergyFilter,
+    el.habilidadeFilter, el.formatoFilter, el.sortField, el.sortDir, el.imageOnlyToggle, el.favoriteOnlyToggle, el.availableOnlyToggle, el.wantedOnlyToggle
   ].filter(Boolean).forEach((node) => node.addEventListener("input", renderCards));
 
   bindInputLabels();
@@ -1459,6 +1624,23 @@ function init() {
   bindCustomSingleSelects();
 
   el.cardsGrid?.addEventListener("click", (event) => {
+    const tradeButton = event.target.closest("[data-trade-kind][data-trade-card]");
+    if (tradeButton) {
+      const kind = tradeButton.dataset.tradeKind;
+      const isActive = toggleCardTradeStatus(kind, tradeButton.dataset.tradeCard);
+      tradeButton.classList.toggle("active", isActive);
+      tradeButton.setAttribute("aria-pressed", String(isActive));
+      const tradeLabel = kind === "available"
+        ? (isActive ? "Remover das disponiveis" : "Marcar como disponivel")
+        : (isActive ? "Remover das desejadas" : "Marcar como desejada");
+      tradeButton.title = tradeLabel;
+      tradeButton.setAttribute("aria-label", tradeLabel);
+      const activeTradeFilter = kind === "available"
+        ? el.availableOnlyToggle?.checked
+        : el.wantedOnlyToggle?.checked;
+      if (activeTradeFilter) renderCards();
+      return;
+    }
     const favBtn = event.target.closest(".card-fav");
     if (favBtn?.dataset.favorite) {
       const cardId = String(favBtn.dataset.favorite);
@@ -1500,6 +1682,12 @@ function init() {
     if (id) removeCard(id);
   });
   el.suggestionsList?.addEventListener("click", (event) => {
+    const previewId = event.target.closest("[data-preview]")?.dataset.preview;
+    if (previewId) {
+      const card = cards.find((item) => String(item.id) === String(previewId));
+      if (card) openDeckCardModal(card);
+      return;
+    }
     const addId = event.target.dataset.add;
     if (addId) {
       addCard(addId);
@@ -1507,11 +1695,24 @@ function init() {
     }
   });
   el.mostUsedList?.addEventListener("click", (event) => {
+    const previewId = event.target.closest("[data-preview]")?.dataset.preview;
+    if (previewId) {
+      const card = cards.find((item) => String(item.id) === String(previewId));
+      if (card) openDeckCardModal(card);
+      return;
+    }
     const addId = event.target.dataset.add;
     if (addId) addCard(addId);
   });
 
   el.metaDecksList?.addEventListener("click", (event) => {
+    const qrBtn = event.target.closest("[data-qr-meta]");
+    if (qrBtn) {
+      event.stopPropagation();
+      const idx = Number(qrBtn.dataset.qrMeta);
+      if (Number.isFinite(idx)) openMetaDeckQr(idx);
+      return;
+    }
     const loadBtn = event.target.closest("[data-load-meta]");
     if (loadBtn) {
       event.stopPropagation();
@@ -1527,7 +1728,7 @@ function init() {
   });
   el.metaDecksList?.addEventListener("keydown", (event) => {
     const tile = event.target.closest("[data-open-meta]");
-    if (!tile || event.target.closest("[data-load-meta]")) return;
+    if (!tile || event.target.closest("[data-load-meta], [data-qr-meta]")) return;
     if (event.key === "Enter" || event.key === " ") {
       event.preventDefault();
       const idx = Number(tile.dataset.openMeta);
@@ -1542,6 +1743,12 @@ function init() {
     if (metaModalDeckIndex < 0) return;
     loadMetaDeckIntoDeck(metaModalDeckIndex);
     closeMetaDeckModal();
+  });
+  el.metaDeckModalQrBtn?.addEventListener("click", () => {
+    if (metaModalDeckIndex < 0) return;
+    const index = metaModalDeckIndex;
+    closeMetaDeckModal();
+    openMetaDeckQr(index);
   });
   el.deckQrBtn?.addEventListener("click", openDeckQrModal);
   el.deckQrShareBtn?.addEventListener("click", () => {

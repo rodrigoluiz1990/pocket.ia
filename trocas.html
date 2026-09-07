@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Pocket.ia | Trocas</title>
+    <link rel="icon" type="image/png" href="./assets/logo/logo_pocketia.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Sora:wght@600;700;800&display=swap" rel="stylesheet" />
@@ -13,7 +14,10 @@
     <header class="hero page-hero">
       <div class="hero-content">
         <div class="hero-topline">
-          <h1>Pocket.ia</h1>
+          <div class="site-brand">
+            <img class="site-logo" src="./assets/logo/logo_pocketia.png" alt="" />
+            <h1>Pocket.ia</h1>
+          </div>
           <nav class="app-nav" aria-label="Navegacao principal">
             <a href="./index.html">Criar Deck</a>
             <a href="./meus-decks.html">Meus Decks</a>
@@ -31,8 +35,26 @@
         <div id="tradeSearchResults" class="trade-search-results"></div>
       </section>
       <section class="workspace-two-columns">
-        <section class="panel workspace-panel"><div class="panel-header"><h2>Disponíveis</h2><p>Cartas que você pode oferecer.</p></div><div id="availableTradeList" class="trade-list"></div></section>
-        <section class="panel workspace-panel"><div class="panel-header"><h2>Desejadas</h2><p>Cartas que você procura.</p></div><div id="wantedTradeList" class="trade-list"></div></section>
+        <section class="panel workspace-panel">
+          <div class="panel-header trade-list-header">
+            <div><h2>Disponíveis</h2><p>Cartas que você pode oferecer.</p></div>
+            <div class="trade-layout-switch" role="group" aria-label="Layout das cartas disponíveis">
+              <button type="button" class="active" data-trade-list-layout="images" data-trade-list-kind="available" aria-pressed="true">Imagens</button>
+              <button type="button" data-trade-list-layout="list" data-trade-list-kind="available" aria-pressed="false">Lista</button>
+            </div>
+          </div>
+          <div id="availableTradeList" class="trade-list trade-list-images"></div>
+        </section>
+        <section class="panel workspace-panel">
+          <div class="panel-header trade-list-header">
+            <div><h2>Desejadas</h2><p>Cartas que você procura.</p></div>
+            <div class="trade-layout-switch" role="group" aria-label="Layout das cartas desejadas">
+              <button type="button" class="active" data-trade-list-layout="images" data-trade-list-kind="wanted" aria-pressed="true">Imagens</button>
+              <button type="button" data-trade-list-layout="list" data-trade-list-kind="wanted" aria-pressed="false">Lista</button>
+            </div>
+          </div>
+          <div id="wantedTradeList" class="trade-list trade-list-images"></div>
+        </section>
       </section>
       <section class="panel workspace-panel">
         <div class="panel-header"><h2>Criar Troca</h2><p>Monte uma oferta usando as listas desta sessão.</p></div>

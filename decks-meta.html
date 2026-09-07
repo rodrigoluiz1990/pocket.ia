@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Pocket.ia | Decks Meta</title>
+    <link rel="icon" type="image/png" href="./assets/logo/logo_pocketia.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Sora:wght@600;700;800&display=swap" rel="stylesheet" />
@@ -13,7 +14,10 @@
     <header class="hero page-hero">
       <div class="hero-content">
         <div class="hero-topline">
-          <h1>Pocket.ia</h1>
+          <div class="site-brand">
+            <img class="site-logo" src="./assets/logo/logo_pocketia.png" alt="" />
+            <h1>Pocket.ia</h1>
+          </div>
           <nav class="app-nav" aria-label="Navegacao principal">
             <a href="./index.html">Criar Deck</a>
             <a href="./meus-decks.html">Meus Decks</a>
@@ -30,6 +34,26 @@
         <div id="metaDeckCatalog" class="saved-deck-grid"></div>
       </section>
     </main>
+    <div id="metaDeckCardsModal" class="meta-deck-modal" aria-hidden="true">
+      <div class="meta-deck-modal-backdrop" data-meta-cards-close tabindex="-1"></div>
+      <div class="meta-deck-modal-dialog panel" role="dialog" aria-modal="true" aria-labelledby="metaDeckCardsModalTitle">
+        <button type="button" class="meta-deck-modal-close" data-meta-cards-close aria-label="Fechar">×</button>
+        <h2 id="metaDeckCardsModalTitle" class="meta-deck-modal-title"></h2>
+        <div id="metaDeckCardsModalGrid" class="meta-deck-modal-grid"></div>
+      </div>
+    </div>
+    <div id="metaQrModal" class="meta-deck-modal" aria-hidden="true">
+      <div class="meta-deck-modal-backdrop" data-meta-qr-close tabindex="-1"></div>
+      <div class="meta-deck-modal-dialog panel deck-qr-modal-dialog" role="dialog" aria-modal="true" aria-labelledby="metaQrModalTitle">
+        <button type="button" class="meta-deck-modal-close" data-meta-qr-close aria-label="Fechar">×</button>
+        <h2 id="metaQrModalTitle" class="meta-deck-modal-title">QR Code do Deck Meta</h2>
+        <div class="deck-qr-modal-body">
+          <img id="metaQrImage" class="deck-qr-image" alt="QR Code do deck meta" />
+          <p class="deck-qr-note">As energias são identificadas automaticamente pelos custos de ataque.</p>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.js"></script>
     <script src="./workspace.js"></script>
     <script src="./decks-meta.js"></script>
   </body>

@@ -2,6 +2,7 @@ let cards = [];
 let tradeState;
 let draftOfferIds = [];
 let draftWantIds = [];
+const tradeListLayouts = { available: "images", wanted: "images" };
 
 function setComboStatus(message, kind = "") {
   const status = document.getElementById("comboStatus");
@@ -46,9 +47,27 @@ function removeDraftCard(side, id) {
 function renderTradeList(elementId, ids, kind) {
   const list = document.getElementById(elementId);
   list.innerHTML = "";
+  const imageLayout = tradeListLayouts[kind] === "images";
+  list.classList.toggle("trade-list-images", imageLayout);
   const entries = [...grouped(ids).entries()];
   if (!entries.length) {
     list.innerHTML = "<p>Nenhuma carta adicionada.</p>";
+    return;
+  }
+  if (imageLayout) {
+    ids.forEach((id) => {
+      const card = cardById(id);
+      if (!card) return;
+      const cardButton = document.createElement("button");
+      cardButton.type = "button";
+      cardButton.className = "trade-image-card";
+      cardButton.dataset.addDraft = kind;
+      cardButton.dataset.cardId = id;
+      cardButton.setAttribute("aria-label", `Adicionar ${cardReference(card)} na troca`);
+      cardButton.title = `${cardReference(card)} — clique para adicionar à troca`;
+      cardButton.innerHTML = `<img src="${card.imageLocal}" alt="${card.nome}" onerror="this.parentElement.remove()" />`;
+      list.appendChild(cardButton);
+    });
     return;
   }
   entries.forEach(([id, quantity]) => {
@@ -154,6 +173,20 @@ function renderSearch() {
 }
 
 document.getElementById("tradeSearch").addEventListener("input", renderSearch);
+document.querySelectorAll("[data-trade-list-layout]").forEach((button) => {
+  button.addEventListener("click", () => {
+    const kind = button.dataset.tradeListKind;
+    const layout = button.dataset.tradeListLayout;
+    if (!tradeState || !tradeListLayouts[kind] || !["images", "list"].includes(layout)) return;
+    tradeListLayouts[kind] = layout;
+    document.querySelectorAll(`[data-trade-list-kind="${kind}"]`).forEach((option) => {
+      const active = option.dataset.tradeListLayout === layout;
+      option.classList.toggle("active", active);
+      option.setAttribute("aria-pressed", String(active));
+    });
+    renderTradeList(kind === "available" ? "availableTradeList" : "wantedTradeList", tradeState[kind], kind);
+  });
+});
 document.getElementById("tradeSearchResults").addEventListener("click", (event) => {
   const available = event.target.closest("[data-add-available]")?.dataset.addAvailable;
   const wanted = event.target.closest("[data-add-wanted]")?.dataset.addWanted;

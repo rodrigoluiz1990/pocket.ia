@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Pocket.ia | Deck Builder + Teste IA</title>
+    <link rel="icon" type="image/png" href="./assets/logo/logo_pocketia.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -17,7 +18,10 @@
     <header class="hero">
       <div class="hero-content">
         <div class="hero-topline">
-          <h1>Pocket.ia</h1>
+          <div class="site-brand">
+            <img class="site-logo" src="./assets/logo/logo_pocketia.png" alt="" />
+            <h1>Pocket.ia</h1>
+          </div>
           <nav class="app-nav" aria-label="Navegacao principal">
             <a class="active" href="./index.html">Criar Deck</a>
             <a href="./meus-decks.html">Meus Decks</a>
@@ -123,6 +127,12 @@
           <select id="elementoFilter" class="multi-filter" multiple title="Tipo"></select>
           <select id="raridadeFilter" class="multi-filter" multiple title="Raridade"></select>
           <select id="estagioFilter" class="multi-filter" multiple title="Estagio"></select>
+          <select id="tagFilter" class="multi-filter" multiple title="Tag">
+            <option value="arceus">Arceus</option>
+            <option value="futurista">Futurista</option>
+            <option value="ancestral">Ancestral</option>
+            <option value="equipe-rocket">Equipe Rocket</option>
+          </select>
           <select id="expansaoFilter" class="multi-filter" multiple title="Expansao"></select>
 
           <select id="fraquezaFilter" class="multi-filter" multiple title="Fraqueza"></select>
@@ -173,6 +183,8 @@
               <option value="exp-num">Ordem: expansao + numero</option>
               <option value="nome">Ordem: nome</option>
               <option value="numero-exp">Ordem: numero da expansao</option>
+              <option value="tipo">Ordem: tipo</option>
+              <option value="raridade">Ordem: raridade</option>
               <option value="hp">Ordem: vida</option>
               <option value="ataque">Ordem: ataque</option>
             </select>
@@ -187,6 +199,14 @@
           <label class="image-only-toggle">
             <input id="favoriteOnlyToggle" type="checkbox" />
             Somente favoritas
+          </label>
+          <label class="image-only-toggle">
+            <input id="availableOnlyToggle" type="checkbox" />
+            Somente disponíveis
+          </label>
+          <label class="image-only-toggle">
+            <input id="wantedOnlyToggle" type="checkbox" />
+            Somente desejadas
           </label>
         </div>
 
@@ -208,7 +228,10 @@
         <h2 id="metaDeckModalTitle" class="meta-deck-modal-title"></h2>
         <div id="metaDeckModalGrid" class="meta-deck-modal-grid"></div>
         <div class="meta-deck-modal-actions">
-          <button type="button" id="metaDeckModalLoadBtn" class="meta-deck-modal-load">Carregar no Seu Deck</button>
+          <button type="button" id="metaDeckModalQrBtn" class="deck-qr-fab meta-deck-modal-qr" aria-label="Abrir QR Code deste deck" title="QR Code">
+            <span class="deck-qr-fab-icon" aria-hidden="true"></span>
+          </button>
+          <button type="button" id="metaDeckModalLoadBtn" class="meta-deck-modal-load">Copiar</button>
         </div>
       </div>
     </div>
