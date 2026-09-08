@@ -3,7 +3,6 @@ const deck = [];
 const maxDeck = 20;
 const maxCopies = 2;
 let renderToken = 0;
-const FAVORITES_KEY = "pocketia_favorites_v1";
 const DECK_QUERY_PARAM = "deck";
 let metaDecks = [];
 const favorites = new Set();
@@ -78,7 +77,7 @@ const el = {
   formatoFilter: document.getElementById("formatoFilter"),
   sortField: document.getElementById("sortField"),
   sortDir: document.getElementById("sortDir"),
-  imageOnlyToggle: document.getElementById("imageOnlyToggle"),
+  cardLayoutControls: document.getElementById("cardLayoutControls"),
   favoriteOnlyToggle: document.getElementById("favoriteOnlyToggle"),
   availableOnlyToggle: document.getElementById("availableOnlyToggle"),
   wantedOnlyToggle: document.getElementById("wantedOnlyToggle"),
@@ -93,7 +92,7 @@ function canInit() {
   const required = [
     "cardsGrid","deckList","deckCount","deckEnergyOptions","deckQrBtn","saveDeckBtn","clearDeckBtn","deckQrModal","deckQrModalTitle","deckQrImage","deckQrNote","deckQrShareBtn","deckCardModal","deckCardModalTitle","deckCardModalImage","simResults","loadStatus","searchInput","tipoFilter","elementoFilter",
     "raridadeFilter","estagioFilter","tagFilter","expansaoFilter","fraquezaFilter","habilidadeFilter",
-    "recuoFilter","recuoMinLabel","recuoMaxLabel","vidaSlider","ataqueSlider","vidaMinLabel","vidaMaxLabel","ataqueMinLabel","ataqueMaxLabel","custoAtaqueSlider","custoAtaqueMinLabel","custoAtaqueMaxLabel","formatoFilter","sortField","sortDir","imageOnlyToggle",
+    "recuoFilter","recuoMinLabel","recuoMaxLabel","vidaSlider","ataqueSlider","vidaMinLabel","vidaMaxLabel","ataqueMinLabel","ataqueMaxLabel","custoAtaqueSlider","custoAtaqueMinLabel","custoAtaqueMaxLabel","formatoFilter","sortField","sortDir","cardLayoutControls",
     "favoriteOnlyToggle","availableOnlyToggle","wantedOnlyToggle","attackEnergyFilter","mostUsedList","metaDecksList",
     "metaDeckModal","metaDeckModalTitle","metaDeckModalGrid","metaDeckModalLoadBtn","metaDeckModalQrBtn",
     "simCount","aiProfile","runSimBtn"
@@ -595,6 +594,15 @@ function clearDeck() {
   renderDeck();
 }
 
+function persistDeckDraft() {
+  if (!window.PocketiaWorkspace) return;
+  if (!deck.length) {
+    window.PocketiaWorkspace.clearDeckDraft();
+    return;
+  }
+  window.PocketiaWorkspace.saveDeckDraft(deck, deckEnergyCodes());
+}
+
 function saveCurrentDeck() {
   if (!deck.length || !window.PocketiaWorkspace) return;
   const suggestedName = `Meu Deck ${new Date().toLocaleDateString("pt-BR")}`;
@@ -610,25 +618,15 @@ function saveCurrentDeck() {
     salvoEm: new Date().toISOString()
   });
   window.PocketiaWorkspace.saveSavedDecks(savedDecks);
-  alert("Deck salvo nesta sessao do navegador.");
+  alert("Deck salvo neste navegador.");
 }
 
-function loadDeckFromUrl() {
-  const params = new URLSearchParams(window.location.search);
-  const raw = String(params.get(DECK_QUERY_PARAM) || "").trim();
-  if (!raw) return;
-
-  const ids = raw
-    .split(",")
-    .map((value) => String(value || "").trim())
-    .filter(Boolean)
-    .slice(0, maxDeck);
-
-  if (!ids.length) return;
-
+function applyDeckState(ids, energyCodes = []) {
   const nextDeck = [];
   const copies = new Map();
-  for (const id of ids) {
+  for (const rawId of Array.isArray(ids) ? ids.slice(0, maxDeck) : []) {
+    const id = String(rawId || "").trim();
+    if (!id) continue;
     const card = cards.find((entry) => String(entry.id) === id);
     if (!card) continue;
     const count = copies.get(id) || 0;
@@ -637,18 +635,32 @@ function loadDeckFromUrl() {
     nextDeck.push(id);
   }
 
-  if (!nextDeck.length) return;
+  if (!nextDeck.length) return false;
   deck.length = 0;
   deck.push(...nextDeck);
 
-  const energyRaw = String(params.get("energy") || "");
   deckEnergySelection.clear();
-  energyRaw
-    .split(",")
+  (Array.isArray(energyCodes) ? energyCodes : [])
     .map(Number)
     .filter((code) => code >= 1 && code <= 8)
     .slice(0, 3)
     .forEach((code) => deckEnergySelection.add(code));
+  return true;
+}
+
+function loadDeckFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+  const raw = String(params.get(DECK_QUERY_PARAM) || "").trim();
+  if (!raw) return false;
+  const ids = raw.split(",");
+  const energyCodes = String(params.get("energy") || "").split(",");
+  return applyDeckState(ids, energyCodes);
+}
+
+function loadDeckDraft() {
+  if (!window.PocketiaWorkspace) return false;
+  const draft = window.PocketiaWorkspace.getDeckDraft();
+  return applyDeckState(draft.cards, draft.energies);
 }
 
 function getMetaDeckPrincipalCard(def) {
@@ -1109,10 +1121,7 @@ function getCopiesInDeck(cardId) {
 
 function loadFavorites() {
   try {
-    const raw = localStorage.getItem(FAVORITES_KEY);
-    if (!raw) return;
-    const parsed = JSON.parse(raw);
-    if (!Array.isArray(parsed)) return;
+    const parsed = window.PocketiaWorkspace?.getFavorites() || [];
     favorites.clear();
     parsed.forEach((id) => favorites.add(String(id)));
   } catch (error) {
@@ -1122,7 +1131,7 @@ function loadFavorites() {
 
 function saveFavorites() {
   try {
-    localStorage.setItem(FAVORITES_KEY, JSON.stringify([...favorites]));
+    window.PocketiaWorkspace?.saveFavorites([...favorites]);
   } catch (error) {
     console.warn("Nao foi possivel salvar favoritos:", error);
   }
@@ -1171,6 +1180,12 @@ function renderCards() {
   renderToken++;
   const thisRender = renderToken;
   const filtered = getFilteredCards();
+  const selectedLayout = el.cardLayoutControls?.querySelector("[data-card-layout].active")?.dataset.cardLayout;
+  const cardLayout = ["details-bottom", "image-only", "image-compact", "details-side"].includes(selectedLayout)
+    ? selectedLayout
+    : "details-bottom";
+  const imageOnly = cardLayout === "image-only" || cardLayout === "image-compact";
+  el.cardsGrid.className = `cards-grid cards-layout-${cardLayout}`;
   el.cardsGrid.innerHTML = "";
   el.loadStatus.textContent = `Mostrando 0 de ${filtered.length} cartas...`;
 
@@ -1193,7 +1208,6 @@ function renderCards() {
     for (; index < end; index++) {
       const card = filtered[index];
       const imageSrc = getCardImageSrc(card);
-      const imageOnly = Boolean(el.imageOnlyToggle?.checked);
       const ataques = cardAttacks(card);
       const custos = ataques.map(attackCost);
       const danos = ataques.map(attackDamageLabel);
@@ -1204,7 +1218,14 @@ function renderCards() {
         ? `<li class="card-tags-row"><strong>Tags:</strong><span class="card-tag-list">${specialTags.map((tag) => `<span class="card-tag">${tag}</span>`).join("")}</span></li>`
         : "";
       const cardEl = document.createElement("article");
-      cardEl.className = `card card-clickable ${imageOnly ? "image-only" : ""}`;
+      const layoutClass = cardLayout === "image-compact"
+        ? "image-only image-compact"
+        : cardLayout === "image-only"
+          ? "image-only"
+          : cardLayout === "details-side"
+            ? "details-side"
+            : "";
+      cardEl.className = `card card-clickable ${layoutClass}`.trim();
       cardEl.dataset.id = String(card.id);
       const fav = isFavorite(card.id);
       const isAvailable = isCardInTradeList("available", card.id);
@@ -1212,39 +1233,33 @@ function renderCards() {
       cardEl.innerHTML = `
         <div class="card-actions">
           <button class="card-fav ${fav ? "active" : ""}" data-favorite="${card.id}" title="${fav ? "Remover dos favoritos" : "Adicionar aos favoritos"}" aria-label="${fav ? "Remover dos favoritos" : "Adicionar aos favoritos"}">
-            <svg class="card-status-icon fav-icon" viewBox="0 0 24 24" aria-hidden="true">
-              <path d="m12 2.8 2.85 5.78 6.38.93-4.62 4.5 1.09 6.35-5.7-3-5.7 3 1.09-6.35-4.62-4.5 6.38-.93L12 2.8Z"/>
-            </svg>
+            <i class="fa-regular fa-star card-status-fa status-icon-off" aria-hidden="true"></i>
+            <i class="fa-solid fa-star card-status-fa status-icon-on" aria-hidden="true"></i>
           </button>
           <button type="button" class="card-trade-button wanted ${isWanted ? "active" : ""}" data-trade-kind="wanted" data-trade-card="${card.id}" aria-pressed="${isWanted}" title="${isWanted ? "Remover das desejadas" : "Marcar como desejada"}" aria-label="${isWanted ? "Remover das desejadas" : "Marcar como desejada"}">
-            <svg class="card-status-icon wanted-icon" viewBox="0 0 24 24" aria-hidden="true">
-              <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78L12 21.23l8.84-8.84a5.5 5.5 0 0 0 0-7.78Z"/>
-            </svg>
+            <i class="fa-regular fa-heart card-status-fa status-icon-off" aria-hidden="true"></i>
+            <i class="fa-solid fa-heart card-status-fa status-icon-on" aria-hidden="true"></i>
           </button>
-          <button type="button" class="card-trade-button available ${isAvailable ? "active" : ""}" data-trade-kind="available" data-trade-card="${card.id}" aria-pressed="${isAvailable}" title="${isAvailable ? "Remover das disponiveis" : "Marcar como disponivel"}" aria-label="${isAvailable ? "Remover das disponiveis" : "Marcar como disponivel"}">
-            <svg class="card-status-icon available-icon" viewBox="0 0 24 24" aria-hidden="true">
-              <circle class="available-icon-bg" cx="12" cy="12" r="9"/>
-              <path class="available-icon-check" d="m7.5 12 3 3 6-7"/>
-            </svg>
+          <button type="button" class="card-trade-button available ${isAvailable ? "active" : ""}" data-trade-kind="available" data-trade-card="${card.id}" aria-pressed="${isAvailable}" title="${isAvailable ? "Remover das cartas para troca" : "Marcar para troca"}" aria-label="${isAvailable ? "Remover das cartas para troca" : "Marcar para troca"}">
+            <i class="fa-solid fa-rotate card-status-fa available-icon" aria-hidden="true"></i>
           </button>
           <button class="card-expand" data-preview="${card.id}" title="Ampliar carta" aria-label="Ampliar carta">
-            <svg class="expand-icon" viewBox="0 0 24 24" aria-hidden="true">
-              <path d="M15 3h6v6M21 3l-7 7M9 21H3v-6M3 21l7-7"/>
-            </svg>
+            <i class="fa-solid fa-expand card-status-fa expand-icon" aria-hidden="true"></i>
           </button>
         </div>
         <img loading="lazy" src="${imageSrc}" alt="${card.nome}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
         <ul class="card-info-list">
           <li><strong>Nome:</strong> ${card.nome}</li>
-          <li><strong>Estagio:</strong> ${card.estagio}</li>
           <li><strong>Categoria:</strong> ${card.categoria || "-"}</li>
+          <li><strong>Estagio:</strong> ${card.estagio}</li>
           <li><strong>Tipo:</strong> ${card.tipo || "-"}</li>
           <li><strong>Vida:</strong> ${card.hp}</li>
           <li><strong>Custo:</strong> ${custoText}</li>
           <li><strong>Dano:</strong> ${danoText}</li>
-          <li><strong>Fraqueza:</strong> ${card.fraqueza || "-"}</li>
           <li><strong>Recuo:</strong> ${card.recuo}</li>
+          <li><strong>Raridade:</strong> ${card.raridade || "-"}</li>
           <li><strong>Pacote:</strong> ${card.pacote || card.expansao}</li>
+          <li class="card-code-row"><strong>Codigo:</strong> ${String(card.id).toUpperCase()}</li>
           ${tagsMarkup}
         </ul>
       `;
@@ -1283,6 +1298,7 @@ function deckStats() {
 function renderDeck() {
   el.deckList.innerHTML = "";
   el.deckCount.textContent = String(deck.length);
+  persistDeckDraft();
   updateDeckActionButtons();
   if (!deck.length) {
     if (deckQrOpen) closeDeckQrModal();
@@ -1616,8 +1632,19 @@ function init() {
 
   [
     el.searchInput, el.tipoFilter, el.elementoFilter, el.raridadeFilter, el.estagioFilter, el.tagFilter, el.expansaoFilter, el.fraquezaFilter, el.attackEnergyFilter,
-    el.habilidadeFilter, el.formatoFilter, el.sortField, el.sortDir, el.imageOnlyToggle, el.favoriteOnlyToggle, el.availableOnlyToggle, el.wantedOnlyToggle
+    el.habilidadeFilter, el.formatoFilter, el.sortField, el.sortDir, el.favoriteOnlyToggle, el.availableOnlyToggle, el.wantedOnlyToggle
   ].filter(Boolean).forEach((node) => node.addEventListener("input", renderCards));
+
+  el.cardLayoutControls?.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-card-layout]");
+    if (!button) return;
+    el.cardLayoutControls.querySelectorAll("[data-card-layout]").forEach((option) => {
+      const active = option === button;
+      option.classList.toggle("active", active);
+      option.setAttribute("aria-pressed", String(active));
+    });
+    renderCards();
+  });
 
   bindInputLabels();
   bindCustomMultiSelects();
@@ -1631,7 +1658,7 @@ function init() {
       tradeButton.classList.toggle("active", isActive);
       tradeButton.setAttribute("aria-pressed", String(isActive));
       const tradeLabel = kind === "available"
-        ? (isActive ? "Remover das disponiveis" : "Marcar como disponivel")
+        ? (isActive ? "Remover das cartas para troca" : "Marcar para troca")
         : (isActive ? "Remover das desejadas" : "Marcar como desejada");
       tradeButton.title = tradeLabel;
       tradeButton.setAttribute("aria-label", tradeLabel);
@@ -1761,6 +1788,7 @@ function init() {
     if (!Number.isInteger(energyCode)) return;
     if (input.checked) deckEnergySelection.add(energyCode);
     else deckEnergySelection.delete(energyCode);
+    persistDeckDraft();
     updateDeckActionButtons();
   });
   el.clearDeckBtn?.addEventListener("click", clearDeck);
@@ -1779,7 +1807,7 @@ function init() {
 
   el.runSimBtn?.addEventListener("click", renderSimulation);
 
-  loadDeckFromUrl();
+  if (!loadDeckFromUrl()) loadDeckDraft();
   renderCards();
   renderDeck();
   renderMetaDecks();

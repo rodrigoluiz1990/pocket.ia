@@ -5296,7 +5296,7 @@
     "sourceId": "h0hwh5yrfofmlig-chingling",
     "categoria": "Pokemon",
     "nome": "Chingling",
-    "estagio": "Basico",
+    "estagio": "Baby",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
@@ -5319,6 +5319,7 @@
     "formato": "noex",
     "mega": false,
     "tags": [
+      "baby",
       "basic"
     ],
     "expansao": "Mega Ascensao (B1)",
@@ -10432,8 +10433,8 @@
     "sourceId": "wffkwolgaujsd19-plume-fossil",
     "categoria": "Treinador",
     "nome": "Fóssil Pluma",
-    "estagio": "item",
-    "subtipo": "item",
+    "estagio": "fossil",
+    "subtipo": "fossil",
     "evolucao": "",
     "tipo": "Neutro",
     "hp": 0,
@@ -10446,7 +10447,6 @@
     "formato": "noex",
     "mega": false,
     "tags": [
-      "item",
       "fossil"
     ],
     "expansao": "Mega Ascensao (B1)",
@@ -10511,8 +10511,8 @@
     "sourceId": "wx8whbrw582yea7-cover-fossil",
     "categoria": "Treinador",
     "nome": "Fóssil Casca",
-    "estagio": "item",
-    "subtipo": "item",
+    "estagio": "fossil",
+    "subtipo": "fossil",
     "evolucao": "",
     "tipo": "Neutro",
     "hp": 0,
@@ -10525,7 +10525,6 @@
     "formato": "noex",
     "mega": false,
     "tags": [
-      "item",
       "fossil"
     ],
     "expansao": "Mega Ascensao (B1)",
@@ -10551,8 +10550,8 @@
     "sourceId": "4xzw234j166ocnw-flame-patch",
     "categoria": "Treinador",
     "nome": "Fragmento Incendiário",
-    "estagio": "ferramenta",
-    "subtipo": "ferramenta",
+    "estagio": "item",
+    "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
     "hp": 0,
@@ -10565,7 +10564,7 @@
     "formato": "noex",
     "mega": false,
     "tags": [
-      "ferramenta"
+      "item"
     ],
     "expansao": "Mega Ascensao (B1)",
     "numero": "217 / 331",
@@ -16111,8 +16110,8 @@
     "sourceId": "efgqaipczf7wpiw-flame-patch",
     "categoria": "Treinador",
     "nome": "Fragmento Incendiário",
-    "estagio": "ferramenta",
-    "subtipo": "ferramenta",
+    "estagio": "item",
+    "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
     "hp": 0,
@@ -16125,7 +16124,7 @@
     "formato": "noex",
     "mega": false,
     "tags": [
-      "ferramenta"
+      "item"
     ],
     "expansao": "Mega Ascensao (B1)",
     "numero": "331 / 331",

@@ -25,7 +25,7 @@
             <a href="./trocas.html">Trocas</a>
           </nav>
         </div>
-        <p class="subtitle">Decks salvos durante esta sessao do navegador.</p>
+        <p class="subtitle">Decks salvos neste navegador.</p>
       </div>
     </header>
     <main class="workspace-layout">
@@ -35,6 +35,18 @@
           <p id="savedDeckStatus">Carregando decks salvos...</p>
         </div>
         <div id="savedDeckList" class="saved-deck-grid"></div>
+      </section>
+      <section class="panel workspace-panel">
+        <div class="panel-header">
+          <h2>Backup dos Dados</h2>
+          <p>Exporte seus dados para um arquivo ou restaure um backup anterior.</p>
+        </div>
+        <div class="workspace-actions backup-actions">
+          <button id="exportBackupBtn" type="button">Exportar Backup</button>
+          <button id="importBackupBtn" type="button">Importar Backup</button>
+          <input id="backupFileInput" class="backup-file-input" type="file" accept="application/json,.json" />
+        </div>
+        <p id="backupStatus" class="workspace-status" role="status" aria-live="polite"></p>
       </section>
     </main>
     <script src="./workspace.js"></script>

@@ -7004,8 +7004,8 @@
     "sourceId": "4ees957ebjty2b3-jaw-fossil",
     "categoria": "Treinador",
     "nome": "Fóssil de Mandíbula",
-    "estagio": "item",
-    "subtipo": "item",
+    "estagio": "fossil",
+    "subtipo": "fossil",
     "evolucao": "",
     "tipo": "Neutro",
     "hp": 0,
@@ -7018,7 +7018,6 @@
     "formato": "noex",
     "mega": false,
     "tags": [
-      "item",
       "fossil"
     ],
     "expansao": "Desfile Onirico (B2)",
@@ -7083,8 +7082,8 @@
     "sourceId": "kltexowsl7hz92c-sail-fossil",
     "categoria": "Treinador",
     "nome": "Fóssil de Vela",
-    "estagio": "item",
-    "subtipo": "item",
+    "estagio": "fossil",
+    "subtipo": "fossil",
     "evolucao": "",
     "tipo": "Neutro",
     "hp": 0,
@@ -7097,7 +7096,6 @@
     "formato": "noex",
     "mega": false,
     "tags": [
-      "item",
       "fossil"
     ],
     "expansao": "Desfile Onirico (B2)",
@@ -9921,7 +9919,7 @@
     "sourceId": "zhhfxl6861ihwbc-magby",
     "categoria": "Pokemon",
     "nome": "Magby",
-    "estagio": "Básico",
+    "estagio": "Baby",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
@@ -9944,6 +9942,7 @@
     "formato": "noex",
     "mega": false,
     "tags": [
+      "baby",
       "basic"
     ],
     "expansao": "Desfile Onirico (B2)",
@@ -10114,7 +10113,7 @@
     "sourceId": "wjzm3x6470w0frl-mantyke",
     "categoria": "Pokemon",
     "nome": "Mantyke",
-    "estagio": "Básico",
+    "estagio": "Baby",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
@@ -10137,6 +10136,7 @@
     "formato": "noex",
     "mega": false,
     "tags": [
+      "baby",
       "basic"
     ],
     "expansao": "Desfile Onirico (B2)",
@@ -10260,7 +10260,7 @@
     "sourceId": "jvh7l833jcfh9zv-pichu",
     "categoria": "Pokemon",
     "nome": "Pichu",
-    "estagio": "Básico",
+    "estagio": "Baby",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
@@ -10283,6 +10283,7 @@
     "formato": "noex",
     "mega": false,
     "tags": [
+      "baby",
       "basic"
     ],
     "expansao": "Desfile Onirico (B2)",
@@ -10742,7 +10743,7 @@
     "sourceId": "x9k4a970a2hn97w-tyrogue",
     "categoria": "Pokemon",
     "nome": "Tyrogue",
-    "estagio": "Básico",
+    "estagio": "Baby",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
@@ -10765,6 +10766,7 @@
     "formato": "noex",
     "mega": false,
     "tags": [
+      "baby",
       "basic"
     ],
     "expansao": "Desfile Onirico (B2)",

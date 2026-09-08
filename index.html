@@ -11,6 +11,7 @@
       href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Sora:wght@600;700;800&display=swap"
       rel="stylesheet"
     />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nouislider@15.8.1/dist/nouislider.min.css" />
     <link rel="stylesheet" href="./styles.css" />
   </head>
@@ -192,21 +193,43 @@
           </div>
         </div>
         <div class="toggle-row">
-          <label class="image-only-toggle">
-            <input id="imageOnlyToggle" type="checkbox" />
-            Mostrar somente imagens
-          </label>
-          <label class="image-only-toggle">
+          <div id="cardLayoutControls" class="card-layout-control" role="group" aria-label="Layout das cartas">
+            <span>Layout das cartas</span>
+            <div class="card-layout-buttons">
+              <button type="button" class="card-layout-button active" data-card-layout="image-only" aria-pressed="true" aria-label="Somente imagens" title="Somente imagens">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="2.5" width="14" height="19" rx="2"/><circle cx="14.5" cy="8" r="1.5"/><path d="m7.5 18 3.5-4 2.5 2.5 2-2 2 3.5"/></svg>
+              </button>
+              <button type="button" class="card-layout-button" data-card-layout="image-compact" aria-pressed="false" aria-label="Imagens compactas" title="Imagens compactas">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="8" rx="1"/><rect x="14" y="3" width="7" height="8" rx="1"/><rect x="3" y="14" width="7" height="8" rx="1"/><rect x="14" y="14" width="7" height="8" rx="1"/></svg>
+              </button>
+              <button type="button" class="card-layout-button" data-card-layout="details-bottom" aria-pressed="false" aria-label="Dados abaixo" title="Dados abaixo">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="2.5" width="14" height="9" rx="1.5"/><path d="M6 15h12M6 18h12M6 21h8"/></svg>
+              </button>
+              <button type="button" class="card-layout-button" data-card-layout="details-side" aria-pressed="false" aria-label="Dados ao lado" title="Dados ao lado">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="3" width="8" height="18" rx="1.5"/><path d="M13.5 6h8M13.5 10h8M13.5 14h8M13.5 18h5"/></svg>
+              </button>
+            </div>
+          </div>
+          <label class="image-only-toggle card-state-filter favorite-state-filter">
             <input id="favoriteOnlyToggle" type="checkbox" />
+            <span class="filter-state-icon" aria-hidden="true">
+              <i class="fa-regular fa-star status-icon-off"></i>
+              <i class="fa-solid fa-star status-icon-on"></i>
+            </span>
             Somente favoritas
           </label>
-          <label class="image-only-toggle">
-            <input id="availableOnlyToggle" type="checkbox" />
-            Somente disponíveis
-          </label>
-          <label class="image-only-toggle">
+          <label class="image-only-toggle card-state-filter wanted-state-filter">
             <input id="wantedOnlyToggle" type="checkbox" />
+            <span class="filter-state-icon" aria-hidden="true">
+              <i class="fa-regular fa-heart status-icon-off"></i>
+              <i class="fa-solid fa-heart status-icon-on"></i>
+            </span>
             Somente desejadas
+          </label>
+          <label class="image-only-toggle card-state-filter available-state-filter">
+            <input id="availableOnlyToggle" type="checkbox" />
+            <span class="filter-state-icon" aria-hidden="true"><i class="fa-solid fa-rotate"></i></span>
+            Somente para troca
           </label>
         </div>
 

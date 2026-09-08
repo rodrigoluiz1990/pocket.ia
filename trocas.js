@@ -167,7 +167,7 @@ function renderSearch() {
   cards.filter((card) => card.nome.toLocaleLowerCase("pt-BR").includes(query) || String(card.id).toLocaleLowerCase("pt-BR").includes(query)).slice(0, 20).forEach((card) => {
     const row = document.createElement("article");
     row.className = "trade-search-card";
-    row.innerHTML = `<img src="${card.imageLocal}" alt="${card.nome}" onerror="this.remove()" /><div class="trade-search-content"><div class="trade-search-info"><strong>${card.nome}</strong><div class="trade-search-meta"><small>${String(card.id).toUpperCase()}</small><span>${card.raridade || ""}</span></div></div><div class="trade-search-actions"><button type="button" data-add-available="${card.id}">+ Disponível</button><button type="button" data-add-wanted="${card.id}">+ Desejo</button></div></div>`;
+    row.innerHTML = `<img src="${card.imageLocal}" alt="${card.nome}" onerror="this.remove()" /><div class="trade-search-content"><div class="trade-search-info"><strong>${card.nome}</strong><div class="trade-search-meta"><small>${String(card.id).toUpperCase()}</small><span>${card.raridade || ""}</span></div></div><div class="trade-search-actions"><button type="button" data-add-available="${card.id}">+ Para troca</button><button type="button" data-add-wanted="${card.id}">+ Desejo</button></div></div>`;
     results.appendChild(row);
   });
 }
@@ -246,7 +246,7 @@ document.getElementById("saveComboBtn").addEventListener("click", () => {
   tradeState.combos.unshift({ id: PocketiaWorkspace.nextId("trade"), nome, offerIds, wantedIds });
   document.getElementById("comboName").value = "";
   saveState(); renderAll();
-  setComboStatus("Combo salvo nesta sessao.", "success");
+  setComboStatus("Combo salvo neste navegador.", "success");
 });
 
 function loadCardImage(source) {

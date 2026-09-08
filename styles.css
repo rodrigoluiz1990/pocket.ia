@@ -473,10 +473,66 @@ button:hover {
   margin: 0;
 }
 
+.card-layout-control {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--muted);
+}
+
+.card-layout-control > span {
+  white-space: nowrap;
+}
+
+.card-layout-buttons {
+  display: inline-flex;
+  gap: 4px;
+  padding: 3px;
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  border-radius: 12px;
+  background: var(--bg-soft);
+  box-shadow: inset 2px 2px 5px #d0dbe8, inset -2px -2px 5px #f9fcff;
+}
+
+.card-layout-button {
+  width: 36px;
+  height: 34px;
+  display: grid;
+  place-items: center;
+  padding: 7px;
+  border: 0;
+  border-radius: 9px;
+  background: transparent;
+  color: #647a91;
+  box-shadow: none;
+}
+
+.card-layout-button:hover {
+  transform: none;
+  background: rgba(114, 210, 234, 0.16);
+}
+
+.card-layout-button.active {
+  color: #fff;
+  background: linear-gradient(180deg, var(--accent), var(--accent-2));
+  box-shadow: 0 2px 5px rgba(69, 126, 153, 0.24);
+}
+
+.card-layout-button svg {
+  width: 20px;
+  height: 20px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
 .sort-inline {
   display: grid;
-  grid-template-columns: 1fr 160px;
+  grid-template-columns: minmax(0, 360px) 160px;
   gap: 10px;
+  justify-content: start;
 }
 
 .strong-select {
@@ -502,9 +558,76 @@ button:hover {
   grid-column: 1 / span 2;
 }
 
+.single-dd[data-for="sortField"] {
+  width: 100%;
+  max-width: 360px;
+  justify-self: start;
+}
+
+.single-dd[data-for="sortDir"] {
+  width: 160px;
+}
+
 .image-only-toggle input {
   width: 16px;
   height: 16px;
+}
+
+.card-state-filter {
+  position: relative;
+  cursor: pointer;
+}
+
+.card-state-filter input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.filter-state-icon {
+  width: 30px;
+  height: 30px;
+  display: grid;
+  place-items: center;
+  flex: 0 0 auto;
+  border: 2px solid #d7e6ee;
+  border-radius: 999px;
+  background: rgba(247, 251, 255, 0.85);
+  color: #4f657a;
+  box-shadow: -2px -2px 6px var(--light-shadow), 2px 2px 6px var(--dark-shadow);
+}
+
+.filter-state-icon > i {
+  grid-column: 1;
+  grid-row: 1;
+  font-size: 16px;
+}
+
+.card-state-filter input:focus-visible + .filter-state-icon {
+  outline: 2px solid var(--accent-2);
+  outline-offset: 2px;
+}
+
+.card-state-filter input:checked + .filter-state-icon .status-icon-off {
+  display: none;
+}
+
+.card-state-filter input:checked + .filter-state-icon .status-icon-on {
+  display: inline-block;
+}
+
+.favorite-state-filter input:checked + .filter-state-icon {
+  color: #e4a600;
+}
+
+.wanted-state-filter input:checked + .filter-state-icon {
+  color: #ef4f8b;
+}
+
+.available-state-filter input:checked + .filter-state-icon {
+  color: #22a86f;
 }
 
 .cards-grid {
@@ -553,10 +676,21 @@ button:hover {
   display: grid;
   gap: 4px;
   font-size: 0.9rem;
+  font-family: inherit;
+  font-weight: 400;
 }
 
 .card-info-list li {
   line-height: 1.35;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+.card-info-list li strong {
+  font: inherit;
+  font-weight: 700;
 }
 
 .card-info-list .card-tags-row {
@@ -596,6 +730,84 @@ button:hover {
   margin-bottom: 0;
 }
 
+.cards-grid.cards-layout-image-compact {
+  grid-template-columns: repeat(auto-fill, minmax(112px, 140px));
+}
+
+.card.image-compact {
+  width: 100%;
+}
+
+.card.image-compact img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 63 / 88;
+  object-fit: contain;
+}
+
+.cards-grid.cards-layout-details-side {
+  grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+  gap: 12px;
+}
+
+.card.details-side {
+  width: 100%;
+  max-width: none;
+  display: grid;
+  grid-template-columns: minmax(150px, 0.9fr) minmax(180px, 1fr);
+  align-items: start;
+  gap: 12px;
+}
+
+.card.details-side > img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 63 / 88;
+  grid-column: 1;
+  grid-row: 1;
+  margin: 0;
+  object-fit: contain;
+}
+
+.card.details-side .card-actions {
+  position: relative;
+  grid-column: 1;
+  grid-row: 1;
+  align-self: start;
+  justify-self: end;
+  top: 8px;
+  right: 8px;
+}
+
+.card.details-side .card-info-list {
+  width: 100%;
+  grid-column: 2;
+  grid-row: 1;
+  align-self: stretch;
+  margin: 0;
+  padding: 10px 10px 10px 28px;
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  border-radius: 12px;
+  background: rgba(225, 234, 244, 0.7);
+  box-shadow: inset 2px 2px 5px #d0dbe8, inset -2px -2px 5px #f9fcff;
+}
+
+@media (max-width: 520px) {
+  .card-layout-control {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .cards-grid.cards-layout-details-side {
+    grid-template-columns: 1fr;
+  }
+
+  .card.details-side {
+    grid-template-columns: minmax(112px, 42%) minmax(0, 1fr);
+    gap: 8px;
+  }
+}
+
 .card-actions {
   position: absolute;
   top: 8px;
@@ -627,15 +839,10 @@ button:hover {
   transform: none;
 }
 
-.card-status-icon {
-  width: 15px;
-  height: 15px;
-  display: block;
-  fill: none;
-  stroke: #4f657a;
-  stroke-width: 1.8;
-  stroke-linecap: round;
-  stroke-linejoin: round;
+.card-status-fa {
+  color: #4f657a;
+  font-size: 16px;
+  line-height: 1;
 }
 
 .card-fav.active,
@@ -645,38 +852,30 @@ button:hover {
   border-color: #d7e6ee;
 }
 
-.card-fav.active .fav-icon {
-  fill: #f5bd38;
-  stroke: #9b6b00;
+.status-icon-on {
+  display: none;
 }
 
-.card-trade-button.wanted.active .wanted-icon {
-  fill: #ff6ca5;
-  stroke: #a93060;
+.card-fav.active .status-icon-off,
+.card-trade-button.wanted.active .status-icon-off {
+  display: none;
 }
 
-.available-icon-bg {
-  fill: none;
+.card-fav.active .status-icon-on,
+.card-trade-button.wanted.active .status-icon-on {
+  display: inline-block;
 }
 
-.card-trade-button.available.active .available-icon-bg {
-  fill: #35b77d;
-  stroke: #16845a;
+.card-fav.active .status-icon-on {
+  color: #e4a600;
 }
 
-.card-trade-button.available.active .available-icon-check {
-  stroke: #fff;
+.card-trade-button.wanted.active .status-icon-on {
+  color: #ef4f8b;
 }
 
-.expand-icon {
-  width: 15px;
-  height: 15px;
-  display: block;
-  fill: none;
-  stroke: #4f657a;
-  stroke-width: 2;
-  stroke-linecap: round;
-  stroke-linejoin: round;
+.card-trade-button.available.active .available-icon {
+  color: #22a86f;
 }
 
 .side {
@@ -1095,7 +1294,7 @@ button:hover {
   }
 
   .sort-inline {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 360px) 160px;
   }
 
   .toggle-row {
@@ -1593,6 +1792,19 @@ body.meta-modal-open {
   min-height: 1.2em;
   margin: 10px 0 0;
   color: #5f7389;
+}
+
+.workspace-status.success {
+  color: #287c73;
+  font-weight: 700;
+}
+
+.workspace-status.error {
+  color: var(--danger);
+}
+
+.backup-file-input {
+  display: none;
 }
 
 .danger-button {

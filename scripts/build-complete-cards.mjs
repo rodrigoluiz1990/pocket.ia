@@ -36,6 +36,12 @@ const stageMap = {
   ex: "Ex"
 };
 
+const babyPokemonNames = new Set([
+  "pichu", "cleffa", "igglybuff", "togepi", "tyrogue", "smoochum", "elekid", "magby",
+  "azurill", "wynaut", "budew", "chingling", "bonsly", "mime jr.", "happiny", "munchlax",
+  "riolu", "mantyke", "toxel"
+]);
+
 const rarityLabelPt = {
   C: "Comum",
   U: "Incomum",
@@ -119,6 +125,15 @@ function normalizeTrainerSubtype(value) {
   return "";
 }
 
+function isBabyCard(card) {
+  if (!babyPokemonNames.has(normalizeKey(card?.nome))) return false;
+  const attacks = Array.isArray(card?.ataque) ? card.ataque : [];
+  return attacks.length > 0 && attacks.every((attack) => {
+    const costs = Array.isArray(attack?.custoataque) ? attack.custoataque : [];
+    return costs.length > 0 && costs.every((cost) => normalizeKey(cost) === "empty");
+  });
+}
+
 function isFossilCard(card) {
   const key = normalizeKey(`${card?.nome || ""} ${card?.sourceId || ""}`);
   return key.includes("fossil") || key.includes("ambar velho") || key.includes("old amber");
@@ -185,6 +200,8 @@ async function run() {
   const extraArray = Array.isArray(cardsExtra) ? cardsExtra : [];
   const setEntries = Object.values(setsPayload || {}).flat().filter(Boolean);
   const attackDamageCorrections = correctionsPayload?.attackDamage || {};
+  const stageCorrections = correctionsPayload?.stage || {};
+  const trainerSubtypeCorrections = correctionsPayload?.trainerSubtype || {};
 
   const expansionByCode = new Map(
     expansions.map((entry) => [String(entry.code || "").toUpperCase(), String(entry.name || "").trim()])
@@ -212,7 +229,7 @@ async function run() {
       String(setMetaByCode.get(code)?.name?.pt || setMetaByCode.get(code)?.name?.en || code).trim();
     const setMeta = setMetaByCode.get(code);
 
-    const mergedCards = rawCards
+    let mergedCards = rawCards
       .map((rawCard) => {
         const number = parseCardNumber(rawCard.numero);
         const key = number == null ? "" : `${code}#${number}`;
@@ -238,15 +255,22 @@ async function run() {
           categoryMap[normalizeKey(extra?.type)] ||
           (String(rawCard.tipo || "").trim() === "Pokemon" ? "Pokemon" : String(rawCard.tipo || "").trim());
 
-        const trainerSubtype = categoria === "Treinador" ? normalizeTrainerSubtype(rawCard.subtipo) : "";
-        const stage = trainerSubtype || normalizeStage(extra?.stage) || String(rawCard.estagio || "").trim();
+        const trainerSubtype = categoria === "Treinador"
+          ? isFossilCard(rawCard)
+            ? "fossil"
+            : normalizeTrainerSubtype(trainerSubtypeCorrections[key])
+              || normalizeTrainerSubtype(extra?.type)
+              || normalizeTrainerSubtype(rawCard.subtipo)
+          : "";
+        const stage = trainerSubtype
+          || normalizeStage(stageCorrections[key])
+          || (isBabyCard(rawCard) ? "Baby" : "")
+          || normalizeStage(extra?.stage)
+          || String(rawCard.estagio || "").trim();
         const nome = String(rawCard.nome || min?.name || "").trim();
         const rarityCode = String(min?.rarity || extra?.rarity || "").trim().toUpperCase();
         const formato = inferFormat(nome, stage);
         const tags = buildFilterTags(stage, formato, rawCard.tags);
-        if (categoria === "Treinador" && trainerSubtype === "item" && isFossilCard(rawCard)) {
-          tags.push("fossil");
-        }
 
         return {
           id: buildStableId(code, number ?? 0),
@@ -292,6 +316,23 @@ async function run() {
         if (aNumber !== bNumber) return aNumber - bNumber;
         return String(a.nome).localeCompare(String(b.nome), "pt-BR");
       });
+
+    // Variantes de arte compartilham o mesmo deckBuilderNr da carta-base.
+    // Propaga correcoes de estagio para evitar manter as variantes como Basico.
+    const correctedStageByDeckBuilder = new Map(
+      mergedCards
+        .filter((card) => stageCorrections[card.sourceMeta.matchKey] && card.deckBuilderNr > 0)
+        .map((card) => [card.deckBuilderNr, card.estagio])
+    );
+    mergedCards = mergedCards.map((card) => {
+      const correctedStage = correctedStageByDeckBuilder.get(card.deckBuilderNr);
+      if (!correctedStage || correctedStage === card.estagio) return card;
+      return {
+        ...card,
+        estagio: correctedStage,
+        tags: buildFilterTags(correctedStage, card.formato, [])
+      };
+    });
 
     const outDir = resolve(OUT_ROOT, series);
     const outPath = resolve(outDir, `${String(code).toLowerCase()}.json`);

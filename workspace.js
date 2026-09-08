@@ -1,22 +1,59 @@
 (function registerPocketiaWorkspace() {
   const KEYS = {
+    favorites: "pocketia_favorites_v1",
     savedDecks: "pocketia_saved_decks_v1",
     importedMetaDecks: "pocketia_imported_meta_decks_v1",
-    trades: "pocketia_trades_v1"
+    trades: "pocketia_trades_v1",
+    deckDraft: "pocketia_deck_draft_v1"
   };
 
+  function migrateSessionStorage() {
+    Object.values(KEYS).forEach((key) => {
+      try {
+        if (localStorage.getItem(key) !== null) return;
+        const legacyValue = sessionStorage.getItem(key);
+        if (legacyValue === null) return;
+        JSON.parse(legacyValue);
+        localStorage.setItem(key, legacyValue);
+        sessionStorage.removeItem(key);
+      } catch {
+        // Mantem o dado legado intacto quando o navegador bloqueia a migracao.
+      }
+    });
+  }
+
   function read(key, fallback) {
+    let value = null;
     try {
-      const value = sessionStorage.getItem(key);
-      return value ? JSON.parse(value) : fallback;
+      value = localStorage.getItem(key);
+    } catch {
+      // Tenta o armazenamento legado abaixo.
+    }
+    if (value === null) {
+      try {
+        value = sessionStorage.getItem(key);
+      } catch {
+        // O navegador pode bloquear ambos os armazenamentos.
+      }
+    }
+    if (!value) return fallback;
+    try {
+      return JSON.parse(value);
     } catch {
       return fallback;
     }
   }
 
   function write(key, value) {
-    sessionStorage.setItem(key, JSON.stringify(value));
+    try {
+      localStorage.setItem(key, JSON.stringify(value));
+      return true;
+    } catch {
+      return false;
+    }
   }
+
+  migrateSessionStorage();
 
   async function loadCards() {
     const response = await fetch("./data/consolidated/cards-adapted.json", { cache: "no-store" });
@@ -29,13 +66,22 @@
     return `${prefix}-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
   }
 
+  function getFavorites() {
+    const favorites = read(KEYS.favorites, []);
+    return Array.isArray(favorites) ? favorites.map(String) : [];
+  }
+
+  function saveFavorites(favorites) {
+    return write(KEYS.favorites, [...new Set((favorites || []).map(String))]);
+  }
+
   function getSavedDecks() {
     const decks = read(KEYS.savedDecks, []);
     return Array.isArray(decks) ? decks : [];
   }
 
   function saveSavedDecks(decks) {
-    write(KEYS.savedDecks, decks);
+    return write(KEYS.savedDecks, decks);
   }
 
   function getImportedMetaDecks() {
@@ -44,7 +90,7 @@
   }
 
   function saveImportedMetaDecks(decks) {
-    write(KEYS.importedMetaDecks, decks);
+    return write(KEYS.importedMetaDecks, decks);
   }
 
   function getTradeState() {
@@ -57,7 +103,77 @@
   }
 
   function saveTradeState(state) {
-    write(KEYS.trades, state);
+    return write(KEYS.trades, state);
+  }
+
+  function getDeckDraft() {
+    const draft = read(KEYS.deckDraft, { cards: [], energies: [] });
+    return {
+      cards: Array.isArray(draft?.cards) ? draft.cards.map(String) : [],
+      energies: Array.isArray(draft?.energies) ? draft.energies.map(Number).filter(Number.isInteger) : [],
+      updatedAt: String(draft?.updatedAt || "")
+    };
+  }
+
+  function saveDeckDraft(cards, energies) {
+    return write(KEYS.deckDraft, {
+      cards: Array.isArray(cards) ? cards.map(String) : [],
+      energies: Array.isArray(energies) ? energies.map(Number).filter(Number.isInteger) : [],
+      updatedAt: new Date().toISOString()
+    });
+  }
+
+  function clearDeckDraft() {
+    try {
+      localStorage.removeItem(KEYS.deckDraft);
+      return true;
+    } catch {
+      return false;
+    }
+  }
+
+  function createBackup() {
+    return {
+      app: "Pocket.ia",
+      version: 1,
+      exportedAt: new Date().toISOString(),
+      data: {
+        favorites: getFavorites(),
+        savedDecks: getSavedDecks(),
+        importedMetaDecks: getImportedMetaDecks(),
+        trades: getTradeState(),
+        deckDraft: getDeckDraft()
+      }
+    };
+  }
+
+  function restoreBackup(backup) {
+    if (!backup || backup.app !== "Pocket.ia" || backup.version !== 1 || !backup.data) {
+      throw new Error("Arquivo de backup invalido ou incompativel.");
+    }
+
+    const data = backup.data;
+    if (!Array.isArray(data.favorites) || !Array.isArray(data.savedDecks) || !Array.isArray(data.importedMetaDecks)) {
+      throw new Error("O backup nao possui listas validas.");
+    }
+    if (!data.trades || !Array.isArray(data.trades.available) || !Array.isArray(data.trades.wanted) || !Array.isArray(data.trades.combos)) {
+      throw new Error("O backup nao possui dados de trocas validos.");
+    }
+    if (!data.deckDraft || !Array.isArray(data.deckDraft.cards) || !Array.isArray(data.deckDraft.energies)) {
+      throw new Error("O backup nao possui um rascunho de deck valido.");
+    }
+
+    const results = [
+      saveFavorites(data.favorites),
+      saveSavedDecks(data.savedDecks),
+      saveImportedMetaDecks(data.importedMetaDecks),
+      saveTradeState(data.trades),
+      saveDeckDraft(data.deckDraft.cards, data.deckDraft.energies)
+    ];
+    if (results.some((saved) => !saved)) {
+      throw new Error("O navegador nao permitiu salvar todos os dados do backup.");
+    }
+    return true;
   }
 
   function normalizeKey(value) {
@@ -143,12 +259,19 @@
   window.PocketiaWorkspace = {
     nextId,
     loadCards,
+    getFavorites,
+    saveFavorites,
     getSavedDecks,
     saveSavedDecks,
     getImportedMetaDecks,
     saveImportedMetaDecks,
     getTradeState,
     saveTradeState,
+    getDeckDraft,
+    saveDeckDraft,
+    clearDeckDraft,
+    createBackup,
+    restoreBackup,
     inferDeckEnergyCodes,
     encodeGameDeckPayload,
     buildDeckQrDataUrl

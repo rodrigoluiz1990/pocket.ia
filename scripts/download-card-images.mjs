@@ -62,6 +62,13 @@ function assetCodeFromEntry(entry) {
   return normalizedCode.toLowerCase();
 }
 
+function fallbackImageUrl(entry, card) {
+  const setCode = String(entry?.code || "").trim();
+  const cardNumber = String(card?.numero || "").match(/\d+/)?.[0];
+  if (!setCode || !cardNumber) return "";
+  return `https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/main/public/images/cards-by-set/${setCode}/${Number(cardNumber)}.webp`;
+}
+
 async function run() {
   const code = argValue("--code", "");
   const cardOnly = process.argv.includes("--card-only");
@@ -98,19 +105,47 @@ async function run() {
         const i = cursor++;
         const card = withImages[i];
         const downloadUrl = cardOnly ? cardOnlyImageUrl(card.imageUrl) : card.imageUrl;
-        const rawExt = extname(new URL(downloadUrl).pathname) || ".jpg";
-        const normalizedId = sanitizeFileName(card.id).replace(/^p-a-/i, "pa-").replace(/^p-b-/i, "pb-");
-        const fileName = `${normalizedId}${rawExt}`.toLowerCase();
-        const outPath = resolve(targetDir, fileName);
-        const relPath = `./assets/cards/cartas_${assetCode}/${fileName}`;
+        const normalizedId = sanitizeFileName(card.id)
+          .replace(/^(?:promo-|p-)?a-/i, "pa-")
+          .replace(/^(?:promo-|p-)?b-/i, "pb-");
         const previousPath = String(card.imageLocal || "").trim();
         const previousAbs = previousPath ? resolve(process.cwd(), previousPath.replace(/^\.\//, "")) : "";
 
         try {
-          if (force || !(await exists(outPath))) {
-            const bytes = await fetchBuffer(downloadUrl);
-            await writeFile(outPath, bytes);
+          if (!force && previousAbs && await exists(previousAbs)) {
+            card.imageLocal = previousPath;
+            continue;
           }
+          if (!force) {
+            let existingFile = "";
+            for (const extension of [".webp", ".jpg", ".png"]) {
+              const candidate = resolve(targetDir, `${normalizedId}${extension}`.toLowerCase());
+              if (await exists(candidate)) {
+                existingFile = `${normalizedId}${extension}`.toLowerCase();
+                break;
+              }
+            }
+            if (existingFile) {
+              card.imageLocal = `./assets/cards/cartas_${assetCode}/${existingFile}`;
+              continue;
+            }
+          }
+
+          let resolvedUrl = downloadUrl;
+          let bytes;
+          try {
+            bytes = await fetchBuffer(downloadUrl);
+          } catch (primaryError) {
+            resolvedUrl = fallbackImageUrl(entry, card);
+            if (!resolvedUrl) throw primaryError;
+            bytes = await fetchBuffer(resolvedUrl);
+          }
+
+          const rawExt = extname(new URL(resolvedUrl).pathname) || ".jpg";
+          const fileName = `${normalizedId}${rawExt}`.toLowerCase();
+          const outPath = resolve(targetDir, fileName);
+          const relPath = `./assets/cards/cartas_${assetCode}/${fileName}`;
+          await writeFile(outPath, bytes);
           if (force && previousAbs && previousAbs !== outPath && await exists(previousAbs)) {
             await unlink(previousAbs);
           }
