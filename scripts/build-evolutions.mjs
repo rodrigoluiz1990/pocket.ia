@@ -19,6 +19,12 @@ const fossilRoots = new Map([
   ["clawfossil", "anorith"],
   ["rootfossil", "lileep"]
 ]);
+const fossilRootSpecies = new Set(fossilRoots.values());
+const babyRootSpecies = new Set([
+  "pichu", "cleffa", "igglybuff", "togepi", "tyrogue", "smoochum", "elekid", "magby",
+  "azurill", "wynaut", "budew", "chingling", "bonsly", "mime-jr", "happiny", "munchlax",
+  "riolu", "mantyke", "toxel"
+]);
 
 function normalizeKey(value) {
   return String(value || "")
@@ -102,6 +108,16 @@ function evolutionDepth(species, parentBySpecies) {
   return depth;
 }
 
+function cardStageForSpecies(species, root, parentBySpecies) {
+  const depth = evolutionDepth(species, parentBySpecies);
+  const stageDepth = fossilRootSpecies.has(root)
+    ? depth + 1
+    : babyRootSpecies.has(root)
+      ? Math.max(0, depth - 1)
+      : depth;
+  return stageDepth >= 2 ? "2" : stageDepth === 1 ? "1" : "basic";
+}
+
 async function run() {
   const [cardsRaw, minCardsRaw, speciesResponse] = await Promise.all([
     readFile(CARDS_PATH, "utf8"),
@@ -122,6 +138,7 @@ async function run() {
     minCards.map((card) => [`${String(card.set || "").toUpperCase()}#${Number(card.number)}`, card])
   );
   const families = new Map();
+  const cardStages = new Map();
 
   function familyFor(id) {
     if (!families.has(id)) families.set(id, { id, pokemon: new Map(), fossils: new Set() });
@@ -136,6 +153,7 @@ async function run() {
       const descriptor = describePokemonName(minCard.name, speciesByCompact);
       if (!descriptor.species) continue;
       const root = findRoot(descriptor.species, parentBySpecies);
+      cardStages.set(card.sourceMeta.matchKey, cardStageForSpecies(descriptor.species, root, parentBySpecies));
       const family = familyFor(`${descriptor.namespace}:${root}`);
       const localName = canonicalLocalName(card.nome);
       const depth = evolutionDepth(descriptor.species, parentBySpecies);
@@ -160,7 +178,12 @@ async function run() {
     }))
     .sort((a, b) => a.id.localeCompare(b.id));
 
-  await writeFile(OUT_PATH, `${JSON.stringify({ source: SPECIES_URL, families: output }, null, 2)}\n`, "utf8");
+  const sortedCardStages = Object.fromEntries([...cardStages.entries()].sort((a, b) => a[0].localeCompare(b[0])));
+  await writeFile(
+    OUT_PATH,
+    `${JSON.stringify({ source: SPECIES_URL, cardStages: sortedCardStages, families: output }, null, 2)}\n`,
+    "utf8"
+  );
   console.log(`Famílias evolutivas geradas: ${output.length}`);
   console.log(`Famílias com Fóssil: ${output.filter((family) => family.fossils.length).length}`);
   console.log(`Saída: ${OUT_PATH}`);

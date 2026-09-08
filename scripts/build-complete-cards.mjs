@@ -6,6 +6,7 @@ const POKEMONGOHUB_INDEX_PATH = resolve(process.cwd(), "data", "raw", "pokemongo
 const FLIBUSTIER_DIR = resolve(process.cwd(), "data", "raw", "flibustier");
 const OUT_ROOT = resolve(process.cwd(), "data", "complete");
 const CARD_CORRECTIONS_PATH = resolve(process.cwd(), "data", "card-corrections.json");
+const EVOLUTIONS_PATH = resolve(process.cwd(), "data", "evolutions.json");
 
 const categoryMap = {
   pokemon: "Pokemon",
@@ -185,13 +186,14 @@ async function readJson(path) {
 }
 
 async function run() {
-  const [expansionsPayload, rawIndexPayload, cardsMin, cardsExtra, setsPayload, correctionsPayload] = await Promise.all([
+  const [expansionsPayload, rawIndexPayload, cardsMin, cardsExtra, setsPayload, correctionsPayload, evolutionsPayload] = await Promise.all([
     readJson(EXPANSIONS_PATH),
     readJson(POKEMONGOHUB_INDEX_PATH),
     readJson(resolve(FLIBUSTIER_DIR, "cards.min.json")),
     readJson(resolve(FLIBUSTIER_DIR, "cards.extra.json")),
     readJson(resolve(FLIBUSTIER_DIR, "sets.json")),
-    readJson(CARD_CORRECTIONS_PATH)
+    readJson(CARD_CORRECTIONS_PATH),
+    readJson(EVOLUTIONS_PATH)
   ]);
 
   const expansions = Array.isArray(expansionsPayload) ? expansionsPayload : expansionsPayload.expansions || [];
@@ -202,6 +204,7 @@ async function run() {
   const attackDamageCorrections = correctionsPayload?.attackDamage || {};
   const stageCorrections = correctionsPayload?.stage || {};
   const trainerSubtypeCorrections = correctionsPayload?.trainerSubtype || {};
+  const evolutionStages = evolutionsPayload?.cardStages || {};
 
   const expansionByCode = new Map(
     expansions.map((entry) => [String(entry.code || "").toUpperCase(), String(entry.name || "").trim()])
@@ -265,6 +268,7 @@ async function run() {
         const stage = trainerSubtype
           || normalizeStage(stageCorrections[key])
           || (isBabyCard(rawCard) ? "Baby" : "")
+          || normalizeStage(evolutionStages[key])
           || normalizeStage(extra?.stage)
           || String(rawCard.estagio || "").trim();
         const nome = String(rawCard.nome || min?.name || "").trim();

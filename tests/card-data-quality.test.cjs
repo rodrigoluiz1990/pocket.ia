@@ -53,6 +53,19 @@ for (const [key, expectedStage] of Object.entries(corrections.stage || {})) {
   assert.equal(byId.get(id)?.estagio, normalizedStage, `${id} deve respeitar a correção de estágio`);
 }
 
+const evolutionData = JSON.parse(
+  fs.readFileSync(path.join(root, "data", "evolutions.json"), "utf8")
+);
+for (const [key, expectedStage] of Object.entries(evolutionData.cardStages || {})) {
+  const [setCode, number] = key.split("#");
+  const id = `${setCode.toLowerCase()}-${String(number).padStart(3, "0")}`;
+  const card = byId.get(id);
+  assert.ok(card, `${id} deve existir para validar o estágio evolutivo`);
+  if (card.estagio !== "baby") {
+    assert.equal(card.estagio, expectedStage, `${id} deve respeitar sua família evolutiva`);
+  }
+}
+
 for (const id of ["promo-b-088", "promo-b-089", "promo-b-090", "promo-b-091", "promo-b-093"]) {
   const card = byId.get(id);
   assert.ok(card, `${id} deve existir no catálogo`);
