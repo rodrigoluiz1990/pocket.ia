@@ -13,6 +13,14 @@
     return values.some((value) => accepted.has(normalizeKey(value)));
   }
 
+  function evolutionNameKey(value) {
+    return normalizeKey(
+      String(value || "")
+        .replace(/^Mega\s+/i, "")
+        .replace(/\s+ex$/i, "")
+    );
+  }
+
   const specialPokemonTags = {
     ultracriatura: /buzzwole|pheromosa|xurkitree|celesteela|guzzlord|nihilego|kartana|blacephalon|poipole|naganadel|stakataka/,
     arceus: /(^|-)arceus(?:-|$)/,
@@ -83,10 +91,48 @@
     return selectedCards;
   }
 
-  function getSuggestedCards(cards, deckCards, rules) {
+  function addEvolutionSuggestions(suggestions, cards, deckCards, families) {
+    const deckMemberKeys = new Set(deckCards.map((card) => evolutionNameKey(card.nome)));
+    const deckExpansionKeys = new Set(deckCards.map((card) => normalizeKey(card.expansao)));
+    const deckCardCounts = deckCards.reduce((counts, card) => {
+      const cardId = String(card?.id || "");
+      if (cardId) counts.set(cardId, (counts.get(cardId) || 0) + 1);
+      return counts;
+    }, new Map());
+
+    for (const family of families || []) {
+      const memberNames = [...(family?.pokemon || []), ...(family?.fossils || [])];
+      const memberKeys = new Set(memberNames.map(evolutionNameKey));
+      if (![...deckMemberKeys].some((key) => memberKeys.has(key))) continue;
+
+      for (const memberName of memberNames) {
+        const memberKey = evolutionNameKey(memberName);
+        if (!memberKey) continue;
+
+        const candidates = cards
+          .filter((card) =>
+            evolutionNameKey(card.nome) === memberKey
+            && (deckCardCounts.get(String(card.id)) || 0) < 2
+          )
+          .sort((a, b) => {
+            const aSameExpansion = deckExpansionKeys.has(normalizeKey(a.expansao)) ? 1 : 0;
+            const bSameExpansion = deckExpansionKeys.has(normalizeKey(b.expansao)) ? 1 : 0;
+            return bSameExpansion - aSameExpansion || String(a.id).localeCompare(String(b.id));
+          });
+        for (const card of candidates) {
+          const existing = suggestions.get(String(card.id));
+          if (!existing || existing.priority < 120) suggestions.set(String(card.id), { card, priority: 120 });
+        }
+      }
+    }
+  }
+
+  function getSuggestedCards(cards, deckCards, rules, evolutionFamilies = []) {
     const cardsById = new Map(cards.map((card) => [String(card.id), card]));
     const deckNames = new Set(deckCards.map((card) => normalizeKey(card.nome)));
     const suggestions = new Map();
+
+    addEvolutionSuggestions(suggestions, cards, deckCards, evolutionFamilies);
 
     for (const rule of rules || []) {
       if (!matchesRule(rule, deckCards)) continue;

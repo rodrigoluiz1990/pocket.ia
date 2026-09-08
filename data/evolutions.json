@@ -1,0 +1,3029 @@
+{
+  "source": "https://raw.githubusercontent.com/PokeAPI/pokeapi/master/data/v2/csv/pokemon_species.csv",
+  "families": [
+    {
+      "id": "alolan:diglett",
+      "pokemon": [
+        "Diglett de Alola",
+        "Dugtrio de Alola"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "alolan:geodude",
+      "pokemon": [
+        "Geodude de Alola",
+        "Graveler de Alola",
+        "Golem de Alola"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "alolan:grimer",
+      "pokemon": [
+        "Grimer de Alola",
+        "Muk de Alola"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "alolan:meowth",
+      "pokemon": [
+        "Meowth de Alola",
+        "Persian de Alola"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "alolan:rattata",
+      "pokemon": [
+        "Rattata de Alola",
+        "Raticate de Alola"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "alolan:sandshrew",
+      "pokemon": [
+        "Sandshrew de Alola",
+        "Sandslash de Alola"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "alolan:vulpix",
+      "pokemon": [
+        "Vulpix de Alola",
+        "Ninetales de Alola"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "galarian:corsola",
+      "pokemon": [
+        "Corsola de Galar",
+        "Cursola de Galar"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "galarian:meowth",
+      "pokemon": [
+        "Meowth de Galar",
+        "Perrserker de Galar"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "galarian:mime-jr",
+      "pokemon": [
+        "Mr. Mime de Galar",
+        "Mr. Rime de Galar"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "galarian:ponyta",
+      "pokemon": [
+        "Ponyta de Galar",
+        "Rapidash de Galar"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "galarian:zigzagoon",
+      "pokemon": [
+        "Zigzagoon de Galar",
+        "Linoone de Galar",
+        "Obstagoon de Galar"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "hisuian:basculin",
+      "pokemon": [
+        "Basculin de Hisui",
+        "Basculegion de Hisui"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "hisuian:goomy",
+      "pokemon": [
+        "Sliggoo de Hisui",
+        "Goodra de Hisui"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "hisuian:zorua",
+      "pokemon": [
+        "Zorua de Hisui",
+        "Zoroark de Hisui"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "paldean:wooper",
+      "pokemon": [
+        "Wooper de Paldea",
+        "Clodsire de Paldea"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:abra",
+      "pokemon": [
+        "Abra",
+        "Kadabra",
+        "Alakazam"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:aerodactyl",
+      "pokemon": [
+        "Aerodactyl"
+      ],
+      "fossils": [
+        "Âmbar Velho"
+      ]
+    },
+    {
+      "id": "standard:aipom",
+      "pokemon": [
+        "Aipom",
+        "Ambipom"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:amaura",
+      "pokemon": [
+        "Amaura",
+        "Aurorus"
+      ],
+      "fossils": [
+        "Fóssil de Vela"
+      ]
+    },
+    {
+      "id": "standard:anorith",
+      "pokemon": [
+        "Anorith",
+        "Armaldo"
+      ],
+      "fossils": [
+        "Fóssil Garra"
+      ]
+    },
+    {
+      "id": "standard:applin",
+      "pokemon": [
+        "Applin",
+        "Appletun",
+        "Dipplin",
+        "Flapple",
+        "Hydrapple"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:archen",
+      "pokemon": [
+        "Archen",
+        "Archeops"
+      ],
+      "fossils": [
+        "Fóssil Pluma"
+      ]
+    },
+    {
+      "id": "standard:aron",
+      "pokemon": [
+        "Aron",
+        "Lairon",
+        "Aggron"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:arrokuda",
+      "pokemon": [
+        "Arrokuda",
+        "Barraskewda"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:axew",
+      "pokemon": [
+        "Axew",
+        "Fraxure",
+        "Haxorus"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:azurill",
+      "pokemon": [
+        "Azurill",
+        "Marill",
+        "Azumarill"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:bagon",
+      "pokemon": [
+        "Bagon",
+        "Shelgon",
+        "Salamence"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:baltoy",
+      "pokemon": [
+        "Baltoy",
+        "Claydol"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:barboach",
+      "pokemon": [
+        "Barboach",
+        "Whiscash"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:beldum",
+      "pokemon": [
+        "Beldum",
+        "Metang",
+        "Metagross"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:bellsprout",
+      "pokemon": [
+        "Bellsprout",
+        "Weepinbell",
+        "Victreebel"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:bergmite",
+      "pokemon": [
+        "Bergmite",
+        "Avalugg"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:bidoof",
+      "pokemon": [
+        "Bidoof",
+        "Bibarel"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:binacle",
+      "pokemon": [
+        "Binacle",
+        "Barbaracle"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:blitzle",
+      "pokemon": [
+        "Blitzle",
+        "Zebstrika"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:bonsly",
+      "pokemon": [
+        "Bonsly",
+        "Sudowoodo"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:bounsweet",
+      "pokemon": [
+        "Bounsweet",
+        "Steenee",
+        "Tsareena"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:bramblin",
+      "pokemon": [
+        "Bramblin",
+        "Brambleghast"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:bronzor",
+      "pokemon": [
+        "Bronzor",
+        "Bronzong"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:budew",
+      "pokemon": [
+        "Budew",
+        "Roselia",
+        "Roserade"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:buizel",
+      "pokemon": [
+        "Buizel",
+        "Floatzel"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:bulbasaur",
+      "pokemon": [
+        "Bulbasaur",
+        "Ivysaur",
+        "Venusaur"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:buneary",
+      "pokemon": [
+        "Buneary",
+        "Lopunny"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:bunnelby",
+      "pokemon": [
+        "Bunnelby",
+        "Diggersby"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:burmy",
+      "pokemon": [
+        "Burmy",
+        "Mothim",
+        "Wormadam"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:cacnea",
+      "pokemon": [
+        "Cacnea",
+        "Cacturne"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:capsakid",
+      "pokemon": [
+        "Capsakid",
+        "Scovillain"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:carvanha",
+      "pokemon": [
+        "Carvanha",
+        "Sharpedo"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:caterpie",
+      "pokemon": [
+        "Caterpie",
+        "Metapod",
+        "Butterfree"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:cetoddle",
+      "pokemon": [
+        "Cetoddle",
+        "Cetitan"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:charcadet",
+      "pokemon": [
+        "Charcadet",
+        "Armarouge",
+        "Ceruledge"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:charmander",
+      "pokemon": [
+        "Charmander",
+        "Charmeleon",
+        "Charizard",
+        "Charizard X",
+        "Charizard Y"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:cherubi",
+      "pokemon": [
+        "Cherubi",
+        "Cherrim"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:chespin",
+      "pokemon": [
+        "Chespin",
+        "Quilladin",
+        "Chesnaught"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:chewtle",
+      "pokemon": [
+        "Chewtle",
+        "Drednaw"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:chikorita",
+      "pokemon": [
+        "Chikorita",
+        "Bayleef",
+        "Meganium"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:chimchar",
+      "pokemon": [
+        "Chimchar",
+        "Monferno",
+        "Infernape"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:chinchou",
+      "pokemon": [
+        "Chinchou",
+        "Lanturn"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:chingling",
+      "pokemon": [
+        "Chingling",
+        "Chimecho"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:clamperl",
+      "pokemon": [
+        "Clamperl",
+        "Gorebyss",
+        "Huntail"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:clauncher",
+      "pokemon": [
+        "Clauncher",
+        "Clawitzer"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:cleffa",
+      "pokemon": [
+        "Cleffa",
+        "Clefairy",
+        "Clefable"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:clobbopus",
+      "pokemon": [
+        "Clobbopus",
+        "Grapploct"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:combee",
+      "pokemon": [
+        "Combee",
+        "Vespiquen"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:corphish",
+      "pokemon": [
+        "Corphish",
+        "Crawdaunt"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:cosmog",
+      "pokemon": [
+        "Cosmog",
+        "Cosmoem",
+        "Lunala",
+        "Solgaleo"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:cottonee",
+      "pokemon": [
+        "Cottonee",
+        "Whimsicott"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:crabrawler",
+      "pokemon": [
+        "Crabrawler",
+        "Crabominable"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:cranidos",
+      "pokemon": [
+        "Cranidos",
+        "Rampardos"
+      ],
+      "fossils": [
+        "Fóssil Crânio"
+      ]
+    },
+    {
+      "id": "standard:croagunk",
+      "pokemon": [
+        "Croagunk",
+        "Toxicroak"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:cubchoo",
+      "pokemon": [
+        "Cubchoo",
+        "Beartic"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:cubone",
+      "pokemon": [
+        "Cubone",
+        "Marowak"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:cufant",
+      "pokemon": [
+        "Cufant",
+        "Copperajah"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:cutiefly",
+      "pokemon": [
+        "Cutiefly",
+        "Ribombee"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:cyndaquil",
+      "pokemon": [
+        "Cyndaquil",
+        "Quilava",
+        "Typhlosion"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:darumaka",
+      "pokemon": [
+        "Darumaka",
+        "Darmanitan"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:deino",
+      "pokemon": [
+        "Deino",
+        "Zweilous",
+        "Hydreigon"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:dewpider",
+      "pokemon": [
+        "Dewpider",
+        "Araquanid"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:dialga",
+      "pokemon": [
+        "Dialga",
+        "Dialga Forma Origem"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:diglett",
+      "pokemon": [
+        "Diglett",
+        "Dugtrio"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:doduo",
+      "pokemon": [
+        "Doduo",
+        "Dodrio"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:dratini",
+      "pokemon": [
+        "Dratini",
+        "Dragonair",
+        "Dragonite"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:drifloon",
+      "pokemon": [
+        "Drifloon",
+        "Drifblim"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:drilbur",
+      "pokemon": [
+        "Drilbur",
+        "Excadrill"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:drowzee",
+      "pokemon": [
+        "Drowzee",
+        "Hypno"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:ducklett",
+      "pokemon": [
+        "Ducklett",
+        "Swanna"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:dunsparce",
+      "pokemon": [
+        "Dunsparce",
+        "Dudunsparce"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:duraludon",
+      "pokemon": [
+        "Duraludon",
+        "Archaludon"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:duskull",
+      "pokemon": [
+        "Duskull",
+        "Dusclops",
+        "Dusknoir"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:dwebble",
+      "pokemon": [
+        "Dwebble",
+        "Crustle"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:eevee",
+      "pokemon": [
+        "Eevee",
+        "Espeon",
+        "Flareon",
+        "Glaceon",
+        "Jolteon",
+        "Leafeon",
+        "Sylveon",
+        "Umbreon",
+        "Vaporeon"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:ekans",
+      "pokemon": [
+        "Ekans",
+        "Arbok"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:electrike",
+      "pokemon": [
+        "Electrike",
+        "Manectric"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:elekid",
+      "pokemon": [
+        "Elekid",
+        "Electabuzz",
+        "Electivire"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:elgyem",
+      "pokemon": [
+        "Elgyem",
+        "Beheeyem"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:espurr",
+      "pokemon": [
+        "Espurr",
+        "Meowstic"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:exeggcute",
+      "pokemon": [
+        "Exeggcute",
+        "Exeggutor"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:feebas",
+      "pokemon": [
+        "Feebas",
+        "Milotic"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:fennekin",
+      "pokemon": [
+        "Fennekin",
+        "Braixen",
+        "Delphox"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:ferroseed",
+      "pokemon": [
+        "Ferroseed",
+        "Ferrothorn"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:fidough",
+      "pokemon": [
+        "Fidough",
+        "Dachsbun"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:finizen",
+      "pokemon": [
+        "Finizen",
+        "Palafin"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:finneon",
+      "pokemon": [
+        "Finneon",
+        "Lumineon"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:flabebe",
+      "pokemon": [
+        "Flabébé",
+        "Floette",
+        "Florges"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:fletchling",
+      "pokemon": [
+        "Fletchling",
+        "Fletchinder",
+        "Talonflame"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:flittle",
+      "pokemon": [
+        "Flittle",
+        "Espathra"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:fomantis",
+      "pokemon": [
+        "Fomantis",
+        "Lurantis"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:foongus",
+      "pokemon": [
+        "Foongus",
+        "Amoonguss"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:frigibax",
+      "pokemon": [
+        "Frigibax",
+        "Arctibax",
+        "Baxcalibur"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:frillish",
+      "pokemon": [
+        "Frillish",
+        "Jellicent"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:froakie",
+      "pokemon": [
+        "Froakie",
+        "Frogadier",
+        "Greninja"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:fuecoco",
+      "pokemon": [
+        "Fuecoco",
+        "Crocalor",
+        "Skeledirge"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:gastly",
+      "pokemon": [
+        "Gastly",
+        "Haunter",
+        "Gengar"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:geodude",
+      "pokemon": [
+        "Geodude",
+        "Graveler",
+        "Golem"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:gible",
+      "pokemon": [
+        "Gible",
+        "Gabite",
+        "Garchomp"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:gimmighoul",
+      "pokemon": [
+        "Gimmighoul",
+        "Gholdengo"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:girafarig",
+      "pokemon": [
+        "Girafarig",
+        "Farigiraf"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:glameow",
+      "pokemon": [
+        "Glameow",
+        "Purugly"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:gligar",
+      "pokemon": [
+        "Gligar",
+        "Gliscor"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:glimmet",
+      "pokemon": [
+        "Glimmet",
+        "Glimmora"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:goldeen",
+      "pokemon": [
+        "Goldeen",
+        "Seaking"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:golett",
+      "pokemon": [
+        "Golett",
+        "Golurk"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:goomy",
+      "pokemon": [
+        "Goomy",
+        "Sliggoo",
+        "Goodra"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:gossifleur",
+      "pokemon": [
+        "Gossifleur",
+        "Eldegoss"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:gothita",
+      "pokemon": [
+        "Gothita",
+        "Gothorita",
+        "Gothitelle"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:greavard",
+      "pokemon": [
+        "Greavard",
+        "Houndstone"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:grimer",
+      "pokemon": [
+        "Grimer",
+        "Muk"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:grookey",
+      "pokemon": [
+        "Grookey",
+        "Thwackey",
+        "Rillaboom"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:growlithe",
+      "pokemon": [
+        "Growlithe",
+        "Arcanine"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:grubbin",
+      "pokemon": [
+        "Grubbin",
+        "Charjabug",
+        "Vikavolt"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:gulpin",
+      "pokemon": [
+        "Gulpin",
+        "Swalot"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:happiny",
+      "pokemon": [
+        "Happiny",
+        "Chansey",
+        "Blissey"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:hatenna",
+      "pokemon": [
+        "Hatenna",
+        "Hattrem",
+        "Hatterene"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:helioptile",
+      "pokemon": [
+        "Helioptile",
+        "Heliolisk"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:hippopotas",
+      "pokemon": [
+        "Hippopotas",
+        "Hippowdon"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:honedge",
+      "pokemon": [
+        "Honedge",
+        "Doublade",
+        "Aegislash"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:hoothoot",
+      "pokemon": [
+        "Hoothoot",
+        "Noctowl"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:hoppip",
+      "pokemon": [
+        "Hoppip",
+        "Skiploom",
+        "Jumpluff"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:horsea",
+      "pokemon": [
+        "Horsea",
+        "Seadra",
+        "Kingdra"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:houndour",
+      "pokemon": [
+        "Houndour",
+        "Houndoom"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:igglybuff",
+      "pokemon": [
+        "Igglybuff",
+        "Jigglypuff",
+        "Wigglytuff"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:impidimp",
+      "pokemon": [
+        "Impidimp",
+        "Morgrem",
+        "Grimmsnarl"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:inkay",
+      "pokemon": [
+        "Inkay",
+        "Malamar"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:jangmo-o",
+      "pokemon": [
+        "Jangmo-o",
+        "Hakamo-o",
+        "Kommo-o"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:joltik",
+      "pokemon": [
+        "Joltik",
+        "Galvantula"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:kabuto",
+      "pokemon": [
+        "Kabuto",
+        "Kabutops"
+      ],
+      "fossils": [
+        "Fóssil Cúpula"
+      ]
+    },
+    {
+      "id": "standard:karrablast",
+      "pokemon": [
+        "Karrablast",
+        "Escavalier"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:klink",
+      "pokemon": [
+        "Klink",
+        "Klang",
+        "Klinklang"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:koffing",
+      "pokemon": [
+        "Koffing",
+        "Weezing"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:krabby",
+      "pokemon": [
+        "Krabby",
+        "Kingler"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:kricketot",
+      "pokemon": [
+        "Kricketot",
+        "Kricketune"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:larvesta",
+      "pokemon": [
+        "Larvesta",
+        "Volcarona"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:larvitar",
+      "pokemon": [
+        "Larvitar",
+        "Pupitar",
+        "Tyranitar"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:lechonk",
+      "pokemon": [
+        "Lechonk",
+        "Oinkologne"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:ledyba",
+      "pokemon": [
+        "Ledyba",
+        "Ledian"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:lickitung",
+      "pokemon": [
+        "Lickitung",
+        "Lickilicky"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:lileep",
+      "pokemon": [
+        "Lileep",
+        "Cradily"
+      ],
+      "fossils": [
+        "Fóssil Raiz"
+      ]
+    },
+    {
+      "id": "standard:lillipup",
+      "pokemon": [
+        "Lillipup",
+        "Herdier",
+        "Stoutland"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:litleo",
+      "pokemon": [
+        "Litleo",
+        "Pyroar"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:litten",
+      "pokemon": [
+        "Litten",
+        "Torracat",
+        "Incineroar"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:litwick",
+      "pokemon": [
+        "Litwick",
+        "Lampent",
+        "Chandelure"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:lotad",
+      "pokemon": [
+        "Lotad",
+        "Lombre",
+        "Ludicolo"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:machop",
+      "pokemon": [
+        "Machop",
+        "Machoke",
+        "Machamp"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:magby",
+      "pokemon": [
+        "Magby",
+        "Magmar",
+        "Magmortar"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:magikarp",
+      "pokemon": [
+        "Magikarp",
+        "Gyarados"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:magnemite",
+      "pokemon": [
+        "Magnemite",
+        "Magneton",
+        "Magnezone"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:makuhita",
+      "pokemon": [
+        "Makuhita",
+        "Hariyama"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:mankey",
+      "pokemon": [
+        "Mankey",
+        "Primeape",
+        "Annihilape"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:mantyke",
+      "pokemon": [
+        "Mantyke",
+        "Mantine"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:mareanie",
+      "pokemon": [
+        "Mareanie",
+        "Toxapex"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:mareep",
+      "pokemon": [
+        "Mareep",
+        "Flaaffy",
+        "Ampharos"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:maschiff",
+      "pokemon": [
+        "Maschiff",
+        "Mabosstiff"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:meditite",
+      "pokemon": [
+        "Meditite",
+        "Medicham"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:meltan",
+      "pokemon": [
+        "Meltan",
+        "Melmetal"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:meowth",
+      "pokemon": [
+        "Meowth",
+        "Persian"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:mienfoo",
+      "pokemon": [
+        "Mienfoo",
+        "Mienshao"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:milcery",
+      "pokemon": [
+        "Milcery",
+        "Alcremie"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:mime-jr",
+      "pokemon": [
+        "Mime Jr.",
+        "Mr. Mime"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:minccino",
+      "pokemon": [
+        "Minccino",
+        "Cinccino"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:misdreavus",
+      "pokemon": [
+        "Misdreavus",
+        "Mismagius"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:morelull",
+      "pokemon": [
+        "Morelull",
+        "Shiinotic"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:mudbray",
+      "pokemon": [
+        "Mudbray",
+        "Mudsdale"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:mudkip",
+      "pokemon": [
+        "Mudkip",
+        "Marshtomp",
+        "Swampert"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:munchlax",
+      "pokemon": [
+        "Munchlax",
+        "Snorlax"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:munna",
+      "pokemon": [
+        "Munna",
+        "Musharna"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:murkrow",
+      "pokemon": [
+        "Murkrow",
+        "Honchkrow"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:nacli",
+      "pokemon": [
+        "Nacli",
+        "Naclstack",
+        "Garganacl"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:natu",
+      "pokemon": [
+        "Natu",
+        "Xatu"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:nidoran-f",
+      "pokemon": [
+        "Nidoran♀",
+        "Nidoran♂",
+        "Nidorina",
+        "Nidoqueen"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:nidoran-m",
+      "pokemon": [
+        "Nidoran♂",
+        "Nidorino",
+        "Nidoking"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:noibat",
+      "pokemon": [
+        "Noibat",
+        "Noivern"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:nosepass",
+      "pokemon": [
+        "Nosepass",
+        "Probopass"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:numel",
+      "pokemon": [
+        "Numel",
+        "Camerupt"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:nymble",
+      "pokemon": [
+        "Nymble",
+        "Lokix"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:oddish",
+      "pokemon": [
+        "Oddish",
+        "Gloom",
+        "Bellossom",
+        "Vileplume"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:omanyte",
+      "pokemon": [
+        "Omanyte",
+        "Omastar"
+      ],
+      "fossils": [
+        "Fóssil Espiral"
+      ]
+    },
+    {
+      "id": "standard:onix",
+      "pokemon": [
+        "Onix",
+        "Steelix"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:oshawott",
+      "pokemon": [
+        "Oshawott",
+        "Dewott",
+        "Samurott"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:palkia",
+      "pokemon": [
+        "Palkia",
+        "Palkia Forma Origem"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:pancham",
+      "pokemon": [
+        "Pancham",
+        "Pangoro"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:panpour",
+      "pokemon": [
+        "Panpour",
+        "Simipour"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:pansage",
+      "pokemon": [
+        "Pansage",
+        "Simisage"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:pansear",
+      "pokemon": [
+        "Pansear",
+        "Simisear"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:paras",
+      "pokemon": [
+        "Paras",
+        "Parasect"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:patrat",
+      "pokemon": [
+        "Patrat",
+        "Watchog"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:pawmi",
+      "pokemon": [
+        "Pawmi",
+        "Pawmo",
+        "Pawmot"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:pawniard",
+      "pokemon": [
+        "Pawniard",
+        "Bisharp",
+        "Kingambit"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:petilil",
+      "pokemon": [
+        "Petilil",
+        "Lilligant"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:phanpy",
+      "pokemon": [
+        "Phanpy",
+        "Donphan"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:phantump",
+      "pokemon": [
+        "Phantump",
+        "Trevenant"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:pichu",
+      "pokemon": [
+        "Pichu",
+        "Pikachu",
+        "Raichu"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:pidgey",
+      "pokemon": [
+        "Pidgey",
+        "Pidgeotto",
+        "Pidgeot"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:pidove",
+      "pokemon": [
+        "Pidove",
+        "Tranquill",
+        "Unfezant"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:pikipek",
+      "pokemon": [
+        "Pikipek",
+        "Trumbeak",
+        "Toucannon"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:pineco",
+      "pokemon": [
+        "Pineco",
+        "Forretress"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:piplup",
+      "pokemon": [
+        "Piplup",
+        "Prinplup",
+        "Empoleon"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:poipole",
+      "pokemon": [
+        "Poipole",
+        "Naganadel"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:poliwag",
+      "pokemon": [
+        "Poliwag",
+        "Poliwhirl",
+        "Politoed",
+        "Poliwrath"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:poltchageist",
+      "pokemon": [
+        "Poltchageist",
+        "Sinistcha"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:ponyta",
+      "pokemon": [
+        "Ponyta",
+        "Rapidash"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:poochyena",
+      "pokemon": [
+        "Poochyena",
+        "Mightyena"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:popplio",
+      "pokemon": [
+        "Popplio",
+        "Brionne",
+        "Primarina"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:porygon",
+      "pokemon": [
+        "Porygon",
+        "Porygon2",
+        "Porygon-Z"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:psyduck",
+      "pokemon": [
+        "Psyduck",
+        "Golduck"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:pumpkaboo",
+      "pokemon": [
+        "Pumpkaboo",
+        "Gourgeist"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:purrloin",
+      "pokemon": [
+        "Purrloin",
+        "Liepard"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:quaxly",
+      "pokemon": [
+        "Quaxly",
+        "Quaxwell",
+        "Quaquaval"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:ralts",
+      "pokemon": [
+        "Ralts",
+        "Kirlia",
+        "Gallade",
+        "Gardevoir"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:rattata",
+      "pokemon": [
+        "Rattata",
+        "Raticate"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:rellor",
+      "pokemon": [
+        "Rellor",
+        "Rabsca"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:remoraid",
+      "pokemon": [
+        "Remoraid",
+        "Octillery"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:rhyhorn",
+      "pokemon": [
+        "Rhyhorn",
+        "Rhydon",
+        "Rhyperior"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:riolu",
+      "pokemon": [
+        "Riolu",
+        "Lucario"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:rockruff",
+      "pokemon": [
+        "Rockruff",
+        "Lycanroc"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:roggenrola",
+      "pokemon": [
+        "Roggenrola",
+        "Boldore",
+        "Gigalith"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:rolycoly",
+      "pokemon": [
+        "Rolycoly",
+        "Carkol",
+        "Coalossal"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:rookidee",
+      "pokemon": [
+        "Rookidee",
+        "Corvisquire",
+        "Corviknight"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:rowlet",
+      "pokemon": [
+        "Rowlet",
+        "Dartrix",
+        "Decidueye"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:rufflet",
+      "pokemon": [
+        "Rufflet",
+        "Braviary"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:salandit",
+      "pokemon": [
+        "Salandit",
+        "Salazzle"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:sandile",
+      "pokemon": [
+        "Sandile",
+        "Krokorok",
+        "Krookodile"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:sandshrew",
+      "pokemon": [
+        "Sandshrew",
+        "Sandslash"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:sandygast",
+      "pokemon": [
+        "Sandygast",
+        "Palossand"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:scatterbug",
+      "pokemon": [
+        "Scatterbug",
+        "Spewpa",
+        "Vivillon"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:scorbunny",
+      "pokemon": [
+        "Scorbunny",
+        "Raboot",
+        "Cinderace"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:scraggy",
+      "pokemon": [
+        "Scraggy",
+        "Scrafty"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:scyther",
+      "pokemon": [
+        "Scyther",
+        "Scizor"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:seedot",
+      "pokemon": [
+        "Seedot",
+        "Nuzleaf",
+        "Shiftry"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:seel",
+      "pokemon": [
+        "Seel",
+        "Dewgong"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:sentret",
+      "pokemon": [
+        "Sentret",
+        "Furret"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:sewaddle",
+      "pokemon": [
+        "Sewaddle",
+        "Swadloon",
+        "Leavanny"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:shellder",
+      "pokemon": [
+        "Shellder",
+        "Cloyster"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:shellos",
+      "pokemon": [
+        "Shellos",
+        "Gastrodon"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:shelmet",
+      "pokemon": [
+        "Shelmet",
+        "Accelgor"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:shieldon",
+      "pokemon": [
+        "Shieldon",
+        "Bastiodon"
+      ],
+      "fossils": [
+        "Fóssil Armadura"
+      ]
+    },
+    {
+      "id": "standard:shinx",
+      "pokemon": [
+        "Shinx",
+        "Luxio",
+        "Luxray"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:shroodle",
+      "pokemon": [
+        "Shroodle",
+        "Grafaiai"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:shroomish",
+      "pokemon": [
+        "Shroomish",
+        "Breloom"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:shuppet",
+      "pokemon": [
+        "Shuppet",
+        "Banette"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:silicobra",
+      "pokemon": [
+        "Silicobra",
+        "Sandaconda"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:sinistea",
+      "pokemon": [
+        "Sinistea",
+        "Polteageist"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:sizzlipede",
+      "pokemon": [
+        "Sizzlipede",
+        "Centiskorch"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:skiddo",
+      "pokemon": [
+        "Skiddo",
+        "Gogoat"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:skitty",
+      "pokemon": [
+        "Skitty",
+        "Delcatty"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:skorupi",
+      "pokemon": [
+        "Skorupi",
+        "Drapion"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:skrelp",
+      "pokemon": [
+        "Skrelp",
+        "Dragalge"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:skwovet",
+      "pokemon": [
+        "Skwovet",
+        "Greedent"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:slakoth",
+      "pokemon": [
+        "Slakoth",
+        "Vigoroth",
+        "Slaking"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:slowpoke",
+      "pokemon": [
+        "Slowpoke",
+        "Slowbro",
+        "Slowking"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:slugma",
+      "pokemon": [
+        "Slugma",
+        "Magcargo"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:smoliv",
+      "pokemon": [
+        "Smoliv",
+        "Dolliv",
+        "Arboliva"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:smoochum",
+      "pokemon": [
+        "Smoochum",
+        "Jynx"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:sneasel",
+      "pokemon": [
+        "Sneasel",
+        "Weavile"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:snivy",
+      "pokemon": [
+        "Snivy",
+        "Servine",
+        "Serperior"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:snom",
+      "pokemon": [
+        "Snom",
+        "Frosmoth"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:snorunt",
+      "pokemon": [
+        "Snorunt",
+        "Froslass"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:snover",
+      "pokemon": [
+        "Snover",
+        "Abomasnow"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:snubbull",
+      "pokemon": [
+        "Snubbull",
+        "Granbull"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:sobble",
+      "pokemon": [
+        "Sobble",
+        "Drizzile",
+        "Inteleon"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:solosis",
+      "pokemon": [
+        "Solosis",
+        "Duosion",
+        "Reuniclus"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:spearow",
+      "pokemon": [
+        "Spearow",
+        "Fearow"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:spheal",
+      "pokemon": [
+        "Spheal",
+        "Sealeo",
+        "Walrein"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:spinarak",
+      "pokemon": [
+        "Spinarak",
+        "Ariados"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:spoink",
+      "pokemon": [
+        "Spoink",
+        "Grumpig"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:sprigatito",
+      "pokemon": [
+        "Sprigatito",
+        "Floragato",
+        "Meowscarada"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:spritzee",
+      "pokemon": [
+        "Spritzee",
+        "Aromatisse"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:squirtle",
+      "pokemon": [
+        "Squirtle",
+        "Wartortle",
+        "Blastoise"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:starly",
+      "pokemon": [
+        "Starly",
+        "Staravia",
+        "Staraptor"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:staryu",
+      "pokemon": [
+        "Staryu",
+        "Starmie"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:stufful",
+      "pokemon": [
+        "Stufful",
+        "Bewear"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:stunky",
+      "pokemon": [
+        "Stunky",
+        "Skuntank"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:sunkern",
+      "pokemon": [
+        "Sunkern",
+        "Sunflora"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:surskit",
+      "pokemon": [
+        "Surskit",
+        "Masquerain"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:swablu",
+      "pokemon": [
+        "Swablu",
+        "Altaria"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:swinub",
+      "pokemon": [
+        "Swinub",
+        "Piloswine",
+        "Mamoswine"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:swirlix",
+      "pokemon": [
+        "Swirlix",
+        "Slurpuff"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:tadbulb",
+      "pokemon": [
+        "Tadbulb",
+        "Bellibolt"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:taillow",
+      "pokemon": [
+        "Taillow",
+        "Swellow"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:tandemaus",
+      "pokemon": [
+        "Tandemaus",
+        "Maushold"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:tangela",
+      "pokemon": [
+        "Tangela",
+        "Tangrowth"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:tarountula",
+      "pokemon": [
+        "Tarountula",
+        "Spidops"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:teddiursa",
+      "pokemon": [
+        "Teddiursa",
+        "Ursaring",
+        "Ursaluna"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:tentacool",
+      "pokemon": [
+        "Tentacool",
+        "Tentacruel"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:tepig",
+      "pokemon": [
+        "Tepig",
+        "Pignite",
+        "Emboar"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:timburr",
+      "pokemon": [
+        "Timburr",
+        "Gurdurr",
+        "Conkeldurr"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:tinkatink",
+      "pokemon": [
+        "Tinkatink",
+        "Tinkatuff",
+        "Tinkaton"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:tirtouga",
+      "pokemon": [
+        "Tirtouga",
+        "Carracosta"
+      ],
+      "fossils": [
+        "Fóssil Casca"
+      ]
+    },
+    {
+      "id": "standard:toedscool",
+      "pokemon": [
+        "Toedscool",
+        "Toedscruel"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:togepi",
+      "pokemon": [
+        "Togepi",
+        "Togetic",
+        "Togekiss"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:torchic",
+      "pokemon": [
+        "Torchic",
+        "Combusken",
+        "Blaziken"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:totodile",
+      "pokemon": [
+        "Totodile",
+        "Croconaw",
+        "Feraligatr"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:toxel",
+      "pokemon": [
+        "Toxel",
+        "Toxtricity"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:trapinch",
+      "pokemon": [
+        "Trapinch",
+        "Vibrava",
+        "Flygon"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:treecko",
+      "pokemon": [
+        "Treecko",
+        "Grovyle",
+        "Sceptile"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:trubbish",
+      "pokemon": [
+        "Trubbish",
+        "Garbodor"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:turtwig",
+      "pokemon": [
+        "Turtwig",
+        "Grotle",
+        "Torterra"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:tympole",
+      "pokemon": [
+        "Tympole",
+        "Palpitoad",
+        "Seismitoad"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:tynamo",
+      "pokemon": [
+        "Tynamo",
+        "Eelektrik",
+        "Eelektross"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:type-null",
+      "pokemon": [
+        "Tipo Nulo",
+        "Silvally"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:tyrogue",
+      "pokemon": [
+        "Tyrogue",
+        "Hitmonchan",
+        "Hitmonlee",
+        "Hitmontop"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:tyrunt",
+      "pokemon": [
+        "Tyrunt",
+        "Tyrantrum"
+      ],
+      "fossils": [
+        "Fóssil de Mandíbula"
+      ]
+    },
+    {
+      "id": "standard:vanillite",
+      "pokemon": [
+        "Vanillite",
+        "Vanillish",
+        "Vanilluxe"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:varoom",
+      "pokemon": [
+        "Varoom",
+        "Revavroom"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:venipede",
+      "pokemon": [
+        "Venipede",
+        "Whirlipede",
+        "Scolipede"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:venonat",
+      "pokemon": [
+        "Venonat",
+        "Venomoth"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:voltorb",
+      "pokemon": [
+        "Voltorb",
+        "Electrode"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:vullaby",
+      "pokemon": [
+        "Vullaby",
+        "Mandibuzz"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:vulpix",
+      "pokemon": [
+        "Vulpix",
+        "Ninetales"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:wailmer",
+      "pokemon": [
+        "Wailmer",
+        "Wailord"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:wattrel",
+      "pokemon": [
+        "Wattrel",
+        "Kilowattrel"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:weedle",
+      "pokemon": [
+        "Weedle",
+        "Kakuna",
+        "Beedrill"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:whismur",
+      "pokemon": [
+        "Whismur",
+        "Loudred",
+        "Exploud"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:wiglett",
+      "pokemon": [
+        "Wiglett",
+        "Wugtrio"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:wimpod",
+      "pokemon": [
+        "Wimpod",
+        "Golisopod"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:wingull",
+      "pokemon": [
+        "Wingull",
+        "Pelipper"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:woobat",
+      "pokemon": [
+        "Woobat",
+        "Swoobat"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:wooloo",
+      "pokemon": [
+        "Wooloo",
+        "Dubwool"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:wooper",
+      "pokemon": [
+        "Wooper",
+        "Quagsire"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:wurmple",
+      "pokemon": [
+        "Wurmple",
+        "Cascoon",
+        "Silcoon",
+        "Beautifly",
+        "Dustox"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:wynaut",
+      "pokemon": [
+        "Wynaut",
+        "Wobbuffet"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:yamask",
+      "pokemon": [
+        "Yamask",
+        "Cofagrigus"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:yamper",
+      "pokemon": [
+        "Yamper",
+        "Boltund"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:yanma",
+      "pokemon": [
+        "Yanma",
+        "Yanmega"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:yungoos",
+      "pokemon": [
+        "Yungoos",
+        "Gumshoos"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:zigzagoon",
+      "pokemon": [
+        "Zigzagoon",
+        "Linoone"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:zorua",
+      "pokemon": [
+        "Zorua",
+        "Zoroark"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "standard:zubat",
+      "pokemon": [
+        "Zubat",
+        "Golbat",
+        "Crobat"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "team-rocket:drowzee",
+      "pokemon": [
+        "Drowzee da Equipe Rocket",
+        "Hypno da Equipe Rocket"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "team-rocket:ekans",
+      "pokemon": [
+        "Ekans da Equipe Rocket",
+        "Arbok da Equipe Rocket"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "team-rocket:grimer",
+      "pokemon": [
+        "Grimer da Equipe Rocket",
+        "Muk da Equipe Rocket"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "team-rocket:houndour",
+      "pokemon": [
+        "Houndour da Equipe Rocket",
+        "Houndoom da Equipe Rocket"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "team-rocket:koffing",
+      "pokemon": [
+        "Koffing da Equipe Rocket",
+        "Weezing ex da Equipe Rocket"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "team-rocket:meowth",
+      "pokemon": [
+        "Meowth da Equipe Rocket",
+        "Persian da Equipe Rocket"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "team-rocket:rattata",
+      "pokemon": [
+        "Rattata da Equipe Rocket",
+        "Raticate ex da Equipe Rocket"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "team-rocket:slowpoke",
+      "pokemon": [
+        "Slowpoke da Equipe Rocket",
+        "Slowking ex da Equipe Rocket"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "team-rocket:tinkatink",
+      "pokemon": [
+        "Tinkatink da Equipe Rocket",
+        "Tinkatuff da Equipe Rocket",
+        "Tinkaton da Equipe Rocket"
+      ],
+      "fossils": []
+    },
+    {
+      "id": "team-rocket:voltorb",
+      "pokemon": [
+        "Voltorb da Equipe Rocket",
+        "Electrode da Equipe Rocket"
+      ],
+      "fossils": []
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node tests/workspace-storage.test.cjs && node tests/card-layout.test.cjs && node tests/card-data-quality.test.cjs",
+    "test": "node tests/workspace-storage.test.cjs && node tests/card-layout.test.cjs && node tests/card-data-quality.test.cjs && node tests/evolution-suggestions.test.cjs",
     "sync:cards": "node scripts/sync-pocket-cards.mjs",
     "sync:flibustier": "node scripts/sync-flibustier-data.mjs",
     "sync:raw-to-consolidated": "node scripts/import-raw-to-consolidated.mjs",
@@ -12,6 +12,7 @@
     "merge:image-urls": "node scripts/merge-raw-image-urls.mjs",
     "sync:images": "node scripts/download-card-images.mjs",
     "build:site-cards": "node scripts/build-site-cards.mjs",
+    "build:evolutions": "node scripts/build-evolutions.mjs",
     "fix:rarities": "node scripts/fix-rarities-from-db.mjs",
     "fix:types-promo": "node scripts/fix-types-and-promo.mjs",
     "enrich:combat": "node scripts/enrich-combat-fields.mjs",

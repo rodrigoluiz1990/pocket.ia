@@ -24,6 +24,7 @@ let stageOrder = [];
 let tipoDisplayOrder = [];
 
 let suggestionRules = [];
+let evolutionFamilies = [];
 
 const el = {
   cardsGrid: document.getElementById("cardsGrid"),
@@ -1343,7 +1344,7 @@ function renderSuggestions() {
   el.suggestionsList.innerHTML = "";
 
   const deckCards = deck.map(id => cards.find(c => String(c.id) === String(id))).filter(Boolean);
-  const suggestions = window.PocketiaSuggestions?.getSuggestedCards(cards, deckCards, suggestionRules) || [];
+  const suggestions = window.PocketiaSuggestions?.getSuggestedCards(cards, deckCards, suggestionRules, evolutionFamilies) || [];
 
   if (suggestions.length === 0) {
     el.suggestionsList.innerHTML = "<p>Nenhuma sugestao disponivel.</p>";
@@ -1935,12 +1936,22 @@ async function loadSuggestionRulesData() {
   suggestionRules = rules;
 }
 
+async function loadEvolutionFamiliesData() {
+  const response = await fetch("./data/evolutions.json", { cache: "no-store" });
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  const payload = await response.json();
+  const families = Array.isArray(payload) ? payload : payload?.families;
+  if (!Array.isArray(families)) throw new Error("data/evolutions.json invalido.");
+  evolutionFamilies = families;
+}
+
 (async function bootstrap() {
   await loadExpansionsData();
   await loadRaritiesData();
   await loadStagesData();
   await loadTypesData();
   await loadSuggestionRulesData();
+  await loadEvolutionFamiliesData();
   await loadCardsData();
   await loadMetaDecksData();
 
