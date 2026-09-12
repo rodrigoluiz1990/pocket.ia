@@ -42,6 +42,9 @@ const el = {
   deckCardModal: document.getElementById("deckCardModal"),
   deckCardModalTitle: document.getElementById("deckCardModalTitle"),
   deckCardModalImage: document.getElementById("deckCardModalImage"),
+  deckCardModalFavorite: document.getElementById("deckCardModalFavorite"),
+  deckCardModalWanted: document.getElementById("deckCardModalWanted"),
+  deckCardModalAvailable: document.getElementById("deckCardModalAvailable"),
   simResults: document.getElementById("simResults"),
   loadStatus: document.getElementById("loadStatus"),
   suggestionsList: document.getElementById("suggestionsList"),
@@ -91,7 +94,7 @@ const el = {
 
 function canInit() {
   const required = [
-    "cardsGrid","deckList","deckCount","deckEnergyOptions","deckQrBtn","saveDeckBtn","clearDeckBtn","deckQrModal","deckQrModalTitle","deckQrImage","deckQrNote","deckQrShareBtn","deckCardModal","deckCardModalTitle","deckCardModalImage","simResults","loadStatus","searchInput","tipoFilter","elementoFilter",
+    "cardsGrid","deckList","deckCount","deckEnergyOptions","deckQrBtn","saveDeckBtn","clearDeckBtn","deckQrModal","deckQrModalTitle","deckQrImage","deckQrNote","deckQrShareBtn","deckCardModal","deckCardModalTitle","deckCardModalImage","deckCardModalFavorite","deckCardModalWanted","deckCardModalAvailable","simResults","loadStatus","searchInput","tipoFilter","elementoFilter",
     "raridadeFilter","estagioFilter","tagFilter","expansaoFilter","fraquezaFilter","habilidadeFilter",
     "recuoFilter","recuoMinLabel","recuoMaxLabel","vidaSlider","ataqueSlider","vidaMinLabel","vidaMaxLabel","ataqueMinLabel","ataqueMaxLabel","custoAtaqueSlider","custoAtaqueMinLabel","custoAtaqueMaxLabel","formatoFilter","sortField","sortDir","cardLayoutControls",
     "favoriteOnlyToggle","availableOnlyToggle","wantedOnlyToggle","attackEnergyFilter","mostUsedList","metaDecksList",
@@ -570,9 +573,11 @@ async function shareDeckQrCode() {
 function openDeckCardModal(card) {
   if (!card || !el.deckCardModal || !el.deckCardModalImage || !el.deckCardModalTitle) return;
   deckCardModalOpen = true;
+  el.deckCardModal.dataset.cardId = String(card.id);
   el.deckCardModalTitle.textContent = String(card.nome || "Carta");
   el.deckCardModalImage.src = getCardImageSrc(card);
   el.deckCardModalImage.alt = String(card.nome || "Carta");
+  updateDeckCardModalActions(card.id);
   el.deckCardModal.classList.add("open");
   el.deckCardModal.setAttribute("aria-hidden", "false");
   document.body.classList.add("meta-modal-open");
@@ -1174,6 +1179,34 @@ function toggleCardTradeStatus(kind, cardId) {
 
   window.PocketiaWorkspace.saveTradeState(tradeState);
   return !isActive;
+}
+
+function updateDeckCardModalActions(cardId) {
+  const id = String(cardId || "");
+  if (!id) return;
+
+  const favorite = isFavorite(id);
+  el.deckCardModalFavorite.dataset.favorite = id;
+  el.deckCardModalFavorite.classList.toggle("active", favorite);
+  const favoriteLabel = favorite ? "Remover dos favoritos" : "Adicionar aos favoritos";
+  el.deckCardModalFavorite.title = favoriteLabel;
+  el.deckCardModalFavorite.setAttribute("aria-label", favoriteLabel);
+
+  [
+    [el.deckCardModalWanted, "wanted"],
+    [el.deckCardModalAvailable, "available"]
+  ].forEach(([button, kind]) => {
+    const active = isCardInTradeList(kind, id);
+    button.dataset.tradeKind = kind;
+    button.dataset.tradeCard = id;
+    button.classList.toggle("active", active);
+    button.setAttribute("aria-pressed", String(active));
+    const label = kind === "available"
+      ? (active ? "Remover das cartas para troca" : "Marcar para troca")
+      : (active ? "Remover das desejadas" : "Marcar como desejada");
+    button.title = label;
+    button.setAttribute("aria-label", label);
+  });
 }
 
 
@@ -1798,7 +1831,23 @@ function init() {
     if (event.target.closest("[data-deck-qr-close]")) closeDeckQrModal();
   });
   el.deckCardModal?.addEventListener("click", (event) => {
-    if (event.target.closest("[data-deck-card-close]")) closeDeckCardModal();
+    if (event.target.closest("[data-deck-card-close]")) {
+      closeDeckCardModal();
+      return;
+    }
+    const tradeButton = event.target.closest("[data-trade-kind][data-trade-card]");
+    if (tradeButton) {
+      toggleCardTradeStatus(tradeButton.dataset.tradeKind, tradeButton.dataset.tradeCard);
+      updateDeckCardModalActions(tradeButton.dataset.tradeCard);
+      renderCards();
+      return;
+    }
+    const favoriteButton = event.target.closest("[data-favorite]");
+    if (favoriteButton) {
+      toggleFavorite(favoriteButton.dataset.favorite);
+      updateDeckCardModalActions(favoriteButton.dataset.favorite);
+      renderCards();
+    }
   });
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape" && el.metaDeckModal?.classList.contains("open")) closeMetaDeckModal();

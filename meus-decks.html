@@ -14,10 +14,10 @@
     <header class="hero page-hero">
       <div class="hero-content">
         <div class="hero-topline">
-          <div class="site-brand">
+          <a class="site-brand" href="./index.html" aria-label="Voltar para a tela inicial">
             <img class="site-logo" src="./assets/logo/logo_pocketia.png" alt="" />
             <h1>Pocket.ia</h1>
-          </div>
+          </a>
           <nav class="app-nav" aria-label="Navegacao principal">
             <a href="./index.html">Criar Deck</a>
             <a class="active" href="./meus-decks.html">Meus Decks</a>
@@ -49,6 +49,32 @@
         <p id="backupStatus" class="workspace-status" role="status" aria-live="polite"></p>
       </section>
     </main>
+    <div id="savedDeckModal" class="meta-deck-modal" aria-hidden="true">
+      <div class="meta-deck-modal-backdrop" data-saved-deck-close tabindex="-1"></div>
+      <div class="meta-deck-modal-dialog panel" role="dialog" aria-modal="true" aria-labelledby="savedDeckModalTitle">
+        <button type="button" class="meta-deck-modal-close" data-saved-deck-close aria-label="Fechar">×</button>
+        <h2 id="savedDeckModalTitle" class="meta-deck-modal-title"></h2>
+        <div id="savedDeckModalGrid" class="meta-deck-modal-grid"></div>
+        <div class="meta-deck-modal-actions">
+          <button type="button" id="savedDeckModalQrBtn" class="deck-qr-fab meta-deck-modal-qr" aria-label="Abrir QR Code deste deck" title="QR Code">
+            <span class="deck-qr-fab-icon" aria-hidden="true"></span>
+          </button>
+          <button type="button" id="savedDeckModalCopyBtn" class="meta-deck-modal-load">Copiar</button>
+        </div>
+      </div>
+    </div>
+    <div id="savedDeckQrModal" class="meta-deck-modal" aria-hidden="true">
+      <div class="meta-deck-modal-backdrop" data-saved-deck-qr-close tabindex="-1"></div>
+      <div class="meta-deck-modal-dialog panel deck-qr-modal-dialog" role="dialog" aria-modal="true" aria-labelledby="savedDeckQrModalTitle">
+        <button type="button" class="meta-deck-modal-close" data-saved-deck-qr-close aria-label="Fechar">×</button>
+        <h2 id="savedDeckQrModalTitle" class="meta-deck-modal-title">QR Code do Deck</h2>
+        <div class="deck-qr-modal-body">
+          <img id="savedDeckQrImage" class="deck-qr-image" alt="QR Code do deck salvo" />
+          <p class="deck-qr-note">No Pokémon TCG Pocket, use a opção Escanear Código para importar este deck.</p>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.js"></script>
     <script src="./workspace.js"></script>
     <script src="./meus-decks.js"></script>
   </body>

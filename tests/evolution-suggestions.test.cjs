@@ -7,6 +7,7 @@ const families = JSON.parse(fs.readFileSync("data/evolutions.json", "utf8")).fam
 const context = vm.createContext({ window: {} });
 vm.runInContext(fs.readFileSync("suggestions.js", "utf8"), context);
 const engine = context.window.PocketiaSuggestions;
+const suggestedRarities = new Set(["Comum", "Incomum", "Rara", "Duplamente Raro"]);
 
 function cardByName(name) {
   const card = cards.find((item) => item.nome === name);
@@ -32,6 +33,10 @@ assert.ok(!fullBulbasaurSuggestions.some((card) => card.id === bulbasaur.id), "a
 assert.ok(fullBulbasaurSuggestions.some((card) => card.nome === "Bulbasaur"), "outras versões devem permanecer");
 
 const pikachuSuggestions = suggestionsFor("Pikachu");
+assert.ok(
+  pikachuSuggestions.every((card) => card.promo || suggestedRarities.has(card.raridade)),
+  "sugestões evolutivas devem conter somente cartas promocionais ou de 1 a 4 diamantes"
+);
 assert.ok(pikachuSuggestions.filter((card) => /^Pikachu(?: ex)?$/.test(card.nome)).length > 2);
 assert.ok(pikachuSuggestions.filter((card) => /^Raichu(?: ex)?$/.test(card.nome)).length > 2);
 

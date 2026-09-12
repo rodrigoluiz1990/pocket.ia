@@ -4,7 +4,7 @@ import { resolve } from "node:path";
 const CATALOG_PATH = resolve(process.cwd(), "data", "consolidated", "cards-adapted.json");
 const OUTPUT_PATH = resolve(process.cwd(), "data", "meta-decks.json");
 const META_URL = "https://play.limitlesstcg.com/decks?game=POCKET";
-const LIMIT = 50;
+const LIMIT = 100;
 
 async function readJson(path) {
   return JSON.parse((await readFile(path, "utf8")).replace(/^\uFEFF/, ""));

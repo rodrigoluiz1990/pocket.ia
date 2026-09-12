@@ -38,6 +38,12 @@ body {
   display: flex;
   align-items: center;
   gap: 12px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.site-brand:hover {
+  color: inherit;
 }
 
 .site-logo {
@@ -85,6 +91,10 @@ body {
   display: grid;
   grid-template-columns: repeat(5, minmax(150px, 1fr));
   gap: 10px;
+}
+
+.filter-column {
+  display: contents;
 }
 
 input,
@@ -1642,7 +1652,10 @@ body.meta-modal-open {
 }
 
 .meta-deck-modal-load {
-  min-width: 200px;
+  width: 120px;
+  min-width: 120px;
+  height: 66px;
+  border-radius: 12px;
 }
 
 .deck-qr-modal-dialog {
@@ -1697,7 +1710,7 @@ body.meta-modal-open {
 }
 
 .deck-card-modal-dialog {
-  width: min(460px, 100%);
+  width: min(500px, 100%);
 }
 
 .deck-card-modal-body {
@@ -1706,8 +1719,30 @@ body.meta-modal-open {
   padding-top: 6px;
 }
 
+.deck-card-modal-preview {
+  position: relative;
+  width: min(340px, calc(100% - 112px));
+}
+
+.deck-card-modal-actions {
+  top: 8px;
+  right: auto;
+  left: calc(100% + 14px);
+  gap: 10px;
+}
+
+.deck-card-modal-actions .card-fav,
+.deck-card-modal-actions .card-trade-button {
+  width: 42px;
+  height: 42px;
+}
+
+.deck-card-modal-actions .card-status-fa {
+  font-size: 21px;
+}
+
 .deck-card-modal-image {
-  width: min(340px, 80vw);
+  width: 100%;
   border-radius: 18px;
   display: block;
   background: #f6fbff;
@@ -1808,7 +1843,25 @@ body.meta-modal-open {
 }
 
 .danger-button {
-  color: #a44a5c;
+  color: #fff;
+  font-family: inherit;
+  font-weight: 700;
+}
+
+.saved-deck-page-actions {
+  display: flex;
+  align-items: stretch;
+  gap: 8px;
+  width: 100%;
+  margin-top: 12px;
+}
+
+.saved-deck-page-actions .deck-action-stack {
+  flex: 1 1 auto;
+}
+
+.saved-deck-page-actions .deck-action-btn {
+  width: 100%;
 }
 
 .meta-open-link {
@@ -2271,6 +2324,45 @@ body.meta-modal-open {
 }
 
 @media (max-width: 760px) {
+  .hero {
+    padding: 20px 12px 8px;
+  }
+
+  .hero-content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hero-topline {
+    display: contents;
+  }
+
+  .site-brand {
+    order: 1;
+  }
+
+  .subtitle {
+    order: 2;
+    margin: 8px 0;
+  }
+
+  .app-nav {
+    order: 3;
+    width: 100%;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    gap: 2px;
+  }
+
+  .app-nav a {
+    flex: 1 1 0;
+    min-width: 0;
+    padding: 7px 2px;
+    font-size: clamp(0.68rem, 3vw, 0.78rem);
+    text-align: center;
+    white-space: nowrap;
+  }
+
   .layout {
     padding: 12px 12px 24px;
   }
@@ -2281,11 +2373,53 @@ body.meta-modal-open {
 
   .filters {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: start;
     gap: 8px;
   }
 
   .filters > * {
     min-width: 0;
+  }
+
+  .filter-column {
+    display: grid;
+    align-content: start;
+    gap: 8px;
+    min-width: 0;
+  }
+
+  .filter-column > * {
+    min-width: 0;
+  }
+
+  .filter-column-ranges {
+    grid-column: 1;
+  }
+
+  .filter-column-selects {
+    grid-column: 2;
+  }
+
+  .filter-column-selects .multi-dd-trigger,
+  .filter-column-selects .single-dd-trigger {
+    min-height: 42px;
+    padding-right: 30px;
+    padding-left: 10px;
+    font-size: 0.76rem;
+    white-space: nowrap;
+  }
+
+  .filter-column-selects .multi-dd-trigger::after,
+  .filter-column-selects .single-dd-trigger::after {
+    right: 12px;
+  }
+
+  .filter-column-selects .multi-dd-trigger > span,
+  .filter-column-selects .single-dd-trigger > span {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   .ataque-filter,
@@ -2301,26 +2435,102 @@ body.meta-modal-open {
   }
 
   .range-inline {
-    gap: 6px;
+    grid-template-columns: 24px minmax(0, 1fr) 30px;
+    gap: 8px;
   }
 
   .range-value {
-    min-width: 22px;
-    font-size: 0.82rem;
+    min-width: 0;
+    font-size: 0.78rem;
+    white-space: nowrap;
+  }
+
+  .range-value:first-child {
+    text-align: left;
+  }
+
+  .range-value:last-child {
+    text-align: right;
+  }
+
+  .range-track {
+    min-width: 0;
   }
 
   .sort-row-bottom {
-    grid-column: 1 / -1;
+    grid-column: auto;
     grid-row: auto;
   }
 
   .sort-inline {
     grid-template-columns: 1fr;
     gap: 8px;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .single-dd[data-for="sortField"],
+  .single-dd[data-for="sortDir"] {
+    width: 100%;
+    min-width: 0;
+    max-width: none;
+  }
+
+  .sort-inline .single-dd-trigger {
+    width: 100%;
+    min-width: 0;
+    min-height: 42px;
+    padding-right: 30px;
+    padding-left: 10px;
+    font-size: 0.76rem;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .sort-inline .single-dd-trigger::after {
+    right: 12px;
+  }
+
+  .sort-inline .single-dd-trigger > span {
+    display: block;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   .toggle-row {
-    gap: 6px;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: nowrap;
+    gap: 5px;
+  }
+
+  .card-layout-control > span {
+    display: none;
+  }
+
+  .card-layout-buttons {
+    gap: 2px;
+    padding: 2px;
+  }
+
+  .card-layout-button {
+    width: 32px;
+    height: 32px;
+    padding: 6px;
+  }
+
+  .card-layout-button svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  .toggle-row .card-state-filter {
+    width: 30px;
+    height: 30px;
+    font-size: 0;
   }
 
   .cards-grid {
@@ -2363,20 +2573,56 @@ body.meta-modal-open {
     padding: 6px;
   }
 
-  .hero-topline,
   .workspace-two-columns,
   .combo-form,
   .combo-picker-row {
     grid-template-columns: 1fr;
   }
 
-  .hero-topline {
-    align-items: flex-start;
-    flex-direction: column;
+  .deck-actions {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    justify-content: flex-end;
+    gap: 5px;
+    margin-top: 0;
   }
 
-  .app-nav {
-    justify-content: flex-start;
+  .deck-actions .deck-energy-fieldset {
+    margin-right: 4px;
+  }
+
+  .deck-actions .deck-energy-options {
+    grid-template-columns: repeat(4, 18px);
+    gap: 2px;
+  }
+
+  .deck-actions .deck-energy-chip {
+    width: 18px;
+    height: 18px;
+  }
+
+  .deck-actions .deck-energy-chip > img {
+    width: 15px;
+    height: 15px;
+  }
+
+  .deck-actions .deck-qr-fab {
+    width: 54px;
+    min-width: 54px;
+    height: 58px;
+  }
+
+  .deck-actions .deck-qr-fab-icon {
+    width: 38px;
+    height: 38px;
+  }
+
+  .deck-actions .deck-action-btn {
+    width: 62px;
+    min-height: 26px;
+    padding: 5px 7px;
+    font-size: 0.72rem;
   }
 
   .workspace-layout {

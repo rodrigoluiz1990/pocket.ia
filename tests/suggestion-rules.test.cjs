@@ -7,6 +7,14 @@ const rules = JSON.parse(fs.readFileSync("data/suggestion-rules.json", "utf8")).
 const context = vm.createContext({ window: {} });
 vm.runInContext(fs.readFileSync("suggestions.js", "utf8"), context);
 const engine = context.window.PocketiaSuggestions;
+const suggestedRarities = new Set(["Comum", "Incomum", "Rara", "Duplamente Raro"]);
+
+function assertOnlyAllowedRarities(suggestions, label) {
+  assert.ok(
+    suggestions.every((card) => card.promo || suggestedRarities.has(card.raridade)),
+    `${label} deve conter somente cartas promocionais ou de 1 a 4 diamantes`
+  );
+}
 
 function verifySuggestion(label, predicate, expectedCardId) {
   const deckCard = cards.find(predicate);
@@ -31,4 +39,43 @@ verifySuggestion("Básico", (card) => card.categoria === "Pokemon" && card.estag
 verifySuggestion("Estágio 1", (card) => card.categoria === "Pokemon" && card.estagio === "1", "b3b-065");
 verifySuggestion("Estágio 2", (card) => card.categoria === "Pokemon" && card.estagio === "2", "b2a-087");
 
-console.log("Regras de sugestão: aliases de tipo e estágio validados com sucesso.");
+const coinAttackPokemon = cards.find((card) =>
+  card.categoria === "Pokemon"
+  && (card.ataqueLista || []).some((attack) => /coin|moeda/i.test(`${attack.nomeataque || ""} ${attack.efeito || ""}`))
+);
+assert.ok(coinAttackPokemon, "deve existir um Pokémon com ataque que usa moeda");
+const coinSuggestions = engine.getSuggestedCards(cards, [coinAttackPokemon], rules, []);
+assertOnlyAllowedRarities(coinSuggestions, "sugestões para ataques com moeda");
+assert.ok(
+  coinSuggestions.some((card) => card.id === "a4-156" && card.nome === "Will"),
+  `${coinAttackPokemon.nome} deve sugerir Will`
+);
+
+const rocketPokemon = cards.find((card) =>
+  card.categoria === "Pokemon" && String(card.sourceId || "").includes("team-rocket")
+);
+assert.ok(rocketPokemon, "deve existir um Pokémon da Equipe Rocket");
+const rocketSuggestions = engine.getSuggestedCards(cards, [rocketPokemon], rules, []);
+assertOnlyAllowedRarities(rocketSuggestions, "sugestões da Equipe Rocket");
+const rocketRuleSuggestions = rocketSuggestions.filter((card) =>
+  String(card.sourceId || "").includes("team-rocket")
+);
+assert.ok(rocketRuleSuggestions.length > 0, `${rocketPokemon.nome} deve sugerir treinadores da Equipe Rocket`);
+assert.ok(
+  rocketRuleSuggestions.every((card) => card.categoria === "Treinador"),
+  "a regra da Equipe Rocket deve sugerir apenas cartas de treinador"
+);
+
+const nonDiamondPromo = cards.find((card) => card.promo && !suggestedRarities.has(card.raridade));
+assert.ok(nonDiamondPromo, "deve existir uma carta promocional fora das raridades de diamante");
+const promoSuggestions = engine.getSuggestedCards(cards, [coinAttackPokemon], [{
+  id: "promo-rarity-test",
+  when: { pokemonHasCoinFlipAttack: true },
+  cardIds: [nonDiamondPromo.id]
+}], []);
+assert.ok(
+  promoSuggestions.some((card) => card.id === nonDiamondPromo.id),
+  `a carta promocional ${nonDiamondPromo.id} deve ser aceita nas sugestões`
+);
+
+console.log("Regras de sugestão: tipos, estágios, moeda e Equipe Rocket validados com sucesso.");

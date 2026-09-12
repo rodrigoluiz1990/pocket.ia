@@ -19,10 +19,10 @@
     <header class="hero">
       <div class="hero-content">
         <div class="hero-topline">
-          <div class="site-brand">
+          <a class="site-brand" href="./index.html" aria-label="Voltar para a tela inicial">
             <img class="site-logo" src="./assets/logo/logo_pocketia.png" alt="" />
             <h1>Pocket.ia</h1>
-          </div>
+          </a>
           <nav class="app-nav" aria-label="Navegacao principal">
             <a class="active" href="./index.html">Criar Deck</a>
             <a href="./meus-decks.html">Meus Decks</a>
@@ -123,73 +123,75 @@
         </div>
 
         <div class="filters">
-          <input id="searchInput" type="text" placeholder="Buscar carta..." />
-          <select id="tipoFilter" class="multi-filter" multiple title="Categoria"></select>
-          <select id="elementoFilter" class="multi-filter" multiple title="Tipo"></select>
-          <select id="raridadeFilter" class="multi-filter" multiple title="Raridade"></select>
-          <select id="estagioFilter" class="multi-filter" multiple title="Estagio"></select>
-          <select id="tagFilter" class="multi-filter" multiple title="Tag">
-            <option value="arceus">Arceus</option>
-            <option value="futurista">Futurista</option>
-            <option value="ancestral">Ancestral</option>
-            <option value="equipe-rocket">Equipe Rocket</option>
-          </select>
-          <select id="expansaoFilter" class="multi-filter" multiple title="Expansao"></select>
-
-          <select id="fraquezaFilter" class="multi-filter" multiple title="Fraqueza"></select>
-          <select id="habilidadeFilter" class="strong-select">
-            <option value="">Habilidade</option>
-            <option value="tem">Possui habilidade</option>
-            <option value="nao-tem">Nao possui habilidade</option>
-          </select>
-          <div class="range-duo range-single recuo-filter">
-            <span class="range-title">Recuo</span>
-            <div class="range-inline">
-              <span id="recuoMinLabel" class="range-value">0</span>
-              <div id="recuoFilter" class="range-track"></div>
-              <span id="recuoMaxLabel" class="range-value">5</span>
+          <div class="filter-column filter-column-ranges">
+            <input id="searchInput" type="text" placeholder="Buscar carta..." />
+            <div class="range-duo range-single recuo-filter">
+              <span class="range-title">Recuo</span>
+              <div class="range-inline">
+                <span id="recuoMinLabel" class="range-value">0</span>
+                <div id="recuoFilter" class="range-track"></div>
+                <span id="recuoMaxLabel" class="range-value">5</span>
+              </div>
+            </div>
+            <div class="range-duo vida-filter">
+              <span class="range-title">Vida</span>
+              <div class="range-inline">
+                <span id="vidaMinLabel" class="range-value">0</span>
+                <div id="vidaSlider" class="range-track"></div>
+                <span id="vidaMaxLabel" class="range-value">250</span>
+              </div>
+            </div>
+            <div class="range-duo ataque-filter">
+              <span class="range-title">Ataque</span>
+              <div class="range-inline">
+                <span id="ataqueMinLabel" class="range-value">0</span>
+                <div id="ataqueSlider" class="range-track"></div>
+                <span id="ataqueMaxLabel" class="range-value">250</span>
+              </div>
+            </div>
+            <div class="range-duo custo-ataque-filter">
+              <span class="range-title">Custo de ataque</span>
+              <div class="range-inline">
+                <span id="custoAtaqueMinLabel" class="range-value">0</span>
+                <div id="custoAtaqueSlider" class="range-track"></div>
+                <span id="custoAtaqueMaxLabel" class="range-value">5</span>
+              </div>
+            </div>
+            <div class="sort-inline sort-row-bottom">
+              <select id="sortField" class="strong-select">
+                <option value="exp-num">Ordem: expansao + numero</option>
+                <option value="nome">Ordem: nome</option>
+                <option value="numero-exp">Ordem: numero da expansao</option>
+                <option value="tipo">Ordem: tipo</option>
+                <option value="raridade">Ordem: raridade</option>
+                <option value="hp">Ordem: vida</option>
+                <option value="ataque">Ordem: ataque</option>
+              </select>
+              <select id="sortDir" class="strong-select"><option value="asc">Crescente</option><option value="desc">Decrescente</option></select>
             </div>
           </div>
-          <div class="range-duo vida-filter">
-            <span class="range-title">Vida</span>
-            <div class="range-inline">
-              <span id="vidaMinLabel" class="range-value">0</span>
-              <div id="vidaSlider" class="range-track"></div>
-              <span id="vidaMaxLabel" class="range-value">250</span>
-            </div>
-          </div>
-          <div class="range-duo ataque-filter">
-            <span class="range-title">Ataque</span>
-            <div class="range-inline">
-              <span id="ataqueMinLabel" class="range-value">0</span>
-              <div id="ataqueSlider" class="range-track"></div>
-              <span id="ataqueMaxLabel" class="range-value">250</span>
-            </div>
-          </div>
-
-          <div class="range-duo custo-ataque-filter">
-            <span class="range-title">Custo de ataque</span>
-            <div class="range-inline">
-              <span id="custoAtaqueMinLabel" class="range-value">0</span>
-              <div id="custoAtaqueSlider" class="range-track"></div>
-              <span id="custoAtaqueMaxLabel" class="range-value">5</span>
-            </div>
-          </div>
-          <select id="attackEnergyFilter" class="multi-filter" multiple title="Energia do ataque"></select>
-          <select id="formatoFilter" class="multi-filter" multiple title="Formato">
-            <option value="ex">ex</option><option value="noex">noex</option><option value="mega">mega</option>
-          </select>
-          <div class="sort-inline sort-row-bottom">
-            <select id="sortField" class="strong-select">
-              <option value="exp-num">Ordem: expansao + numero</option>
-              <option value="nome">Ordem: nome</option>
-              <option value="numero-exp">Ordem: numero da expansao</option>
-              <option value="tipo">Ordem: tipo</option>
-              <option value="raridade">Ordem: raridade</option>
-              <option value="hp">Ordem: vida</option>
-              <option value="ataque">Ordem: ataque</option>
+          <div class="filter-column filter-column-selects">
+            <select id="tipoFilter" class="multi-filter" multiple title="Categoria"></select>
+            <select id="elementoFilter" class="multi-filter" multiple title="Tipo"></select>
+            <select id="raridadeFilter" class="multi-filter" multiple title="Raridade"></select>
+            <select id="estagioFilter" class="multi-filter" multiple title="Estagio"></select>
+            <select id="tagFilter" class="multi-filter" multiple title="Tag">
+              <option value="arceus">Arceus</option>
+              <option value="futurista">Futurista</option>
+              <option value="ancestral">Ancestral</option>
+              <option value="equipe-rocket">Equipe Rocket</option>
             </select>
-            <select id="sortDir" class="strong-select"><option value="asc">Crescente</option><option value="desc">Decrescente</option></select>
+            <select id="expansaoFilter" class="multi-filter" multiple title="Expansao"></select>
+            <select id="fraquezaFilter" class="multi-filter" multiple title="Fraqueza"></select>
+            <select id="habilidadeFilter" class="strong-select">
+              <option value="">Habilidade</option>
+              <option value="tem">Possui habilidade</option>
+              <option value="nao-tem">Nao possui habilidade</option>
+            </select>
+            <select id="attackEnergyFilter" class="multi-filter" multiple title="Energia do ataque"></select>
+            <select id="formatoFilter" class="multi-filter" multiple title="Formato">
+              <option value="ex">ex</option><option value="noex">noex</option><option value="mega">mega</option>
+            </select>
           </div>
         </div>
         <div class="toggle-row">
@@ -210,7 +212,7 @@
               </button>
             </div>
           </div>
-          <label class="image-only-toggle card-state-filter favorite-state-filter">
+          <label class="image-only-toggle card-state-filter favorite-state-filter" title="Somente favoritas">
             <input id="favoriteOnlyToggle" type="checkbox" />
             <span class="filter-state-icon" aria-hidden="true">
               <i class="fa-regular fa-star status-icon-off"></i>
@@ -218,7 +220,7 @@
             </span>
             Somente favoritas
           </label>
-          <label class="image-only-toggle card-state-filter wanted-state-filter">
+          <label class="image-only-toggle card-state-filter wanted-state-filter" title="Somente desejadas">
             <input id="wantedOnlyToggle" type="checkbox" />
             <span class="filter-state-icon" aria-hidden="true">
               <i class="fa-regular fa-heart status-icon-off"></i>
@@ -226,7 +228,7 @@
             </span>
             Somente desejadas
           </label>
-          <label class="image-only-toggle card-state-filter available-state-filter">
+          <label class="image-only-toggle card-state-filter available-state-filter" title="Somente para troca">
             <input id="availableOnlyToggle" type="checkbox" />
             <span class="filter-state-icon" aria-hidden="true"><i class="fa-solid fa-rotate"></i></span>
             Somente para troca
@@ -297,7 +299,22 @@
         </button>
         <h2 id="deckCardModalTitle" class="meta-deck-modal-title"></h2>
         <div class="deck-card-modal-body">
-          <img id="deckCardModalImage" class="deck-card-modal-image" alt="" />
+          <div class="deck-card-modal-preview">
+            <img id="deckCardModalImage" class="deck-card-modal-image" alt="" />
+            <div class="card-actions deck-card-modal-actions" aria-label="Opções da carta">
+              <button type="button" id="deckCardModalFavorite" class="card-fav" title="Adicionar aos favoritos" aria-label="Adicionar aos favoritos">
+                <i class="fa-regular fa-star card-status-fa status-icon-off" aria-hidden="true"></i>
+                <i class="fa-solid fa-star card-status-fa status-icon-on" aria-hidden="true"></i>
+              </button>
+              <button type="button" id="deckCardModalWanted" class="card-trade-button wanted" aria-pressed="false" title="Marcar como desejada" aria-label="Marcar como desejada">
+                <i class="fa-regular fa-heart card-status-fa status-icon-off" aria-hidden="true"></i>
+                <i class="fa-solid fa-heart card-status-fa status-icon-on" aria-hidden="true"></i>
+              </button>
+              <button type="button" id="deckCardModalAvailable" class="card-trade-button available" aria-pressed="false" title="Marcar para troca" aria-label="Marcar para troca">
+                <i class="fa-solid fa-rotate card-status-fa available-icon" aria-hidden="true"></i>
+              </button>
+            </div>
+          </div>
         </div>
       </div>
     </div>

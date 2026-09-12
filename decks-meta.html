@@ -14,10 +14,10 @@
     <header class="hero page-hero">
       <div class="hero-content">
         <div class="hero-topline">
-          <div class="site-brand">
+          <a class="site-brand" href="./index.html" aria-label="Voltar para a tela inicial">
             <img class="site-logo" src="./assets/logo/logo_pocketia.png" alt="" />
             <h1>Pocket.ia</h1>
-          </div>
+          </a>
           <nav class="app-nav" aria-label="Navegacao principal">
             <a href="./index.html">Criar Deck</a>
             <a href="./meus-decks.html">Meus Decks</a>
@@ -40,6 +40,12 @@
         <button type="button" class="meta-deck-modal-close" data-meta-cards-close aria-label="Fechar">×</button>
         <h2 id="metaDeckCardsModalTitle" class="meta-deck-modal-title"></h2>
         <div id="metaDeckCardsModalGrid" class="meta-deck-modal-grid"></div>
+        <div class="meta-deck-modal-actions">
+          <button type="button" id="metaDeckCardsQrBtn" class="deck-qr-fab meta-deck-modal-qr" aria-label="Abrir QR Code deste deck" title="QR Code">
+            <span class="deck-qr-fab-icon" aria-hidden="true"></span>
+          </button>
+          <button type="button" id="metaDeckCardsCopyBtn" class="meta-deck-modal-load">Copiar</button>
+        </div>
       </div>
     </div>
     <div id="metaQrModal" class="meta-deck-modal" aria-hidden="true">

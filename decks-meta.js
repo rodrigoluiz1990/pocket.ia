@@ -1,5 +1,6 @@
 let cards = [];
 let metaDecks = [];
+let openMetaDeckIndex = -1;
 
 async function loadMetaDecks() {
   const response = await fetch("./data/meta-decks.json", { cache: "no-store" });
@@ -58,6 +59,7 @@ function closeMetaDeckCardsModal() {
 function openMetaDeckCardsModal(index) {
   const deck = metaDecks[index];
   if (!deck) return;
+  openMetaDeckIndex = index;
   const groupedCards = new Map();
 
   for (const ref of deck.cartas || []) {
@@ -117,6 +119,16 @@ function openMetaQrModal(index) {
   document.body.classList.add("meta-modal-open");
 }
 
+function copyMetaDeckToBuilder(index) {
+  const deck = metaDecks[index];
+  if (!deck) return;
+  const ids = (deck.cartas || []).map((ref) => String(ref?.id || ref || "")).filter(Boolean);
+  const deckCards = ids.map((id) => cards.find((card) => String(card.id) === id)).filter(Boolean);
+  const energies = PocketiaWorkspace.inferDeckEnergyCodes(deckCards);
+  const params = new URLSearchParams({ deck: ids.join(","), energy: energies.join(",") });
+  window.location.href = `./index.html?${params.toString()}`;
+}
+
 document.getElementById("metaDeckCatalog").addEventListener("click", (event) => {
   const cardsButton = event.target.closest("[data-meta-cards]");
   if (cardsButton) {
@@ -129,6 +141,17 @@ document.getElementById("metaDeckCatalog").addEventListener("click", (event) => 
 
 document.getElementById("metaDeckCardsModal").addEventListener("click", (event) => {
   if (event.target.closest("[data-meta-cards-close]")) closeMetaDeckCardsModal();
+});
+
+document.getElementById("metaDeckCardsQrBtn").addEventListener("click", () => {
+  if (openMetaDeckIndex < 0) return;
+  const index = openMetaDeckIndex;
+  closeMetaDeckCardsModal();
+  openMetaQrModal(index);
+});
+
+document.getElementById("metaDeckCardsCopyBtn").addEventListener("click", () => {
+  if (openMetaDeckIndex >= 0) copyMetaDeckToBuilder(openMetaDeckIndex);
 });
 
 document.getElementById("metaQrModal").addEventListener("click", (event) => {

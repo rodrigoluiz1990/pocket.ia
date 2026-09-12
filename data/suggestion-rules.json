@@ -20,7 +20,7 @@
     { "id": "low-hp-support", "priority": 75, "when": { "pokemonHpAtMost": 50 }, "cardIds": ["b1-226"] },
     { "id": "mega-support", "priority": 85, "when": { "pokemonMega": true }, "cardIds": ["b1a-069"] },
     { "id": "coin-flip-support", "priority": 85, "when": { "pokemonHasCoinFlipAttack": true }, "cardIds": ["a4-156"] },
-    { "id": "team-rocket-support", "priority": 85, "when": { "deckSourceIdIncludes": "team-rocket" }, "suggest": { "sourceIdIncludes": "team-rocket" } },
+    { "id": "team-rocket-support", "priority": 85, "when": { "deckSourceIdIncludes": "team-rocket" }, "suggest": { "sourceIdIncludes": "team-rocket", "categories": ["Treinador"] } },
     { "id": "stadium-support", "priority": 65, "when": { "deckSubtypes": ["estadio"] }, "cardIds": ["b3-150"] }
   ]
 }

@@ -13,6 +13,17 @@
     return values.some((value) => accepted.has(normalizeKey(value)));
   }
 
+  const suggestedCardRarities = new Set([
+    "comum",
+    "incomum",
+    "rara",
+    "duplamenteraro"
+  ]);
+
+  function hasSuggestedCardRarity(card) {
+    return Boolean(card?.promo) || suggestedCardRarities.has(normalizeKey(card?.raridade));
+  }
+
   function evolutionNameKey(value) {
     return normalizeKey(
       String(value || "")
@@ -48,7 +59,7 @@
         : [];
 
     return attacks.some((attack) =>
-      /coin|moeda/.test(String(attack?.nomeataque || "") + " " + String(attack?.efeito || ""))
+      /coin|moeda/i.test(String(attack?.nomeataque || "") + " " + String(attack?.efeito || ""))
     );
   }
 
@@ -83,9 +94,13 @@
   function getRuleCards(rule, cards, cardsById) {
     const selectedCards = (rule.cardIds || []).map((cardId) => cardsById.get(String(cardId))).filter(Boolean);
     const sourceIdIncludes = String(rule?.suggest?.sourceIdIncludes || "").toLowerCase();
+    const categories = rule?.suggest?.categories || [];
 
     if (sourceIdIncludes) {
-      selectedCards.push(...cards.filter((card) => String(card?.sourceId || "").toLowerCase().includes(sourceIdIncludes)));
+      selectedCards.push(...cards.filter((card) =>
+        String(card?.sourceId || "").toLowerCase().includes(sourceIdIncludes)
+        && (!categories.length || hasSharedValue([card?.categoria], categories))
+      ));
     }
 
     return selectedCards;
@@ -145,6 +160,7 @@
     }
 
     return [...suggestions.values()]
+      .filter((entry) => hasSuggestedCardRarity(entry.card))
       .sort((a, b) => b.priority - a.priority || String(a.card.nome).localeCompare(String(b.card.nome), "pt-BR"))
       .map((entry) => entry.card);
   }

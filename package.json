@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node tests/workspace-storage.test.cjs && node tests/card-layout.test.cjs && node tests/card-data-quality.test.cjs && node tests/evolution-suggestions.test.cjs && node tests/suggestion-rules.test.cjs",
+    "test": "node tests/workspace-storage.test.cjs && node tests/card-layout.test.cjs && node tests/saved-decks-ui.test.cjs && node tests/card-data-quality.test.cjs && node tests/evolution-suggestions.test.cjs && node tests/suggestion-rules.test.cjs",
     "sync:cards": "node scripts/sync-pocket-cards.mjs",
     "sync:flibustier": "node scripts/sync-flibustier-data.mjs",
     "sync:raw-to-consolidated": "node scripts/import-raw-to-consolidated.mjs",
