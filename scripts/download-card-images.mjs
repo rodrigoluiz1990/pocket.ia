@@ -6,6 +6,7 @@ import { argValue, filterFilesByCode, loadIndexFiles, readCardsFromEntry, writeC
 
 const OUT_DIR = resolve(process.cwd(), "assets", "cards");
 const COMPLETE_INDEX_PATH = resolve(process.cwd(), "data", "complete", "index.json");
+const COMPLETE_ALL_PATH = resolve(process.cwd(), "data", "complete", "all", "cards-complete.json");
 
 async function loadCardIndexFiles() {
   try {
@@ -165,6 +166,14 @@ async function run() {
     await Promise.all(Array.from({ length: concurrency }, () => worker()));
     await writeCardsToEntry(entry, cards);
   }
+
+  const allCards = [];
+  for (const entry of files) {
+    const { cards } = await readCardsFromEntry(entry);
+    allCards.push(...cards);
+  }
+  await mkdir(resolve(COMPLETE_ALL_PATH, ".."), { recursive: true });
+  await writeFile(COMPLETE_ALL_PATH, `${JSON.stringify(allCards, null, 2)}\n`, "utf8");
 
   console.log(`Concluido. Imagens em ${OUT_DIR}`);
 }

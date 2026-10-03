@@ -1064,7 +1064,7 @@ function compareCards(a, b, sortField, sortDir) {
 function getFilteredCards() {
   const search = el.searchInput.value.trim().toLowerCase();
   const tipos = selectedValues(el.tipoFilter);
-  const elementos = selectedValues(el.elementoFilter);
+  const elementos = new Set([...selectedValues(el.elementoFilter)].map(normalizeEnergyType));
   const raridades = selectedValues(el.raridadeFilter);
   const favoriteOnly = Boolean(el.favoriteOnlyToggle.checked);
   const availableOnly = Boolean(el.availableOnlyToggle.checked);
@@ -1095,7 +1095,7 @@ function getFilteredCards() {
     .filter((card) => {
       if (search && !String(card.nome).toLowerCase().includes(search)) return false;
       if (tipos.size && !tipos.has(card.categoria)) return false;
-      if (elementos.size && !elementos.has(card.tipo)) return false;
+      if (elementos.size && !elementos.has(normalizeEnergyType(card.tipo))) return false;
       if (raridades.size) {
         const promoSelected = raridades.has("Promo");
         const normalSelected = [...raridades].filter((r) => r !== "Promo");

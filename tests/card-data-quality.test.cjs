@@ -43,6 +43,20 @@ assert.ok(
 
 assert.equal(byId.get("b4-005")?.estagio, "2", "Dustox B4 deve ser Estágio 2");
 
+const rocketElectrode = byId.get("b4a-020");
+assert.equal(rocketElectrode?.categoria, "Pokemon");
+assert.equal(rocketElectrode?.tipo, "Elétrico");
+
+const deluxeMegaCards = cards.filter((card) => card.id.startsWith("b4b-"));
+assert.equal(deluxeMegaCards.length, 429, "a coleção B4B deve conter 429 cartas");
+assert.ok(
+  deluxeMegaCards.every((card) => {
+    const imagePath = path.resolve(root, String(card.imageLocal).replace(/^\.\//, ""));
+    return fs.existsSync(imagePath) && fs.statSync(imagePath).size > 0;
+  }),
+  "todas as cartas B4B devem possuir imagem local"
+);
+
 const corrections = JSON.parse(
   fs.readFileSync(path.join(root, "data", "card-corrections.json"), "utf8")
 );

@@ -6,6 +6,17 @@ const app = fs.readFileSync("app.js", "utf8");
 const css = fs.readFileSync("styles.css", "utf8");
 const layouts = ["details-bottom", "image-only", "image-compact", "details-side"];
 
+assert.match(
+  app,
+  /const elementos = new Set\(\[\.\.\.selectedValues\(el\.elementoFilter\)\]\.map\(normalizeEnergyType\)\)/,
+  "o filtro de tipo deve normalizar valores como Raio e Elétrico"
+);
+assert.match(
+  app,
+  /elementos\.has\(normalizeEnergyType\(card\.tipo\)\)/,
+  "o tipo da carta também deve ser normalizado antes da comparação"
+);
+
 for (const page of ["index.html", "meus-decks.html", "decks-meta.html", "trocas.html"]) {
   const pageHtml = fs.readFileSync(page, "utf8");
   assert.match(pageHtml, /<a class="site-brand" href="\.\/index\.html" aria-label="Voltar para a tela inicial">/);

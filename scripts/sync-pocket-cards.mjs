@@ -14,6 +14,7 @@ const OUTPUT_PATH = resolve(
   process.cwd(),
   argValue("--out", "data/raw/pokemongohub/all/cards-synced.json")
 );
+const TARGET_SET_URL = argValue("--set-url", "").trim();
 const EXPANSIONS_PATH = resolve(process.cwd(), "data/expansions.json");
 const FLIBUSTIER_SETS_PATH = resolve(process.cwd(), "data/raw/flibustier/sets.json");
 const RAW_SITE_ROOT = resolve(process.cwd(), "data/raw/pokemongohub");
@@ -336,9 +337,10 @@ function parseCardPage(html, url) {
 }
 
 async function run() {
-  console.log("Buscando sets...");
-  const home = await fetchText(START_URL);
-  const setLinks = findAll(home, /href="(\/pt\/set\/[^"]+)"/g).map(abs);
+  console.log(TARGET_SET_URL ? "Buscando set informado..." : "Buscando sets...");
+  const setLinks = TARGET_SET_URL
+    ? [abs(TARGET_SET_URL)]
+    : findAll(await fetchText(START_URL), /href="(\/pt\/set\/[^"]+)"/g).map(abs);
   if (!setLinks.length) throw new Error("Nenhum set encontrado na página inicial.");
 
   console.log(`Sets encontrados: ${setLinks.length}`);
@@ -453,11 +455,26 @@ async function run() {
       });
     }
 
-    rawFiles.sort((a, b) => String(a.code).localeCompare(String(b.code)));
+    let indexedFiles = rawFiles;
+    if (TARGET_SET_URL) {
+      try {
+        const currentRaw = await readFile(resolve(RAW_SITE_ROOT, "index.json"), "utf8");
+        const currentPayload = JSON.parse(currentRaw.replace(/^\uFEFF/, ""));
+        const currentFiles = Array.isArray(currentPayload) ? currentPayload : currentPayload?.files || [];
+        const updatedCodes = new Set(rawFiles.map((entry) => String(entry.code || "").toUpperCase()));
+        indexedFiles = [
+          ...currentFiles.filter((entry) => !updatedCodes.has(String(entry.code || "").toUpperCase())),
+          ...rawFiles
+        ];
+      } catch {
+        // Na primeira sincronizacao, o indice ainda pode nao existir.
+      }
+    }
+    indexedFiles.sort((a, b) => String(a.code).localeCompare(String(b.code)));
     await mkdir(RAW_SITE_ROOT, { recursive: true });
     await writeFile(
       resolve(RAW_SITE_ROOT, "index.json"),
-      `${JSON.stringify({ site: "pokemongohub", files: rawFiles }, null, 2)}\n`,
+      `${JSON.stringify({ site: "pokemongohub", files: indexedFiles }, null, 2)}\n`,
       "utf8"
     );
     console.log(`Raw por coleção atualizado em ${RAW_SITE_ROOT}`);
