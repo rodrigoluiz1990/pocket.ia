@@ -3,8 +3,10 @@ const deck = [];
 const maxDeck = 20;
 const maxCopies = 2;
 let renderToken = 0;
+let cardRenderObserver = null;
+let autoLoadTimer = 0;
 let filterRenderTimer = 0;
-const CARD_BATCH_SIZE = 24;
+const CARD_BATCH_SIZE = 16;
 const FILTER_RENDER_DELAY = 140;
 const DECK_QUERY_PARAM = "deck";
 let metaDecks = [];
@@ -1237,6 +1239,10 @@ function scheduleRenderCards(delay = FILTER_RENDER_DELAY) {
 function renderCards() {
   clearTimeout(filterRenderTimer);
   filterRenderTimer = 0;
+  clearTimeout(autoLoadTimer);
+  autoLoadTimer = 0;
+  cardRenderObserver?.disconnect();
+  cardRenderObserver = null;
   renderToken++;
   const thisRender = renderToken;
   const filtered = getFilteredCards();
@@ -1270,6 +1276,8 @@ function renderCards() {
     if (index >= filtered.length) {
       el.loadStatus.textContent = `Mostrando ${filtered.length} de ${filtered.length} cartas.`;
       sentinel.remove();
+      cardRenderObserver?.disconnect();
+      cardRenderObserver = null;
       return;
     }
     const fragment = document.createDocumentFragment();
@@ -1344,12 +1352,14 @@ function renderCards() {
     if (index >= filtered.length) {
       el.loadStatus.textContent = `Mostrando ${filtered.length} de ${filtered.length} cartas.`;
       sentinel.remove();
+      cardRenderObserver?.disconnect();
+      cardRenderObserver = null;
     } else {
-      el.loadStatus.textContent = `Mostrando ${index} de ${filtered.length} cartas. Use o botão para carregar mais.`;
+      el.loadStatus.textContent = `Mostrando ${index} de ${filtered.length} cartas. Mais cartas serão carregadas ao chegar ao final.`;
     }
   }
 
-  function queueNextBatch() {
+  function queueNextBatch(onComplete = null) {
     if (batchPending || index >= filtered.length) return;
     batchPending = true;
     loadMoreButton.disabled = true;
@@ -1362,17 +1372,43 @@ function renderCards() {
         loadMoreButton.disabled = false;
         loadMoreButton.textContent = "Carregar mais cartas";
       }
+      if (typeof onComplete === "function") onComplete();
     };
     if ("requestIdleCallback" in window) window.requestIdleCallback(run, { timeout: 200 });
     else window.setTimeout(run, 0);
   }
 
   loadMoreButton.addEventListener("click", () => {
-    queueNextBatch();
+    clearTimeout(autoLoadTimer);
+    cardRenderObserver?.unobserve(sentinel);
+    queueNextBatch(() => {
+      if (index < filtered.length && sentinel.isConnected) cardRenderObserver?.observe(sentinel);
+    });
   });
   appendNext();
   if (index < filtered.length) {
     el.cardsGrid.appendChild(sentinel);
+    if ("IntersectionObserver" in window) {
+      cardRenderObserver = new IntersectionObserver((entries, observer) => {
+        if (thisRender !== renderToken || !entries.some((entry) => entry.isIntersecting)) return;
+        observer.unobserve(sentinel);
+        clearTimeout(autoLoadTimer);
+        autoLoadTimer = window.setTimeout(() => {
+          autoLoadTimer = 0;
+          if (thisRender !== renderToken || !sentinel.isConnected) return;
+          const bounds = sentinel.getBoundingClientRect();
+          const stillNearBottom = bounds.top <= window.innerHeight + 80 && bounds.bottom >= -80;
+          if (!stillNearBottom) {
+            observer.observe(sentinel);
+            return;
+          }
+          queueNextBatch(() => {
+            if (index < filtered.length && sentinel.isConnected) observer.observe(sentinel);
+          });
+        }, 140);
+      }, { rootMargin: "0px 0px 80px", threshold: 0.01 });
+      cardRenderObserver.observe(sentinel);
+    }
   }
 }
 

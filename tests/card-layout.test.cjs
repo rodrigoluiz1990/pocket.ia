@@ -16,8 +16,10 @@ assert.match(
   /elementos\.has\(normalizeEnergyType\(card\.tipo\)\)/,
   "o tipo da carta também deve ser normalizado antes da comparação"
 );
-assert.match(app, /const CARD_BATCH_SIZE = 24;/, "as cartas devem ser renderizadas em lotes pequenos");
-assert.doesNotMatch(app, /IntersectionObserver/, "a rolagem não deve disparar novos lotes automaticamente");
+assert.match(app, /const CARD_BATCH_SIZE = 16;/, "as cartas devem ser renderizadas em lotes pequenos");
+assert.match(app, /new IntersectionObserver\(/, "as cartas devem carregar automaticamente ao chegar ao fim da página");
+assert.match(app, /rootMargin: "0px 0px 80px"/, "o carregamento automático deve ocorrer somente próximo ao final");
+assert.match(app, /stillNearBottom/, "o carregamento deve confirmar que o usuário continua no fim da página");
 assert.match(app, /requestIdleCallback/, "a montagem de novos lotes deve aguardar um período ocioso");
 assert.match(app, /if \(!imageOnly\) \{[\s\S]*?cardInfoMarkup = `/, "o layout de imagem não deve montar dados ocultos");
 assert.match(app, /loading="lazy" decoding="async"/, "as imagens devem ser carregadas e decodificadas sem bloquear a rolagem");
