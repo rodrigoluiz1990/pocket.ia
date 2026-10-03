@@ -3,11 +3,16 @@ const deck = [];
 const maxDeck = 20;
 const maxCopies = 2;
 let renderToken = 0;
+let filterRenderTimer = 0;
+const CARD_BATCH_SIZE = 24;
+const FILTER_RENDER_DELAY = 140;
 const DECK_QUERY_PARAM = "deck";
 let metaDecks = [];
 const favorites = new Set();
 const deckEnergySelection = new Set();
 let tradeState = { available: [], wanted: [], combos: [] };
+const availableCardIds = new Set();
+const wantedCardIds = new Set();
 const FALLBACK_IMAGE_SRC = "./assets/cards/pokemon_pocket_card_back.png";
 
 let expansionOrder = [];
@@ -1156,11 +1161,15 @@ function toggleFavorite(cardId) {
 
 function loadTradeState() {
   if (window.PocketiaWorkspace) tradeState = window.PocketiaWorkspace.getTradeState();
+  availableCardIds.clear();
+  wantedCardIds.clear();
+  tradeState.available.forEach((id) => availableCardIds.add(String(id)));
+  tradeState.wanted.forEach((id) => wantedCardIds.add(String(id)));
 }
 
 function isCardInTradeList(kind, cardId) {
-  const list = kind === "available" ? tradeState.available : tradeState.wanted;
-  return list.some((id) => String(id) === String(cardId));
+  const ids = kind === "available" ? availableCardIds : wantedCardIds;
+  return ids.has(String(cardId));
 }
 
 function toggleCardTradeStatus(kind, cardId) {
@@ -1171,10 +1180,17 @@ function toggleCardTradeStatus(kind, cardId) {
 
   if (isActive) {
     const next = list.filter((item) => String(item) !== id);
-    if (kind === "available") tradeState.available = next;
-    else tradeState.wanted = next;
+    if (kind === "available") {
+      tradeState.available = next;
+      availableCardIds.delete(id);
+    } else {
+      tradeState.wanted = next;
+      wantedCardIds.delete(id);
+    }
   } else {
     list.push(id);
+    if (kind === "available") availableCardIds.add(id);
+    else wantedCardIds.add(id);
   }
 
   window.PocketiaWorkspace.saveTradeState(tradeState);
@@ -1210,7 +1226,17 @@ function updateDeckCardModalActions(cardId) {
 }
 
 
+function scheduleRenderCards(delay = FILTER_RENDER_DELAY) {
+  clearTimeout(filterRenderTimer);
+  filterRenderTimer = window.setTimeout(() => {
+    filterRenderTimer = 0;
+    renderCards();
+  }, delay);
+}
+
 function renderCards() {
+  clearTimeout(filterRenderTimer);
+  filterRenderTimer = 0;
   renderToken++;
   const thisRender = renderToken;
   const filtered = getFilteredCards();
@@ -1230,27 +1256,55 @@ function renderCards() {
   }
 
   let index = 0;
-  const batchSize = 24;
+  let batchPending = false;
+  const sentinel = document.createElement("div");
+  sentinel.className = "cards-load-sentinel";
+  const loadMoreButton = document.createElement("button");
+  loadMoreButton.type = "button";
+  loadMoreButton.className = "cards-load-more";
+  loadMoreButton.textContent = "Carregar mais cartas";
+  sentinel.appendChild(loadMoreButton);
+
   function appendNext() {
     if (thisRender !== renderToken) return;
     if (index >= filtered.length) {
       el.loadStatus.textContent = `Mostrando ${filtered.length} de ${filtered.length} cartas.`;
+      sentinel.remove();
       return;
     }
     const fragment = document.createDocumentFragment();
-    const end = Math.min(index + batchSize, filtered.length);
+    const end = Math.min(index + CARD_BATCH_SIZE, filtered.length);
     for (; index < end; index++) {
       const card = filtered[index];
       const imageSrc = getCardImageSrc(card);
-      const ataques = cardAttacks(card);
-      const custos = ataques.map(attackCost);
-      const danos = ataques.map(attackDamageLabel);
-      const custoText = custos.join(" / ");
-      const danoText = danos.join(" / ");
-      const specialTags = getSpecialCardTagLabels(card);
-      const tagsMarkup = specialTags.length
-        ? `<li class="card-tags-row"><strong>Tags:</strong><span class="card-tag-list">${specialTags.map((tag) => `<span class="card-tag">${tag}</span>`).join("")}</span></li>`
-        : "";
+      let cardInfoMarkup = "";
+      if (!imageOnly) {
+        const ataques = cardAttacks(card);
+        const custos = ataques.map(attackCost);
+        const danos = ataques.map(attackDamageLabel);
+        const custoText = custos.join(" / ");
+        const danoText = danos.join(" / ");
+        const specialTags = getSpecialCardTagLabels(card);
+        const tagsMarkup = specialTags.length
+          ? `<li class="card-tags-row"><strong>Tags:</strong><span class="card-tag-list">${specialTags.map((tag) => `<span class="card-tag">${tag}</span>`).join("")}</span></li>`
+          : "";
+        cardInfoMarkup = `
+          <ul class="card-info-list">
+            <li><strong>Nome:</strong> ${card.nome}</li>
+            <li><strong>Categoria:</strong> ${card.categoria || "-"}</li>
+            <li><strong>Estagio:</strong> ${card.estagio}</li>
+            <li><strong>Tipo:</strong> ${card.tipo || "-"}</li>
+            <li><strong>Vida:</strong> ${card.hp}</li>
+            <li><strong>Custo:</strong> ${custoText}</li>
+            <li><strong>Dano:</strong> ${danoText}</li>
+            <li><strong>Recuo:</strong> ${card.recuo}</li>
+            <li><strong>Raridade:</strong> ${card.raridade || "-"}</li>
+            <li><strong>Pacote:</strong> ${card.pacote || card.expansao}</li>
+            <li class="card-code-row"><strong>Codigo:</strong> ${String(card.id).toUpperCase()}</li>
+            ${tagsMarkup}
+          </ul>
+        `;
+      }
       const cardEl = document.createElement("article");
       const layoutClass = cardLayout === "image-compact"
         ? "image-only image-compact"
@@ -1281,30 +1335,45 @@ function renderCards() {
             <i class="fa-solid fa-expand card-status-fa expand-icon" aria-hidden="true"></i>
           </button>
         </div>
-        <img loading="lazy" src="${imageSrc}" alt="${card.nome}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
-        <ul class="card-info-list">
-          <li><strong>Nome:</strong> ${card.nome}</li>
-          <li><strong>Categoria:</strong> ${card.categoria || "-"}</li>
-          <li><strong>Estagio:</strong> ${card.estagio}</li>
-          <li><strong>Tipo:</strong> ${card.tipo || "-"}</li>
-          <li><strong>Vida:</strong> ${card.hp}</li>
-          <li><strong>Custo:</strong> ${custoText}</li>
-          <li><strong>Dano:</strong> ${danoText}</li>
-          <li><strong>Recuo:</strong> ${card.recuo}</li>
-          <li><strong>Raridade:</strong> ${card.raridade || "-"}</li>
-          <li><strong>Pacote:</strong> ${card.pacote || card.expansao}</li>
-          <li class="card-code-row"><strong>Codigo:</strong> ${String(card.id).toUpperCase()}</li>
-          ${tagsMarkup}
-        </ul>
+        <img loading="lazy" decoding="async" src="${imageSrc}" alt="${card.nome}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
+        ${cardInfoMarkup}
       `;
       fragment.appendChild(cardEl);
     }
-    el.cardsGrid.appendChild(fragment);
-    el.loadStatus.textContent = `Mostrando ${index} de ${filtered.length} cartas...`;
-    setTimeout(appendNext, 0);
+    el.cardsGrid.insertBefore(fragment, sentinel.isConnected ? sentinel : null);
+    if (index >= filtered.length) {
+      el.loadStatus.textContent = `Mostrando ${filtered.length} de ${filtered.length} cartas.`;
+      sentinel.remove();
+    } else {
+      el.loadStatus.textContent = `Mostrando ${index} de ${filtered.length} cartas. Use o botão para carregar mais.`;
+    }
   }
 
+  function queueNextBatch() {
+    if (batchPending || index >= filtered.length) return;
+    batchPending = true;
+    loadMoreButton.disabled = true;
+    loadMoreButton.textContent = "Carregando...";
+    const run = () => {
+      batchPending = false;
+      if (thisRender !== renderToken) return;
+      appendNext();
+      if (index < filtered.length) {
+        loadMoreButton.disabled = false;
+        loadMoreButton.textContent = "Carregar mais cartas";
+      }
+    };
+    if ("requestIdleCallback" in window) window.requestIdleCallback(run, { timeout: 200 });
+    else window.setTimeout(run, 0);
+  }
+
+  loadMoreButton.addEventListener("click", () => {
+    queueNextBatch();
+  });
   appendNext();
+  if (index < filtered.length) {
+    el.cardsGrid.appendChild(sentinel);
+  }
 }
 
 function deckStats() {
@@ -1474,7 +1543,7 @@ function bindInputLabels() {
       const hi = Math.round(Number(values[1]));
       minLabelEl.textContent = String(lo);
       maxLabelEl.textContent = String(hi);
-      renderCards();
+      scheduleRenderCards();
     });
   };
 
@@ -1667,7 +1736,7 @@ function init() {
   [
     el.searchInput, el.tipoFilter, el.elementoFilter, el.raridadeFilter, el.estagioFilter, el.tagFilter, el.expansaoFilter, el.fraquezaFilter, el.attackEnergyFilter,
     el.habilidadeFilter, el.formatoFilter, el.sortField, el.sortDir, el.favoriteOnlyToggle, el.availableOnlyToggle, el.wantedOnlyToggle
-  ].filter(Boolean).forEach((node) => node.addEventListener("input", renderCards));
+  ].filter(Boolean).forEach((node) => node.addEventListener("input", () => scheduleRenderCards()));
 
   el.cardLayoutControls?.addEventListener("click", (event) => {
     const button = event.target.closest("[data-card-layout]");

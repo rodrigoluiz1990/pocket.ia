@@ -16,6 +16,15 @@ assert.match(
   /elementos\.has\(normalizeEnergyType\(card\.tipo\)\)/,
   "o tipo da carta também deve ser normalizado antes da comparação"
 );
+assert.match(app, /const CARD_BATCH_SIZE = 24;/, "as cartas devem ser renderizadas em lotes pequenos");
+assert.doesNotMatch(app, /IntersectionObserver/, "a rolagem não deve disparar novos lotes automaticamente");
+assert.match(app, /requestIdleCallback/, "a montagem de novos lotes deve aguardar um período ocioso");
+assert.match(app, /if \(!imageOnly\) \{[\s\S]*?cardInfoMarkup = `/, "o layout de imagem não deve montar dados ocultos");
+assert.match(app, /loading="lazy" decoding="async"/, "as imagens devem ser carregadas e decodificadas sem bloquear a rolagem");
+assert.match(app, /function scheduleRenderCards\(delay = FILTER_RENDER_DELAY\)/, "eventos rápidos de filtro devem ser agrupados");
+assert.doesNotMatch(app, /setTimeout\(appendNext, 0\)/, "a grade não deve carregar todas as cartas automaticamente");
+assert.match(css, /\.cards-load-sentinel\s*\{[\s\S]*?grid-column: 1 \/ -1;/);
+assert.match(css, /\.card\s*\{[\s\S]*?content-visibility: auto;[\s\S]*?contain-intrinsic-size:/);
 
 for (const page of ["index.html", "meus-decks.html", "decks-meta.html", "trocas.html"]) {
   const pageHtml = fs.readFileSync(page, "utf8");
