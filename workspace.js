@@ -56,7 +56,8 @@
   migrateSessionStorage();
 
   async function loadCards() {
-    const response = await fetch("./data/consolidated/cards-adapted.json", { cache: "no-store" });
+    // "no-cache" revalida com o servidor em vez de baixar o catalogo inteiro a cada troca de pagina.
+    const response = await fetch("./data/consolidated/cards-adapted.json", { cache: "no-cache" });
     if (!response.ok) throw new Error("Nao foi possivel carregar o catalogo de cartas.");
     const cards = await response.json();
     return Array.isArray(cards) ? cards : [];

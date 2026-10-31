@@ -1,12 +1,22 @@
-﻿let cards = [];
+let cards = [];
 const deck = [];
 const maxDeck = 20;
 const maxCopies = 2;
 let renderToken = 0;
 let cardRenderObserver = null;
-let autoLoadTimer = 0;
 let filterRenderTimer = 0;
-const CARD_BATCH_SIZE = 16;
+const CARD_BATCH_MIN = 24;
+const CARD_BATCH_MAX = 96;
+// Monta o proximo lote quando faltar ~1,5 tela para o fim, para a rolagem nunca bater no fim da lista.
+const CARD_PREFETCH_MARGIN = "0px 0px 1400px";
+// Largura em que a imagem aparece em cada layout: o navegador escolhe a miniatura (184px)
+// em telas comuns e a imagem completa (367px) em telas de alta densidade.
+const GRID_IMAGE_SIZES = {
+  "image-only": "(max-width: 760px) 45vw, 160px",
+  "image-compact": "(max-width: 760px) 30vw, 140px",
+  "details-bottom": "(max-width: 760px) 45vw, 120px",
+  "details-side": "(max-width: 760px) 45vw, 270px"
+};
 const FILTER_RENDER_DELAY = 140;
 const DECK_QUERY_PARAM = "deck";
 let metaDecks = [];
@@ -15,7 +25,9 @@ const deckEnergySelection = new Set();
 let tradeState = { available: [], wanted: [], combos: [] };
 const availableCardIds = new Set();
 const wantedCardIds = new Set();
-const FALLBACK_IMAGE_SRC = "./assets/cards/pokemon_pocket_card_back.png";
+const FALLBACK_IMAGE_SRC = "./assets/cards/pokemon_pocket_card_back.webp";
+// "no-cache" revalida com o servidor (304 quando nada mudou) em vez de baixar os JSON de novo a cada visita.
+const DATA_FETCH_OPTIONS = { cache: "no-cache" };
 
 let expansionOrder = [];
 let normalizedExpansionOrder = [];
@@ -182,6 +194,7 @@ function assetCodeFromSetCode(code) {
   const normalized = normalizeSetCode(code);
   if (normalized === "PROMO-A") return "pa";
   if (normalized === "PROMO-B") return "pb";
+  if (normalized === "PROMO-C") return "pc";
   return normalized.toLowerCase();
 }
 
@@ -229,12 +242,12 @@ function normalizeCardImagePath(card) {
   const fileName = normalized.split("/").pop() || "";
   if (!fileName) return current;
 
-  const promoMatch = fileName.match(/^p-([ab])-(\d+\.[a-z0-9]+)$/i);
+  const promoMatch = fileName.match(/^p-([abc])-(\d+\.[a-z0-9]+)$/i);
   const normalizedFileName = promoMatch ? `p${promoMatch[1].toLowerCase()}-${promoMatch[2]}` : fileName.toLowerCase();
   const setCode =
     extractSetCodeFromExpansion(card?.expansao) ||
     (() => {
-      const idMatch = String(card?.id || "").trim().match(/^([a-z]\d[a-z]?|p-[ab])-/i);
+      const idMatch = String(card?.id || "").trim().match(/^([a-z]\d[a-z]?|p-[abc])-/i);
       return idMatch ? idMatch[1] : "";
     })();
   const assetCode = assetCodeFromSetCode(setCode);
@@ -267,6 +280,7 @@ function normalizeEnergyType(value) {
 
 function cardHasAttackType(card, selectedAttackTypes) {
   if (!selectedAttackTypes.size) return true;
+  if (card._attackTypes) return [...selectedAttackTypes].some((type) => card._attackTypes.has(type));
   const ataques = Array.isArray(card.ataqueLista) ? card.ataqueLista : [];
   for (const atk of ataques) {
     const custos = Array.isArray(atk?.custoataque) ? atk.custoataque : [];
@@ -301,6 +315,10 @@ function cardAttacks(card) {
 }
 
 function cardHasAttackInRange(card, damageMin, damageMax, costMin, costMax) {
+  if (card._attackStats) {
+    return card._attackStats.some(({ damage, cost }) =>
+      damage >= damageMin && damage <= damageMax && cost >= costMin && cost <= costMax);
+  }
   return cardAttacks(card).some((atk) => {
     const damage = attackDamage(atk);
     const cost = attackCost(atk);
@@ -319,12 +337,12 @@ function metaIdCandidates(value) {
   if (!id) return [];
 
   const candidates = [id];
-  const promoShortMatch = id.match(/^p-([ab])-(\d+)$/i);
+  const promoShortMatch = id.match(/^p-([abc])-(\d+)$/i);
   if (promoShortMatch) {
     candidates.push(`promo-${promoShortMatch[1].toLowerCase()}-${promoShortMatch[2]}`);
   }
 
-  const promoFullMatch = id.match(/^promo-([ab])-(\d+)$/i);
+  const promoFullMatch = id.match(/^promo-([abc])-(\d+)$/i);
   if (promoFullMatch) {
     candidates.push(`p-${promoFullMatch[1].toLowerCase()}-${promoFullMatch[2]}`);
   }
@@ -345,7 +363,7 @@ function findCardByMetaRef(ref) {
     const idRaw = ref.id;
     if (idRaw != null && String(idRaw).trim() !== "") {
       for (const candidateId of metaIdCandidates(idRaw)) {
-        const card = cards.find((c) => String(c.id) === candidateId);
+        const card = findCardById(candidateId);
         if (card) return card;
       }
       return null;
@@ -488,7 +506,7 @@ function buildGameDeckQrDataUrl(payload) {
 
 function openDeckQrModal() {
   if (!el.deckQrModal || !el.deckQrImage || deck.length !== maxDeck) return;
-  const deckCards = deck.map((id) => cards.find((card) => String(card.id) === String(id))).filter(Boolean);
+  const deckCards = deck.map((id) => findCardById(id)).filter(Boolean);
   if (deckCards.length !== maxDeck) {
     alert("Nao foi possivel localizar todas as cartas do deck.");
     return;
@@ -640,7 +658,7 @@ function applyDeckState(ids, energyCodes = []) {
   for (const rawId of Array.isArray(ids) ? ids.slice(0, maxDeck) : []) {
     const id = String(rawId || "").trim();
     if (!id) continue;
-    const card = cards.find((entry) => String(entry.id) === id);
+    const card = findCardById(id);
     if (!card) continue;
     const count = copies.get(id) || 0;
     if (count >= maxCopies) continue;
@@ -799,7 +817,7 @@ function getMostUsedCards(limit = 20) {
   return [...counts.entries()]
     .sort((a, b) => b[1] - a[1])
     .slice(0, limit)
-    .map(([id, usos]) => ({ card: cards.find((c) => String(c.id) === String(id)), usos }))
+    .map(([id, usos]) => ({ card: findCardById(id), usos }))
     .filter((x) => x.card);
 }
 
@@ -919,12 +937,28 @@ function normalizeCard(card) {
   if (estagioKey === "baby") tags.add("basic");
   const formatoKey = normalizeKey(formato);
   if (formatoKey === "mega" || formatoKey === "ex") tags.add(formatoKey);
+  const nome = String(card.nome || "").trim();
+  const tipo = String(card.tipo || "").trim();
+  // Cartas de dois tipos trazem `tipos`; as demais so `tipo`.
+  const cardTipos = (Array.isArray(card.tipos) && card.tipos.length ? card.tipos : [tipo])
+    .map((value) => String(value || "").trim())
+    .filter(Boolean);
 
   return {
     ...card,
-    nome: String(card.nome || "").trim(),
+    nome,
     categoria: String(card.categoria || "").trim(),
-    tipo: String(card.tipo || "").trim(),
+    tipo,
+    tipos: cardTipos,
+    // Chaves calculadas uma vez para filtrar sem repetir normalizacoes a cada carta.
+    _searchKey: normalizeKey(`${nome} ${card.id || ""}`),
+    _tipoKeys: cardTipos.map(normalizeEnergyType),
+    _attackTypes: new Set(
+      ataques.flatMap((atk) => (Array.isArray(atk?.custoataque) ? atk.custoataque : []).map(normalizeEnergyType))
+    ),
+    _attackStats: ataques.length
+      ? ataques.map((atk) => ({ damage: attackDamage(atk), cost: attackCost(atk) }))
+      : [{ damage: 0, cost: 0 }],
     expansao: String(card.expansao || "").trim(),
     pacote: String(card.pacote || "").trim(),
     estagio,
@@ -1007,35 +1041,48 @@ function populateFilter(selectEl, values) {
 }
 
 
+const textCollator = new Intl.Collator("pt-BR");
+
+// Chaves de ordenacao calculadas na primeira ordenacao (depois que expansoes e tipos foram carregados).
+function cardSortKeys(card) {
+  if (!card._sortKeys) {
+    const tipoKey = normalizeEnergyType(card.tipo);
+    const tipoIndex = tipoDisplayOrder.findIndex((type) => normalizeEnergyType(type) === tipoKey);
+    card._sortKeys = {
+      expRank: expansionRank(card.expansao),
+      number: parseCardNumber(card.numero),
+      tipoKey,
+      tipoRank: tipoIndex === -1 ? Number.MAX_SAFE_INTEGER : tipoIndex
+    };
+  }
+  return card._sortKeys;
+}
+
 function compareCards(a, b, sortField, sortDir) {
   const dirKey = String(sortDir || "asc").toLowerCase();
   const dir = dirKey === "desc" ? -1 : 1;
-  const compareExpNumAsc = (x, y) => {
-    const rankX = expansionRank(x.expansao);
-    const rankY = expansionRank(y.expansao);
+  const keysA = cardSortKeys(a);
+  const keysB = cardSortKeys(b);
+  const compareExpNumAsc = (x, y, keysX, keysY) => {
+    const rankX = keysX.expRank;
+    const rankY = keysY.expRank;
     const exp = rankX - rankY;
     if (exp !== 0) return exp;
     if (rankX === Number.MAX_SAFE_INTEGER && rankY === Number.MAX_SAFE_INTEGER) {
-      const byName = String(x.expansao || "").localeCompare(String(y.expansao || ""), "pt-BR");
+      const byName = textCollator.compare(String(x.expansao || ""), String(y.expansao || ""));
       if (byName !== 0) return byName;
     }
-    const num = parseCardNumber(x.numero) - parseCardNumber(y.numero);
+    const num = keysX.number - keysY.number;
     if (num !== 0) return num;
-    return String(x.nome).localeCompare(String(y.nome), "pt-BR");
+    return textCollator.compare(String(x.nome), String(y.nome));
   };
 
-  if (sortField === "nome") return String(a.nome).localeCompare(String(b.nome), "pt-BR") * dir;
-  if (sortField === "numero-exp") return (parseCardNumber(a.numero) - parseCardNumber(b.numero)) * dir;
+  if (sortField === "nome") return textCollator.compare(String(a.nome), String(b.nome)) * dir;
+  if (sortField === "numero-exp") return (keysA.number - keysB.number) * dir;
   if (sortField === "tipo") {
-    const typeA = normalizeEnergyType(a.tipo);
-    const typeB = normalizeEnergyType(b.tipo);
-    const indexA = tipoDisplayOrder.findIndex((type) => normalizeEnergyType(type) === typeA);
-    const indexB = tipoDisplayOrder.findIndex((type) => normalizeEnergyType(type) === typeB);
-    const rankA = indexA === -1 ? Number.MAX_SAFE_INTEGER : indexA;
-    const rankB = indexB === -1 ? Number.MAX_SAFE_INTEGER : indexB;
-    if (rankA !== rankB) return (rankA - rankB) * dir;
-    if (typeA !== typeB) return String(a.tipo).localeCompare(String(b.tipo), "pt-BR") * dir;
-    return compareExpNumAsc(a, b) * dir;
+    if (keysA.tipoRank !== keysB.tipoRank) return (keysA.tipoRank - keysB.tipoRank) * dir;
+    if (keysA.tipoKey !== keysB.tipoKey) return textCollator.compare(String(a.tipo), String(b.tipo)) * dir;
+    return compareExpNumAsc(a, b, keysA, keysB) * dir;
   }
   if (sortField === "raridade") {
     const rarityA = a.promo || String(a.raridade || "").toLowerCase() === "promo" ? "Promo" : String(a.raridade || "").trim();
@@ -1045,31 +1092,16 @@ function compareCards(a, b, sortField, sortDir) {
     const rankA = indexA === -1 ? Number.MAX_SAFE_INTEGER : indexA;
     const rankB = indexB === -1 ? Number.MAX_SAFE_INTEGER : indexB;
     if (rankA !== rankB) return (rankA - rankB) * dir;
-    if (rarityA !== rarityB) return rarityA.localeCompare(rarityB, "pt-BR") * dir;
-    return compareExpNumAsc(a, b) * dir;
+    if (rarityA !== rarityB) return textCollator.compare(rarityA, rarityB) * dir;
+    return compareExpNumAsc(a, b, keysA, keysB) * dir;
   }
-  if (sortField === "hp") return (a.hp - b.hp) * dir || String(a.nome).localeCompare(String(b.nome), "pt-BR");
-  if (sortField === "ataque") return (a.ataque - b.ataque) * dir || String(a.nome).localeCompare(String(b.nome), "pt-BR");
-  if (sortField === "exp-num") {
-    const base = compareExpNumAsc(a, b);
-    return dir * base;
-  }
-
-  const rankA = expansionRank(a.expansao);
-  const rankB = expansionRank(b.expansao);
-  const exp = rankA - rankB;
-  if (exp !== 0) return exp * dir;
-  if (rankA === Number.MAX_SAFE_INTEGER && rankB === Number.MAX_SAFE_INTEGER) {
-    const byName = String(a.expansao || "").localeCompare(String(b.expansao || ""), "pt-BR");
-    if (byName !== 0) return byName * dir;
-  }
-  const num = parseCardNumber(a.numero) - parseCardNumber(b.numero);
-  if (num !== 0) return num * dir;
-  return String(a.nome).localeCompare(String(b.nome), "pt-BR") * dir;
+  if (sortField === "hp") return (a.hp - b.hp) * dir || textCollator.compare(String(a.nome), String(b.nome));
+  if (sortField === "ataque") return (a.ataque - b.ataque) * dir || textCollator.compare(String(a.nome), String(b.nome));
+  return compareExpNumAsc(a, b, keysA, keysB) * dir;
 }
 
 function getFilteredCards() {
-  const search = el.searchInput.value.trim().toLowerCase();
+  const search = normalizeKey(el.searchInput.value);
   const tipos = selectedValues(el.tipoFilter);
   const elementos = new Set([...selectedValues(el.elementoFilter)].map(normalizeEnergyType));
   const raridades = selectedValues(el.raridadeFilter);
@@ -1097,17 +1129,20 @@ function getFilteredCards() {
   const formatos = selectedValues(el.formatoFilter);
   const sortField = el.sortField.value;
   const sortDir = el.sortDir.value;
+  // "Promo" e "Metalizada" sao marcacoes, nao raridades: a carta continua com sua raridade real.
+  const promoSelected = raridades.has("Promo");
+  const foilSelected = raridades.has("Metalizada");
+  const normalSelected = new Set([...raridades].filter((r) => r !== "Promo" && r !== "Metalizada"));
+  const checkAttackRange = ataqueMin > 0 || ataqueMax < 250 || custoAtaqueMin > 0 || custoAtaqueMax < 5;
 
-  return cards
+  return getSortedCards(sortField, sortDir)
     .filter((card) => {
-      if (search && !String(card.nome).toLowerCase().includes(search)) return false;
+      if (search && !card._searchKey.includes(search)) return false;
       if (tipos.size && !tipos.has(card.categoria)) return false;
-      if (elementos.size && !elementos.has(normalizeEnergyType(card.tipo))) return false;
+      if (elementos.size && !card._tipoKeys.some((tipoKey) => elementos.has(tipoKey))) return false;
       if (raridades.size) {
-        const promoSelected = raridades.has("Promo");
-        const normalSelected = [...raridades].filter((r) => r !== "Promo");
         const isPromo = card.promo || String(card.raridade || "").toLowerCase() === "promo";
-        if (!(promoSelected && isPromo) && !normalSelected.includes(card.raridade)) return false;
+        if (!(promoSelected && isPromo) && !(foilSelected && card.metalizada) && !normalSelected.has(card.raridade)) return false;
       }
       if (favoriteOnly && !favorites.has(String(card.id))) return false;
       if (availableOnly && !isCardInTradeList("available", card.id)) return false;
@@ -1121,11 +1156,38 @@ function getFilteredCards() {
       if (habilidade === "nao-tem" && card.habilidade) return false;
       if (card.recuo < recuoMin || card.recuo > recuoMax) return false;
       if (card.hp < vidaMin || card.hp > vidaMax) return false;
-      if (!cardHasAttackInRange(card, ataqueMin, ataqueMax, custoAtaqueMin, custoAtaqueMax)) return false;
+      if (checkAttackRange && !cardHasAttackInRange(card, ataqueMin, ataqueMax, custoAtaqueMin, custoAtaqueMax)) return false;
       if (formatos.size && !formatos.has(card.formato)) return false;
       return true;
-    })
-    .sort((a, b) => compareCards(a, b, sortField, sortDir));
+    });
+}
+
+// Indice por id, refeito so quando a lista de cartas e substituida.
+let cardByIdCache = { source: null, map: new Map() };
+function findCardById(id) {
+  if (cardByIdCache.source !== cards) {
+    const map = new Map();
+    for (const card of cards) {
+      const key = String(card.id);
+      if (!map.has(key)) map.set(key, card);
+    }
+    cardByIdCache = { source: cards, map };
+  }
+  return cardByIdCache.map.get(String(id));
+}
+
+// Filtrar uma lista ja ordenada preserva a ordem: so reordena quando a opcao de ordenacao muda.
+let sortedCardsCache = { source: null, key: "", list: [] };
+function getSortedCards(sortField, sortDir) {
+  const key = `${sortField}|${sortDir}`;
+  if (sortedCardsCache.source !== cards || sortedCardsCache.key !== key) {
+    sortedCardsCache = {
+      source: cards,
+      key,
+      list: [...cards].sort((a, b) => compareCards(a, b, sortField, sortDir))
+    };
+  }
+  return sortedCardsCache.list;
 }
 
 function getCopiesInDeck(cardId) {
@@ -1228,6 +1290,38 @@ function updateDeckCardModalActions(cardId) {
 }
 
 
+// Atualiza so os botoes da carta na grade; redesenha tudo apenas se um filtro "somente..." depende da mudanca.
+function refreshGridAfterTradeToggle(kind, cardId, isActive) {
+  const activeTradeFilter = kind === "available" ? el.availableOnlyToggle?.checked : el.wantedOnlyToggle?.checked;
+  if (activeTradeFilter) {
+    renderCards();
+    return;
+  }
+  const label = kind === "available"
+    ? (isActive ? "Remover das cartas para troca" : "Marcar para troca")
+    : (isActive ? "Remover das desejadas" : "Marcar como desejada");
+  el.cardsGrid?.querySelectorAll(`[data-trade-kind="${kind}"][data-trade-card="${CSS.escape(String(cardId))}"]`).forEach((button) => {
+    button.classList.toggle("active", isActive);
+    button.setAttribute("aria-pressed", String(isActive));
+    button.title = label;
+    button.setAttribute("aria-label", label);
+  });
+}
+
+function refreshGridAfterFavoriteToggle(cardId) {
+  if (el.favoriteOnlyToggle?.checked) {
+    renderCards();
+    return;
+  }
+  const nowFavorite = isFavorite(cardId);
+  const label = nowFavorite ? "Remover dos favoritos" : "Adicionar aos favoritos";
+  el.cardsGrid?.querySelectorAll(`.card-fav[data-favorite="${CSS.escape(String(cardId))}"]`).forEach((button) => {
+    button.classList.toggle("active", nowFavorite);
+    button.title = label;
+    button.setAttribute("aria-label", label);
+  });
+}
+
 function scheduleRenderCards(delay = FILTER_RENDER_DELAY) {
   clearTimeout(filterRenderTimer);
   filterRenderTimer = window.setTimeout(() => {
@@ -1239,8 +1333,6 @@ function scheduleRenderCards(delay = FILTER_RENDER_DELAY) {
 function renderCards() {
   clearTimeout(filterRenderTimer);
   filterRenderTimer = 0;
-  clearTimeout(autoLoadTimer);
-  autoLoadTimer = 0;
   cardRenderObserver?.disconnect();
   cardRenderObserver = null;
   renderToken++;
@@ -1263,6 +1355,7 @@ function renderCards() {
 
   let index = 0;
   let batchPending = false;
+  let batchSize = CARD_BATCH_MIN;
   const sentinel = document.createElement("div");
   sentinel.className = "cards-load-sentinel";
   const loadMoreButton = document.createElement("button");
@@ -1281,10 +1374,13 @@ function renderCards() {
       return;
     }
     const fragment = document.createDocumentFragment();
-    const end = Math.min(index + CARD_BATCH_SIZE, filtered.length);
+    const end = Math.min(index + batchSize, filtered.length);
     for (; index < end; index++) {
       const card = filtered[index];
       const imageSrc = getCardImageSrc(card);
+      const srcsetAttr = card.thumbLocal && imageSrc === card.imageLocal
+        ? ` srcset="${card.thumbLocal} 184w, ${imageSrc} 367w" sizes="${GRID_IMAGE_SIZES[cardLayout]}"`
+        : "";
       let cardInfoMarkup = "";
       if (!imageOnly) {
         const ataques = cardAttacks(card);
@@ -1301,12 +1397,12 @@ function renderCards() {
             <li><strong>Nome:</strong> ${card.nome}</li>
             <li><strong>Categoria:</strong> ${card.categoria || "-"}</li>
             <li><strong>Estagio:</strong> ${card.estagio}</li>
-            <li><strong>Tipo:</strong> ${card.tipo || "-"}</li>
+            <li><strong>Tipo:</strong> ${card.tipos.join(" / ") || "-"}</li>
             <li><strong>Vida:</strong> ${card.hp}</li>
             <li><strong>Custo:</strong> ${custoText}</li>
             <li><strong>Dano:</strong> ${danoText}</li>
             <li><strong>Recuo:</strong> ${card.recuo}</li>
-            <li><strong>Raridade:</strong> ${card.raridade || "-"}</li>
+            <li><strong>Raridade:</strong> ${card.raridade || "-"}${card.metalizada ? " · Metalizada" : ""}</li>
             <li><strong>Pacote:</strong> ${card.pacote || card.expansao}</li>
             <li class="card-code-row"><strong>Codigo:</strong> ${String(card.id).toUpperCase()}</li>
             ${tagsMarkup}
@@ -1343,7 +1439,7 @@ function renderCards() {
             <i class="fa-solid fa-expand card-status-fa expand-icon" aria-hidden="true"></i>
           </button>
         </div>
-        <img loading="lazy" decoding="async" src="${imageSrc}" alt="${card.nome}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
+        <img loading="lazy" decoding="async" src="${imageSrc}"${srcsetAttr} alt="${card.nome}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
         ${cardInfoMarkup}
       `;
       fragment.appendChild(cardEl);
@@ -1359,12 +1455,22 @@ function renderCards() {
     }
   }
 
+  // Lote do tamanho da tela: colunas da grade x linhas que cabem numa tela (+1), entre o minimo e o maximo.
+  function batchSizeForViewport() {
+    const firstCard = el.cardsGrid.querySelector("article");
+    const columns = getComputedStyle(el.cardsGrid).gridTemplateColumns.split(" ").filter(Boolean).length || 1;
+    const rowHeight = Math.max(120, firstCard?.getBoundingClientRect().height || 240);
+    const rows = Math.ceil(window.innerHeight / rowHeight) + 1;
+    return Math.min(CARD_BATCH_MAX, Math.max(CARD_BATCH_MIN, columns * rows));
+  }
+
+  // Monta no proximo quadro de animacao: a rolagem nao fica esperando a pagina ficar ociosa.
   function queueNextBatch(onComplete = null) {
     if (batchPending || index >= filtered.length) return;
     batchPending = true;
     loadMoreButton.disabled = true;
     loadMoreButton.textContent = "Carregando...";
-    const run = () => {
+    window.requestAnimationFrame(() => {
       batchPending = false;
       if (thisRender !== renderToken) return;
       appendNext();
@@ -1373,47 +1479,36 @@ function renderCards() {
         loadMoreButton.textContent = "Carregar mais cartas";
       }
       if (typeof onComplete === "function") onComplete();
-    };
-    if ("requestIdleCallback" in window) window.requestIdleCallback(run, { timeout: 200 });
-    else window.setTimeout(run, 0);
+    });
   }
 
   loadMoreButton.addEventListener("click", () => {
-    clearTimeout(autoLoadTimer);
     cardRenderObserver?.unobserve(sentinel);
     queueNextBatch(() => {
       if (index < filtered.length && sentinel.isConnected) cardRenderObserver?.observe(sentinel);
     });
   });
   appendNext();
+  batchSize = batchSizeForViewport();
   if (index < filtered.length) {
     el.cardsGrid.appendChild(sentinel);
     if ("IntersectionObserver" in window) {
+      // Ao voltar a observar, o observador avisa de novo se o fim ainda estiver perto,
+      // entao os lotes se encadeiam ate haver ~1,5 tela de folga abaixo.
       cardRenderObserver = new IntersectionObserver((entries, observer) => {
         if (thisRender !== renderToken || !entries.some((entry) => entry.isIntersecting)) return;
         observer.unobserve(sentinel);
-        clearTimeout(autoLoadTimer);
-        autoLoadTimer = window.setTimeout(() => {
-          autoLoadTimer = 0;
-          if (thisRender !== renderToken || !sentinel.isConnected) return;
-          const bounds = sentinel.getBoundingClientRect();
-          const stillNearBottom = bounds.top <= window.innerHeight + 80 && bounds.bottom >= -80;
-          if (!stillNearBottom) {
-            observer.observe(sentinel);
-            return;
-          }
-          queueNextBatch(() => {
-            if (index < filtered.length && sentinel.isConnected) observer.observe(sentinel);
-          });
-        }, 140);
-      }, { rootMargin: "0px 0px 80px", threshold: 0.01 });
+        queueNextBatch(() => {
+          if (index < filtered.length && sentinel.isConnected) observer.observe(sentinel);
+        });
+      }, { rootMargin: CARD_PREFETCH_MARGIN, threshold: 0 });
       cardRenderObserver.observe(sentinel);
     }
   }
 }
 
 function deckStats() {
-  const selected = deck.map((id) => cards.find((c) => String(c.id) === String(id))).filter(Boolean);
+  const selected = deck.map((id) => findCardById(id)).filter(Boolean);
   const totals = selected.reduce(
     (acc, c) => {
       acc.poder += c.ataque || 0;
@@ -1453,7 +1548,7 @@ function renderDeck() {
   }, {});
 
   Object.entries(grouped).forEach(([id, qty]) => {
-    const card = cards.find((c) => String(c.id) === String(id));
+    const card = findCardById(id);
     if (!card) return;
     const item = document.createElement("div");
     item.className = "deck-item";
@@ -1481,7 +1576,7 @@ function renderDeck() {
 function renderSuggestions() {
   el.suggestionsList.innerHTML = "";
 
-  const deckCards = deck.map(id => cards.find(c => String(c.id) === String(id))).filter(Boolean);
+  const deckCards = deck.map(id => findCardById(id)).filter(Boolean);
   const suggestions = window.PocketiaSuggestions?.getSuggestedCards(cards, deckCards, suggestionRules, evolutionFamilies) || [];
 
   if (suggestions.length === 0) {
@@ -1794,37 +1889,19 @@ function init() {
     if (tradeButton) {
       const kind = tradeButton.dataset.tradeKind;
       const isActive = toggleCardTradeStatus(kind, tradeButton.dataset.tradeCard);
-      tradeButton.classList.toggle("active", isActive);
-      tradeButton.setAttribute("aria-pressed", String(isActive));
-      const tradeLabel = kind === "available"
-        ? (isActive ? "Remover das cartas para troca" : "Marcar para troca")
-        : (isActive ? "Remover das desejadas" : "Marcar como desejada");
-      tradeButton.title = tradeLabel;
-      tradeButton.setAttribute("aria-label", tradeLabel);
-      const activeTradeFilter = kind === "available"
-        ? el.availableOnlyToggle?.checked
-        : el.wantedOnlyToggle?.checked;
-      if (activeTradeFilter) renderCards();
+      refreshGridAfterTradeToggle(kind, tradeButton.dataset.tradeCard, isActive);
       return;
     }
     const favBtn = event.target.closest(".card-fav");
     if (favBtn?.dataset.favorite) {
       const cardId = String(favBtn.dataset.favorite);
       toggleFavorite(cardId);
-      if (el.favoriteOnlyToggle?.checked) {
-        renderCards();
-        return;
-      }
-      const nowFavorite = isFavorite(cardId);
-      favBtn.classList.toggle("active", nowFavorite);
-      const label = nowFavorite ? "Remover dos favoritos" : "Adicionar aos favoritos";
-      favBtn.title = label;
-      favBtn.setAttribute("aria-label", label);
+      refreshGridAfterFavoriteToggle(cardId);
       return;
     }
     const previewId = event.target.closest("[data-preview]")?.dataset.preview;
     if (previewId) {
-      const card = cards.find((item) => String(item.id) === String(previewId));
+      const card = findCardById(previewId);
       if (card) openDeckCardModal(card);
       return;
     }
@@ -1835,7 +1912,7 @@ function init() {
   el.deckList?.addEventListener("click", (event) => {
     const previewId = event.target.closest("[data-preview]")?.dataset.preview;
     if (previewId) {
-      const card = cards.find((c) => String(c.id) === String(previewId));
+      const card = findCardById(previewId);
       if (card) openDeckCardModal(card);
       return;
     }
@@ -1850,7 +1927,7 @@ function init() {
   el.suggestionsList?.addEventListener("click", (event) => {
     const previewId = event.target.closest("[data-preview]")?.dataset.preview;
     if (previewId) {
-      const card = cards.find((item) => String(item.id) === String(previewId));
+      const card = findCardById(previewId);
       if (card) openDeckCardModal(card);
       return;
     }
@@ -1863,7 +1940,7 @@ function init() {
   el.mostUsedList?.addEventListener("click", (event) => {
     const previewId = event.target.closest("[data-preview]")?.dataset.preview;
     if (previewId) {
-      const card = cards.find((item) => String(item.id) === String(previewId));
+      const card = findCardById(previewId);
       if (card) openDeckCardModal(card);
       return;
     }
@@ -1942,16 +2019,17 @@ function init() {
     }
     const tradeButton = event.target.closest("[data-trade-kind][data-trade-card]");
     if (tradeButton) {
-      toggleCardTradeStatus(tradeButton.dataset.tradeKind, tradeButton.dataset.tradeCard);
+      const kind = tradeButton.dataset.tradeKind;
+      const isActive = toggleCardTradeStatus(kind, tradeButton.dataset.tradeCard);
       updateDeckCardModalActions(tradeButton.dataset.tradeCard);
-      renderCards();
+      refreshGridAfterTradeToggle(kind, tradeButton.dataset.tradeCard, isActive);
       return;
     }
     const favoriteButton = event.target.closest("[data-favorite]");
     if (favoriteButton) {
       toggleFavorite(favoriteButton.dataset.favorite);
       updateDeckCardModalActions(favoriteButton.dataset.favorite);
-      renderCards();
+      refreshGridAfterFavoriteToggle(favoriteButton.dataset.favorite);
     }
   });
   document.addEventListener("keydown", (event) => {
@@ -1970,7 +2048,7 @@ function init() {
 
 async function loadMetaDecksData() {
   try {
-    const response = await fetch("./data/meta-decks.json", { cache: "no-store" });
+    const response = await fetch("./data/meta-decks.json", DATA_FETCH_OPTIONS);
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const payload = await response.json();
     metaDecks = Array.isArray(payload) ? payload : (Array.isArray(payload?.decks) ? payload.decks : []);
@@ -1986,7 +2064,7 @@ async function loadCardsData() {
 
   // Preferimos o JSON consolidado/adaptado para manter fontes originais separadas.
   try {
-    const adaptedResponse = await fetch("./data/consolidated/cards-adapted.json", { cache: "no-store" });
+    const adaptedResponse = await fetch("./data/consolidated/cards-adapted.json", DATA_FETCH_OPTIONS);
     if (adaptedResponse.ok) {
       const adapted = await adaptedResponse.json();
       if (Array.isArray(adapted) && adapted.length) {
@@ -1999,7 +2077,7 @@ async function loadCardsData() {
   }
 
   try {
-    const indexResponse = await fetch("./data/complete/index.json", { cache: "no-store" });
+    const indexResponse = await fetch("./data/complete/index.json", DATA_FETCH_OPTIONS);
     if (!indexResponse.ok) throw new Error(`HTTP ${indexResponse.status}`);
     const indexPayload = await indexResponse.json();
     const files = Array.isArray(indexPayload) ? indexPayload : indexPayload?.files;
@@ -2011,7 +2089,7 @@ async function loadCardsData() {
       files.map(async (entry) => {
         const path = typeof entry === "string" ? entry : entry?.path;
         if (!path) return [];
-        const response = await fetch(path, { cache: "no-store" });
+        const response = await fetch(path, DATA_FETCH_OPTIONS);
         if (!response.ok) throw new Error(`Falha ao carregar ${path}: HTTP ${response.status}`);
         const data = await response.json();
         return Array.isArray(data) ? data : [];
@@ -2028,7 +2106,7 @@ async function loadCardsData() {
 }
 
 async function loadExpansionsData() {
-  const response = await fetch("./data/expansions.json", { cache: "no-store" });
+  const response = await fetch("./data/expansions.json", DATA_FETCH_OPTIONS);
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   const payload = await response.json();
   const expansions = Array.isArray(payload) ? payload : payload?.expansions;
@@ -2039,7 +2117,7 @@ async function loadExpansionsData() {
 }
 
 async function loadRaritiesData() {
-  const response = await fetch("./data/rarities.json", { cache: "no-store" });
+  const response = await fetch("./data/rarities.json", DATA_FETCH_OPTIONS);
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   const payload = await response.json();
   const rarities = Array.isArray(payload) ? payload : payload?.rarities;
@@ -2050,7 +2128,7 @@ async function loadRaritiesData() {
 }
 
 async function loadStagesData() {
-  const response = await fetch("./data/stages.json", { cache: "no-store" });
+  const response = await fetch("./data/stages.json", DATA_FETCH_OPTIONS);
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   const payload = await response.json();
   const stages = Array.isArray(payload) ? payload : payload?.stages;
@@ -2071,7 +2149,7 @@ async function loadStagesData() {
 }
 
 async function loadTypesData() {
-  const response = await fetch("./data/types.json", { cache: "no-store" });
+  const response = await fetch("./data/types.json", DATA_FETCH_OPTIONS);
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   const payload = await response.json();
   const types = Array.isArray(payload) ? payload : payload?.types;
@@ -2082,7 +2160,7 @@ async function loadTypesData() {
 }
 
 async function loadSuggestionRulesData() {
-  const response = await fetch("./data/suggestion-rules.json", { cache: "no-store" });
+  const response = await fetch("./data/suggestion-rules.json", DATA_FETCH_OPTIONS);
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   const payload = await response.json();
   const rules = Array.isArray(payload) ? payload : payload?.rules;
@@ -2091,7 +2169,7 @@ async function loadSuggestionRulesData() {
 }
 
 async function loadEvolutionFamiliesData() {
-  const response = await fetch("./data/evolutions.json", { cache: "no-store" });
+  const response = await fetch("./data/evolutions.json", DATA_FETCH_OPTIONS);
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   const payload = await response.json();
   const families = Array.isArray(payload) ? payload : payload?.families;
@@ -2100,14 +2178,17 @@ async function loadEvolutionFamiliesData() {
 }
 
 (async function bootstrap() {
-  await loadExpansionsData();
-  await loadRaritiesData();
-  await loadStagesData();
-  await loadTypesData();
-  await loadSuggestionRulesData();
-  await loadEvolutionFamiliesData();
-  await loadCardsData();
-  await loadMetaDecksData();
+  // Os arquivos nao dependem uns dos outros: baixa todos em paralelo.
+  await Promise.all([
+    loadExpansionsData(),
+    loadRaritiesData(),
+    loadStagesData(),
+    loadTypesData(),
+    loadSuggestionRulesData(),
+    loadEvolutionFamiliesData(),
+    loadCardsData(),
+    loadMetaDecksData()
+  ]);
 
   try {
     init();

@@ -677,13 +677,13 @@ button:hover {
   display: flex;
   flex-direction: column;
   align-items: center;
-  content-visibility: auto;
-  contain-intrinsic-size: auto 420px;
+  /* Sem content-visibility: medido, adiar a pintura fazia a rolagem engasgar quando varias cartas entravam na tela juntas. */
 }
 
 .card-clickable {
   cursor: pointer;
-  transition: transform 0.14s ease, border-color 0.14s ease, box-shadow 0.14s ease;
+  /* Sem animar box-shadow: redesenhar a sombra a cada quadro pesa com centenas de cartas. */
+  transition: transform 0.14s ease, border-color 0.14s ease;
 }
 
 .card-clickable:hover {
@@ -694,12 +694,14 @@ button:hover {
 
 .card img {
   height: 160px;
+  /* Reserva a largura da carta antes da imagem carregar, sem pulo no layout. */
+  aspect-ratio: 367 / 512;
   object-fit: cover;
   border-radius: 10px;
   margin-bottom: 5px;
   background: #dbe5f0;
   border: 1px solid rgba(255, 255, 255, 0.9);
-  box-shadow: inset 2px 2px 5px #c6d3e1, inset -2px -2px 5px #f9fcff;
+  /* Sem sombra interna: ela fica atras da imagem (invisivel) e era o efeito mais caro na rolagem. */
 }
 
 .card-info-list {
@@ -752,7 +754,6 @@ button:hover {
 
 .card.image-only {
   padding: 8px;
-  contain-intrinsic-size: auto 240px;
 }
 
 .card.image-only .card-info-list {
@@ -770,7 +771,6 @@ button:hover {
 
 .card.image-compact {
   width: 100%;
-  contain-intrinsic-size: auto 200px;
 }
 
 .card.image-compact img {
@@ -778,6 +778,27 @@ button:hover {
   height: auto;
   aspect-ratio: 63 / 88;
   object-fit: contain;
+}
+
+/* Layout compacto: muitas cartas por tela, entao sem relevo nos cards e botoes (medido: rolagem mais leve). */
+.card.image-compact,
+.card.image-compact .card-fav,
+.card.image-compact .card-trade-button,
+.card.image-compact .card-expand {
+  box-shadow: none;
+}
+
+/* Com mouse, os botoes aparecem ao passar sobre a carta; os ativos (favorita, desejada, troca)
+   ficam sempre a vista. Em telas de toque continuam todos visiveis. */
+@media (hover: hover) and (pointer: fine) {
+  .card.image-compact .card-actions > :not(.active) {
+    display: none;
+  }
+
+  .card.image-compact:hover .card-actions > *,
+  .card.image-compact:focus-within .card-actions > * {
+    display: grid;
+  }
 }
 
 .cards-grid.cards-layout-details-side {
@@ -792,7 +813,6 @@ button:hover {
   grid-template-columns: minmax(150px, 0.9fr) minmax(180px, 1fr);
   align-items: start;
   gap: 12px;
-  contain-intrinsic-size: auto 360px;
 }
 
 .card.details-side > img {

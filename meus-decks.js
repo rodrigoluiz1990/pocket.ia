@@ -117,7 +117,7 @@ function openSavedDeckModal(deckId) {
     <div class="meta-modal-slot">
       <div class="meta-modal-slot-thumb">
         ${quantity > 1 ? `<span class="meta-modal-qty">${quantity}x</span>` : ""}
-        <img class="deck-thumb" src="${escapeHtml(card.imageLocal)}" alt="${escapeHtml(card.nome)}" loading="lazy" onerror="this.onerror=null; this.src='./assets/cards/pokemon_pocket_card_back.png'" />
+        <img class="deck-thumb" src="${escapeHtml(card.imageLocal)}" alt="${escapeHtml(card.nome)}" loading="lazy" onerror="this.onerror=null; this.src='./assets/cards/pokemon_pocket_card_back.webp'" />
       </div>
       <span class="meta-modal-slot-name">${escapeHtml(card.nome)}</span>
     </div>

@@ -13,20 +13,28 @@ assert.match(
 );
 assert.match(
   app,
-  /elementos\.has\(normalizeEnergyType\(card\.tipo\)\)/,
-  "o tipo da carta também deve ser normalizado antes da comparação"
+  /_tipoKeys: cardTipos\.map\(normalizeEnergyType\)/,
+  "os tipos da carta também devem ser normalizados antes da comparação"
 );
-assert.match(app, /const CARD_BATCH_SIZE = 16;/, "as cartas devem ser renderizadas em lotes pequenos");
-assert.match(app, /new IntersectionObserver\(/, "as cartas devem carregar automaticamente ao chegar ao fim da página");
-assert.match(app, /rootMargin: "0px 0px 80px"/, "o carregamento automático deve ocorrer somente próximo ao final");
-assert.match(app, /stillNearBottom/, "o carregamento deve confirmar que o usuário continua no fim da página");
-assert.match(app, /requestIdleCallback/, "a montagem de novos lotes deve aguardar um período ocioso");
+assert.match(
+  app,
+  /card\._tipoKeys\.some\(\(tipoKey\) => elementos\.has\(tipoKey\)\)/,
+  "cartas de dois tipos devem aparecer no filtro de qualquer um dos tipos"
+);
+assert.match(app, /const CARD_BATCH_MIN = 24;/, "cada lote deve trazer ao menos uma tela de cartas");
+assert.match(app, /function batchSizeForViewport\(\)/, "o tamanho do lote deve acompanhar as colunas e a altura da tela");
+assert.match(app, /new IntersectionObserver\(/, "as cartas devem carregar automaticamente ao rolar");
+assert.match(app, /const CARD_PREFETCH_MARGIN = "0px 0px 1400px";/, "o próximo lote deve ser montado antes de a rolagem chegar ao fim");
+assert.match(app, /rootMargin: CARD_PREFETCH_MARGIN/);
+assert.doesNotMatch(app, /requestIdleCallback/, "a montagem do lote não deve esperar a página ficar ociosa");
 assert.match(app, /if \(!imageOnly\) \{[\s\S]*?cardInfoMarkup = `/, "o layout de imagem não deve montar dados ocultos");
 assert.match(app, /loading="lazy" decoding="async"/, "as imagens devem ser carregadas e decodificadas sem bloquear a rolagem");
+assert.match(app, /srcset="\$\{card\.thumbLocal\} 184w, \$\{imageSrc\} 367w"/, "a grade deve usar a miniatura em telas comuns");
 assert.match(app, /function scheduleRenderCards\(delay = FILTER_RENDER_DELAY\)/, "eventos rápidos de filtro devem ser agrupados");
 assert.doesNotMatch(app, /setTimeout\(appendNext, 0\)/, "a grade não deve carregar todas as cartas automaticamente");
 assert.match(css, /\.cards-load-sentinel\s*\{[\s\S]*?grid-column: 1 \/ -1;/);
-assert.match(css, /\.card\s*\{[\s\S]*?content-visibility: auto;[\s\S]*?contain-intrinsic-size:/);
+assert.doesNotMatch(css, /content-visibility: auto/, "adiar a pintura das cartas fazia a rolagem engasgar");
+assert.match(css, /\.card img\s*\{[\s\S]*?aspect-ratio: 367 \/ 512;/, "a imagem deve reservar o espaço da carta antes de carregar");
 
 for (const page of ["index.html", "meus-decks.html", "decks-meta.html", "trocas.html"]) {
   const pageHtml = fs.readFileSync(page, "utf8");

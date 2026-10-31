@@ -75,7 +75,8 @@
     const requiresMega = rule?.when?.pokemonMega;
     const requiresCoinFlipAttack = rule?.when?.pokemonHasCoinFlipAttack;
 
-    if (requiredTypes.length && !hasSharedValue(pokemon.map((card) => card.tipo), requiredTypes)) return false;
+    const pokemonTypes = pokemon.flatMap((card) => (Array.isArray(card.tipos) && card.tipos.length ? card.tipos : [card.tipo]));
+    if (requiredTypes.length && !hasSharedValue(pokemonTypes, requiredTypes)) return false;
     if (requiredStages.length && !hasSharedValue(pokemon.map((card) => card.estagio), requiredStages)) return false;
     if (requiredTags.length && !hasSharedValue(pokemon.flatMap(getPokemonTags), requiredTags)) return false;
     if (requiredSubtypes.length && !hasSharedValue(deckCards.map((card) => card.subtipo), requiredSubtypes)) return false;

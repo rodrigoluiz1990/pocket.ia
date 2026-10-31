@@ -88,4 +88,40 @@ for (const id of ["promo-b-088", "promo-b-089", "promo-b-090", "promo-b-091", "p
   assert.ok(fs.statSync(imagePath).size > 0, `${id} não pode possuir imagem vazia`);
 }
 
-console.log(`card-data-quality: ok (${babyCards.length} cartas Baby)`);
+const megaGreninja = byId.get("c1-042");
+assert.equal(megaGreninja?.nome, "Mega Greninja ex");
+assert.equal(megaGreninja?.tipo, "Agua", "o tipo principal continua em `tipo`");
+assert.deepEqual(megaGreninja?.tipos, ["Agua", "Escuridao"], "cartas de dois tipos devem listar os dois tipos");
+const dualTypeCards = cards.filter((card) => Array.isArray(card.tipos));
+assert.ok(dualTypeCards.length > 1, "a coleção C1 deve trazer cartas de dois tipos");
+assert.ok(
+  dualTypeCards.every((card) => card.tipos.length === 2 && card.tipos[0] === card.tipo),
+  "o primeiro item de `tipos` deve ser o tipo principal"
+);
+
+const c1Cards = cards.filter((card) => card.id.startsWith("c1-"));
+assert.equal(c1Cards.length, 217, "a coleção C1 deve conter 217 cartas");
+assert.ok(
+  cards.every((card) => /\.webp$/.test(String(card.imageLocal || ""))),
+  "todas as imagens de cartas devem estar em WebP"
+);
+
+const foilCards = cards.filter((card) => card.metalizada);
+const foilsBySet = foilCards.reduce((acc, card) => {
+  const set = card.id.split("-")[0];
+  acc[set] = (acc[set] || 0) + 1;
+  return acc;
+}, {});
+assert.deepEqual(foilsBySet, { a4b: 139, b4b: 166 }, "somente os pacotes Deluxe têm cartas metalizadas");
+assert.equal(byId.get("a4b-001")?.metalizada, undefined, "a primeira impressão é a versão normal");
+assert.equal(byId.get("a4b-002")?.metalizada, true, "a segunda impressão do par é a metalizada");
+assert.equal(byId.get("b4b-239")?.metalizada, true, "na B4B a metalizada fica mais adiante na numeração");
+assert.equal(byId.get("b4b-239")?.raridade, "Comum", "a metalizada mantém a raridade real");
+assert.ok(
+  foilCards.every((card) => ["Comum", "Incomum", "Rara"].includes(card.raridade)),
+  "metalizadas só existem nas raridades de 1 a 3 diamantes"
+);
+
+console.log(
+  `card-data-quality: ok (${babyCards.length} cartas Baby, ${dualTypeCards.length} de dois tipos, ${foilCards.length} metalizadas)`
+);
