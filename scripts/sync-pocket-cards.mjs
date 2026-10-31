@@ -31,6 +31,7 @@ function seriesFromCode(code) {
   const c = String(code || "").toUpperCase();
   if (/^A/.test(c) || c === "PROMO-A") return "a";
   if (/^B/.test(c) || c === "PROMO-B") return "b";
+  if (/^C/.test(c) || c === "PROMO-C") return "c";
   return "misc";
 }
 
@@ -47,7 +48,7 @@ function findAll(html, regex) {
 
 async function loadExistingCardUrls() {
   const urls = new Set();
-  const seriesDirs = ["a", "b", "misc"];
+  const seriesDirs = ["a", "b", "c", "misc"];
 
   for (const series of seriesDirs) {
     const dir = resolve(RAW_SITE_ROOT, series);

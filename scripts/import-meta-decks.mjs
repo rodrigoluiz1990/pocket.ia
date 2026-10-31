@@ -20,7 +20,7 @@ function deckCards(rawDeck) {
 
 function normalizeCardId(value) {
   const id = String(value || "").trim().toLowerCase();
-  const promo = id.match(/^p-([ab])-(\d+)$/i);
+  const promo = id.match(/^p-([abc])-(\d+)$/i);
   return promo ? `promo-${promo[1].toLowerCase()}-${String(promo[2]).padStart(3, "0")}` : id;
 }
 

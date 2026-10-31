@@ -115,6 +115,7 @@ function assetCodeFromSetCode(code) {
   const normalized = String(code || "").trim().toUpperCase();
   if (normalized === "PROMO-A") return "pa";
   if (normalized === "PROMO-B") return "pb";
+  if (normalized === "PROMO-C") return "pc";
   return normalized.toLowerCase();
 }
 
@@ -122,11 +123,12 @@ function extractSetCodeFromCard(card) {
   const expansionMatch = String(card?.expansao || "").match(/\(([A-Z0-9-]+)\)\s*$/i);
   if (expansionMatch) return String(expansionMatch[1] || "").toUpperCase();
 
-  const idMatch = String(card?.id || "").match(/^([a-z]\d[a-z]?|p-[ab])-/i);
+  const idMatch = String(card?.id || "").match(/^([a-z]\d[a-z]?|p-[abc])-/i);
   if (idMatch) {
     const idToken = String(idMatch[1] || "");
     if (/^p-a$/i.test(idToken)) return "PROMO-A";
     if (/^p-b$/i.test(idToken)) return "PROMO-B";
+    if (/^p-c$/i.test(idToken)) return "PROMO-C";
     return idToken.toUpperCase();
   }
 
@@ -135,13 +137,13 @@ function extractSetCodeFromCard(card) {
 
 function normalizeImageFileName(fileName) {
   const value = String(fileName || "").trim();
-  const shortPromoMatch = value.match(/^p-([ab])-(\d+\.[a-z0-9]+)$/i);
+  const shortPromoMatch = value.match(/^p-([abc])-(\d+\.[a-z0-9]+)$/i);
   if (shortPromoMatch) return `p${String(shortPromoMatch[1]).toLowerCase()}-${shortPromoMatch[2]}`;
 
-  const fullPromoMatch = value.match(/^promo-([ab])-(\d+\.[a-z0-9]+)$/i);
+  const fullPromoMatch = value.match(/^promo-([abc])-(\d+\.[a-z0-9]+)$/i);
   if (fullPromoMatch) return `p${String(fullPromoMatch[1]).toLowerCase()}-${fullPromoMatch[2]}`;
 
-  const compactPromoMatch = value.match(/^p([ab])-(\d+\.[a-z0-9]+)$/i);
+  const compactPromoMatch = value.match(/^p([abc])-(\d+\.[a-z0-9]+)$/i);
   if (compactPromoMatch) return `p${String(compactPromoMatch[1]).toLowerCase()}-${compactPromoMatch[2]}`;
 
   return String(fileName || "").trim().toLowerCase();
@@ -153,6 +155,13 @@ function buildImageLocalFromCard(card, fileName = "") {
   const assetCode = assetCodeFromSetCode(setCode);
   if (!assetCode || !name) return "";
   return `./assets/cards/cartas_${assetCode}/${name}`;
+}
+
+// Miniatura gerada por scripts/optimize-card-images.mjs; so entra nos dados se o arquivo existir.
+async function resolveThumbLocal(imageLocal) {
+  if (!/\.webp$/i.test(String(imageLocal || ""))) return "";
+  const thumb = imageLocal.replace(/\/([^/]+)\.webp$/i, "/thumbs/$1.webp");
+  return (await exists(resolve(process.cwd(), thumb.replace(/^\.\//, "")))) ? thumb : "";
 }
 
 async function resolveImageLocal(card) {
@@ -210,6 +219,7 @@ async function run() {
       const ataqueLista = normalizeAttackList(card);
       const stats = deriveAttackStats(card, ataqueLista);
       const imageLocal = await resolveImageLocal(card);
+      const thumbLocal = await resolveThumbLocal(imageLocal);
       const formato = inferFormat(card?.nome, card?.estagio, card?.formato);
       const estagio = normalizeStage(card?.estagio);
       const tags = buildFilterTags(estagio, formato, card?.tags);
@@ -220,8 +230,9 @@ async function run() {
         nome: String(card?.nome || "").trim(),
         estagio,
         subtipo: String(card?.subtipo || "").trim(),
-        evolucao: String(card?.evolucao || "").trim(),
         tipo: String(card?.tipo || card?.elemento || "").trim(),
+        // So as cartas de dois tipos levam a lista; o site usa `tipo` quando ela nao existe.
+        ...(Array.isArray(card?.tipos) && card.tipos.length > 1 ? { tipos: card.tipos.map((t) => String(t).trim()) } : {}),
         hp: safeNumber(card?.hp, 0),
         ataque: stats.ataque,
         custoAtaque: stats.custoAtaque,
@@ -229,6 +240,8 @@ async function run() {
         fraqueza: String(card?.fraqueza || "").trim(),
         recuo: safeNumber(card?.recuo, 0),
         raridade: String(card?.raridade || "").trim(),
+        // Versao metalizada dos pacotes Deluxe; a raridade real continua em `raridade`.
+        ...(card?.metalizada ? { metalizada: true } : {}),
         habilidade: Boolean(card?.habilidade ?? card?.temHabilidade),
         promo: Boolean(card?.promo ?? card?.tagPromo),
         formato,
@@ -238,7 +251,9 @@ async function run() {
         numero: String(card?.numero || "").trim(),
         pacote: String(card?.pacote || "").trim(),
         imageLocal,
-        imageUrl: String(card?.imageUrl || "").trim(),
+        ...(thumbLocal ? { thumbLocal } : {}),
+        // A imagem remota so serve de reserva quando nao ha arquivo local.
+        ...(imageLocal ? {} : { imageUrl: String(card?.imageUrl || "").trim() }),
         custoDeck: safeNumber(card?.custoDeck ?? card?.custo, 0),
         deckBuilderNr: safeNumber(card?.deckBuilderNr, 0)
       });
@@ -254,7 +269,8 @@ async function run() {
   });
 
   await mkdir(resolve(OUT_PATH, ".."), { recursive: true });
-  await writeFile(OUT_PATH, `${JSON.stringify(out, null, 2)}\n`, "utf8");
+  // Sem indentacao: o site baixa este arquivo inteiro na abertura.
+  await writeFile(OUT_PATH, `${JSON.stringify(out)}\n`, "utf8");
   console.log(`Cartas adaptadas geradas: ${out.length}`);
   console.log(`Origem: ${INDEX_PATH}`);
   console.log(`Arquivo: ${OUT_PATH}`);

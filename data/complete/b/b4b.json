@@ -8,6 +8,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -22,6 +25,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -56,6 +60,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -70,6 +77,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -104,6 +112,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 240,
     "ataque": [
       {
@@ -121,6 +132,7 @@
     "fraqueza": "Fogo",
     "recuo": 4,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -156,6 +168,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 40,
     "ataque": [
       {
@@ -170,6 +185,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -204,6 +220,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -218,6 +237,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -252,6 +272,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -266,6 +289,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -300,6 +324,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -314,6 +341,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -348,6 +376,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -364,6 +395,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -399,6 +431,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -414,6 +449,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -448,6 +484,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -462,6 +501,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -496,6 +536,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -511,6 +554,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -545,6 +589,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 210,
     "ataque": [
       {
@@ -560,6 +607,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -595,6 +643,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -609,6 +660,7 @@
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -644,6 +696,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -658,6 +713,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -688,10 +744,13 @@
     "sourceId": "b4b-015",
     "categoria": "Pokemon",
     "nome": "Vespiquen ex",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -707,6 +766,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -742,6 +802,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -756,6 +819,7 @@
     "fraqueza": "Fogo",
     "recuo": 0,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -790,6 +854,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -805,6 +872,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -840,6 +908,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -854,6 +925,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -888,6 +960,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -903,6 +978,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -937,6 +1013,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -951,6 +1030,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -985,6 +1065,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -999,6 +1082,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1033,6 +1117,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1047,6 +1134,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1081,6 +1169,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -1104,6 +1195,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -1139,6 +1231,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1153,6 +1248,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1187,6 +1283,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1202,6 +1301,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1236,6 +1336,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -1251,6 +1354,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1285,6 +1389,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1301,6 +1408,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1335,6 +1443,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -1350,6 +1461,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -1385,6 +1497,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1400,6 +1515,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1434,6 +1550,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1449,6 +1568,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1483,6 +1603,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 220,
     "ataque": [
       {
@@ -1499,6 +1622,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -1534,6 +1658,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 220,
     "ataque": [
       {
@@ -1551,6 +1678,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -1586,6 +1714,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1601,6 +1732,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1635,6 +1767,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1649,6 +1784,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1683,6 +1819,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -1699,6 +1838,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -1734,6 +1874,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1748,6 +1891,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1778,10 +1922,13 @@
     "sourceId": "b4b-037",
     "categoria": "Pokemon",
     "nome": "Quilava",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1797,6 +1944,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1827,10 +1975,13 @@
     "sourceId": "b4b-038",
     "categoria": "Pokemon",
     "nome": "Typhlosion ex",
-    "estagio": "Estagio 2",
+    "estagio": "2",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -1847,6 +1998,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -1882,6 +2034,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1896,6 +2051,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1930,6 +2086,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1945,6 +2104,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1979,6 +2139,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 210,
     "ataque": [
       {
@@ -1994,6 +2157,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -2029,6 +2193,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2044,6 +2211,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2078,6 +2246,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 210,
     "ataque": [
       {
@@ -2095,6 +2266,7 @@
     "fraqueza": "Agua",
     "recuo": 4,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -2130,6 +2302,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2145,6 +2320,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -2179,6 +2355,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -2203,6 +2382,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -2238,6 +2418,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2252,6 +2435,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2286,6 +2470,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2301,6 +2488,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2335,6 +2523,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -2350,6 +2541,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -2384,6 +2576,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2398,6 +2593,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2432,6 +2628,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -2448,6 +2647,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -2483,6 +2683,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -2498,6 +2701,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2532,6 +2736,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2547,6 +2754,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2581,6 +2789,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -2597,6 +2808,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -2631,6 +2843,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 230,
     "ataque": [
       {
@@ -2647,6 +2862,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -2682,6 +2898,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2696,6 +2915,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2726,10 +2946,13 @@
     "sourceId": "b4b-056",
     "categoria": "Pokemon",
     "nome": "Ninetales de Alola ex",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -2745,6 +2968,7 @@
     "fraqueza": "Metal",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -2780,6 +3004,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2795,6 +3022,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2829,6 +3057,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 200,
     "ataque": [
       {
@@ -2845,6 +3076,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -2880,6 +3112,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -2896,6 +3131,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2930,6 +3166,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 210,
     "ataque": [
       {
@@ -2947,6 +3186,7 @@
     "fraqueza": "",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -2982,6 +3222,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -2997,6 +3240,7 @@
     "fraqueza": "",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -3032,6 +3276,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3046,6 +3293,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3076,10 +3324,13 @@
     "sourceId": "b4b-063",
     "categoria": "Pokemon",
     "nome": "Marshtomp",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -3095,6 +3346,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3125,10 +3377,13 @@
     "sourceId": "b4b-064",
     "categoria": "Pokemon",
     "nome": "Mega Swampert ex",
-    "estagio": "Estagio 2",
+    "estagio": "2",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 230,
     "ataque": [
       {
@@ -3145,6 +3400,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -3180,6 +3436,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -3194,6 +3453,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3224,10 +3484,13 @@
     "sourceId": "b4b-066",
     "categoria": "Pokemon",
     "nome": "Mega Sharpedo ex",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 190,
     "ataque": [
       {
@@ -3242,6 +3505,7 @@
     "fraqueza": "Raio",
     "recuo": 0,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -3277,6 +3541,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -3293,6 +3560,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3323,10 +3591,13 @@
     "sourceId": "b4b-068",
     "categoria": "Pokemon",
     "nome": "Wailord ex",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 250,
     "ataque": [
       {
@@ -3344,6 +3615,7 @@
     "fraqueza": "Raio",
     "recuo": 4,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3379,6 +3651,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -3393,6 +3668,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3427,6 +3703,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -3443,6 +3722,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -3478,6 +3758,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3492,6 +3775,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3526,6 +3810,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -3541,6 +3828,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3575,6 +3863,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -3590,6 +3881,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -3625,6 +3917,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3639,6 +3934,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3673,6 +3969,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -3687,6 +3986,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3721,6 +4021,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -3736,6 +4039,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3770,6 +4074,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -3786,6 +4093,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3821,6 +4129,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3835,6 +4146,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3869,6 +4181,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -3886,6 +4201,7 @@
     "fraqueza": "Metal",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3920,6 +4236,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -3936,6 +4255,7 @@
     "fraqueza": "Metal",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3970,6 +4290,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -3994,6 +4317,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4029,6 +4353,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4043,6 +4370,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4073,10 +4401,13 @@
     "sourceId": "b4b-083",
     "categoria": "Pokemon",
     "nome": "Raichu",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -4092,6 +4423,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -4126,6 +4458,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -4140,6 +4475,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4174,6 +4510,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -4188,6 +4527,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4222,6 +4562,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -4238,6 +4581,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4273,6 +4617,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -4288,6 +4635,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4323,6 +4671,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -4337,6 +4688,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4371,6 +4723,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -4386,6 +4741,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4420,6 +4776,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 210,
     "ataque": [
       {
@@ -4436,6 +4795,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -4471,6 +4831,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4485,6 +4848,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4519,6 +4883,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -4534,6 +4901,7 @@
     "fraqueza": "Luta",
     "recuo": 0,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -4569,6 +4937,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -4585,6 +4956,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4620,6 +4992,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4634,6 +5009,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4664,10 +5040,13 @@
     "sourceId": "b4b-095",
     "categoria": "Pokemon",
     "nome": "Heliolisk",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -4682,6 +5061,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4716,6 +5096,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -4731,6 +5114,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4766,6 +5150,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4781,6 +5168,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4815,6 +5203,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4830,6 +5221,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4864,6 +5256,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -4880,6 +5275,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4915,6 +5311,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -4929,6 +5328,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4963,6 +5363,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -4978,6 +5381,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -5013,6 +5417,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -5029,6 +5436,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -5063,6 +5471,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -5079,6 +5490,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -5114,6 +5526,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -5128,6 +5543,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -5158,10 +5574,13 @@
     "sourceId": "b4b-105",
     "categoria": "Pokemon",
     "nome": "Kirlia",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -5176,6 +5595,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -5206,10 +5626,13 @@
     "sourceId": "b4b-106",
     "categoria": "Pokemon",
     "nome": "Mega Gardevoir ex",
-    "estagio": "Estagio 2",
+    "estagio": "2",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 210,
     "ataque": [
       {
@@ -5225,6 +5648,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -5260,6 +5684,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 190,
     "ataque": [
       {
@@ -5275,6 +5702,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -5310,6 +5738,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -5324,6 +5755,7 @@
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -5359,6 +5791,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -5373,6 +5808,7 @@
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -5408,6 +5844,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -5422,6 +5861,7 @@
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -5457,6 +5897,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -5472,6 +5915,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -5506,6 +5950,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -5521,6 +5968,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -5555,6 +6003,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -5569,6 +6020,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -5603,6 +6055,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -5619,6 +6074,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -5654,6 +6110,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -5669,6 +6128,7 @@
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -5704,6 +6164,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -5719,6 +6182,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -5754,6 +6218,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 40,
     "ataque": [
       {
@@ -5770,6 +6237,7 @@
     "fraqueza": "Metal",
     "recuo": 0,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -5804,6 +6272,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -5818,6 +6289,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -5852,6 +6324,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -5867,6 +6342,7 @@
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -5901,6 +6377,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -5916,6 +6395,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -5951,6 +6431,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -5965,6 +6448,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -5999,6 +6483,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -6015,6 +6502,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -6049,6 +6537,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -6063,6 +6554,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -6098,6 +6590,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -6112,6 +6607,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -6142,10 +6638,13 @@
     "sourceId": "b4b-125",
     "categoria": "Pokemon",
     "nome": "Mega Lopunny ex",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 190,
     "ataque": [
       {
@@ -6161,6 +6660,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -6196,6 +6696,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -6212,6 +6715,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -6246,6 +6750,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 190,
     "ataque": [
       {
@@ -6261,6 +6768,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -6292,10 +6800,13 @@
     "sourceId": "b4b-128",
     "categoria": "Pokemon",
     "nome": "Mega Gallade ex",
-    "estagio": "Estagio 2",
+    "estagio": "2",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 220,
     "ataque": [
       {
@@ -6312,6 +6823,7 @@
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -6347,6 +6859,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -6362,6 +6877,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -6392,10 +6908,13 @@
     "sourceId": "b4b-130",
     "categoria": "Pokemon",
     "nome": "Boldore",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -6412,6 +6931,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -6442,10 +6962,13 @@
     "sourceId": "b4b-131",
     "categoria": "Pokemon",
     "nome": "Gigalith ex",
-    "estagio": "Estagio 2",
+    "estagio": "2",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 190,
     "ataque": [
       {
@@ -6463,6 +6986,7 @@
     "fraqueza": "Planta",
     "recuo": 4,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -6498,6 +7022,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -6512,6 +7039,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -6546,6 +7074,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -6561,6 +7092,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -6596,6 +7128,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -6612,6 +7147,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -6646,6 +7182,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -6660,6 +7199,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -6694,6 +7234,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -6710,6 +7253,7 @@
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -6745,6 +7289,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -6760,6 +7307,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -6794,6 +7342,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -6810,6 +7361,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -6844,6 +7396,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -6858,6 +7413,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -6892,6 +7448,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -6907,6 +7466,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -6941,6 +7501,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 210,
     "ataque": [
       {
@@ -6958,6 +7521,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -6993,6 +7557,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -7008,6 +7575,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -7043,6 +7611,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -7058,6 +7629,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -7093,6 +7665,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -7109,6 +7684,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -7143,6 +7719,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -7157,6 +7736,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -7187,10 +7767,13 @@
     "sourceId": "b4b-146",
     "categoria": "Pokemon",
     "nome": "Zoroark ex",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -7205,6 +7788,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -7240,6 +7824,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -7255,6 +7842,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -7289,6 +7877,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -7304,6 +7895,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -7339,6 +7931,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -7363,6 +7958,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -7398,6 +7994,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -7413,6 +8012,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -7447,6 +8047,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -7461,6 +8064,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -7495,6 +8099,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -7511,6 +8118,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -7545,6 +8153,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -7559,6 +8170,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -7589,10 +8201,13 @@
     "sourceId": "b4b-154",
     "categoria": "Pokemon",
     "nome": "Perrserker de Galar",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -7608,6 +8223,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -7642,6 +8258,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 220,
     "ataque": [
       {
@@ -7659,6 +8278,7 @@
     "fraqueza": "Fogo",
     "recuo": 4,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -7694,6 +8314,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 200,
     "ataque": [
       {
@@ -7710,6 +8333,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -7745,6 +8369,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -7760,6 +8387,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -7795,6 +8423,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -7809,6 +8440,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -7839,10 +8471,13 @@
     "sourceId": "b4b-159",
     "categoria": "Pokemon",
     "nome": "Metang",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -7858,6 +8493,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -7888,10 +8524,13 @@
     "sourceId": "b4b-160",
     "categoria": "Pokemon",
     "nome": "Mega Metagross ex",
-    "estagio": "Estagio 2",
+    "estagio": "2",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 230,
     "ataque": [
       {
@@ -7908,6 +8547,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -7943,6 +8583,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -7957,6 +8600,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -7991,6 +8635,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -8006,6 +8653,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -8040,6 +8688,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -8056,6 +8707,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -8090,6 +8742,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -8106,6 +8761,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -8140,6 +8796,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -8154,6 +8813,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -8188,6 +8848,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -8215,6 +8878,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -8250,6 +8914,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -8266,6 +8933,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -8301,6 +8969,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -8315,6 +8986,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -8350,6 +9022,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -8364,6 +9039,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -8394,10 +9070,13 @@
     "sourceId": "b4b-170",
     "categoria": "Pokemon",
     "nome": "Dragonair",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -8413,6 +9092,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -8447,6 +9127,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -8461,6 +9144,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -8495,6 +9179,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -8511,6 +9198,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -8546,6 +9234,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -8561,6 +9252,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -8596,6 +9288,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -8611,6 +9306,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -8645,6 +9341,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -8660,6 +9359,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -8694,6 +9394,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -8710,6 +9413,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -8744,6 +9448,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -8759,6 +9466,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -8793,6 +9501,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -8808,6 +9519,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -8838,10 +9550,13 @@
     "sourceId": "b4b-179",
     "categoria": "Pokemon",
     "nome": "Raticate",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -8857,6 +9572,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -8891,6 +9607,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -8905,6 +9624,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -8939,6 +9659,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -8955,6 +9678,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -8990,6 +9714,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -9005,6 +9732,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -9040,6 +9768,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -9054,6 +9785,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -9088,6 +9820,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -9102,6 +9837,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -9136,6 +9872,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -9151,6 +9890,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -9185,6 +9925,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -9199,6 +9942,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -9233,6 +9977,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -9247,6 +9994,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -9281,6 +10029,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -9295,6 +10046,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -9330,6 +10082,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -9345,6 +10100,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -9379,6 +10135,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -9395,6 +10154,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -9430,6 +10190,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -9444,6 +10207,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -9478,6 +10242,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -9494,6 +10261,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -9529,6 +10297,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -9544,6 +10315,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -9574,10 +10346,13 @@
     "sourceId": "b4b-194",
     "categoria": "Pokemon",
     "nome": "Swanna ex",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -9594,6 +10369,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -9629,6 +10405,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -9643,6 +10422,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -9677,6 +10457,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -9692,6 +10475,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -9726,6 +10510,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -9742,6 +10529,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -9777,11 +10565,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -9816,11 +10608,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -9855,11 +10651,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -9894,11 +10694,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -9933,11 +10737,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -9972,11 +10780,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10011,11 +10823,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10050,11 +10866,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10089,11 +10909,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10128,11 +10952,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10167,11 +10995,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10206,11 +11038,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10245,11 +11081,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10284,11 +11124,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10323,11 +11167,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10362,11 +11210,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10401,11 +11253,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10440,11 +11296,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10479,11 +11339,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10518,11 +11382,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10557,11 +11425,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10596,11 +11468,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10635,11 +11511,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10674,11 +11554,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10713,11 +11597,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10752,11 +11640,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10791,11 +11683,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10830,11 +11726,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10869,11 +11769,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10908,11 +11812,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10947,11 +11855,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -10986,11 +11898,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11025,11 +11941,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11064,11 +11984,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11103,11 +12027,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11142,11 +12070,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11181,11 +12113,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11220,11 +12156,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11259,11 +12199,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11298,6 +12242,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -11312,6 +12259,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11346,6 +12294,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -11360,6 +12311,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11394,6 +12346,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 40,
     "ataque": [
       {
@@ -11408,6 +12363,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -11442,6 +12398,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -11456,6 +12415,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11490,6 +12450,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -11504,6 +12467,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11538,6 +12502,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -11552,6 +12519,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11586,6 +12554,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -11601,6 +12572,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -11635,6 +12607,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -11649,6 +12624,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11683,6 +12659,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -11698,6 +12677,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11732,6 +12712,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -11746,6 +12729,7 @@
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11781,6 +12765,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -11795,6 +12782,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11829,6 +12817,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -11843,6 +12834,7 @@
     "fraqueza": "Fogo",
     "recuo": 0,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11877,6 +12869,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -11891,6 +12886,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -11925,6 +12921,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -11940,6 +12939,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -11974,6 +12974,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -11988,6 +12991,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12022,6 +13026,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -12036,6 +13043,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12070,6 +13078,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -12084,6 +13095,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12118,6 +13130,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -12132,6 +13147,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12166,6 +13182,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -12181,6 +13200,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12215,6 +13235,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -12230,6 +13253,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -12264,6 +13288,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -12280,6 +13307,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12314,6 +13342,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -12329,6 +13360,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12363,6 +13395,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -12378,6 +13413,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -12412,6 +13448,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -12427,6 +13466,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12461,6 +13501,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -12475,6 +13518,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12509,6 +13553,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -12523,6 +13570,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12553,10 +13601,13 @@
     "sourceId": "b4b-263",
     "categoria": "Pokemon",
     "nome": "Quilava",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -12572,6 +13623,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12606,6 +13658,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -12620,6 +13675,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12654,6 +13710,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -12669,6 +13728,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12703,6 +13763,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -12718,6 +13781,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12752,6 +13816,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -12767,6 +13834,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -12801,6 +13869,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -12815,6 +13886,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12849,6 +13921,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -12864,6 +13939,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12898,6 +13974,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -12913,6 +13992,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -12947,6 +14027,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -12961,6 +14044,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -12995,6 +14079,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -13010,6 +14097,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13044,6 +14132,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -13059,6 +14150,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13093,6 +14185,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -13109,6 +14204,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -13143,6 +14239,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -13157,6 +14256,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13191,6 +14291,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -13206,6 +14309,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13240,6 +14344,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -13256,6 +14363,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13290,6 +14398,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -13304,6 +14415,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13334,10 +14446,13 @@
     "sourceId": "b4b-279",
     "categoria": "Pokemon",
     "nome": "Marshtomp",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -13353,6 +14468,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13387,6 +14503,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -13401,6 +14520,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13435,6 +14555,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -13451,6 +14574,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13485,6 +14609,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -13499,6 +14626,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13533,6 +14661,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -13547,6 +14678,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13581,6 +14713,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -13596,6 +14731,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13630,6 +14766,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -13644,6 +14783,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13678,6 +14818,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -13692,6 +14835,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -13726,6 +14870,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -13741,6 +14888,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -13775,6 +14923,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -13789,6 +14940,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13823,6 +14975,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -13840,6 +14995,7 @@
     "fraqueza": "Metal",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13874,6 +15030,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -13890,6 +15049,7 @@
     "fraqueza": "Metal",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -13924,6 +15084,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -13938,6 +15101,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -13968,10 +15132,13 @@
     "sourceId": "b4b-292",
     "categoria": "Pokemon",
     "nome": "Raichu",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -13987,6 +15154,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -14021,6 +15189,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -14035,6 +15206,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14069,6 +15241,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -14083,6 +15258,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14117,6 +15293,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -14131,6 +15310,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14165,6 +15345,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -14180,6 +15363,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14214,6 +15398,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -14228,6 +15415,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14262,6 +15450,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -14276,6 +15467,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14306,10 +15498,13 @@
     "sourceId": "b4b-299",
     "categoria": "Pokemon",
     "nome": "Heliolisk",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -14324,6 +15519,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14358,6 +15554,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -14373,6 +15572,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14407,6 +15607,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -14422,6 +15625,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14456,6 +15660,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -14470,6 +15677,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14504,6 +15712,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -14520,6 +15731,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14554,6 +15766,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -14568,6 +15783,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14598,10 +15814,13 @@
     "sourceId": "b4b-305",
     "categoria": "Pokemon",
     "nome": "Kirlia",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -14616,6 +15835,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14650,6 +15870,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -14664,6 +15887,7 @@
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14699,6 +15923,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -14713,6 +15940,7 @@
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14748,6 +15976,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -14762,6 +15993,7 @@
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14797,6 +16029,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -14812,6 +16047,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -14846,6 +16082,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -14861,6 +16100,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -14895,6 +16135,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -14909,6 +16152,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -14943,6 +16187,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 40,
     "ataque": [
       {
@@ -14959,6 +16206,7 @@
     "fraqueza": "Metal",
     "recuo": 0,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -14993,6 +16241,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -15007,6 +16258,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15041,6 +16293,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -15056,6 +16311,7 @@
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -15090,6 +16346,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -15104,6 +16363,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15138,6 +16398,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -15154,6 +16417,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15188,6 +16452,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -15202,6 +16469,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15236,6 +16504,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -15252,6 +16523,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15286,6 +16558,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -15301,6 +16576,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15331,10 +16607,13 @@
     "sourceId": "b4b-320",
     "categoria": "Pokemon",
     "nome": "Boldore",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -15351,6 +16630,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15385,6 +16665,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -15399,6 +16682,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15433,6 +16717,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -15449,6 +16736,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15483,6 +16771,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -15497,6 +16788,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -15531,6 +16823,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -15546,6 +16841,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15580,6 +16876,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -15596,6 +16895,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -15630,6 +16930,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -15644,6 +16947,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15678,6 +16982,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -15693,6 +17000,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15727,6 +17035,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -15743,6 +17054,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -15777,6 +17089,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -15791,6 +17106,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15825,6 +17141,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -15840,6 +17159,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15874,6 +17194,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -15889,6 +17212,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -15923,6 +17247,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -15937,6 +17264,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -15971,6 +17299,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -15987,6 +17318,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -16021,6 +17353,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -16035,6 +17370,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -16065,10 +17401,13 @@
     "sourceId": "b4b-335",
     "categoria": "Pokemon",
     "nome": "Perrserker de Galar",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -16084,6 +17423,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -16118,6 +17458,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -16132,6 +17475,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -16162,10 +17506,13 @@
     "sourceId": "b4b-337",
     "categoria": "Pokemon",
     "nome": "Metang",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -16181,6 +17528,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -16215,6 +17563,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -16229,6 +17580,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -16263,6 +17615,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -16278,6 +17633,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -16312,6 +17668,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -16328,6 +17687,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -16362,6 +17722,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -16378,6 +17741,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -16412,6 +17776,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -16426,6 +17793,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -16460,6 +17828,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -16474,6 +17845,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -16504,10 +17876,13 @@
     "sourceId": "b4b-344",
     "categoria": "Pokemon",
     "nome": "Dragonair",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -16523,6 +17898,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -16557,6 +17933,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -16571,6 +17950,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -16605,6 +17985,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -16620,6 +18003,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -16654,6 +18038,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -16669,6 +18056,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -16703,6 +18091,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -16719,6 +18110,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -16753,6 +18145,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -16768,6 +18163,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -16802,6 +18198,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -16817,6 +18216,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -16847,10 +18247,13 @@
     "sourceId": "b4b-351",
     "categoria": "Pokemon",
     "nome": "Raticate",
-    "estagio": "Estagio 1",
+    "estagio": "1",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -16866,6 +18269,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -16900,6 +18304,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -16914,6 +18321,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -16948,6 +18356,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -16962,6 +18373,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -16996,6 +18408,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -17010,6 +18425,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17044,6 +18460,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -17059,6 +18478,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -17093,6 +18513,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -17107,6 +18530,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17141,6 +18565,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -17155,6 +18582,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17189,6 +18617,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -17203,6 +18634,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17238,6 +18670,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -17253,6 +18688,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17287,6 +18723,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -17301,6 +18740,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17335,6 +18775,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -17350,6 +18793,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17384,6 +18828,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -17398,6 +18845,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17432,6 +18880,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -17447,6 +18898,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17481,11 +18933,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17520,11 +18976,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17559,11 +19019,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17598,11 +19062,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17637,11 +19105,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17676,11 +19148,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17715,11 +19191,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17754,11 +19234,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17793,11 +19277,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17832,11 +19320,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17871,11 +19363,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17910,11 +19406,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17949,11 +19449,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -17988,11 +19492,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18027,11 +19535,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18066,11 +19578,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18105,11 +19621,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18144,11 +19664,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18183,11 +19707,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18222,11 +19750,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18261,11 +19793,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18300,11 +19836,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18339,11 +19879,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18378,11 +19922,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18417,11 +19965,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18456,11 +20008,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18495,11 +20051,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18534,11 +20094,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18573,11 +20137,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18612,11 +20180,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18651,11 +20223,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18690,11 +20266,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18729,11 +20309,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18768,11 +20352,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18807,11 +20395,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18846,11 +20438,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18885,11 +20481,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18924,11 +20524,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -18963,11 +20567,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": true,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -19002,6 +20610,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -19017,6 +20628,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -19051,6 +20663,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -19067,6 +20682,7 @@
     "fraqueza": "Metal",
     "recuo": 3,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -19101,6 +20717,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -19116,6 +20735,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -19150,6 +20770,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 40,
     "ataque": [
       {
@@ -19166,6 +20789,7 @@
     "fraqueza": "Metal",
     "recuo": 0,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -19200,6 +20824,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -19214,6 +20841,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -19248,6 +20876,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -19262,6 +20893,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -19296,6 +20928,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 240,
     "ataque": [
       {
@@ -19313,6 +20948,7 @@
     "fraqueza": "Fogo",
     "recuo": 4,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -19348,6 +20984,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 210,
     "ataque": [
       {
@@ -19363,6 +21002,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -19398,6 +21038,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 220,
     "ataque": [
       {
@@ -19414,6 +21057,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -19449,6 +21093,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 220,
     "ataque": [
       {
@@ -19466,6 +21113,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -19501,6 +21149,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 210,
     "ataque": [
       {
@@ -19516,6 +21167,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -19551,6 +21203,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 230,
     "ataque": [
       {
@@ -19567,6 +21222,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -19602,6 +21258,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 210,
     "ataque": [
       {
@@ -19619,6 +21278,7 @@
     "fraqueza": "",
     "recuo": 3,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -19650,10 +21310,13 @@
     "sourceId": "b4b-416",
     "categoria": "Pokemon",
     "nome": "Mega Gardevoir ex",
-    "estagio": "Estagio 2",
+    "estagio": "2",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 210,
     "ataque": [
       {
@@ -19669,6 +21332,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -19704,6 +21368,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 190,
     "ataque": [
       {
@@ -19719,6 +21386,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -19754,6 +21422,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 190,
     "ataque": [
       {
@@ -19769,6 +21440,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -19804,6 +21476,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 210,
     "ataque": [
       {
@@ -19821,6 +21496,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -19856,6 +21532,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -19871,6 +21550,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -19906,11 +21586,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -19945,11 +21629,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -19984,11 +21672,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -20023,11 +21715,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -20062,6 +21758,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 220,
     "ataque": [
       {
@@ -20078,6 +21777,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Raro Imersivo",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -20113,6 +21813,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -20128,6 +21831,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -20163,6 +21867,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -20179,6 +21886,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -20214,6 +21922,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -20230,6 +21941,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Coroa Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -20265,6 +21977,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -20281,6 +21996,7 @@
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Coroa Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",

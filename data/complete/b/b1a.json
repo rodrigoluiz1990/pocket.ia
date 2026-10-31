@@ -8,6 +8,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -22,6 +25,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -32,7 +36,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "1 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-001.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-001.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013070_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vovbdgd95gcppnr-bulbasaur",
     "custoDeck": 1,
@@ -56,6 +60,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -70,6 +77,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -80,7 +88,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "2 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-002.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-002.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013080_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wx7l4ow5cw3agx7-ivysaur",
     "custoDeck": 1,
@@ -104,6 +112,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -121,6 +132,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -131,7 +143,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "3 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-003.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-003.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013090_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tq6uj96ra8yddm5-venusaur",
     "custoDeck": 3,
@@ -155,6 +167,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 240,
     "ataque": [
       {
@@ -172,6 +187,7 @@
     "fraqueza": "Fogo",
     "recuo": 4,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -183,7 +199,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "4 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-004.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-004.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013100_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gnf4sl35ncow7an-mega-venusaur-ex",
     "custoDeck": 8,
@@ -207,6 +223,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -221,6 +240,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -231,7 +251,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "5 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-005.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-005.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013110_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u9tg79utb1ih2gw-spinarak",
     "custoDeck": 1,
@@ -255,6 +275,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -269,6 +292,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -279,7 +303,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "6 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-006.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-006.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013120_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o62at0a9zua1v07-ariados",
     "custoDeck": 1,
@@ -303,6 +327,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -317,6 +344,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -327,7 +355,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "7 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-007.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-007.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013130_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ih93dveco9lfkc7-sunkern",
     "custoDeck": 1,
@@ -351,6 +379,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -365,6 +396,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -375,7 +407,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "8 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-008.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-008.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013140_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/91si0fgxzbljg85-sunflora",
     "custoDeck": 1,
@@ -399,6 +431,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -414,6 +449,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -424,7 +460,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "9 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-009.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-009.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013150_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6kwrgl9k4835nqj-burmy",
     "custoDeck": 1,
@@ -448,6 +484,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -464,6 +503,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -474,7 +514,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "10 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-010.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-010.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013160_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y64tf10zqf16isj-mothim",
     "custoDeck": 1,
@@ -498,6 +538,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -513,6 +556,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -523,7 +567,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "11 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-011.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-011.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013170_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zvkc9ir2satck5n-charmander",
     "custoDeck": 1,
@@ -547,6 +591,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -563,6 +610,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -573,7 +621,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "12 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-012.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-012.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_012980_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/itrm24c0i5wfn8v-charmeleon",
     "custoDeck": 1,
@@ -597,6 +645,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -614,6 +665,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -624,7 +676,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "13 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-013.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-013.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013180_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lew2qh6a28iqm6b-charizard",
     "custoDeck": 3,
@@ -648,6 +700,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 220,
     "ataque": [
       {
@@ -665,6 +720,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -676,7 +732,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "14 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-014.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-014.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013190_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9u3c93opeaybnt9-mega-charizard-y-ex",
     "custoDeck": 8,
@@ -700,6 +756,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -714,6 +773,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -724,7 +784,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "15 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-015.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-015.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013200_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lvq4e1d6ieu959u-houndour",
     "custoDeck": 1,
@@ -748,6 +808,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -762,6 +825,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -772,7 +836,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "16 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-016.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-016.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013210_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/32ncfekw0zpe2oe-houndoom",
     "custoDeck": 1,
@@ -796,6 +860,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -811,6 +878,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -821,7 +889,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "17 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-017.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-017.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013220_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/evjkloatjbwc00f-squirtle",
     "custoDeck": 1,
@@ -845,6 +913,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -861,6 +932,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -871,7 +943,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "18 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-018.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-018.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013230_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rp986fbumm7pzjr-wartortle",
     "custoDeck": 1,
@@ -895,6 +967,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -911,6 +986,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -921,7 +997,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "19 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-019.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-019.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013240_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/afite7nho9jbumu-blastoise",
     "custoDeck": 3,
@@ -945,6 +1021,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 230,
     "ataque": [
       {
@@ -961,6 +1040,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -972,7 +1052,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "20 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-020.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-020.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013250_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k7rxky048kvsvak-mega-blastoise-ex",
     "custoDeck": 8,
@@ -996,6 +1076,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1011,6 +1094,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1021,7 +1105,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "21 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-021.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-021.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013260_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/95t2qc3ac1z2mod-basculin",
     "custoDeck": 1,
@@ -1045,6 +1129,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1059,6 +1146,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1069,7 +1157,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "22 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-022.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-022.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013270_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r8w6ieaf2fcktl1-clauncher",
     "custoDeck": 1,
@@ -1093,6 +1181,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1107,6 +1198,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1117,7 +1209,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "23 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-023.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-023.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013280_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/uku5ed2kt3uj1ep-clawitzer",
     "custoDeck": 1,
@@ -1141,6 +1233,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -1155,6 +1250,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1165,7 +1261,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "24 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-024.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-024.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013290_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8ncjzu3mrmp1nyk-magnemite",
     "custoDeck": 1,
@@ -1189,6 +1285,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1203,6 +1302,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1213,7 +1313,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "25 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-025.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-025.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013300_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/opudiih4bakn44t-magneton",
     "custoDeck": 1,
@@ -1237,6 +1337,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -1253,6 +1356,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1263,7 +1367,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "26 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-026.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-026.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013310_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zcsfydaqufso90s-magnezone",
     "custoDeck": 3,
@@ -1287,6 +1391,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1302,6 +1409,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1312,7 +1420,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "27 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-027.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-027.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013320_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q3r1qntm2da42jo-emolga",
     "custoDeck": 1,
@@ -1336,6 +1444,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1350,6 +1461,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1360,7 +1472,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "28 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-028.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-028.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013330_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tcp29tvhzkoeolp-helioptile",
     "custoDeck": 1,
@@ -1384,6 +1496,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1399,6 +1514,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1409,7 +1525,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "29 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-029.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-029.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013030_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rxosv68xrvpt5o6-heliolisk",
     "custoDeck": 1,
@@ -1433,6 +1549,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -1447,6 +1566,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1457,7 +1577,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "30 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-030.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-030.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013340_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nj6cwie5wu1uwjd-misdreavus",
     "custoDeck": 1,
@@ -1481,6 +1601,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1496,6 +1619,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1506,7 +1630,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "31 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-031.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-031.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013350_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1k2kav7potcqkan-mismagius",
     "custoDeck": 1,
@@ -1530,6 +1654,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 40,
     "ataque": [
       {
@@ -1544,6 +1671,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1554,7 +1682,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "32 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-032.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-032.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013360_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ftypxp21cgm5r4v-solosis",
     "custoDeck": 1,
@@ -1578,6 +1706,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1593,6 +1724,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1603,7 +1735,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "33 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-033.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-033.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013370_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/loyaddtvgs69vf6-duosion",
     "custoDeck": 1,
@@ -1627,6 +1759,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1643,6 +1778,7 @@
     "fraqueza": "Escuridao",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1653,7 +1789,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "34 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-034.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-034.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013380_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wrdt6swf28cdc4b-reuniclus",
     "custoDeck": 3,
@@ -1677,6 +1813,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1691,6 +1830,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1701,7 +1841,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "35 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-035.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-035.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013390_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zxkflptc0wxjbcr-spritzee",
     "custoDeck": 1,
@@ -1725,6 +1865,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1740,6 +1883,7 @@
     "fraqueza": "Metal",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1750,7 +1894,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "36 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-036.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-036.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013400_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ok1qy2ewsrrhqek-aromatisse",
     "custoDeck": 1,
@@ -1774,6 +1918,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -1790,6 +1937,7 @@
     "fraqueza": "Metal",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1800,7 +1948,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "37 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-037.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-037.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013410_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sjjoy187ad7kc10-xerneas",
     "custoDeck": 3,
@@ -1824,6 +1972,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1840,6 +1991,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1850,7 +2002,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "38 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-038.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-038.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013420_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k9ynlyvl61nqj14-onix",
     "custoDeck": 1,
@@ -1874,6 +2026,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1889,6 +2044,7 @@
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1899,7 +2055,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "39 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-039.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-039.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013430_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7dctp811p5t2tfw-makuhita",
     "custoDeck": 1,
@@ -1923,6 +2079,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -1939,6 +2098,7 @@
     "fraqueza": "Psiquico",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1949,7 +2109,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "40 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-040.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-040.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013440_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d9zv8bpjyfq8oln-hariyama",
     "custoDeck": 1,
@@ -1973,6 +2133,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1989,6 +2152,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1999,7 +2163,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "41 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-041.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-041.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013450_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/juqbu9t6b79rjof-nosepass",
     "custoDeck": 1,
@@ -2023,6 +2187,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 190,
     "ataque": [
       {
@@ -2038,6 +2205,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -2049,7 +2217,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "42 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-042.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-042.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013460_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8bw6n69qcgr0awj-mega-lopunny-ex",
     "custoDeck": 8,
@@ -2073,6 +2241,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -2087,6 +2258,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2097,7 +2269,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "43 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-043.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-043.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013470_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/eebtp2j2d1w3nku-mienfoo",
     "custoDeck": 1,
@@ -2121,6 +2293,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -2135,6 +2310,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2145,7 +2321,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "44 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-044.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-044.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013480_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/80gfdyv2j3fb4sk-mienshao",
     "custoDeck": 1,
@@ -2169,6 +2345,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -2184,6 +2363,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2194,7 +2374,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "45 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-045.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-045.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013490_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9hmg1c2w3i85hnp-grimer",
     "custoDeck": 1,
@@ -2218,6 +2398,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -2234,6 +2417,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2244,7 +2428,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "46 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-046.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-046.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013500_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iholnhjq5j1kiak-muk",
     "custoDeck": 1,
@@ -2268,6 +2452,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2282,6 +2469,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2292,7 +2480,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "47 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-047.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-047.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013510_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qr64jcs9qeeysz3-purrloin",
     "custoDeck": 1,
@@ -2316,6 +2504,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -2330,6 +2521,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2340,7 +2532,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "48 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-048.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-048.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013520_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cre549a18e7oyph-liepard",
     "custoDeck": 1,
@@ -2364,6 +2556,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2379,6 +2574,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2389,7 +2585,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "49 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-049.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-049.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013530_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m9zxo834h4bbftp-trubbish",
     "custoDeck": 1,
@@ -2413,6 +2609,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -2429,6 +2628,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2439,7 +2639,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "50 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-050.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-050.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013540_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s4w2f49vc85jzk5-garbodor",
     "custoDeck": 1,
@@ -2463,6 +2663,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -2480,6 +2683,7 @@
     "fraqueza": "Fogo",
     "recuo": 4,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2490,7 +2694,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "51 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-051.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-051.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013550_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g2ye4rf7yad0tda-steelix",
     "custoDeck": 1,
@@ -2514,6 +2718,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 220,
     "ataque": [
       {
@@ -2531,6 +2738,7 @@
     "fraqueza": "Fogo",
     "recuo": 4,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -2542,7 +2750,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "52 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-052.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-052.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013560_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j8xpdj0e0q1azrr-mega-steelix-ex",
     "custoDeck": 8,
@@ -2566,6 +2774,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -2581,6 +2792,7 @@
     "fraqueza": "Fogo",
     "recuo": 4,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2591,7 +2803,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "53 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-053.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-053.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013570_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fkl5zz214nh4pr9-probopass",
     "custoDeck": 1,
@@ -2615,6 +2827,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -2631,6 +2846,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2641,7 +2857,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "54 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-054.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-054.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013010_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zdwlm14lvijwrfu-genesect",
     "custoDeck": 3,
@@ -2665,6 +2881,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2679,6 +2898,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2689,7 +2909,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "55 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-055.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-055.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013060_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jp2hf98eg2fyltb-ditto",
     "custoDeck": 1,
@@ -2713,6 +2933,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2727,6 +2950,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2737,7 +2961,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "56 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-056.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-056.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013580_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q20fy3nrsr21i84-porygon",
     "custoDeck": 1,
@@ -2761,6 +2985,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -2776,6 +3003,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2786,7 +3014,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "57 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-057.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-057.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013590_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x1mm4v1w9v4jnzo-porygon2",
     "custoDeck": 1,
@@ -2810,6 +3038,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -2826,6 +3057,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2836,7 +3068,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "58 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-058.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-058.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013600_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t4p6xci3hryucbz-porygon-z",
     "custoDeck": 3,
@@ -2860,6 +3092,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2874,6 +3109,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2884,7 +3120,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "59 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-059.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-059.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013610_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kmwyfawamwa6dpy-starly",
     "custoDeck": 1,
@@ -2908,6 +3144,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -2923,6 +3162,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2933,7 +3173,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "60 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-060.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-060.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013620_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/76spparvh56l9q2-staravia",
     "custoDeck": 1,
@@ -2957,6 +3197,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -2973,6 +3216,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2983,7 +3227,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "61 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-061.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-061.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013630_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3qt212dj0iphuzb-staraptor",
     "custoDeck": 1,
@@ -3007,6 +3251,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3021,6 +3268,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3031,7 +3279,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "62 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-062.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-062.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013040_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/thbielkxfykc72l-buneary",
     "custoDeck": 1,
@@ -3055,6 +3303,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -3070,6 +3321,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3080,7 +3332,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "63 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-063.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-063.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013640_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/88ralmjlcr4e3aa-lopunny",
     "custoDeck": 1,
@@ -3104,6 +3356,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -3119,6 +3374,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3129,7 +3385,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "64 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-064.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-064.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013650_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1tb64gmq5olfwva-bouffalant",
     "custoDeck": 1,
@@ -3153,6 +3409,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -3167,6 +3426,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3177,7 +3437,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "65 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-065.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-065.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_10_013660_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iuk5hh6yvg2jas0-furfrou",
     "custoDeck": 1,
@@ -3201,11 +3461,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3216,7 +3480,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "66 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-066.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-066.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_10_001010_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t8vwgpxthcklr0n-clemonts-backpack",
     "custoDeck": 1,
@@ -3240,11 +3504,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3255,7 +3523,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "67 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-067.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-067.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_10_001020_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b7417u813j8rkqv-quick-grow-extract",
     "custoDeck": 1,
@@ -3279,11 +3547,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3294,7 +3566,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "68 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-068.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-068.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_10_001030_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xk6amvz3cyhwofv-clemont",
     "custoDeck": 1,
@@ -3318,11 +3590,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3333,7 +3609,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "69 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-069.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-069.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_10_001040_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/73icq4ojw56wcd1-serena",
     "custoDeck": 1,
@@ -3357,6 +3633,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -3371,6 +3650,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3381,7 +3661,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "70 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-070.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-070.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013120_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w7vvlgzkgqadp34-ariados",
     "custoDeck": 8,
@@ -3405,6 +3685,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -3419,6 +3702,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3429,7 +3713,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "71 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-071.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-071.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013140_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rmut0qrzrq6ka2l-sunflora",
     "custoDeck": 8,
@@ -3453,6 +3737,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -3469,6 +3756,7 @@
     "fraqueza": "Escuridao",
     "recuo": 3,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3479,7 +3767,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "72 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-072.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-072.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013380_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r8aeoauwy2lq7z1-reuniclus",
     "custoDeck": 8,
@@ -3503,6 +3791,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -3519,6 +3810,7 @@
     "fraqueza": "Metal",
     "recuo": 2,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3529,7 +3821,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "73 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-073.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-073.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013410_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bnoz4j8h9361bl0-xerneas",
     "custoDeck": 8,
@@ -3553,6 +3845,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -3568,6 +3863,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3578,7 +3874,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "74 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-074.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-074.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013530_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dd8bpagoz0vnhnb-trubbish",
     "custoDeck": 8,
@@ -3602,6 +3898,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3616,6 +3915,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3626,7 +3926,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "75 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-075.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-075.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013040_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k3xenu1expx65vc-buneary",
     "custoDeck": 8,
@@ -3650,6 +3950,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 240,
     "ataque": [
       {
@@ -3667,6 +3970,7 @@
     "fraqueza": "Fogo",
     "recuo": 4,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -3678,7 +3982,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "76 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-076.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-076.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013100_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rrzi6tnpxivf6mx-mega-venusaur-ex",
     "custoDeck": 8,
@@ -3702,6 +4006,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 220,
     "ataque": [
       {
@@ -3719,6 +4026,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -3730,7 +4038,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "77 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-077.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-077.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013190_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/euukz0om2ybbwba-mega-charizard-y-ex",
     "custoDeck": 8,
@@ -3754,6 +4062,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 230,
     "ataque": [
       {
@@ -3770,6 +4081,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -3781,7 +4093,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "78 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-078.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-078.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013250_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hrhldjkpjj4oomy-mega-blastoise-ex",
     "custoDeck": 8,
@@ -3805,6 +4117,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 190,
     "ataque": [
       {
@@ -3820,6 +4135,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -3831,7 +4147,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "79 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-079.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-079.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013460_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9u452tz97hzqm6g-mega-lopunny-ex",
     "custoDeck": 8,
@@ -3855,6 +4171,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 220,
     "ataque": [
       {
@@ -3872,6 +4191,7 @@
     "fraqueza": "Fogo",
     "recuo": 4,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -3883,7 +4203,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "80 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-080.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-080.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013560_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hmk602xhsarwypf-mega-steelix-ex",
     "custoDeck": 8,
@@ -3907,11 +4227,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3922,7 +4246,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "81 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-081.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-081.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_20_001030_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nemit1pytwz1ycz-clemont",
     "custoDeck": 8,
@@ -3946,11 +4270,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3961,7 +4289,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "82 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-082.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-082.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_20_001040_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yqrex3p3lvbleo7-serena",
     "custoDeck": 8,
@@ -3985,6 +4313,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 240,
     "ataque": [
       {
@@ -4002,6 +4333,7 @@
     "fraqueza": "Fogo",
     "recuo": 4,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -4013,7 +4345,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "83 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-083.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-083.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013100_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bcoq2cox6k0jcjc-mega-venusaur-ex",
     "custoDeck": 8,
@@ -4037,6 +4369,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 230,
     "ataque": [
       {
@@ -4053,6 +4388,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -4064,7 +4400,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "84 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-084.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-084.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013250_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4nuouby0bwxmyzy-mega-blastoise-ex",
     "custoDeck": 8,
@@ -4088,6 +4424,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 190,
     "ataque": [
       {
@@ -4105,6 +4444,7 @@
     "fraqueza": "Psiquico",
     "recuo": 4,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -4116,7 +4456,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "85 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-085.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-085.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013460_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bammubqo5a3cfc1-mega-lopunny-ex",
     "custoDeck": 8,
@@ -4140,6 +4480,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 220,
     "ataque": [
       {
@@ -4155,6 +4498,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -4166,7 +4510,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "86 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-086.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-086.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013560_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e4gp5syz2ibcdzq-mega-steelix-ex",
     "custoDeck": 8,
@@ -4190,6 +4534,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 220,
     "ataque": [
       {
@@ -4207,6 +4554,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Raro Imersivo",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -4218,7 +4566,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "87 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-087.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-087.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013190_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lgvyipn64uh2f7i-mega-charizard-y-ex",
     "custoDeck": 8,
@@ -4242,6 +4590,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -4256,6 +4607,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4266,7 +4618,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "88 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-088.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-088.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_008570_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7dmwtkkcizk1ejr-oddish",
     "custoDeck": 2,
@@ -4290,6 +4642,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -4305,6 +4660,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4315,7 +4671,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "89 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-089.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-089.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_008580_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nlljp7kjmxnglpr-gloom",
     "custoDeck": 2,
@@ -4339,6 +4695,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -4355,6 +4714,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4365,7 +4725,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "90 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-090.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-090.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_000130_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mzigqv0y2gkgx7k-vileplume",
     "custoDeck": 2,
@@ -4389,6 +4749,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -4406,6 +4769,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4416,7 +4780,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "91 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-091.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-091.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_013180_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fh4kvtvb91wt58u-charizard",
     "custoDeck": 2,
@@ -4440,6 +4804,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -4454,6 +4821,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4464,7 +4832,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "92 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-092.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-092.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_006230_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f71ndwot97s38fl-shellder",
     "custoDeck": 2,
@@ -4488,6 +4856,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -4503,6 +4874,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4513,7 +4885,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "93 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-093.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-093.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_006240_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/edo6c09q9lvb95i-cloyster",
     "custoDeck": 2,
@@ -4537,6 +4909,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4551,6 +4926,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4561,7 +4937,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "94 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-094.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-094.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_012040_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zih1x6fo5u97wnl-sandshrew",
     "custoDeck": 2,
@@ -4585,6 +4961,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -4599,6 +4978,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4609,7 +4989,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "95 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-095.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-095.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_012050_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/47petli8suwtknl-sandslash",
     "custoDeck": 2,
@@ -4633,6 +5013,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -4647,6 +5030,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4657,7 +5041,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "96 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-096.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-096.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007940_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/msnpi5wnwzdrrr7-type-null",
     "custoDeck": 2,
@@ -4681,6 +5065,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -4696,6 +5083,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4706,7 +5094,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "97 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-097.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-097.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007950_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ficailgowmzhxhb-silvally",
     "custoDeck": 2,
@@ -4730,6 +5118,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -4755,6 +5146,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4766,7 +5158,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "98 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-098.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-098.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007480_03_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/farch7aokfga9h8-buzzwole-ex",
     "custoDeck": 2,
@@ -4790,6 +5182,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -4806,6 +5201,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4817,7 +5213,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "99 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-099.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-099.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_006680_04_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71z7etq1qsjk7fh-lunala-ex",
     "custoDeck": 2,
@@ -4841,6 +5237,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -4867,6 +5266,7 @@
     "fraqueza": "Planta",
     "recuo": 4,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4878,7 +5278,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "100 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-100.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-100.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007800_02_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dm05ywmcvsoqtdm-guzzlord-ex",
     "custoDeck": 2,
@@ -4902,6 +5302,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -4917,6 +5320,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4928,7 +5332,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "101 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-101.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-101.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_007030_04_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jtce5sdy0bu1c9b-solgaleo-ex",
     "custoDeck": 2,
@@ -4952,6 +5356,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -4968,6 +5375,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Coroa Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -4978,7 +5386,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "102 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-102.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-102.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/PK_20_012540_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9kfvx8g17faimdx-aegislash",
     "custoDeck": 8,
@@ -5002,11 +5410,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Coroa Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -5017,7 +5429,7 @@
     "expansao": "Chama Carmesim (B1A)",
     "numero": "103 / 103",
     "pacote": "Crimson Blaze",
-    "imageLocal": "./assets/cards/cartas_b1a/b1a-103.jpg",
+    "imageLocal": "./assets/cards/cartas_b1a/b1a-103.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b1a/TR_20_001020_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mfxhxjyj9ikb855-quick-grow-extract",
     "custoDeck": 8,

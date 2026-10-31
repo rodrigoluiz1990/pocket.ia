@@ -8,6 +8,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -22,6 +25,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -32,7 +36,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "1 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-001.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-001.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005210_00_BEEDLE_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4m26w35x3gu53ej-weedle",
     "custoDeck": 1,
@@ -56,6 +60,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -70,6 +77,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -80,7 +88,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "2 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-002.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-002.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005220_00_COCOON_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3n54fn1ag340x6w-kakuna",
     "custoDeck": 1,
@@ -104,6 +112,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -119,6 +130,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -130,7 +142,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "3 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-003.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-003.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005230_00_SPEARex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mssi78c8162ggzo-beedrill-ex",
     "custoDeck": 8,
@@ -154,6 +166,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -170,6 +185,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -180,7 +196,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "4 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-004.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-004.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005240_00_KAILIOS_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lv9ccwdam68l8q6-pinsir",
     "custoDeck": 1,
@@ -204,6 +220,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -218,6 +237,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -228,7 +248,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "5 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-005.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-005.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005250_00_NYAHOJA_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6ftv3l4gq33u08b-sprigatito",
     "custoDeck": 1,
@@ -252,6 +272,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -267,6 +290,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -277,7 +301,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "6 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-006.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-006.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005250_00_NYAROTE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/puv22241m635o3h-floragato",
     "custoDeck": 1,
@@ -301,6 +325,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -316,6 +343,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -326,7 +354,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "7 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-007.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-007.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005260_00_MASQUERNYA_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/064ym579f08jcf1-meowscarada",
     "custoDeck": 3,
@@ -350,6 +378,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -364,6 +395,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -374,7 +406,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "8 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-008.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-008.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005270_00_HITOKAGE_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6066ttdk5hv4or2-charmander",
     "custoDeck": 1,
@@ -398,6 +430,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -413,6 +448,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -423,7 +459,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "9 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-009.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-009.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005280_00_LIZARDO_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2d257p127lb548k-charmeleon",
     "custoDeck": 1,
@@ -447,6 +483,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -473,6 +512,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -484,7 +524,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "10 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-010.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-010.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005290_00_LIZARDONex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g9s2f3p481h1bq7-charizard-ex",
     "custoDeck": 8,
@@ -508,6 +548,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -522,6 +565,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -532,7 +576,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "11 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-011.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-011.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005300_00_BOOBER_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6fzh0m15lv24w6v-magmar",
     "custoDeck": 1,
@@ -556,6 +600,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -572,6 +619,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -582,7 +630,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "12 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-012.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-012.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005310_00_BOOBURN_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/atty1w3g3t39hhy-magmortar",
     "custoDeck": 3,
@@ -606,6 +654,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -622,6 +673,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -632,7 +684,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "13 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-013.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-013.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005320_00_PALDEAKENTAUROS_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/147338y6p7mygag-paldean-tauros",
     "custoDeck": 1,
@@ -656,6 +708,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -670,6 +725,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -680,7 +736,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "14 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-014.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-014.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005330_00_MENOKURAGE_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e6c70mhsfn7i0pe-tentacool",
     "custoDeck": 1,
@@ -704,6 +760,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -718,6 +777,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -728,7 +788,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "15 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-015.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-015.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005340_00_DOKUKURAGE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z06a4d61i9e60v2-tentacruel",
     "custoDeck": 1,
@@ -752,6 +812,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -766,6 +829,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -776,7 +840,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "16 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-016.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-016.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005350_00_BUOYSEL_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qzfjp205ery01x6-buizel",
     "custoDeck": 1,
@@ -800,6 +864,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -814,6 +881,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -824,7 +892,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "17 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-017.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-017.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005360_00_FLOAZEL_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6vn59a029r2u643-floatzel",
     "custoDeck": 1,
@@ -848,6 +916,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -862,6 +933,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -872,7 +944,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "18 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-018.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-018.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005370_00_UMIDIGDA_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9j70c3z44fox2br-wiglett",
     "custoDeck": 1,
@@ -896,6 +968,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -912,6 +987,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -923,7 +999,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "19 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-019.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-019.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005380_00_UMITRIOex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i0gxgte44oa61i7-wugtrio-ex",
     "custoDeck": 8,
@@ -947,6 +1023,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -964,6 +1043,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -974,7 +1054,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "20 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-020.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-020.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005390_00_HEYRUSHER_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yq0dk6k1x26ei8c-dondozo",
     "custoDeck": 3,
@@ -998,6 +1078,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1012,6 +1095,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1022,7 +1106,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "21 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-021.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-021.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005400_00_SYARITATSU_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pj9vua4728915mq-tatsugiri",
     "custoDeck": 1,
@@ -1046,6 +1130,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -1062,6 +1149,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -1073,7 +1161,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "22 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-022.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-022.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005410_00_PIKACHUex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5nrapi3min6e1v6-pikachu-ex",
     "custoDeck": 8,
@@ -1097,6 +1185,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1111,6 +1202,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1121,7 +1213,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "23 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-023.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-023.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005420_00_BIRIRIDAMA_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cup3rp590k2la09-voltorb",
     "custoDeck": 1,
@@ -1145,6 +1237,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1160,6 +1255,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1170,7 +1266,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "24 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-024.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-024.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005430_00_MARUMINE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1gajf777c1ewg05-electrode",
     "custoDeck": 1,
@@ -1194,6 +1290,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1208,6 +1307,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1218,7 +1318,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "25 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-025.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-025.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005430_00_PACHIRISU_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6ed5804rdx05505-pachirisu",
     "custoDeck": 1,
@@ -1242,6 +1342,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1256,6 +1359,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1266,7 +1370,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "26 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-026.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-026.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005440_00_PAMO_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/15ld52lr0w6uwk6-pawmi",
     "custoDeck": 1,
@@ -1290,6 +1394,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1305,6 +1412,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1315,7 +1423,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "27 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-027.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-027.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005450_00_PAMOT_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7a84guflo59f050-pawmo",
     "custoDeck": 1,
@@ -1339,6 +1447,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -1354,6 +1465,7 @@
     "fraqueza": "Luta",
     "recuo": 0,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1364,7 +1476,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "28 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-028.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-028.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005450_00_PARMOT_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0039b66jy5147nw-pawmot",
     "custoDeck": 3,
@@ -1388,6 +1500,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1402,6 +1517,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1412,7 +1528,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "29 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-029.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-029.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005460_00_CASEY_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0z2u8c7v8cr7uq6-abra",
     "custoDeck": 1,
@@ -1436,6 +1552,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1450,6 +1569,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1460,7 +1580,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "30 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-030.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-030.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005470_00_YUNGERER_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w71088w8g9h3a11-kadabra",
     "custoDeck": 1,
@@ -1484,6 +1604,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -1499,6 +1622,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1509,7 +1633,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "31 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-031.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-031.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005480_00_FOODIN_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r39i4421eo639o9-alakazam",
     "custoDeck": 3,
@@ -1533,6 +1657,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1548,6 +1675,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1558,7 +1686,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "32 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-032.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-032.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005490_00_BARRIERD_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/554bh23iw5589km-mr-mime",
     "custoDeck": 1,
@@ -1582,6 +1710,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1596,6 +1727,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1606,7 +1738,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "33 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-033.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-033.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005500_00_FUWANTE_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yb416dbw3341me5-drifloon",
     "custoDeck": 1,
@@ -1630,6 +1762,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1644,6 +1779,7 @@
     "fraqueza": "Escuridao",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1654,7 +1790,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "34 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-034.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-034.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005510_00_FUWARIDE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9a33hcf0a8dfwu8-drifblim",
     "custoDeck": 1,
@@ -1678,6 +1814,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -1695,6 +1834,7 @@
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -1706,7 +1846,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "35 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-035.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-035.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005520_00_GIRATINAex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/79a33184gcl2659-giratina-ex",
     "custoDeck": 8,
@@ -1730,6 +1870,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1744,6 +1887,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1754,7 +1898,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "36 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-036.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-036.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005530_00_COLLECUREI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/127jols84aythmi-gimmighoul",
     "custoDeck": 1,
@@ -1778,6 +1922,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1792,6 +1939,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1802,7 +1950,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "37 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-037.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-037.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005540_00_WANRIKY_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/83vp2pyyc98u274-machop",
     "custoDeck": 1,
@@ -1826,6 +1974,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1841,6 +1992,7 @@
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1851,7 +2003,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "38 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-038.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-038.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005550_00_GORIKY_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q3m8y8744r0glv7-machoke",
     "custoDeck": 1,
@@ -1875,6 +2027,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -1890,6 +2045,7 @@
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1900,7 +2056,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "39 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-039.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-039.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005550_00_KAIRIKY_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ca0006onh292m3o-machamp",
     "custoDeck": 3,
@@ -1924,6 +2080,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1938,6 +2097,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1948,7 +2108,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "40 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-040.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-040.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005560_00_SAWAMULAR_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/344jira7fe582wt-hitmonlee",
     "custoDeck": 1,
@@ -1972,6 +2132,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1988,6 +2151,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1998,7 +2162,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "41 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-041.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-041.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005570_00_EBIWALAR_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rkiqx39z0wap30g-hitmonchan",
     "custoDeck": 1,
@@ -2022,6 +2186,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2037,6 +2204,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2047,7 +2215,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "42 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-042.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-042.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005570_00_RIOLU_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3vufo794jka2neo-riolu",
     "custoDeck": 1,
@@ -2071,6 +2239,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -2087,6 +2258,7 @@
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -2098,7 +2270,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "43 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-043.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-043.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005580_00_LUCARIOex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71p0fvmb4s3c5kb-lucario-ex",
     "custoDeck": 8,
@@ -2122,6 +2294,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -2137,6 +2312,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2147,7 +2323,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "44 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-044.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-044.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005590_00_KARAMINGO_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/irk3b8v34e5jlzj-flamigo",
     "custoDeck": 1,
@@ -2171,6 +2347,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2186,6 +2365,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2196,7 +2376,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "45 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-045.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-045.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005600_00_ARBO_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xtk4koc77ofe394-ekans",
     "custoDeck": 1,
@@ -2220,6 +2400,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -2236,6 +2419,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2246,7 +2430,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "46 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-046.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-046.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005610_00_ARBOK_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/osi7y3546z2rkd5-arbok",
     "custoDeck": 1,
@@ -2270,6 +2454,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -2284,6 +2471,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2294,7 +2482,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "47 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-047.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-047.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005620_00_PALDEAUPAH_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t36ux8rn6mrf21v-paldean-wooper",
     "custoDeck": 1,
@@ -2318,6 +2506,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -2334,6 +2525,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -2345,7 +2537,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "48 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-048.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-048.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005630_00_PALDEADOOHex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m6thd7t88geee7c-paldean-clodsire-ex",
     "custoDeck": 8,
@@ -2369,6 +2561,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -2383,6 +2578,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2393,7 +2589,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "49 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-049.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-049.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005640_00_MIKARUGE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/06ab9k7o776k02c-spiritomb",
     "custoDeck": 1,
@@ -2417,6 +2613,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2431,6 +2630,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2441,7 +2641,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "50 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-050.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-050.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005650_00_SHIRUSHREW_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jhjqjjj30nc6a37-shroodle",
     "custoDeck": 1,
@@ -2465,6 +2665,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -2480,6 +2683,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -2490,7 +2694,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "51 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-051.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-051.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005660_00_TAGGINGRU_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/878ud27629id435-grafaiai",
     "custoDeck": 3,
@@ -2514,6 +2718,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2528,6 +2735,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2538,7 +2746,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "52 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-052.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-052.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005670_00_KANUCHAN_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/47mj0jkf73pos63-tinkatink",
     "custoDeck": 1,
@@ -2562,6 +2770,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -2577,6 +2788,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2587,7 +2799,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "53 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-053.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-053.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005680_00_NAKANUCHAN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k42o081j558g337-tinkatuff",
     "custoDeck": 1,
@@ -2611,6 +2823,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -2627,6 +2842,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -2638,7 +2854,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "54 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-054.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-054.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005690_00_DEKANUCHANex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tm458wbm3k3s0p0-tinkaton-ex",
     "custoDeck": 8,
@@ -2662,6 +2878,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2676,6 +2895,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2686,7 +2906,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "55 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-055.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-055.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005700_00_BURORON_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/358tsmg6l40r8ad-varoom",
     "custoDeck": 1,
@@ -2710,6 +2930,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -2726,6 +2949,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2736,7 +2960,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "56 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-056.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-056.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005710_00_BUROROROOM_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7ws89006p1ikbz1-revavroom",
     "custoDeck": 1,
@@ -2760,6 +2984,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -2776,6 +3003,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2786,7 +3014,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "57 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-057.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-057.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005720_00_SURFUGO_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/su6jp5zm230f6et-gholdengo",
     "custoDeck": 3,
@@ -2810,6 +3038,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -2824,6 +3055,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2834,7 +3066,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "58 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-058.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-058.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005730_00_KORATTA_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lb150dk982y9yj6-rattata",
     "custoDeck": 1,
@@ -2858,6 +3090,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -2873,6 +3108,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2883,7 +3119,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "59 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-059.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-059.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005740_00_RATTA_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o28c9a3vjb6lev3-raticate",
     "custoDeck": 1,
@@ -2907,6 +3143,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2921,6 +3160,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2931,7 +3171,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "60 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-060.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-060.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005750_00_PURIN_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/p4aq18rab0w0rh8-jigglypuff",
     "custoDeck": 1,
@@ -2955,6 +3195,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2970,6 +3213,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -2980,7 +3224,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "61 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-061.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-061.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005760_00_PUKURIN_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s1x34eudlpz572x-wigglytuff",
     "custoDeck": 3,
@@ -3004,6 +3248,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -3019,6 +3266,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3029,7 +3277,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "62 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-062.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-062.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005770_00_BERORINGA_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6236279mma92721-lickitung",
     "custoDeck": 1,
@@ -3053,6 +3301,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -3069,6 +3320,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3079,7 +3331,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "63 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-063.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-063.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005780_00_BEROBELT_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71f9oi760x3z7fl-lickilicky",
     "custoDeck": 1,
@@ -3103,6 +3355,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -3118,6 +3373,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3128,7 +3384,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "64 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-064.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-064.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005790_00_BEADARUex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/eg3rg875r95cz5q-bidoof",
     "custoDeck": 1,
@@ -3152,6 +3408,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -3169,6 +3428,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3180,7 +3440,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "65 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-065.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-065.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005790_00_BIPPA_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/48gqj8r3fu9ui4z-bibarel-ex",
     "custoDeck": 8,
@@ -3204,6 +3464,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -3218,6 +3481,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3228,7 +3492,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "66 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-066.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-066.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005800_00_MIMIROL_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5313vvn13025eti-buneary",
     "custoDeck": 1,
@@ -3252,6 +3516,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -3266,6 +3533,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3276,7 +3544,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "67 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-067.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-067.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005810_00_MIMILOP_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1n5q2u8o4uy5po6-lopunny",
     "custoDeck": 1,
@@ -3300,6 +3568,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -3314,6 +3585,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3324,7 +3596,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "68 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-068.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-068.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_10_005820_00_MOTOTOKAGE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0y40868034b6d86-cyclizar",
     "custoDeck": 1,
@@ -3348,11 +3620,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3363,7 +3639,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "69 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-069.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-069.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000420_00_NANJYAMO_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k133k588521g351-iono",
     "custoDeck": 1,
@@ -3387,11 +3663,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3402,7 +3682,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "70 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-070.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-070.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000430_00_POKEMONCENTERNOONEESAN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/312692089iq4b4h-pokemon-center-lady",
     "custoDeck": 1,
@@ -3426,11 +3706,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3441,7 +3725,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "71 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-071.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-071.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000440_00_RED_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b6l12x144gn0n15-red",
     "custoDeck": 1,
@@ -3465,11 +3749,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3480,7 +3768,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "72 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-072.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-072.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_10_000450_00_ROCKETDANNOSHITAPPA_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6qra6567mzg1osu-team-rocket-grunt",
     "custoDeck": 1,
@@ -3504,6 +3792,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -3519,6 +3810,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3529,7 +3821,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "73 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-073.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-073.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005260_00_MASQUERNYA_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gh0x82873vk82r8-meowscarada",
     "custoDeck": 8,
@@ -3553,6 +3845,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -3567,6 +3862,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3577,7 +3873,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "74 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-074.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-074.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005350_00_BUOYSEL_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f614r1unw8odo26-buizel",
     "custoDeck": 8,
@@ -3601,6 +3897,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -3615,6 +3914,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3625,7 +3925,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "75 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-075.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-075.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005400_00_SYARITATSU_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/29g7j18027ht1qk-tatsugiri",
     "custoDeck": 8,
@@ -3649,6 +3949,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -3664,6 +3967,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3674,7 +3978,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "76 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-076.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-076.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005660_00_TAGGINGRU_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2346e23e8e609t9-grafaiai",
     "custoDeck": 8,
@@ -3698,6 +4002,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -3714,6 +4021,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3724,7 +4032,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "77 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-077.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-077.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005720_00_SURFUGO_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7mf2i3399705n70-gholdengo",
     "custoDeck": 8,
@@ -3748,6 +4056,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -3763,6 +4074,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3773,7 +4085,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "78 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-078.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-078.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005760_00_PUKURIN_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/05ul14xo2551hlw-wigglytuff",
     "custoDeck": 8,
@@ -3797,6 +4109,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -3812,6 +4127,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3823,7 +4139,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "79 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-079.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-079.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005230_00_SPEARex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bh95yd89407ysi6-beedrill-ex",
     "custoDeck": 8,
@@ -3847,6 +4163,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -3873,6 +4192,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3884,7 +4204,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "80 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-080.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-080.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005290_00_LIZARDONex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tt54zm60480fc36-charizard-ex",
     "custoDeck": 8,
@@ -3908,6 +4228,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -3924,6 +4247,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3935,7 +4259,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "81 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-081.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-081.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005380_00_UMITRIOex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z2y93ro86212w61-wugtrio-ex",
     "custoDeck": 8,
@@ -3959,6 +4283,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -3975,6 +4302,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3986,7 +4314,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "82 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-082.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-082.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005410_00_PIKACHUex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/94iy7c54o8v5pdp-pikachu-ex",
     "custoDeck": 8,
@@ -4010,6 +4338,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -4027,6 +4358,7 @@
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4038,7 +4370,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "83 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-083.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-083.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005520_00_GIRATINAex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0wv70hnc4jd4761-giratina-ex",
     "custoDeck": 8,
@@ -4062,6 +4394,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -4078,6 +4413,7 @@
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4089,7 +4425,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "84 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-084.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-084.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005580_00_LUCARIOex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s712sxc41cybc6n-lucario-ex",
     "custoDeck": 8,
@@ -4113,6 +4449,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -4129,6 +4468,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4140,7 +4480,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "85 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-085.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-085.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005630_00_PALDEADOOHex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jq5tr0t9xxikwnc-paldean-clodsire-ex",
     "custoDeck": 8,
@@ -4164,6 +4504,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -4180,6 +4523,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4191,7 +4535,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "86 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-086.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-086.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005690_00_DEKANUCHANex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5sg71d5p892f2u3-tinkaton-ex",
     "custoDeck": 8,
@@ -4215,6 +4559,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -4232,6 +4579,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4243,7 +4591,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "87 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-087.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-087.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005790_00_BEADARUex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2945r9s1sxw5z2s-bibarel-ex",
     "custoDeck": 8,
@@ -4267,11 +4615,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4282,7 +4634,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "88 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-088.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-088.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000420_00_NANJYAMO_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hv8l8m6u0415fi7-iono",
     "custoDeck": 8,
@@ -4306,11 +4658,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4321,7 +4677,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "89 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-089.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-089.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000430_00_POKEMONCENTERNOONEESAN_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u4enxr439t72278-pokemon-center-lady",
     "custoDeck": 8,
@@ -4345,11 +4701,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4360,7 +4720,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "90 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-090.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-090.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000440_00_RED_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/716xs43526ytp6u-red",
     "custoDeck": 8,
@@ -4384,11 +4744,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4399,7 +4763,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "91 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-091.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-091.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cTR_20_000450_00_ROCKETDANNOSHITAPPA_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1kk643er4n0i364-team-rocket-grunt",
     "custoDeck": 8,
@@ -4423,6 +4787,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -4439,6 +4806,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4450,7 +4818,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "92 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-092.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-092.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005410_01_PIKACHUex_SAR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ahihh34140632i8-pikachu-ex",
     "custoDeck": 8,
@@ -4474,6 +4842,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -4490,6 +4861,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4501,7 +4873,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "93 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-093.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-093.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005630_01_PALDEADOOHex_SAR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/596672z10cziid6-paldean-clodsire-ex",
     "custoDeck": 8,
@@ -4525,6 +4897,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -4541,6 +4916,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4552,7 +4928,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "94 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-094.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-094.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005690_00_DEKANUCHANex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1ybpi3v96rhakb6-tinkaton-ex",
     "custoDeck": 8,
@@ -4576,6 +4952,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -4593,6 +4972,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4604,7 +4984,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "95 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-095.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-095.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005790_01_BEADARUex_SAR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g2th7639361254c-bibarel-ex",
     "custoDeck": 8,
@@ -4628,6 +5008,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -4645,6 +5028,7 @@
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Raro Imersivo",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4656,7 +5040,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "96 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-096.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-096.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005520_01_GIRATINAex_IM_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/091j0p57yrg1b2a-giratina-ex",
     "custoDeck": 8,
@@ -4680,6 +5064,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -4694,6 +5081,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4704,7 +5092,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "97 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-097.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-097.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005210_00_BEEDLE_S_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s4558xjrqgn126l-weedle",
     "custoDeck": 2,
@@ -4728,6 +5116,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -4742,6 +5133,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4752,7 +5144,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "98 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-098.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-098.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005220_00_COCOON_S_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0gvqn0gk5vu1438-kakuna",
     "custoDeck": 2,
@@ -4776,6 +5168,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4790,6 +5185,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4800,7 +5196,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "99 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-099.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-099.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005270_00_HITOKAGE_S_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6j6d49k3516g282-charmander",
     "custoDeck": 2,
@@ -4824,6 +5220,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -4839,6 +5238,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4849,7 +5249,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "100 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-100.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-100.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005280_00_LIZARDO_S_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/328h1587dbljbya-charmeleon",
     "custoDeck": 2,
@@ -4873,6 +5273,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4887,6 +5290,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4897,7 +5301,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "101 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-101.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-101.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005370_00_UMIDIGDA_S_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/93dz0990v835o83-wiglett",
     "custoDeck": 2,
@@ -4921,6 +5325,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -4938,6 +5345,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4948,7 +5356,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "102 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-102.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-102.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005390_00_HEYRUSHER_S_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5pz09fia3occ0dv-dondozo",
     "custoDeck": 2,
@@ -4972,6 +5380,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -4986,6 +5397,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4996,7 +5408,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "103 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-103.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-103.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005060_00_PACHIRISU_S_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/08lfw1y653maii5-pachirisu",
     "custoDeck": 2,
@@ -5020,6 +5432,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -5035,6 +5450,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -5045,7 +5461,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "104 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-104.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-104.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005070_00_RIOLU_S_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gs35r2407v5f04p-riolu",
     "custoDeck": 2,
@@ -5069,6 +5485,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -5083,6 +5502,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -5093,7 +5513,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "105 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-105.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-105.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005700_00_BURORON_S_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mb09ro4tja4ccc0-varoom",
     "custoDeck": 2,
@@ -5117,6 +5537,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -5133,6 +5556,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -5143,7 +5567,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "106 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-106.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-106.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005710_00_BUROROROOM_S_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2br94brv9j56obh-revavroom",
     "custoDeck": 2,
@@ -5167,6 +5591,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -5182,6 +5609,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -5193,7 +5621,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "107 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-107.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-107.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005230_01_SPEARex_SSR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t1a3o4efdx3ssl3-beedrill-ex",
     "custoDeck": 2,
@@ -5217,6 +5645,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -5243,6 +5674,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -5254,7 +5686,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "108 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-108.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-108.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005290_01_LIZARDONex_SSR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zowji8byje7xq7o-charizard-ex",
     "custoDeck": 2,
@@ -5278,6 +5710,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -5294,6 +5729,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -5305,7 +5741,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "109 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-109.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-109.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005380_01_UMITRIOex_SSR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/259v28e64q4ni22-wugtrio-ex",
     "custoDeck": 2,
@@ -5329,6 +5765,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -5345,6 +5784,7 @@
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -5356,7 +5796,7 @@
     "expansao": "Festival Brilhante (A2B)",
     "numero": "110 / 110",
     "pacote": "Shining",
-    "imageLocal": "./assets/cards/cartas_a2b/a2b-110.jpg",
+    "imageLocal": "./assets/cards/cartas_a2b/a2b-110.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2b/cPK_20_005580_01_LUCARIOex_SSR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nr08e9q23zswhyh-lucario-ex",
     "custoDeck": 2,

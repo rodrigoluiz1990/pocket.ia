@@ -60,6 +60,7 @@ function assetCodeFromEntry(entry) {
   const normalizedCode = String(entry?.code || "").trim().toUpperCase();
   if (normalizedCode === "PROMO-A") return "pa";
   if (normalizedCode === "PROMO-B") return "pb";
+  if (normalizedCode === "PROMO-C") return "pc";
   return normalizedCode.toLowerCase();
 }
 
@@ -108,7 +109,8 @@ async function run() {
         const downloadUrl = cardOnly ? cardOnlyImageUrl(card.imageUrl) : card.imageUrl;
         const normalizedId = sanitizeFileName(card.id)
           .replace(/^(?:promo-|p-)?a-/i, "pa-")
-          .replace(/^(?:promo-|p-)?b-/i, "pb-");
+          .replace(/^(?:promo-|p-)?b-/i, "pb-")
+          .replace(/^(?:promo-|p-)?c-/i, "pc-");
         const previousPath = String(card.imageLocal || "").trim();
         const previousAbs = previousPath ? resolve(process.cwd(), previousPath.replace(/^\.\//, "")) : "";
 

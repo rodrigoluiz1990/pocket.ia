@@ -21,16 +21,18 @@ function assetCodeFromSetCode(code) {
   const normalized = String(code || "").trim().toUpperCase();
   if (normalized === "PROMO-A") return "pa";
   if (normalized === "PROMO-B") return "pb";
+  if (normalized === "PROMO-C") return "pc";
   return normalized.toLowerCase();
 }
 
 function extractSetCode(card) {
   const expansionMatch = String(card?.expansao || "").match(/\(([A-Z0-9-]+)\)\s*$/i);
   if (expansionMatch) return String(expansionMatch[1] || "").toUpperCase();
-  const idMatch = String(card?.id || "").match(/^([a-z]\d[a-z]?|p-[ab])-/i);
+  const idMatch = String(card?.id || "").match(/^([a-z]\d[a-z]?|p-[abc])-/i);
   if (!idMatch) return "";
   if (/^p-a$/i.test(idMatch[1])) return "PROMO-A";
   if (/^p-b$/i.test(idMatch[1])) return "PROMO-B";
+  if (/^p-c$/i.test(idMatch[1])) return "PROMO-C";
   return String(idMatch[1]).toUpperCase();
 }
 
@@ -71,7 +73,7 @@ async function run() {
     }
   }
 
-  await writeFile(ADAPTED_PATH, `${JSON.stringify(adaptedCards, null, 2)}\n`, "utf8");
+  await writeFile(ADAPTED_PATH, `${JSON.stringify(adaptedCards)}\n`, "utf8");
 
   console.log(`imageLocal corrigidos: ${updated}`);
   console.log(`cartas ainda sem arquivo local: ${stillMissing}`);

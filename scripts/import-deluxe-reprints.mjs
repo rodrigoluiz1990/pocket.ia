@@ -20,7 +20,9 @@ function deckBuilderNrFromImage(image) {
 }
 
 function seriesFromCode(code) {
-  return String(code).toUpperCase().startsWith("B") ? "b" : "a";
+  const c = String(code).toUpperCase();
+  if (c.startsWith("C") || c === "PROMO-C") return "c";
+  return c.startsWith("B") || c === "PROMO-B" ? "b" : "a";
 }
 
 async function run() {

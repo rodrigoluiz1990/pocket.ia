@@ -8,6 +8,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -22,6 +25,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -32,7 +36,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "1 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-001.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-001.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018160_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m3vmvvkrdq5ghqo-surskit",
     "custoDeck": 1,
@@ -56,6 +60,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -71,6 +78,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -81,7 +89,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "2 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-002.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-002.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018170_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/urflfsay5ar4joy-masquerain",
     "custoDeck": 1,
@@ -105,6 +113,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -120,6 +131,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -130,7 +142,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "3 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-003.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-003.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018180_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ivsfdwucjyrh8t3-brute-bonnet",
     "custoDeck": 1,
@@ -154,6 +166,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -170,6 +185,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -180,7 +196,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "4 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-004.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-004.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018190_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y92fnlysd6qdpf1-slither-wing",
     "custoDeck": 1,
@@ -204,6 +220,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -219,6 +238,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -229,7 +249,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "5 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-005.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-005.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018200_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j42av3bis5wr04x-iron-moth",
     "custoDeck": 1,
@@ -253,6 +273,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -267,6 +290,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -277,7 +301,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "6 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-006.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-006.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018210_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qxwu16qkrgrbl8i-psyduck",
     "custoDeck": 1,
@@ -301,6 +325,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -315,6 +342,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -325,7 +353,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "7 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-007.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-007.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018220_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gz6moskulo6urna-golduck",
     "custoDeck": 1,
@@ -349,6 +377,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -364,6 +395,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -374,7 +406,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "8 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-008.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-008.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018230_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9qbm6niri8gulfq-vaporeon",
     "custoDeck": 1,
@@ -398,6 +430,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -413,6 +448,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -423,7 +459,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "9 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-009.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-009.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018240_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/44ellzlcqkbpnsr-buizel",
     "custoDeck": 1,
@@ -447,6 +483,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -463,6 +502,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -473,7 +513,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "10 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-010.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-010.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018250_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vyed6krqj79ftsb-floatzel",
     "custoDeck": 1,
@@ -497,6 +537,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -511,6 +554,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -521,7 +565,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "11 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-011.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-011.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018260_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ztbdgi0ox51dd67-snom",
     "custoDeck": 1,
@@ -545,6 +589,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -560,6 +607,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -570,7 +618,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "12 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-012.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-012.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018270_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u6uerkeq154yho2-frosmoth",
     "custoDeck": 1,
@@ -594,6 +642,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -610,6 +661,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -621,7 +673,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "13 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-013.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-013.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018280_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z0bh0oxtv39k41m-iron-bundle-ex",
     "custoDeck": 8,
@@ -645,6 +697,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -659,6 +714,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -669,7 +725,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "14 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-014.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-014.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018290_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5vseq5lls3e2ayd-pawmi",
     "custoDeck": 1,
@@ -693,6 +749,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -707,6 +766,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -717,7 +777,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "15 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-015.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-015.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018300_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r3spbfqn199yzyp-pawmo",
     "custoDeck": 1,
@@ -741,6 +801,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -755,6 +818,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -765,7 +829,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "16 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-016.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-016.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018310_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z64kwrulku4faez-pawmot",
     "custoDeck": 1,
@@ -789,6 +853,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -805,6 +872,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -815,7 +883,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "17 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-017.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-017.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018320_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tw56g3yxn3bwk28-iron-hands",
     "custoDeck": 1,
@@ -839,6 +907,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -855,6 +926,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -865,7 +937,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "18 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-018.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-018.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018330_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8eetwb9kriexeko-iron-thorns",
     "custoDeck": 1,
@@ -889,6 +961,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -905,6 +980,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -916,7 +992,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "19 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-019.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-019.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018340_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z5ain26wv7icnwj-miraidon-ex",
     "custoDeck": 8,
@@ -940,6 +1016,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -954,6 +1033,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -964,7 +1044,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "20 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-020.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-020.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018350_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v5nj3uv55bdf9f3-espeon",
     "custoDeck": 1,
@@ -988,6 +1068,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 40,
     "ataque": [
       {
@@ -1002,6 +1085,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1012,7 +1096,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "21 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-021.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-021.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018360_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rw8nnkjfktqtmas-flittle",
     "custoDeck": 1,
@@ -1036,6 +1120,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1051,6 +1138,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1061,7 +1149,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "22 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-022.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-022.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018370_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6k7bst4vugqc4xf-espathra",
     "custoDeck": 1,
@@ -1085,6 +1173,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1099,6 +1190,7 @@
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1109,7 +1201,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "23 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-023.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-023.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018380_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s0nru57vienqy06-greavard",
     "custoDeck": 1,
@@ -1133,6 +1225,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -1149,6 +1244,7 @@
     "fraqueza": "Escuridao",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1159,7 +1255,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "24 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-024.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-024.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018390_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1ga5fa64yre9hf3-houndstone",
     "custoDeck": 3,
@@ -1183,6 +1279,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1198,6 +1297,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1208,7 +1308,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "25 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-025.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-025.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018400_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qjeat9mn5coiwoi-scream-tail",
     "custoDeck": 1,
@@ -1232,6 +1332,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -1247,6 +1350,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -1258,7 +1362,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "26 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-026.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-026.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018410_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/onc7tb9efl25aco-flutter-mane-ex",
     "custoDeck": 1,
@@ -1282,6 +1386,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1297,6 +1404,7 @@
     "fraqueza": "Metal",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1307,7 +1415,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "27 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-027.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-027.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018420_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2470qyw0amrgdrn-iron-valiant",
     "custoDeck": 3,
@@ -1331,6 +1439,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1347,6 +1458,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1357,7 +1469,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "28 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-028.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-028.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018430_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bfea5ibtx17p65q-iron-leaves",
     "custoDeck": 3,
@@ -1381,6 +1493,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -1398,6 +1513,7 @@
     "fraqueza": "Escuridao",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1408,7 +1524,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "29 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-029.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-029.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018440_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/05f0m9qpr2vmdt9-iron-boulder",
     "custoDeck": 3,
@@ -1432,6 +1548,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -1447,6 +1566,7 @@
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1457,7 +1577,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "30 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-030.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-030.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018450_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lkjr4csex2inr8f-iron-crown",
     "custoDeck": 1,
@@ -1481,6 +1601,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1495,6 +1618,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1505,7 +1629,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "31 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-031.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-031.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018460_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nils9vzdnw6sj0z-nacli",
     "custoDeck": 1,
@@ -1529,6 +1653,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -1544,6 +1671,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1554,7 +1682,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "32 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-032.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-032.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018470_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mutsv29vxebm514-naclstack",
     "custoDeck": 3,
@@ -1578,6 +1706,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -1594,6 +1725,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1604,7 +1736,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "33 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-033.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-033.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018480_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/whiz5ag68adflwj-garganacl",
     "custoDeck": 3,
@@ -1628,6 +1760,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -1643,6 +1778,7 @@
     "fraqueza": "Psiquico",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1653,7 +1789,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "34 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-034.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-034.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018490_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z5fs2g7hwjutes3-great-tusk",
     "custoDeck": 3,
@@ -1677,6 +1813,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1693,6 +1832,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1703,7 +1843,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "35 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-035.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-035.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018500_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/00u2psh1ts2ifk7-sandy-shocks",
     "custoDeck": 1,
@@ -1727,6 +1867,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -1743,6 +1886,7 @@
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -1754,7 +1898,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "36 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-036.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-036.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018510_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rus6l8m051fkr3v-koraidon-ex",
     "custoDeck": 8,
@@ -1778,6 +1922,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1793,6 +1940,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1803,7 +1951,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "37 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-037.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-037.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018520_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q2hx9zufzg3f0io-umbreon",
     "custoDeck": 1,
@@ -1827,6 +1975,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1842,6 +1993,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1852,7 +2004,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "38 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-038.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-038.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018530_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yplmpxx8272rugf-sneasel",
     "custoDeck": 1,
@@ -1876,6 +2028,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1891,6 +2046,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1901,7 +2057,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "39 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-039.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-039.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018540_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2gs4o8dwg91w6wm-weavile",
     "custoDeck": 1,
@@ -1925,6 +2081,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1939,6 +2098,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1949,7 +2109,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "40 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-040.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-040.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018550_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4ly4uc5blrrau9g-sableye",
     "custoDeck": 1,
@@ -1973,6 +2133,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -1988,6 +2151,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1998,7 +2162,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "41 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-041.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-041.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018560_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6xdxzz2zbdaau6f-pawniard",
     "custoDeck": 1,
@@ -2022,6 +2186,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -2037,6 +2204,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2047,7 +2215,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "42 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-042.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-042.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018570_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xzhy86sgp6wk1h5-bisharp",
     "custoDeck": 1,
@@ -2071,6 +2239,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -2086,6 +2257,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2096,7 +2268,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "43 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-043.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-043.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018580_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pxerq65tgsqmvs0-kingambit",
     "custoDeck": 3,
@@ -2120,6 +2292,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2134,6 +2309,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2144,7 +2320,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "44 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-044.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-044.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018590_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zg4j4ktoe1vbxwo-glimmet",
     "custoDeck": 1,
@@ -2168,6 +2344,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -2182,6 +2361,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -2192,7 +2372,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "45 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-045.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-045.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018600_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s94kdgdkgr8pegn-glimmora",
     "custoDeck": 3,
@@ -2216,6 +2396,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2232,6 +2415,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -2242,7 +2426,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "46 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-046.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-046.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018610_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5ct5ugs7tje7832-iron-jugulis",
     "custoDeck": 1,
@@ -2266,6 +2450,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2282,6 +2469,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -2292,7 +2480,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "47 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-047.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-047.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018620_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xfx8axpzgbgj3xr-roaring-moon",
     "custoDeck": 3,
@@ -2316,6 +2504,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -2331,6 +2522,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2341,7 +2533,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "48 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-048.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-048.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018630_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gd3h3glbijv660a-corviknight",
     "custoDeck": 1,
@@ -2365,6 +2557,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2381,6 +2576,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2391,7 +2587,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "49 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-049.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-049.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018640_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m2snv4a3jlpivf9-cufant",
     "custoDeck": 1,
@@ -2415,6 +2611,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -2432,6 +2631,7 @@
     "fraqueza": "Fogo",
     "recuo": 4,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2442,7 +2642,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "50 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-050.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-050.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018650_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xhpp4jxvy4et2qz-copperajah",
     "custoDeck": 1,
@@ -2466,6 +2666,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2483,6 +2686,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2493,7 +2697,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "51 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-051.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-051.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018660_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q1e44pvyip2ze8a-iron-treads",
     "custoDeck": 1,
@@ -2517,6 +2721,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2531,6 +2738,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2541,7 +2749,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "52 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-052.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-052.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018670_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u26bp3v5ud0rknw-altaria",
     "custoDeck": 1,
@@ -2565,6 +2773,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -2580,6 +2791,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2590,7 +2802,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "53 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-053.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-053.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018680_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a5279mquhappem4-walking-wake",
     "custoDeck": 3,
@@ -2614,6 +2826,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -2630,6 +2845,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2640,7 +2856,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "54 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-054.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-054.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018690_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h2d9l9a86ivarl1-gouging-fire",
     "custoDeck": 3,
@@ -2664,6 +2880,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -2682,6 +2901,7 @@
     "fraqueza": "",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2692,7 +2912,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "55 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-055.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-055.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018700_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3ss4zxvdwxwz2ma-raging-bolt",
     "custoDeck": 3,
@@ -2716,6 +2936,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -2730,6 +2953,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2740,7 +2964,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "56 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-056.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-056.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018710_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jf86t8r16j67455-eevee",
     "custoDeck": 1,
@@ -2764,6 +2988,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2779,6 +3006,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2789,7 +3017,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "57 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-057.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-057.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018720_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4pdo1byaaijfocs-girafarig",
     "custoDeck": 1,
@@ -2813,6 +3041,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -2828,6 +3059,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2838,7 +3070,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "58 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-058.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-058.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018730_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/iutd2fdpieb6eni-farigiraf",
     "custoDeck": 1,
@@ -2862,6 +3094,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2877,6 +3112,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2887,7 +3123,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "59 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-059.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-059.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018740_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j6p1bia1anbursx-dunsparce",
     "custoDeck": 1,
@@ -2911,6 +3147,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2926,6 +3165,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2936,7 +3176,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "60 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-060.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-060.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018750_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mdduh3huclsndp7-dudunsparce",
     "custoDeck": 3,
@@ -2960,6 +3200,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -2974,6 +3217,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2984,7 +3228,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "61 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-061.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-061.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018760_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tglld7mndg30qad-swablu",
     "custoDeck": 1,
@@ -3008,6 +3252,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -3023,6 +3270,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3033,7 +3281,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "62 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-062.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-062.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018770_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h2vf4ron0gir53e-rufflet",
     "custoDeck": 1,
@@ -3057,6 +3305,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -3073,6 +3324,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3083,7 +3335,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "63 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-063.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-063.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018780_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7d84srezu9litbs-braviary",
     "custoDeck": 1,
@@ -3107,6 +3359,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -3121,6 +3376,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3131,7 +3387,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "64 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-064.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-064.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018790_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ra0d9ganv5ye65r-hawlucha",
     "custoDeck": 1,
@@ -3155,6 +3411,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3169,6 +3428,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3179,7 +3439,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "65 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-065.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-065.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018800_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/n8jjlvhenzn0f14-rookidee",
     "custoDeck": 1,
@@ -3203,6 +3463,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -3217,6 +3480,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3227,7 +3491,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "66 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-066.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-066.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018810_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tt8mlkjh1no5ct0-corvisquire",
     "custoDeck": 1,
@@ -3251,6 +3515,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -3267,6 +3534,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3277,7 +3545,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "67 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-067.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-067.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018820_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9zvw12zaxf76qgo-flamigo",
     "custoDeck": 1,
@@ -3301,6 +3569,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -3317,6 +3588,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3328,7 +3600,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "68 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-068.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-068.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_10_018830_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/crt8snrfdlhcvxw-terapagos-ex",
     "custoDeck": 8,
@@ -3352,11 +3624,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3367,7 +3643,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "69 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-069.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-069.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001370_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dirxy51qyp3vd3g-ancient-booster-energy-capsule",
     "custoDeck": 1,
@@ -3391,11 +3667,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3406,7 +3686,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "70 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-070.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-070.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001380_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oqqj79n85ggwvg7-future-booster-energy-capsule",
     "custoDeck": 1,
@@ -3430,11 +3710,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3445,7 +3729,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "71 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-071.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-071.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001390_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mefga7ccor2pexo-juliana",
     "custoDeck": 1,
@@ -3469,11 +3753,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3484,7 +3772,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "72 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-072.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-072.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001400_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/thbmje807xbmxbc-professor-sada",
     "custoDeck": 1,
@@ -3508,11 +3796,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3523,7 +3815,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "73 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-073.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-073.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001410_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b2906660nkau0q6-professor-turo",
     "custoDeck": 1,
@@ -3547,11 +3839,15 @@
     "subtipo": "estadio",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3562,7 +3858,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "74 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-074.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-074.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_10_001420_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4epmxt33fqhvjad-area-zero",
     "custoDeck": 1,
@@ -3586,6 +3882,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -3600,6 +3899,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3610,7 +3910,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "75 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-075.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-075.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018260_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fkzbbmxpmdzqtu2-snom",
     "custoDeck": 8,
@@ -3634,6 +3934,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 40,
     "ataque": [
       {
@@ -3648,6 +3951,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3658,7 +3962,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "76 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-076.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-076.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018360_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mln8udqerkl1y9a-flittle",
     "custoDeck": 8,
@@ -3682,6 +3986,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -3699,6 +4006,7 @@
     "fraqueza": "Escuridao",
     "recuo": 3,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3709,7 +4017,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "77 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-077.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-077.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018440_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ideditrtzun18w7-iron-boulder",
     "custoDeck": 8,
@@ -3733,6 +4041,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -3747,6 +4058,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3757,7 +4069,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "78 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-078.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-078.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018600_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o08bpr4rj9m6vlq-glimmora",
     "custoDeck": 8,
@@ -3781,6 +4093,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -3799,6 +4114,7 @@
     "fraqueza": "",
     "recuo": 3,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3809,7 +4125,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "79 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-079.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-079.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018700_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3608tv0t70v3v2q-raging-bolt",
     "custoDeck": 8,
@@ -3833,6 +4149,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -3847,6 +4166,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3857,7 +4177,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "80 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-080.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-080.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018790_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3315cw3qvfx71df-hawlucha",
     "custoDeck": 8,
@@ -3881,6 +4201,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -3897,6 +4220,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3908,7 +4232,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "81 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-081.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-081.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018280_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1dfy3uz7pp1hhlt-iron-bundle-ex",
     "custoDeck": 8,
@@ -3932,6 +4256,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -3948,6 +4275,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -3959,7 +4287,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "82 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-082.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-082.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018340_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rm41r1ccbnp9b9d-miraidon-ex",
     "custoDeck": 8,
@@ -3983,6 +4311,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -3998,6 +4329,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4009,7 +4341,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "83 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-083.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-083.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018410_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2srzn4qiyz0s2fu-flutter-mane-ex",
     "custoDeck": 8,
@@ -4033,6 +4365,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -4049,6 +4384,7 @@
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4060,7 +4396,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "84 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-084.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-084.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018510_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8yyz84mvkr1nmr3-koraidon-ex",
     "custoDeck": 8,
@@ -4084,6 +4420,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -4100,6 +4439,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4111,7 +4451,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "85 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-085.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-085.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018830_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5zo6rjns37v1fmy-terapagos-ex",
     "custoDeck": 8,
@@ -4135,11 +4475,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4150,7 +4494,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "86 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-086.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-086.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_20_001390_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z3vdyc2u1z5avlf-juliana",
     "custoDeck": 8,
@@ -4174,11 +4518,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4189,7 +4537,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "87 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-087.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-087.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_20_001400_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o7vglo31e27lm9g-professor-sada",
     "custoDeck": 8,
@@ -4213,11 +4561,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4228,7 +4580,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "88 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-088.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-088.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/TR_20_001410_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/di7vzpg91d8ywrs-professor-turo",
     "custoDeck": 8,
@@ -4252,6 +4604,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -4268,6 +4623,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4279,7 +4635,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "89 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-089.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-089.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018280_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/elmlabe87u2airj-iron-bundle-ex",
     "custoDeck": 8,
@@ -4303,6 +4659,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -4319,6 +4678,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4330,7 +4690,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "90 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-090.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-090.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018340_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s2lanoc2sijkfjd-miraidon-ex",
     "custoDeck": 8,
@@ -4354,6 +4714,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -4369,6 +4732,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4380,7 +4744,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "91 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-091.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-091.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018410_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/djwnqyad1mph25f-flutter-mane-ex",
     "custoDeck": 8,
@@ -4404,6 +4768,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -4420,6 +4787,7 @@
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4431,7 +4799,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "92 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-092.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-092.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018510_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z1btz9oaok207ga-koraidon-ex",
     "custoDeck": 8,
@@ -4455,6 +4823,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -4471,6 +4842,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Raro Imersivo",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4482,7 +4854,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "93 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-093.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-093.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018830_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xmvwu84w7m3nr2h-terapagos-ex",
     "custoDeck": 8,
@@ -4506,6 +4878,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -4520,6 +4895,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4530,7 +4906,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "94 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-094.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-094.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015230_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t3kcxh02xejtjd9-rellor",
     "custoDeck": 2,
@@ -4554,6 +4930,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4568,6 +4947,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4578,7 +4958,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "95 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-095.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-095.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015280_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q58krp2gv2zhe2g-charcadet",
     "custoDeck": 2,
@@ -4602,6 +4982,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -4616,6 +4999,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4626,7 +5010,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "96 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-096.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-096.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_014220_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3a9sf7b449amt3z-tadbulb",
     "custoDeck": 2,
@@ -4650,6 +5034,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -4665,6 +5052,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4675,7 +5063,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "97 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-097.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-097.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015580_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3bszspolhd8qvjd-rabsca",
     "custoDeck": 2,
@@ -4699,6 +5087,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4713,6 +5104,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4723,7 +5115,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "98 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-098.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-098.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_016380_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sndtlyvr4lg64yg-diglett",
     "custoDeck": 2,
@@ -4747,6 +5139,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -4762,6 +5157,7 @@
     "fraqueza": "Planta",
     "recuo": 0,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4772,7 +5168,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "99 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-099.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-099.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_016390_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/72wmu1hqoap80w4-dugtrio",
     "custoDeck": 2,
@@ -4796,6 +5192,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -4811,6 +5210,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4821,7 +5221,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "100 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-100.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-100.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015700_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i58adzlpjerua0s-klawf",
     "custoDeck": 2,
@@ -4845,6 +5245,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -4859,6 +5262,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4869,7 +5273,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "101 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-101.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-101.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015860_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nq6in2mw3i25th4-orthworm",
     "custoDeck": 2,
@@ -4893,6 +5297,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -4907,6 +5314,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4917,7 +5325,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "102 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-102.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-102.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_012780_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fbw0eecpm8f60uz-swablu",
     "custoDeck": 2,
@@ -4941,6 +5349,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -4956,6 +5367,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4966,7 +5378,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "103 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-103.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-103.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_012790_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4omoi148nqcpte8-altaria",
     "custoDeck": 2,
@@ -4990,6 +5402,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -5013,6 +5428,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -5024,7 +5440,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "104 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-104.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-104.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015120_02_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/563jd8fz0wppv9j-meowscarada-ex",
     "custoDeck": 2,
@@ -5048,6 +5464,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -5064,6 +5483,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -5075,7 +5495,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "105 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-105.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-105.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015290_02_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fkgr7voqe1hp7d7-armarouge-ex",
     "custoDeck": 2,
@@ -5099,6 +5519,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -5114,6 +5537,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -5125,7 +5549,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "106 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-106.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-106.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_015510_02_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l5tjr1fvp0jby5d-bellibolt-ex",
     "custoDeck": 2,
@@ -5149,6 +5573,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 190,
     "ataque": [
       {
@@ -5164,6 +5591,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "mega",
@@ -5175,7 +5603,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "107 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-107.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-107.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_011840_02_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i3zq8nwvd44pa2x-mega-altaria-ex",
     "custoDeck": 2,
@@ -5199,6 +5627,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -5214,6 +5645,7 @@
     "fraqueza": "Metal",
     "recuo": 2,
     "raridade": "Coroa Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -5224,7 +5656,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "108 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-108.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-108.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018420_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/64cnmtjqbwoq39o-iron-valiant",
     "custoDeck": 8,
@@ -5248,6 +5680,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -5264,6 +5699,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Coroa Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -5274,7 +5710,7 @@
     "expansao": "Impulso Paradoxal (B3A)",
     "numero": "109 / 109",
     "pacote": "Paradox Drive",
-    "imageLocal": "./assets/cards/cartas_b3a/b3a-109.jpg",
+    "imageLocal": "./assets/cards/cartas_b3a/b3a-109.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/b3a/PK_20_018620_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mjzj6qpn9uvs3mt-roaring-moon",
     "custoDeck": 8,

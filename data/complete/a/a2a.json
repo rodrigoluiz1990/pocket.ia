@@ -8,6 +8,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -24,6 +27,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -34,7 +38,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "1 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-001.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-001.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004250_00_HERACROS_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0hy0kfkq75ilhr5-heracross",
     "custoDeck": 1,
@@ -58,6 +62,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -74,6 +81,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -84,7 +92,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "2 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-002.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-002.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004260_00_MINOMUCCHI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cnjd5e3t68co2ld-burmy",
     "custoDeck": 1,
@@ -108,6 +116,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -123,6 +134,7 @@
     "fraqueza": "Raio",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -133,7 +145,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "3 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-003.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-003.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004270_00_GAMALE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g57y6i0nu147o8s-mothim",
     "custoDeck": 1,
@@ -157,6 +169,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -171,6 +186,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -181,7 +197,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "4 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-004.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-004.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004280_00_MITSUHONEY_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/297l127l8uo0rrm-combee",
     "custoDeck": 1,
@@ -205,6 +221,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -221,6 +240,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -231,7 +251,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "5 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-005.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-005.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004290_00_BEEQUEN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wla4gc3ra1wx377-vespiquen",
     "custoDeck": 1,
@@ -255,6 +275,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -269,6 +292,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -279,7 +303,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "6 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-006.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-006.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004300_00_CHERINBO_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hq50a02612404ve-cherubi",
     "custoDeck": 1,
@@ -303,6 +327,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -317,6 +344,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -327,7 +355,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "7 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-007.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-007.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004310_00_CHERRIM_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/79w717h28au1tn2-cherrim",
     "custoDeck": 1,
@@ -351,6 +379,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -366,6 +397,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -376,7 +408,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "8 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-008.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-008.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004320_00_CHERRIM_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w74495r2qypzu95-cherrim",
     "custoDeck": 1,
@@ -400,6 +432,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -416,6 +451,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -426,7 +462,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "9 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-009.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-009.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004330_00_MUSKIPPA_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hy4w971xs1chr2k-carnivine",
     "custoDeck": 3,
@@ -450,6 +486,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -466,6 +505,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -477,7 +517,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "10 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-010.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-010.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004340_00_LEAFIAex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/64i19c805e329eb-leafeon-ex",
     "custoDeck": 8,
@@ -501,6 +541,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -515,6 +558,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -525,7 +569,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "11 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-011.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-011.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004350_00_DELVIL_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qp5x3j8x2r4058g-houndour",
     "custoDeck": 1,
@@ -549,6 +593,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -564,6 +611,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -574,7 +622,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "12 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-012.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-012.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004360_00_HELLGAR_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/51tm7x95a012f43-houndoom",
     "custoDeck": 1,
@@ -598,6 +646,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -613,6 +664,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -623,7 +675,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "13 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-013.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-013.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004370_00_HEATRAN_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/068s567azt2i641-heatran",
     "custoDeck": 3,
@@ -647,6 +699,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -661,6 +716,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -671,7 +727,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "14 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-014.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-014.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004380_00_MARIL_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/76hy5888nj75meq-marill",
     "custoDeck": 1,
@@ -695,6 +751,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -710,6 +769,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -720,7 +780,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "15 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-015.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-015.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004390_00_MARILLI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jo6nm3ed03n2r3n-azumarill",
     "custoDeck": 1,
@@ -744,6 +804,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -759,6 +822,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -769,7 +833,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "16 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-016.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-016.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004400_00_DOJOACH_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yis14br97t8h92p-barboach",
     "custoDeck": 1,
@@ -793,6 +857,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -810,6 +877,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -820,7 +888,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "17 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-017.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-017.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004410_00_NAMAZUN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/982cbn72uy8u526-whiscash",
     "custoDeck": 1,
@@ -844,6 +912,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -858,6 +929,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -868,7 +940,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "18 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-018.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-018.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004420_00_YUKIWARASHI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nlkcdi2m3190hx6-snorunt",
     "custoDeck": 1,
@@ -892,6 +964,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -907,6 +982,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -917,7 +993,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "19 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-019.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-019.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004430_00_YUKIMENOKO_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lb3z046w8nhrtf9-froslass",
     "custoDeck": 1,
@@ -941,6 +1017,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -956,6 +1035,7 @@
     "fraqueza": "Metal",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -966,7 +1046,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "20 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-020.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-020.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004440_00_YUKIKABURI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hzd0cl72m470g9h-snover",
     "custoDeck": 1,
@@ -990,6 +1070,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -1006,6 +1089,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1016,7 +1100,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "21 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-021.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-021.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004450_00_YUKINOOH_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/of2t9u545xvxoo8-abomasnow",
     "custoDeck": 3,
@@ -1040,6 +1124,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -1056,6 +1143,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -1067,7 +1155,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "22 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-022.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-022.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004460_00_GLACIAex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qd97ef9hjwm6z0e-glaceon-ex",
     "custoDeck": 8,
@@ -1091,6 +1179,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -1107,6 +1198,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1117,7 +1209,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "23 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-023.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-023.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004470_00_ORIGINPALKIA_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m192n79i88hou49-origin-forme-palkia",
     "custoDeck": 3,
@@ -1141,6 +1233,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1156,6 +1251,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1166,7 +1262,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "24 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-024.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-024.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004480_00_PHIONE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bs95su191yax49h-phione",
     "custoDeck": 1,
@@ -1190,6 +1286,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1204,6 +1303,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1214,7 +1314,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "25 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-025.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-025.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004490_00_PIKACHU_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y9z7d4da1x5v63v-pikachu",
     "custoDeck": 1,
@@ -1238,6 +1338,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1253,6 +1356,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1263,7 +1367,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "26 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-026.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-026.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004500_00_RAICHU_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/136nc618fpz257b-raichu",
     "custoDeck": 3,
@@ -1287,6 +1391,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1301,6 +1408,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1311,7 +1419,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "27 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-027.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-027.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004510_00_RAKURAI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/59r0m1ljyq5tdsf-electrike",
     "custoDeck": 1,
@@ -1335,6 +1443,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1349,6 +1460,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1359,7 +1471,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "28 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-028.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-028.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004520_00_LIVOLT_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/71v24kv0067994n-manectric",
     "custoDeck": 1,
@@ -1383,6 +1495,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1398,6 +1513,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1408,7 +1524,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "29 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-029.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-029.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004530_00_PIPPI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9f1lvyun0fob39g-clefairy",
     "custoDeck": 1,
@@ -1432,6 +1548,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1447,6 +1566,7 @@
     "fraqueza": "Metal",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1457,7 +1577,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "30 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-030.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-030.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004540_00_PIXY_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/076uj980uz8fyn0-clefable",
     "custoDeck": 1,
@@ -1481,6 +1601,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -1495,6 +1618,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1505,7 +1629,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "31 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-031.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-031.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004550_00_GHOS_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hzz77a8sqk56wn5-gastly",
     "custoDeck": 1,
@@ -1529,6 +1653,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1544,6 +1671,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1554,7 +1682,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "32 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-032.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-032.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004560_00_GHOST_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3087xix4o18tbnf-haunter",
     "custoDeck": 1,
@@ -1578,6 +1706,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -1593,6 +1724,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1603,7 +1735,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "33 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-033.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-033.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004570_00_GANGAR_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3t01h64r8d7c0m4-gengar",
     "custoDeck": 1,
@@ -1627,6 +1759,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1641,6 +1776,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1651,7 +1787,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "34 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-034.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-034.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004580_00_UNKNOWN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zf9390uw2fe9a59-unown",
     "custoDeck": 1,
@@ -1675,6 +1811,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1689,6 +1828,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1699,7 +1839,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "35 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-035.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-035.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004590_00_ROTOM_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7j9yt02lq60260f-rotom",
     "custoDeck": 3,
@@ -1723,6 +1863,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1737,6 +1880,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1747,7 +1891,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "36 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-036.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-036.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004600_00_USOKKIE_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yq06zl5359pk192-sudowoodo",
     "custoDeck": 1,
@@ -1771,6 +1915,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1785,6 +1932,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1795,7 +1943,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "37 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-037.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-037.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004610_00_GOMAZOU_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b538o157799d6kz-phanpy",
     "custoDeck": 1,
@@ -1819,6 +1967,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -1835,6 +1986,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1845,7 +1997,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "38 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-038.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-038.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004620_00_DONFAN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3w1r05a4uhxh6jn-donphan",
     "custoDeck": 1,
@@ -1869,6 +2021,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1884,6 +2039,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1894,7 +2050,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "39 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-039.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-039.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004630_00_YOGIRAS_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5m7r2p36szm4b2s-larvitar",
     "custoDeck": 1,
@@ -1918,6 +2074,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1934,6 +2093,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1944,7 +2104,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "40 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-040.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-040.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004640_00_SANAGIRAS_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k1ek47reo0oto7l-pupitar",
     "custoDeck": 1,
@@ -1968,6 +2128,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -1985,6 +2148,7 @@
     "fraqueza": "Planta",
     "recuo": 4,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1995,7 +2159,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "41 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-041.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-041.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004650_00_BANGIRAS_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y2369l8j3wma402-tyranitar",
     "custoDeck": 3,
@@ -2019,6 +2183,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -2033,6 +2200,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2043,7 +2211,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "42 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-042.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-042.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004660_00_NOSEPASS_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/bnvwfm932t242s7-nosepass",
     "custoDeck": 1,
@@ -2067,6 +2235,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2081,6 +2252,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2091,7 +2263,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "43 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-043.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-043.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004670_00_ASANAN_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7pnc0a143zhyl17-meditite",
     "custoDeck": 1,
@@ -2115,6 +2287,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2129,6 +2304,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2139,7 +2315,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "44 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-044.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-044.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004680_00_CHAREM_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/by5u10j84678jtg-medicham",
     "custoDeck": 1,
@@ -2163,6 +2339,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2177,6 +2356,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2187,7 +2367,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "45 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-045.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-045.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004690_00_FUKAMARU_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/63kc1ry41f8ln1k-gible",
     "custoDeck": 1,
@@ -2211,6 +2391,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -2225,6 +2408,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2235,7 +2419,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "46 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-046.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-046.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004700_00_GABITE_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1ezun43hwxj317f-gabite",
     "custoDeck": 1,
@@ -2259,6 +2443,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -2283,6 +2470,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -2294,7 +2482,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "47 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-047.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-047.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004710_00_GABURIASex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vu31z4221vw1839-garchomp-ex",
     "custoDeck": 8,
@@ -2318,6 +2506,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -2332,6 +2523,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2342,7 +2534,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "48 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-048.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-048.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004720_00_ZUBAT_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ob208kfbtu356h1-zubat",
     "custoDeck": 1,
@@ -2366,6 +2558,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -2380,6 +2575,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2390,7 +2586,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "49 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-049.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-049.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004730_00_GOLBAT_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/34hxz575d0p0p9y-golbat",
     "custoDeck": 1,
@@ -2414,6 +2610,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -2428,6 +2627,7 @@
     "fraqueza": "Luta",
     "recuo": 0,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -2438,7 +2638,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "50 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-050.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-050.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004740_00_CROBAT_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/844375n2qc9o2oo-crobat",
     "custoDeck": 3,
@@ -2462,6 +2662,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2476,6 +2679,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2486,7 +2690,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "51 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-051.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-051.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004750_00_GUREGGRU_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wn311yj88zt2z6l-croagunk",
     "custoDeck": 1,
@@ -2510,6 +2714,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2524,6 +2731,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2534,7 +2742,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "52 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-052.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-052.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004760_00_DOKUROG_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0l0sh954p6ans7i-toxicroak",
     "custoDeck": 1,
@@ -2558,6 +2766,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2574,6 +2785,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2584,7 +2796,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "53 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-053.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-053.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004770_00_COIL_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lt82u4w0mb7u572-magnemite",
     "custoDeck": 1,
@@ -2608,6 +2820,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -2623,6 +2838,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2633,7 +2849,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "54 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-054.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-054.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004780_00_RARECOIL_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1w6u808b7z0fusv-magneton",
     "custoDeck": 1,
@@ -2657,6 +2873,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -2673,6 +2892,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -2683,7 +2903,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "55 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-055.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-055.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004790_00_JIBACOIL_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i5qcoe6mb5py33z-magnezone",
     "custoDeck": 3,
@@ -2707,6 +2927,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2721,6 +2944,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2731,7 +2955,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "56 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-056.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-056.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004800_00_KUCHEAT_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3e8i76g12xm2cla-mawile",
     "custoDeck": 1,
@@ -2755,6 +2979,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -2771,6 +2998,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -2782,7 +3010,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "57 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-057.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-057.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004810_00_DAINOSEex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pc990d5dpyhf7rz-probopass-ex",
     "custoDeck": 8,
@@ -2806,6 +3034,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2820,6 +3051,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2830,7 +3062,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "58 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-058.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-058.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004820_00_DOHMIRROR_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d2lo5030n6e2jyu-bronzor",
     "custoDeck": 1,
@@ -2854,6 +3086,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -2870,6 +3105,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2880,7 +3116,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "59 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-059.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-059.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004830_00_DOHTAKUN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/85429q5q552mj74-bronzong",
     "custoDeck": 1,
@@ -2904,6 +3140,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -2920,6 +3159,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2930,7 +3170,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "60 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-060.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-060.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004840_00_ORIGINDIALGA_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t6zjj56hil35863-origin-forme-dialga",
     "custoDeck": 3,
@@ -2954,6 +3194,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -2970,6 +3213,7 @@
     "fraqueza": "",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2980,7 +3224,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "61 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-061.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-061.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004850_00_GIRATINA_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6688fv6t06532o2-giratina",
     "custoDeck": 3,
@@ -3004,6 +3248,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3019,6 +3266,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3029,7 +3277,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "62 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-062.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-062.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004860_00_EIEVUI_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ftm469c8cg6s5o1-eevee",
     "custoDeck": 1,
@@ -3053,6 +3301,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -3070,6 +3321,7 @@
     "fraqueza": "Luta",
     "recuo": 4,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3080,7 +3332,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "63 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-063.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-063.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004870_00_KABIGON_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qi5jq27nuta8aw9-snorlax",
     "custoDeck": 1,
@@ -3104,6 +3356,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3118,6 +3373,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3128,7 +3384,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "64 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-064.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-064.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004880_00_HOHO_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7mx0etm0g7004yv-hoothoot",
     "custoDeck": 1,
@@ -3152,6 +3408,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -3167,6 +3426,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3177,7 +3437,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "65 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-065.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-065.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004890_00_YORUNOZUKU_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/apea15b0e5fsh16-noctowl",
     "custoDeck": 1,
@@ -3201,6 +3461,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3215,6 +3478,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3225,7 +3489,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "66 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-066.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-066.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004900_00_MUKKURU_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/50kb1r37x6m30ht-starly",
     "custoDeck": 1,
@@ -3249,6 +3513,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -3263,6 +3530,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3273,7 +3541,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "67 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-067.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-067.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004910_00_MUKUBIRD_C_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ov91847o2352q1e-staravia",
     "custoDeck": 1,
@@ -3297,6 +3565,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -3313,6 +3584,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3323,7 +3595,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "68 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-068.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-068.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004920_00_MUKUHAWK_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1ude52gu39qf1c8-staraptor",
     "custoDeck": 1,
@@ -3347,6 +3619,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -3363,6 +3638,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3373,7 +3649,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "69 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-069.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-069.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004930_00_SHAYMIN_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/d2d19x86u356caf-shaymin",
     "custoDeck": 3,
@@ -3397,11 +3673,14 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 120,
     "ataque": [
       {
         "nomeataque": "Explosão Poderosa",
-        "dano": "1000",
+        "dano": "100",
         "custoataque": [
           "Incolor",
           "Incolor",
@@ -3414,6 +3693,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3424,7 +3704,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "70 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-070.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-070.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004940_00_ARCEUS_R_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wq45r47p94da4re-arceus",
     "custoDeck": 3,
@@ -3448,6 +3728,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -3464,6 +3747,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -3475,7 +3759,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "71 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-071.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-071.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_10_004950_00_ARCEUSex_RR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u3o3p4e79igy153-arceus-ex",
     "custoDeck": 8,
@@ -3499,11 +3783,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3514,7 +3802,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "72 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-072.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-072.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_10_000380_00_KAI_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/86fxw9laz2p7do4-irida",
     "custoDeck": 1,
@@ -3538,11 +3826,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3553,7 +3845,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "73 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-073.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-073.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_10_000390_00_KANNAGITOWNNOTYOUROU_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y1ou0m3p0z3t5rp-celestic-town-elder",
     "custoDeck": 1,
@@ -3577,11 +3869,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3592,7 +3888,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "74 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-074.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-074.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_10_000400_00_JUN_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8rj41dh74r9138j-barry",
     "custoDeck": 1,
@@ -3616,11 +3912,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3631,7 +3931,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "75 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-075.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-075.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_10_000410_00_SEKI_U_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/isttc4ht81x1w86-adaman",
     "custoDeck": 1,
@@ -3655,6 +3955,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -3670,6 +3973,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3680,7 +3984,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "76 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-076.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-076.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004360_00_HELLGAR_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y1rl502knvu02u2-houndoom",
     "custoDeck": 8,
@@ -3704,6 +4008,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3718,6 +4025,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3728,7 +4036,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "77 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-077.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-077.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004380_00_MARIL_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0o4i7p687g0vx09-marill",
     "custoDeck": 8,
@@ -3752,6 +4060,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3766,6 +4077,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3776,7 +4088,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "78 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-078.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-078.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004580_00_UNKNOWN_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/av1s21rwff1d216-unown",
     "custoDeck": 8,
@@ -3800,6 +4112,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -3814,6 +4129,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3824,7 +4140,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "79 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-079.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-079.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004600_00_USOKKIE_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/026kq015fttj248-sudowoodo",
     "custoDeck": 8,
@@ -3848,6 +4164,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3862,6 +4181,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3872,7 +4192,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "80 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-080.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-080.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004770_00_COIL_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/685w96a9nk25q97-magnemite",
     "custoDeck": 8,
@@ -3896,6 +4216,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -3912,6 +4235,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3922,7 +4246,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "81 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-081.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-081.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004930_00_SHAYMIN_AR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/833h3323x178959-shaymin",
     "custoDeck": 8,
@@ -3946,6 +4270,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -3962,6 +4289,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -3973,7 +4301,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "82 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-082.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-082.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004340_00_LEAFIAex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/294koi6oc96308u-leafeon-ex",
     "custoDeck": 8,
@@ -3997,6 +4325,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -4013,6 +4344,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4024,7 +4356,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "83 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-083.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-083.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004460_00_GLACIAex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u285461858n515n-glaceon-ex",
     "custoDeck": 8,
@@ -4048,6 +4380,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragao",
+    "tipos": [
+      "Dragao"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -4072,6 +4407,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4083,7 +4419,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "84 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-084.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-084.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004710_00_GABURIASex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b95g0207c8xjwep-garchomp-ex",
     "custoDeck": 8,
@@ -4107,6 +4443,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -4123,6 +4462,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4134,7 +4474,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "85 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-085.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-085.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004810_00_DAINOSEex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/333d5fxx137wey2-probopass-ex",
     "custoDeck": 8,
@@ -4158,6 +4498,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -4174,6 +4517,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4185,7 +4529,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "86 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-086.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-086.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004950_00_ARCEUSex_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/53004s0esr50vtr-arceus-ex",
     "custoDeck": 8,
@@ -4209,11 +4553,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4224,7 +4572,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "87 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-087.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-087.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_20_000380_00_KAI_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6p9jw34h4wh421z-irida",
     "custoDeck": 8,
@@ -4248,11 +4596,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4263,7 +4615,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "88 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-088.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-088.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_20_000390_00_KANNAGITOWNNOTYOUROU_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xas0gm4quxc8o7h-celestic-town-elder",
     "custoDeck": 8,
@@ -4287,11 +4639,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4302,7 +4658,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "89 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-089.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-089.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_20_000400_00_JUN_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fj68096v04c7l8y-barry",
     "custoDeck": 8,
@@ -4326,11 +4682,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4341,7 +4701,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "90 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-090.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-090.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cTR_20_000410_00_SEKI_SR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/76de7411987ybbl-adaman",
     "custoDeck": 8,
@@ -4365,6 +4725,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -4381,6 +4744,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4392,7 +4756,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "91 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-091.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-091.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004340_01_LEAFIAex_SAR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k81hfy03ric5k0f-leafeon-ex",
     "custoDeck": 8,
@@ -4416,6 +4780,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -4432,6 +4799,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4443,7 +4811,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "92 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-092.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-092.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004460_01_GLACIAex_SAR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/054sk4d336278y7-glaceon-ex",
     "custoDeck": 8,
@@ -4467,6 +4835,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -4491,6 +4862,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4502,7 +4874,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "93 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-093.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-093.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004710_01_GABURIASex_SAR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/s4pb5pf75b9aq48-garchomp-ex",
     "custoDeck": 8,
@@ -4526,6 +4898,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -4542,6 +4917,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4553,7 +4929,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "94 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-094.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-094.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004810_01_DAINOSEex_SAR_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/g8x7hox3z667b9q-probopass-ex",
     "custoDeck": 8,
@@ -4577,6 +4953,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -4593,6 +4972,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Raro Imersivo",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4604,7 +4984,7 @@
     "expansao": "Luz Triunfante (A2A)",
     "numero": "95 / 96",
     "pacote": "Arceus",
-    "imageLocal": "./assets/cards/cartas_a2a/a2a-095.jpg",
+    "imageLocal": "./assets/cards/cartas_a2a/a2a-095.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a2a/cPK_20_004950_01_ARCEUSex_IM_M_en_US_UT_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/2y10k980z35893l-arceus-ex",
     "custoDeck": 8,

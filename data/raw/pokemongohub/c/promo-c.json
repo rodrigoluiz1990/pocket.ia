@@ -1,0 +1,446 @@
+[
+  {
+    "id": "promo-c-001",
+    "raridade": "Promo",
+    "custoDeck": 1,
+    "tags": [],
+    "expansao": "PROMO-C",
+    "numero": "1 / 13",
+    "evolucao": "",
+    "pacote": "Promo",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-C/P-C_001_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C/1",
+    "nome": "Pikachu",
+    "tipo": "Pokemon",
+    "elemento": "Elétrico",
+    "elementos": [
+      "Elétrico"
+    ],
+    "estagio": "Basico",
+    "subtipo": "",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Choque do Trovão",
+        "dano": "30",
+        "custoataque": [
+          "Raio"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false
+  },
+  {
+    "id": "promo-c-002",
+    "raridade": "Promo",
+    "custoDeck": 1,
+    "tags": [],
+    "expansao": "PROMO-C",
+    "numero": "2 / 13",
+    "evolucao": "",
+    "pacote": "Promo",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-C/P-C_002_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C/2",
+    "nome": "Mega Mewtwo Y ex",
+    "tipo": "Pokemon",
+    "elemento": "psychic",
+    "elementos": [
+      "psychic"
+    ],
+    "estagio": "Basico",
+    "subtipo": "",
+    "hp": 170,
+    "ataque": [
+      {
+        "nomeataque": "Psychic Blaster",
+        "dano": "60 ×",
+        "custoataque": [
+          "psychic",
+          "psychic"
+        ],
+        "efeito": "Flip a coin for each [P] Energy attached to this Pokémon. This attack does 60 damage for each heads."
+      }
+    ],
+    "fraqueza": "darkness",
+    "recuo": 1,
+    "temHabilidade": false
+  },
+  {
+    "id": "promo-c-003",
+    "raridade": "Promo",
+    "custoDeck": 1,
+    "tags": [],
+    "expansao": "PROMO-C",
+    "numero": "3 / 13",
+    "evolucao": "",
+    "pacote": "Promo",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-C/P-C_003_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C/3",
+    "nome": "Deoxys",
+    "tipo": "Pokemon",
+    "elemento": "Psiquico",
+    "elementos": [
+      "Psiquico"
+    ],
+    "estagio": "Basico",
+    "subtipo": "",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Psycho Boost",
+        "dano": "100",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico",
+          "Incolor"
+        ],
+        "efeito": "During your next turn, this Pokémon's Psycho Boost does −50 damage."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false
+  },
+  {
+    "id": "promo-c-004",
+    "raridade": "Promo",
+    "custoDeck": 1,
+    "tags": [],
+    "expansao": "PROMO-C",
+    "numero": "4 / 13",
+    "evolucao": "",
+    "pacote": "Promo",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-C/P-C_004_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C/4",
+    "nome": "Inkay",
+    "tipo": "Pokemon",
+    "elemento": "psychic",
+    "elementos": [
+      "psychic"
+    ],
+    "estagio": "Basico",
+    "subtipo": "",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Perplex",
+        "dano": "",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "fraqueza": "darkness",
+    "recuo": 1,
+    "temHabilidade": false
+  },
+  {
+    "id": "promo-c-005",
+    "raridade": "Promo",
+    "custoDeck": 1,
+    "tags": [],
+    "expansao": "PROMO-C",
+    "numero": "5 / 13",
+    "evolucao": "",
+    "pacote": "Promo",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-C/P-C_005_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C/5",
+    "nome": "Malamar",
+    "tipo": "Pokemon",
+    "elemento": "psychic",
+    "elementos": [
+      "psychic"
+    ],
+    "estagio": "Estagio 1",
+    "subtipo": "",
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Pester the Dizzy",
+        "dano": "10 +",
+        "custoataque": [
+          "psychic"
+        ],
+        "efeito": "If your opponent's Active Pokémon is Confused, this attack does 90 more damage."
+      }
+    ],
+    "fraqueza": "darkness",
+    "recuo": 1,
+    "temHabilidade": false
+  },
+  {
+    "id": "promo-c-006",
+    "raridade": "Promo",
+    "custoDeck": 1,
+    "tags": [],
+    "expansao": "PROMO-C",
+    "numero": "6 / 13",
+    "evolucao": "",
+    "pacote": "Promo",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-C/P-C_006_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C/6",
+    "nome": "Cosmog",
+    "tipo": "Pokemon",
+    "elemento": "Psiquico",
+    "elementos": [
+      "Psiquico"
+    ],
+    "estagio": "Basico",
+    "subtipo": "",
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Teleporte",
+        "dano": "",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "Draw a card."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false
+  },
+  {
+    "id": "promo-c-007",
+    "raridade": "Promo",
+    "custoDeck": 1,
+    "tags": [],
+    "expansao": "PROMO-C",
+    "numero": "7 / 13",
+    "evolucao": "",
+    "pacote": "Promo",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-C/P-C_007_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C/7",
+    "nome": "Cosmoem",
+    "tipo": "Pokemon",
+    "elemento": "Psiquico",
+    "elementos": [
+      "Psiquico"
+    ],
+    "estagio": "Estagio 1",
+    "subtipo": "",
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Ram",
+        "dano": "30",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 3,
+    "temHabilidade": false
+  },
+  {
+    "id": "promo-c-008",
+    "raridade": "Promo",
+    "custoDeck": 1,
+    "tags": [],
+    "expansao": "PROMO-C",
+    "numero": "8 / 13",
+    "evolucao": "",
+    "pacote": "Promo",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-C/P-C_008_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C/8",
+    "nome": "Lunala",
+    "tipo": "Pokemon",
+    "elemento": "Psiquico",
+    "elementos": [
+      "Psiquico"
+    ],
+    "estagio": "Estagio 2",
+    "subtipo": "",
+    "hp": 150,
+    "ataque": [
+      {
+        "nomeataque": "Wings of the Moone",
+        "dano": "110",
+        "custoataque": [
+          "Psiquico",
+          "Psiquico"
+        ],
+        "efeito": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like."
+      }
+    ],
+    "fraqueza": "Escuridao",
+    "recuo": 1,
+    "temHabilidade": false
+  },
+  {
+    "id": "promo-c-009",
+    "raridade": "Promo",
+    "custoDeck": 1,
+    "tags": [],
+    "expansao": "PROMO-C",
+    "numero": "9 / 13",
+    "evolucao": "",
+    "pacote": "Promo",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-C/P-C_009_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C/9",
+    "nome": "Genome Converter Y",
+    "tipo": "Treinador",
+    "elemento": "Neutro",
+    "elementos": [
+      "Neutro"
+    ],
+    "estagio": "Basico",
+    "subtipo": "Item",
+    "hp": 0,
+    "ataque": [],
+    "fraqueza": "",
+    "recuo": 0,
+    "temHabilidade": false
+  },
+  {
+    "id": "promo-c-010",
+    "raridade": "Promo",
+    "custoDeck": 1,
+    "tags": [],
+    "expansao": "PROMO-C",
+    "numero": "10 / 13",
+    "evolucao": "",
+    "pacote": "Promo",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-C/P-C_010_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C/10",
+    "nome": "Stantler",
+    "tipo": "Pokemon",
+    "elemento": "Incolor",
+    "elementos": [
+      "Incolor"
+    ],
+    "estagio": "Basico",
+    "subtipo": "",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Chifres Acentuados",
+        "dano": "20 +",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "If this Pokémon has a Pokémon Tool attached, this attack will do 50 more damage"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "temHabilidade": false
+  },
+  {
+    "id": "promo-c-011",
+    "raridade": "Promo",
+    "custoDeck": 1,
+    "tags": [],
+    "expansao": "PROMO-C",
+    "numero": "11 / 13",
+    "evolucao": "",
+    "pacote": "Promo",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-C/P-C_011_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C/11",
+    "nome": "Alcremie",
+    "tipo": "Pokemon",
+    "elemento": "Psiquico",
+    "elementos": [
+      "Psiquico"
+    ],
+    "estagio": "1",
+    "subtipo": "",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Sobrecarga Açucarada",
+        "dano": "40 ×",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "This attack does 40 damage for each time you used Sweets Relay during this game"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false
+  },
+  {
+    "id": "promo-c-012",
+    "raridade": "Promo",
+    "custoDeck": 1,
+    "tags": [],
+    "expansao": "PROMO-C",
+    "numero": "12 / 13",
+    "evolucao": "",
+    "pacote": "Promo",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-C/P-C_012_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C/12",
+    "nome": "Delibird",
+    "tipo": "Pokemon",
+    "elemento": "Água",
+    "elementos": [
+      "Água"
+    ],
+    "estagio": "Basico",
+    "subtipo": "",
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Caixa de Surpresas",
+        "dano": "",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Flip a coin. If heads, this attack does 70 damage to your opponent's Active Pokémon. If tails, heal 30 damage from your opponent's Active Pokéon"
+      }
+    ],
+    "fraqueza": "Metal",
+    "recuo": 1,
+    "temHabilidade": false
+  },
+  {
+    "id": "promo-c-013",
+    "raridade": "Promo",
+    "custoDeck": 1,
+    "tags": [],
+    "expansao": "PROMO-C",
+    "numero": "13 / 13",
+    "evolucao": "",
+    "pacote": "Promo",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-C/P-C_013_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C/13",
+    "nome": "Mega Dragonite ex",
+    "tipo": "Pokemon",
+    "elemento": "Dragao",
+    "elementos": [
+      "Dragao"
+    ],
+    "estagio": "Estagio 2",
+    "subtipo": "",
+    "hp": 240,
+    "ataque": [
+      {
+        "nomeataque": "Draconic Meteor",
+        "dano": "",
+        "custoataque": [
+          "Agua",
+          "Raio",
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "1 of your opponent's Pokémon is chosen at random. Do 250 damage to it."
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 4,
+    "temHabilidade": false
+  }
+]

@@ -63,8 +63,10 @@ function buildImageLocal(code, numero) {
     ? "pa"
     : normalizedCode === "PROMO-B"
       ? "pb"
-      : normalizedCode.toLowerCase();
-  const fileNameBase = String(code).toLowerCase().replace(/^promo-a$/, "pa").replace(/^promo-b$/, "pb");
+      : normalizedCode === "PROMO-C"
+        ? "pc"
+        : normalizedCode.toLowerCase();
+  const fileNameBase = String(code).toLowerCase().replace(/^promo-a$/, "pa").replace(/^promo-b$/, "pb").replace(/^promo-c$/, "pc");
   return `./assets/cards/cartas_${assetCode}/${fileNameBase}-${n}.jpg`;
 }
 

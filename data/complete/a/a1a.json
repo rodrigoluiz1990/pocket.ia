@@ -8,6 +8,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -22,6 +25,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -32,7 +36,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "1 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-001.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-001.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002150_00_TAMATAMA_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/njtqzb4g1xvmyte-exeggcute",
     "custoDeck": 1,
@@ -56,6 +60,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -73,6 +80,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -83,7 +91,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "2 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-002.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-002.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002160_00_NASSY_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/upwu4egfe8n09oe-exeggutor",
     "custoDeck": 1,
@@ -107,6 +115,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -122,6 +133,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -133,7 +145,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "3 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-003.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-003.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002170_00_CELEBIex_RR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h1lxnlhpl5zljro-celebi-ex",
     "custoDeck": 8,
@@ -157,6 +169,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -172,6 +187,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -182,7 +198,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "4 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-004.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-004.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002180_00_TSUTARJA_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9fuzldsjs86vk1y-snivy",
     "custoDeck": 1,
@@ -206,6 +222,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -221,6 +240,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -231,7 +251,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "5 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-005.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-005.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002190_00_JANOVY_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/24gcgk3xh24yy3c-servine",
     "custoDeck": 1,
@@ -255,6 +275,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -272,6 +295,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -282,7 +306,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "6 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-006.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-006.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002200_00_JALORDA_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ewaplkoi5ko7x9w-serperior",
     "custoDeck": 3,
@@ -306,6 +330,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -320,6 +347,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -330,7 +358,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "7 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-007.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-007.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002210_00_NEMASYU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cmpiz48676erqu2-morelull",
     "custoDeck": 1,
@@ -354,6 +382,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -369,6 +400,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -379,7 +411,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "8 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-008.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-008.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002220_00_MASHADE_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8loxhhip6gekxvr-shiinotic",
     "custoDeck": 1,
@@ -403,6 +435,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -417,6 +452,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -427,7 +463,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "9 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-009.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-009.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002230_00_DADARIN_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kj9tvr5n5cjfbx9-dhelmise",
     "custoDeck": 1,
@@ -451,6 +487,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -465,6 +504,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -475,7 +515,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "10 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-010.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-010.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002240_00_PONYTA_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7e1adx2kf4udcld-ponyta",
     "custoDeck": 1,
@@ -499,6 +539,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -514,6 +557,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -524,7 +568,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "11 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-011.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-011.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002250_00_GALLOP_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z7j1kqi2e8tl06r-rapidash",
     "custoDeck": 1,
@@ -548,6 +592,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -563,6 +610,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -573,7 +621,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "12 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-012.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-012.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002260_00_BOOBER_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tqn51pibscr7zx2-magmar",
     "custoDeck": 1,
@@ -597,6 +645,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -612,6 +663,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -622,7 +674,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "13 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-013.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-013.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002270_00_MERLARVA_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aq1a8ns3zq3r3d4-larvesta",
     "custoDeck": 1,
@@ -646,6 +698,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -662,6 +717,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -672,7 +728,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "14 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-014.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-014.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002280_00_ULGAMOTH_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5jsi6xvwpmx4rd8-volcarona",
     "custoDeck": 3,
@@ -696,6 +752,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -710,6 +769,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -720,7 +780,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "15 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-015.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-015.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002290_00_YATOUMORI_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tn0m919glf7p4ui-salandit",
     "custoDeck": 1,
@@ -744,6 +804,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -758,6 +821,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -768,7 +832,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "16 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-016.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-016.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002300_00_ENNEWT_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fpax2tzmqojixxm-salazzle",
     "custoDeck": 1,
@@ -792,6 +856,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -806,6 +873,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -816,7 +884,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "17 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-017.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-017.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002310_00_KOIKING_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/dkxuvrd749iha5i-magikarp",
     "custoDeck": 1,
@@ -840,6 +908,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -857,6 +928,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -868,7 +940,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "18 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-018.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-018.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002320_00_GYARADOSex_RR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hmda751busew0m6-gyarados-ex",
     "custoDeck": 8,
@@ -892,6 +964,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -908,6 +983,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -918,7 +994,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "19 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-019.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-019.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002330_00_SHOWERS_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1izrnidqwlh57zf-vaporeon",
     "custoDeck": 3,
@@ -942,6 +1018,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -956,6 +1035,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -966,7 +1046,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "20 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-020.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-020.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002340_00_KEIKOUO_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5fnq79pzk3j7ns3-finneon",
     "custoDeck": 1,
@@ -990,6 +1070,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1005,6 +1088,7 @@
     "fraqueza": "Raio",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1015,7 +1099,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "21 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-021.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-021.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002350_00_NEOLANT_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wb0l84qjlf8pjto-lumineon",
     "custoDeck": 1,
@@ -1039,6 +1123,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1054,6 +1141,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1064,7 +1152,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "22 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-022.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-022.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002360_00_KAMUKAME_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/812ymr06ftodvyk-chewtle",
     "custoDeck": 1,
@@ -1088,6 +1176,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -1104,6 +1195,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1114,7 +1206,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "23 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-023.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-023.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002370_00_KAJIRIGAME_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j3m8vyl62sk6mnp-drednaw",
     "custoDeck": 1,
@@ -1138,6 +1230,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1154,6 +1249,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1164,7 +1260,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "24 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-024.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-024.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002380_00_UU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l8ixwzd0kidm7rw-cramorant",
     "custoDeck": 1,
@@ -1188,6 +1284,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1202,6 +1301,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1212,7 +1312,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "25 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-025.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-025.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002390_00_PIKACHU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4i9rpfwox9ld9yn-pikachu",
     "custoDeck": 1,
@@ -1236,6 +1336,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -1252,6 +1355,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1262,7 +1366,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "26 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-026.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-026.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002400_00_RAICHU_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6tuaztw76k9faao-raichu",
     "custoDeck": 3,
@@ -1286,6 +1390,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1301,6 +1408,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1311,7 +1419,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "27 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-027.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-027.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002410_00_ELEBOO_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ud1jhjmo8ypor5m-electabuzz",
     "custoDeck": 1,
@@ -1335,6 +1443,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 40,
     "ataque": [
       {
@@ -1349,6 +1460,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1359,7 +1471,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "28 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-028.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-028.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002420_00_BACHURU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/najoy11qoykq5a4-joltik",
     "custoDeck": 1,
@@ -1383,6 +1495,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1398,6 +1513,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1408,7 +1524,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "29 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-029.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-029.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002430_00_DENTULA_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/apn3egss9zs1oel-galvantula",
     "custoDeck": 1,
@@ -1432,6 +1548,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1446,6 +1565,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1456,7 +1576,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "30 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-030.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-030.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002440_00_DEDENNE_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6cnxjgx3cvgf45w-dedenne",
     "custoDeck": 1,
@@ -1480,6 +1600,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1494,6 +1617,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1504,7 +1628,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "31 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-031.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-031.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002140_00_MEW_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vf0r9kvdsazl74z-mew",
     "custoDeck": 3,
@@ -1528,6 +1652,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -1552,6 +1679,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -1563,7 +1691,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "32 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-032.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-032.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002450_00_MEWex_RR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5yi2fgnh2xat86l-mew-ex",
     "custoDeck": 8,
@@ -1587,6 +1715,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1601,6 +1732,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1611,7 +1743,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "33 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-033.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-033.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002460_00_SYMBOLER_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/io8pmf1np20ivkt-sigilyph",
     "custoDeck": 1,
@@ -1635,6 +1767,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1649,6 +1784,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1659,7 +1795,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "34 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-034.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-034.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002470_00_LIGRAY_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pa4w0evig08bx6m-elgyem",
     "custoDeck": 1,
@@ -1683,6 +1819,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1697,6 +1836,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1707,7 +1847,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "35 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-035.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-035.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002500_00_OHBEM_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v8krjbv35yat9rr-beheeyem",
     "custoDeck": 1,
@@ -1731,6 +1871,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 40,
     "ataque": [
       {
@@ -1745,6 +1888,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1755,7 +1899,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "36 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-036.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-036.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002510_00_FLABEBE_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4rjiv5t6kgenqjp-flabeb",
     "custoDeck": 1,
@@ -1779,6 +1923,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1793,6 +1940,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1803,7 +1951,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "37 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-037.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-037.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002520_00_FLOETTE_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cvxg6bdbnxhtuey-floette",
     "custoDeck": 1,
@@ -1827,6 +1975,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -1842,6 +1993,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1852,7 +2004,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "38 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-038.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-038.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002480_00_FLORGES_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zxtei9is63ll464-florges",
     "custoDeck": 1,
@@ -1876,6 +2028,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1890,6 +2045,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1900,7 +2056,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "39 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-039.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-039.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002490_00_PEROPPAFU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/clwrerk7zkp56nd-swirlix",
     "custoDeck": 1,
@@ -1924,6 +2080,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1939,6 +2098,7 @@
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1949,7 +2109,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "40 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-040.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-040.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002530_00_PEROREAM_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hmaw88f1sd4n0eg-slurpuff",
     "custoDeck": 1,
@@ -1973,6 +2133,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -1987,6 +2150,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1997,7 +2161,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "41 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-041.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-041.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002540_00_MANKEY_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h3kjwqdud9vzbir-mankey",
     "custoDeck": 1,
@@ -2021,6 +2185,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -2035,6 +2202,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2045,7 +2213,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "42 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-042.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-042.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002550_00_OKORIZARU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xqlbewvndwjsv0g-primeape",
     "custoDeck": 1,
@@ -2069,6 +2237,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2084,6 +2255,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2094,7 +2266,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "43 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-043.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-043.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002560_00_ISITSUBUTE_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/lfi58nyo9hdyeg9-geodude",
     "custoDeck": 1,
@@ -2118,6 +2290,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2133,6 +2308,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2143,7 +2319,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "44 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-044.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-044.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002570_00_GOLONE_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nuop96e51iiwngw-graveler",
     "custoDeck": 1,
@@ -2167,6 +2343,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -2184,6 +2363,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2194,7 +2374,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "45 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-045.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-045.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002580_00_GOLONYA_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aeybbymedewzboe-golem",
     "custoDeck": 3,
@@ -2218,6 +2398,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -2233,6 +2416,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -2244,7 +2428,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "46 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-046.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-046.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002590_00_PTERAex_RR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z13co4oge3d8vwt-aerodactyl-ex",
     "custoDeck": 8,
@@ -2268,6 +2452,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -2283,6 +2470,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2293,7 +2481,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "47 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-047.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-047.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002600_00_MARSHADOW_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wxa0dmxiysjkh19-marshadow",
     "custoDeck": 3,
@@ -2317,6 +2505,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -2333,6 +2524,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2343,7 +2535,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "48 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-048.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-048.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002610_00_ISHIHENGIN_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oif9hc1l2182yck-stonjourner",
     "custoDeck": 1,
@@ -2367,6 +2559,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2381,6 +2576,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2391,7 +2587,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "49 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-049.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-049.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002620_00_DOGARS_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3rytiasmgwj4dll-koffing",
     "custoDeck": 1,
@@ -2415,6 +2611,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -2430,6 +2629,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2440,7 +2640,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "50 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-050.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-050.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002630_00_MATADOGAS_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yeya26y0p6b1urk-weezing",
     "custoDeck": 1,
@@ -2464,6 +2664,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2478,6 +2681,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2488,7 +2692,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "51 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-051.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-051.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002640_00_CHORONEKO_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/loj95zzm39lc9s5-purrloin",
     "custoDeck": 1,
@@ -2512,6 +2716,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -2526,6 +2733,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2536,7 +2744,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "52 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-052.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-052.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002650_00_LEPARDAS_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nkd9f2amdhd657e-liepard",
     "custoDeck": 1,
@@ -2560,6 +2768,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2574,6 +2785,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2584,7 +2796,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "53 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-053.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-053.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002660_00_FUSHIDE_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/var7rxly2080w98-venipede",
     "custoDeck": 1,
@@ -2608,6 +2820,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -2622,6 +2837,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2632,7 +2848,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "54 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-054.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-054.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002670_00_WHEEGA_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yi4ngt04jh845m9-whirlipede",
     "custoDeck": 1,
@@ -2656,6 +2872,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -2671,6 +2890,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2681,7 +2901,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "55 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-055.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-055.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002680_00_PENDROR_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/qvb758zb4ijhjg4-scolipede",
     "custoDeck": 1,
@@ -2705,6 +2925,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragao",
+    "tipos": [
+      "Dragao"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2721,6 +2944,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -2731,7 +2955,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "56 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-056.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-056.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002690_00_CRIMGAN_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e21ldsyk80arifk-druddigon",
     "custoDeck": 1,
@@ -2755,6 +2979,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -2769,6 +2996,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2779,7 +3007,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "57 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-057.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-057.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002700_00_POPPO_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fwowr179gwvn0wi-pidgey",
     "custoDeck": 1,
@@ -2803,6 +3031,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -2819,6 +3050,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2829,7 +3061,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "58 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-058.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-058.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002710_00_PIGEON_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7y5t30djskzt031-pidgeotto",
     "custoDeck": 1,
@@ -2853,6 +3085,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -2869,6 +3104,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -2880,7 +3116,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "59 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-059.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-059.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002720_00_PIGEOTex_RR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5o5naaasoda63qt-pidgeot-ex",
     "custoDeck": 8,
@@ -2904,6 +3140,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2920,6 +3159,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2930,7 +3170,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "60 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-060.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-060.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002730_00_KENTAUROS_R_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mk4yq4bmy9p73ij-tauros",
     "custoDeck": 3,
@@ -2954,6 +3194,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2966,6 +3209,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2976,7 +3220,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "61 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-061.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-061.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002740_00_EIEVUI_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/awn64f65f1m7k6n-eevee",
     "custoDeck": 1,
@@ -3000,6 +3244,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3012,6 +3259,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3022,7 +3270,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "62 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-062.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-062.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_10_002750_00_PERAP_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1s1tq7sqqgvq8tc-chatot",
     "custoDeck": 1,
@@ -3046,11 +3294,15 @@
     "subtipo": "fossil",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3061,7 +3313,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "63 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-063.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-063.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000100_00_HIMITSUNOKOHAKU_C_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fo7ec02e0ucc7x8-old-amber",
     "custoDeck": 1,
@@ -3085,11 +3337,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3100,7 +3356,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "64 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-064.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-064.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000200_00_POKEMONNOFUE_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0afyr6z43839idd-pokemon-flute",
     "custoDeck": 1,
@@ -3124,11 +3380,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3139,7 +3399,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "65 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-065.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-065.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000190_00_MABOROSHINOSEKIBAN_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tzfcmr5r03hyksk-mythical-slab",
     "custoDeck": 1,
@@ -3163,11 +3423,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3178,7 +3442,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "66 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-066.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-066.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000220_00_KAKEDASHICHOSAIN_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/59y3ogqwlc7t1q6-budding-expeditioner",
     "custoDeck": 1,
@@ -3202,11 +3466,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3217,7 +3485,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "67 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-067.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-067.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000210_00_GREEN_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j197ch2entsxdup-blue",
     "custoDeck": 1,
@@ -3241,11 +3509,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3256,7 +3528,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "68 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-068.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-068.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_10_000230_00_LEAF_U_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z2ofwxxu6bb8z6n-leaf",
     "custoDeck": 1,
@@ -3280,6 +3552,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -3297,6 +3572,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3307,7 +3583,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "69 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-069.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-069.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002160_00_NASSY_AR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/b210ploeuw8kc3o-exeggutor",
     "custoDeck": 8,
@@ -3331,6 +3607,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -3348,6 +3627,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3358,7 +3638,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "70 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-070.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-070.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002200_00_JALORDA_AR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c59pgs3a6gf02su-serperior",
     "custoDeck": 8,
@@ -3382,6 +3662,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3396,6 +3679,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3406,7 +3690,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "71 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-071.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-071.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002290_00_YATOUMORI_AR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vm8rykfyesi8psj-salandit",
     "custoDeck": 8,
@@ -3430,6 +3714,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -3446,6 +3733,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3456,7 +3744,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "72 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-072.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-072.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002330_00_SHOWERS_AR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fgzqfijb00tqiy2-vaporeon",
     "custoDeck": 8,
@@ -3480,6 +3768,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3494,6 +3785,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3504,7 +3796,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "73 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-073.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-073.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002440_00_DEDENNE_AR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ijpqniv1h7k4uzs-dedenne",
     "custoDeck": 8,
@@ -3528,6 +3820,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -3543,6 +3838,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3553,7 +3849,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "74 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-074.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-074.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002600_00_MARSHADOW_AR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zm3n389x9y6o1as-marshadow",
     "custoDeck": 8,
@@ -3577,6 +3873,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -3592,6 +3891,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3603,7 +3903,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "75 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-075.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-075.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002170_00_CELEBIex_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/kz21cxjbnl78n7k-celebi-ex",
     "custoDeck": 8,
@@ -3627,6 +3927,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -3644,6 +3947,7 @@
     "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3655,7 +3959,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "76 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-076.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-076.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002320_00_GYARADOSex_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k4hllj09hixdi6m-gyarados-ex",
     "custoDeck": 8,
@@ -3679,6 +3983,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -3703,6 +4010,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3714,7 +4022,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "77 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-077.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-077.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_00_MEWex_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5eatuaiywrs77bc-mew-ex",
     "custoDeck": 8,
@@ -3738,6 +4046,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -3753,6 +4064,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -3764,7 +4076,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "78 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-078.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-078.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002590_00_PTERAex_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v0z6lar0cdel1ay-aerodactyl-ex",
     "custoDeck": 8,
@@ -3788,6 +4100,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -3804,6 +4119,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3815,7 +4131,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "79 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-079.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-079.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002720_00_PIGEOTex_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5y62vvr58pxazez-pidgeot-ex",
     "custoDeck": 8,
@@ -3839,11 +4155,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3854,7 +4174,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "80 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-080.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-080.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_20_000220_00_KAKEDASHICHOSAIN_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/30koqtat89as3os-budding-expeditioner",
     "custoDeck": 8,
@@ -3878,11 +4198,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3893,7 +4217,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "81 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-081.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-081.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_20_000210_00_GREEN_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a91f9i3l5do91lu-blue",
     "custoDeck": 8,
@@ -3917,11 +4241,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3932,7 +4260,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "82 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-082.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-082.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cTR_20_000230_00_LEAF_SR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9cvnctq71ts6ocj-leaf",
     "custoDeck": 8,
@@ -3956,6 +4284,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -3980,6 +4311,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3991,7 +4323,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "83 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-083.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-083.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_01_MEWex_SAR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1qfj5pkve2jtpx1-mew-ex",
     "custoDeck": 8,
@@ -4015,6 +4347,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -4030,6 +4365,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4041,7 +4377,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "84 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-084.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-084.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002590_01_PTERAex_SAR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/trsczskf0z2z12p-aerodactyl-ex",
     "custoDeck": 8,
@@ -4065,6 +4401,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -4080,6 +4419,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Raro Imersivo",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4091,7 +4431,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "85 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-085.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-085.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002170_01_CELEBIex_IM_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xpv0hpyt1z1rz7f-celebi-ex",
     "custoDeck": 8,
@@ -4115,6 +4455,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -4139,6 +4482,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Coroa Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4150,7 +4494,7 @@
     "expansao": "Ilha Mitica (A1A)",
     "numero": "86 / 86",
     "pacote": "Mew",
-    "imageLocal": "./assets/cards/cartas_a1a/a1a-086.jpg",
+    "imageLocal": "./assets/cards/cartas_a1a/a1a-086.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a1a/cPK_20_002450_02_MEWex_UR_M_M_en_US_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/98f36d2k9cqin6s-mew-ex",
     "custoDeck": 8,

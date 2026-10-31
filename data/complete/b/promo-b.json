@@ -8,6 +8,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -22,6 +25,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -32,7 +36,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "1 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-001.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-001.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_004490_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q1tfwlvwdlkljoi-pikachu",
     "custoDeck": 2,
@@ -56,6 +60,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -70,6 +77,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -80,7 +88,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "2 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-002.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-002.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012930_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wdybr2holcydfus-petilil",
     "custoDeck": 2,
@@ -104,6 +112,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -119,6 +130,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -129,7 +141,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "3 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-003.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-003.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012940_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zaj08ss1r1avtta-froakie",
     "custoDeck": 2,
@@ -153,6 +165,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -168,6 +183,7 @@
     "fraqueza": "Luta",
     "recuo": 0,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -178,7 +194,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "4 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-004.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-004.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_011700_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rbx1as8z7ds3fo9-luxray",
     "custoDeck": 2,
@@ -202,6 +218,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -217,6 +236,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -227,7 +247,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "5 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-005.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-005.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012620_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fafruj6y6d9rjnu-pidgey",
     "custoDeck": 2,
@@ -251,6 +271,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 210,
     "ataque": [
       {
@@ -267,6 +290,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "mega",
@@ -278,7 +302,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "6 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-006.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-006.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012950_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/o8blf9obavtch63-mega-pidgeot-ex",
     "custoDeck": 2,
@@ -302,6 +326,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -316,6 +343,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -326,7 +354,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "7 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-007.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-007.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_011150_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cqsa5krmiam9qdt-torchic",
     "custoDeck": 2,
@@ -350,6 +378,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -364,6 +395,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -374,7 +406,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "8 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-008.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-008.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_011300_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/673uuaanjttyojg-psyduck",
     "custoDeck": 2,
@@ -398,6 +430,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -413,6 +448,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "mega",
@@ -424,7 +460,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "9 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-009.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-009.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012330_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gjpvvcksjmdc2us-mega-absol-ex",
     "custoDeck": 2,
@@ -448,6 +484,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -463,6 +502,7 @@
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -473,7 +513,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "10 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-010.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-010.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_011900_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/07wcbha12eqkksu-drifblim",
     "custoDeck": 2,
@@ -497,6 +537,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -511,6 +554,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": true,
     "formato": "noex",
@@ -521,7 +565,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "11 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-011.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-011.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012660_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/skcoyccpwl8qftr-eevee",
     "custoDeck": 2,
@@ -545,6 +589,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -559,6 +606,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -569,7 +617,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "12 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-012.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-012.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013060_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t4kbjez31khnr4z-ditto",
     "custoDeck": 2,
@@ -593,6 +641,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -608,6 +659,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -618,7 +670,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "13 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-013.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-013.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_011110_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/91ahdupmo3zf07p-arcanine",
     "custoDeck": 2,
@@ -642,6 +694,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -656,6 +711,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -666,7 +722,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "14 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-014.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-014.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012960_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/83hy6282lkr2j1y-magikarp",
     "custoDeck": 2,
@@ -690,6 +746,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -704,6 +763,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -714,7 +774,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "15 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-015.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-015.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_011640_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/elplzgbsll4996t-mareep",
     "custoDeck": 2,
@@ -738,6 +798,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -754,6 +817,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -764,7 +828,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "16 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-016.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-016.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012140_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5iwgh75cjzdqsz5-krookodile",
     "custoDeck": 2,
@@ -788,6 +852,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -802,6 +869,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -812,7 +880,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "17 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-017.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-017.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012970_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q0060a7orzlzc5h-swablu",
     "custoDeck": 2,
@@ -836,6 +904,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -851,6 +922,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -861,7 +933,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "18 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-018.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-018.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013030_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9a0bktcf0avobs1-heliolisk",
     "custoDeck": 2,
@@ -885,6 +957,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -899,6 +974,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -909,7 +985,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "19 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-019.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-019.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013040_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w1ecfdpgljuv5e1-buneary",
     "custoDeck": 2,
@@ -933,6 +1009,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -949,6 +1028,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": true,
     "promo": true,
     "formato": "noex",
@@ -959,7 +1039,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "20 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-020.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-020.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012980_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z8oxx1fkcrnmptu-charmeleon",
     "custoDeck": 2,
@@ -983,6 +1063,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -999,6 +1082,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1009,7 +1093,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "21 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-021.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-021.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012990_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/6o1in6w379hl202-onix",
     "custoDeck": 2,
@@ -1033,6 +1117,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1048,6 +1135,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1058,7 +1146,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "22 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-022.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-022.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013000_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/65u796vdbx20s3i-hawlucha",
     "custoDeck": 2,
@@ -1082,6 +1170,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -1098,6 +1189,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1108,7 +1200,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "23 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-023.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-023.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013010_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gl22rzu1n6jzr33-genesect",
     "custoDeck": 2,
@@ -1132,6 +1224,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -1148,6 +1243,7 @@
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "mega",
@@ -1159,7 +1255,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "24 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-024.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-024.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013020_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/guhvamed9q5auym-mega-latios-ex",
     "custoDeck": 2,
@@ -1183,6 +1279,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -1197,6 +1296,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1207,7 +1307,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "25 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-025.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-025.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_011880_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gkg0tb529gfxvw3-jirachi",
     "custoDeck": 2,
@@ -1231,6 +1331,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1245,6 +1348,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1255,7 +1359,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "26 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-026.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-026.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015950_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sm60c7dg28eugp3-mudkip",
     "custoDeck": 2,
@@ -1279,6 +1383,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1295,6 +1402,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1305,7 +1413,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "27 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-027.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-027.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_014180_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/30cfg1vxxe20xpg-plusle",
     "custoDeck": 2,
@@ -1329,6 +1437,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1343,6 +1454,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1353,7 +1465,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "28 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-028.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-028.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015960_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/noh2iwgm4is6o38-ralts",
     "custoDeck": 2,
@@ -1377,6 +1489,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -1393,6 +1508,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "mega",
@@ -1404,7 +1520,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "29 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-029.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-029.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015970_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v1zc6ns6qshn4bz-mega-medicham-ex",
     "custoDeck": 2,
@@ -1428,6 +1544,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1443,6 +1562,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1453,7 +1573,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "30 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-030.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-030.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015040_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9mmrr99ythkvit1-tornadus",
     "custoDeck": 2,
@@ -1477,6 +1597,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -1492,6 +1615,7 @@
     "fraqueza": "Agua",
     "recuo": 0,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1502,7 +1626,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "31 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-031.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-031.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013920_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mngr3ua19e4iuxo-cinderace",
     "custoDeck": 2,
@@ -1526,6 +1650,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1540,6 +1667,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1550,7 +1678,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "32 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-032.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-032.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_013940_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/subupmfi14gnrhr-alolan-vulpix",
     "custoDeck": 2,
@@ -1574,6 +1702,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1588,6 +1719,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1598,7 +1730,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "33 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-033.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-033.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015310_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/67rs6rwavpjxt0p-quaxly",
     "custoDeck": 2,
@@ -1622,6 +1754,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1636,6 +1771,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1646,7 +1782,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "34 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-034.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-034.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015980_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tjwc0r9xcdi9u4s-smoliv",
     "custoDeck": 2,
@@ -1670,6 +1806,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1684,6 +1823,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1694,7 +1834,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "35 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-035.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-035.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015280_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5mjkiv4dp8xk1j3-charcadet",
     "custoDeck": 2,
@@ -1718,6 +1858,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1732,6 +1875,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1742,7 +1886,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "36 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-036.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-036.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015420_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v0q0j60enjm4la8-tatsugiri",
     "custoDeck": 2,
@@ -1766,6 +1910,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1780,6 +1927,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1790,7 +1938,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "37 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-037.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-037.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015990_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/58te37ka0eo62hf-frigibax",
     "custoDeck": 2,
@@ -1814,6 +1962,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -1830,6 +1981,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1840,7 +1992,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "38 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-038.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-038.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015830_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q5og3kyplqv7qad-tinkaton",
     "custoDeck": 2,
@@ -1864,6 +2016,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1878,6 +2033,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1888,7 +2044,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "39 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-039.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-039.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015470_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z0ku3znx9rpxdi9-pawmi",
     "custoDeck": 2,
@@ -1912,6 +2068,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -1928,6 +2087,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -1938,7 +2098,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "40 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-040.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-040.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015740_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ffg65nsc0un2loa-paldean-clodsire",
     "custoDeck": 2,
@@ -1962,6 +2122,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -1986,6 +2149,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "ex",
@@ -1997,7 +2161,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "41 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-041.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-041.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015460_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/owxq2ezoaay7j4h-chien-pao-ex",
     "custoDeck": 2,
@@ -2021,6 +2185,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2036,6 +2203,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -2046,7 +2214,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "42 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-042.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-042.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016000_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/wbr5jihaufynge6-slowpoke",
     "custoDeck": 2,
@@ -2070,6 +2238,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2084,6 +2255,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -2094,7 +2266,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "43 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-043.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-043.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016010_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/czzpzlggxlcvzue-electrike",
     "custoDeck": 2,
@@ -2118,6 +2290,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2132,6 +2307,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -2142,7 +2318,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "44 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-044.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-044.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016020_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e3gtefv9diml3ws-varoom",
     "custoDeck": 2,
@@ -2166,6 +2342,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -2182,6 +2361,7 @@
     "fraqueza": "",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -2192,7 +2372,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "45 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-045.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-045.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016030_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r7ql31d0o9yajd6-haxorus",
     "custoDeck": 2,
@@ -2216,6 +2396,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2230,6 +2413,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -2240,7 +2424,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "46 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-046.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-046.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016040_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/i7he2klc100228x-chatot",
     "custoDeck": 2,
@@ -2264,6 +2448,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2278,6 +2465,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -2288,7 +2476,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "47 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-047.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-047.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016050_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e5bxyy8ac7lpjdq-gastly",
     "custoDeck": 2,
@@ -2312,6 +2500,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -2328,6 +2519,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -2338,7 +2530,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "48 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-048.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-048.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016060_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/xct8ch8qd3vghcu-wigglytuff",
     "custoDeck": 2,
@@ -2362,6 +2554,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2377,6 +2572,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": true,
     "formato": "noex",
@@ -2387,7 +2583,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "49 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-049.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-049.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016900_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r19d48f7888977a-victini",
     "custoDeck": 8,
@@ -2411,6 +2607,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2426,6 +2625,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": true,
     "formato": "noex",
@@ -2436,7 +2636,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "50 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-050.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-050.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_014360_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rbabb888e21c3ba-meloetta",
     "custoDeck": 1,
@@ -2460,6 +2660,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -2474,6 +2677,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -2484,7 +2688,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "51 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-051.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-051.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018860_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rca1269c4bec40d-zygarde",
     "custoDeck": 1,
@@ -2508,6 +2712,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -2524,6 +2731,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -2534,7 +2742,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "52 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-052.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-052.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018870_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rffbdbee8355260-zygarde",
     "custoDeck": 3,
@@ -2558,6 +2766,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -2574,6 +2785,7 @@
     "fraqueza": "Planta",
     "recuo": 4,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "ex",
@@ -2585,7 +2797,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "53 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-053.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-053.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018880_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r1dc23cffcee12b-zygarde-ex",
     "custoDeck": 8,
@@ -2609,6 +2821,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -2623,6 +2838,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": true,
     "promo": true,
     "formato": "noex",
@@ -2633,7 +2849,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "54 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-054.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-054.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_012660_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r6ba76394649ed6-eevee",
     "custoDeck": 1,
@@ -2657,6 +2873,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -2673,6 +2892,7 @@
     "fraqueza": "Planta",
     "recuo": 4,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "ex",
@@ -2684,7 +2904,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "55 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-055.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-055.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018880_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r71be2a41af9445-zygarde-ex",
     "custoDeck": 8,
@@ -2708,6 +2928,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 180,
     "ataque": [
       {
@@ -2725,6 +2948,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "mega",
@@ -2736,7 +2960,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "56 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-056.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-056.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018900_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r789f634271869c-mega-heracross-ex",
     "custoDeck": 8,
@@ -2760,6 +2984,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2774,6 +3001,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -2784,7 +3012,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "57 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-057.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-057.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016890_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r5ba507235fc98c-castform-sunny-form",
     "custoDeck": 1,
@@ -2808,6 +3036,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2822,6 +3053,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -2832,7 +3064,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "58 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-058.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-058.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018910_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r9311bda6d2c78f-tepig",
     "custoDeck": 1,
@@ -2856,6 +3088,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2870,6 +3105,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": true,
     "promo": true,
     "formato": "noex",
@@ -2880,7 +3116,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "59 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-059.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-059.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018920_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/reb2c858240bb2c-dwebble",
     "custoDeck": 1,
@@ -2904,6 +3140,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -2919,6 +3158,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -2929,7 +3169,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "60 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-060.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-060.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_017790_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r5d6dd14694e73a-zarude",
     "custoDeck": 3,
@@ -2953,6 +3193,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2967,6 +3210,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -2977,7 +3221,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "61 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-061.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-061.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016700_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r664b1211fe4373-treecko",
     "custoDeck": 3,
@@ -3001,6 +3245,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -3017,6 +3264,7 @@
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3027,7 +3275,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "62 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-062.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-062.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_017490_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r2793ec391e68cc-gallade",
     "custoDeck": 3,
@@ -3051,6 +3299,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -3074,6 +3325,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "ex",
@@ -3085,7 +3337,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "63 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-063.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-063.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015120_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r6edbe13c2fe7e5-meowscarada-ex",
     "custoDeck": 8,
@@ -3109,6 +3361,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3123,6 +3378,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3133,7 +3389,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "64 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-064.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-064.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018930_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r5d300915e8b58c-charcadet",
     "custoDeck": 1,
@@ -3157,6 +3413,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -3172,6 +3431,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3182,7 +3442,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "65 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-065.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-065.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018230_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r87a085a19848c4-vaporeon",
     "custoDeck": 1,
@@ -3206,6 +3466,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -3221,6 +3484,7 @@
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "ex",
@@ -3232,7 +3496,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "66 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-066.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-066.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018940_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r09aac8fb977f73-ceruledge-ex",
     "custoDeck": 8,
@@ -3256,6 +3520,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3270,6 +3537,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3280,7 +3548,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "67 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-067.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-067.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018950_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r13f0848016dff6-pawniard",
     "custoDeck": 1,
@@ -3304,6 +3572,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -3319,6 +3590,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3329,7 +3601,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "68 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-068.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-068.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018750_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rac0bc2104e287b-dudunsparce",
     "custoDeck": 3,
@@ -3353,6 +3625,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -3367,6 +3642,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3377,7 +3653,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "69 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-069.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-069.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_015110_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rdfa1e519d122b0-floragato",
     "custoDeck": 3,
@@ -3401,6 +3677,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3415,6 +3694,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3425,7 +3705,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "70 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-070.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-070.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018550_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/redf3ce973b3299-sableye",
     "custoDeck": 3,
@@ -3449,6 +3729,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -3463,6 +3746,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3473,7 +3757,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "71 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-071.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-071.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_019030_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rb634e45546c32a-psyduck",
     "custoDeck": 8,
@@ -3497,6 +3781,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 30,
     "ataque": [
       {
@@ -3511,6 +3798,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3521,7 +3809,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "72 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-072.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-072.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018960_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r6069475fabc71f-feebas",
     "custoDeck": 1,
@@ -3545,6 +3833,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -3559,6 +3850,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3569,7 +3861,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "73 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-073.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-073.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018970_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r333be50c976850-froslass",
     "custoDeck": 3,
@@ -3593,6 +3885,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -3608,6 +3903,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3618,7 +3914,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "74 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-074.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-074.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018980_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r31276b05ada268-raichu",
     "custoDeck": 1,
@@ -3642,6 +3938,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -3658,6 +3957,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3668,7 +3968,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "75 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-075.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-075.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_018990_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r1b899be7f7e5ef-quagsire",
     "custoDeck": 1,
@@ -3692,6 +3992,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3706,6 +4009,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3716,7 +4020,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "76 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-076.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-076.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_019000_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rab56411799157f-hisuian-zorua",
     "custoDeck": 8,
@@ -3740,6 +4044,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -3755,6 +4062,7 @@
     "fraqueza": "Agua",
     "recuo": 3,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3765,7 +4073,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "77 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-077.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-077.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_019010_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rdabe3a203effd2-growlithe",
     "custoDeck": 3,
@@ -3789,6 +4097,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -3804,6 +4115,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3814,7 +4126,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "78 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-078.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-078.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_019020_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/re987533db224bc-emolga",
     "custoDeck": 3,
@@ -3838,6 +4150,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -3853,6 +4168,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": true,
     "formato": "noex",
@@ -3863,7 +4179,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "79 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-079.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-079.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_016690_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r072a62946d4a52-celebi",
     "custoDeck": 8,
@@ -3887,6 +4203,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 190,
     "ataque": [
       {
@@ -3903,6 +4222,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "mega",
@@ -3914,7 +4234,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "80 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-080.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-080.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_021060_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r57bc1fac1cad62-mega-houndoom-ex",
     "custoDeck": 8,
@@ -3938,6 +4258,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -3952,6 +4275,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -3962,7 +4286,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "81 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-081.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-081.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_021070_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r8b56cf02932f41-carvanha",
     "custoDeck": 1,
@@ -3986,6 +4310,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4000,6 +4327,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -4010,7 +4338,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "82 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-082.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-082.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_020100_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r60e596c7c5eec4-pikachu",
     "custoDeck": 1,
@@ -4034,6 +4362,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -4050,6 +4381,7 @@
     "fraqueza": "",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -4060,7 +4392,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "83 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-083.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-083.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_020830_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r5ff3c9e4f8a8c2-noivern",
     "custoDeck": 3,
@@ -4084,6 +4416,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4098,6 +4433,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -4108,7 +4444,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "84 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-084.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-084.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_021080_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/rff71a2e887aa24-skitty",
     "custoDeck": 1,
@@ -4132,6 +4468,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Elétrico",
+    "tipos": [
+      "Elétrico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -4146,6 +4485,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -4156,7 +4496,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "85 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-085.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-085.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_020150_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/re66ed8293b70c4-pachirisu",
     "custoDeck": 3,
@@ -4180,6 +4520,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metálico",
+    "tipos": [
+      "Metálico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4194,6 +4537,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": true,
     "formato": "noex",
@@ -4204,7 +4548,7 @@
     "expansao": "PROMO-B (PROMO-B)",
     "numero": "86 / 94",
     "pacote": "PROMO-B",
-    "imageLocal": "./assets/cards/cartas_pb/pb-086.jpg",
+    "imageLocal": "./assets/cards/cartas_pb/pb-086.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/promo-b/PK_90_020670_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/re5aa6f0851965e-beldum",
     "custoDeck": 3,
@@ -4228,6 +4572,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 210,
     "ataque": [
       {
@@ -4243,6 +4590,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "mega",
@@ -4278,6 +4626,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Grama",
+    "tipos": [
+      "Grama"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4293,6 +4644,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -4327,6 +4679,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -4342,6 +4697,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -4376,6 +4732,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Água",
+    "tipos": [
+      "Água"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4390,6 +4749,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -4424,6 +4784,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -4439,6 +4802,7 @@
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -4473,6 +4837,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -4488,6 +4855,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -4522,6 +4890,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4536,6 +4907,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -4570,6 +4942,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psíquico",
+    "tipos": [
+      "Psíquico"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -4585,6 +4960,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": true,
     "formato": "noex",
@@ -4605,6 +4981,486 @@
       "setCode": "PROMO-B",
       "series": "b",
       "matchKey": "PROMO-B#94",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "promo-b-095",
+    "sourceId": "promo-b-095",
+    "categoria": "Pokemon",
+    "nome": "Darkrai",
+    "estagio": "Basico",
+    "subtipo": "",
+    "evolucao": "",
+    "tipo": "Noturno",
+    "tipos": [
+      "Noturno"
+    ],
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Sono Sombrio",
+        "dano": "40",
+        "custoataque": [
+          "Incolor",
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Your opponent's Active Pokémon is now Asleep"
+      }
+    ],
+    "fraqueza": "Planta",
+    "recuo": 2,
+    "raridade": "Ilustração Rara",
+    "metalizada": false,
+    "habilidade": true,
+    "promo": true,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "PROMO-B (PROMO-B)",
+    "numero": "95 / 103",
+    "pacote": "PROMO-B",
+    "imageLocal": "./assets/cards/cartas_pb/pb-095.webp",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_095_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/95",
+    "custoDeck": 1,
+    "deckBuilderNr": 1644,
+    "releaseDate": "2025-10-30",
+    "sourceMeta": {
+      "setCode": "PROMO-B",
+      "series": "b",
+      "matchKey": "PROMO-B#95",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "promo-b-096",
+    "sourceId": "promo-b-096",
+    "categoria": "Pokemon",
+    "nome": "Falinks",
+    "estagio": "Basico",
+    "subtipo": "",
+    "evolucao": "",
+    "tipo": "Lutador",
+    "tipos": [
+      "Lutador"
+    ],
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Invadir",
+        "dano": "20",
+        "custoataque": [
+          "Luta"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Psiquico",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "metalizada": false,
+    "habilidade": true,
+    "promo": true,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "PROMO-B (PROMO-B)",
+    "numero": "96 / 103",
+    "pacote": "PROMO-B",
+    "imageLocal": "./assets/cards/cartas_pb/pb-096.webp",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_096_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/96",
+    "custoDeck": 1,
+    "deckBuilderNr": 1458,
+    "releaseDate": "2025-10-30",
+    "sourceMeta": {
+      "setCode": "PROMO-B",
+      "series": "b",
+      "matchKey": "PROMO-B#96",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "promo-b-097",
+    "sourceId": "promo-b-097",
+    "categoria": "Pokemon",
+    "nome": "Gible",
+    "estagio": "Basico",
+    "subtipo": "",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
+    "hp": 60,
+    "ataque": [
+      {
+        "nomeataque": "Desmantelar",
+        "dano": "30",
+        "custoataque": [
+          "Incolor"
+        ],
+        "efeito": "This Pokémon also does 10 damage to itself"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Comum",
+    "metalizada": false,
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "PROMO-B (PROMO-B)",
+    "numero": "97 / 103",
+    "pacote": "PROMO-B",
+    "imageLocal": "./assets/cards/cartas_pb/pb-097.webp",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_097_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/97",
+    "custoDeck": 1,
+    "deckBuilderNr": 2114,
+    "releaseDate": "2025-10-30",
+    "sourceMeta": {
+      "setCode": "PROMO-B",
+      "series": "b",
+      "matchKey": "PROMO-B#97",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "promo-b-098",
+    "sourceId": "promo-b-098",
+    "categoria": "Pokemon",
+    "nome": "Gabite",
+    "estagio": "1",
+    "subtipo": "",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
+    "hp": 80,
+    "ataque": [
+      {
+        "nomeataque": "Ataque Linear",
+        "dano": "",
+        "custoataque": [
+          "Agua",
+          "Luta"
+        ],
+        "efeito": "This attack does 50damage to 1 of yoyr opponent's Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "metalizada": false,
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "1"
+    ],
+    "expansao": "PROMO-B (PROMO-B)",
+    "numero": "98 / 103",
+    "pacote": "PROMO-B",
+    "imageLocal": "./assets/cards/cartas_pb/pb-098.webp",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_098_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/98",
+    "custoDeck": 1,
+    "deckBuilderNr": 2115,
+    "releaseDate": "2025-10-30",
+    "sourceMeta": {
+      "setCode": "PROMO-B",
+      "series": "b",
+      "matchKey": "PROMO-B#98",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "promo-b-099",
+    "sourceId": "promo-b-099",
+    "categoria": "Pokemon",
+    "nome": "Mega Garchomp ex",
+    "estagio": "2",
+    "subtipo": "",
+    "evolucao": "",
+    "tipo": "Dragao",
+    "tipos": [
+      "Dragao"
+    ],
+    "hp": 220,
+    "ataque": [
+      {
+        "nomeataque": "Falling Edge",
+        "dano": "190",
+        "custoataque": [
+          "Agua",
+          "Luta",
+          "Incolor"
+        ],
+        "efeito": "Discard 2 random Energy from this Pokémon."
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 2,
+    "raridade": "Duplamente Raro",
+    "metalizada": false,
+    "habilidade": false,
+    "promo": true,
+    "formato": "mega",
+    "mega": true,
+    "tags": [
+      "2",
+      "mega"
+    ],
+    "expansao": "PROMO-B (PROMO-B)",
+    "numero": "99 / 103",
+    "pacote": "PROMO-B",
+    "imageLocal": "./assets/cards/cartas_pb/pb-099.webp",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_099_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/99",
+    "custoDeck": 1,
+    "deckBuilderNr": 2116,
+    "releaseDate": "2025-10-30",
+    "sourceMeta": {
+      "setCode": "PROMO-B",
+      "series": "b",
+      "matchKey": "PROMO-B#99",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "promo-b-100",
+    "sourceId": "promo-b-100",
+    "categoria": "Pokemon",
+    "nome": "Delcatty",
+    "estagio": "1",
+    "subtipo": "",
+    "evolucao": "",
+    "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
+    "hp": 90,
+    "ataque": [
+      {
+        "nomeataque": "Mistureba de Energia",
+        "dano": "50",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Incomum",
+    "metalizada": false,
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "1"
+    ],
+    "expansao": "PROMO-B (PROMO-B)",
+    "numero": "100 / 103",
+    "pacote": "PROMO-B",
+    "imageLocal": "./assets/cards/cartas_pb/pb-100.webp",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_100_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/100",
+    "custoDeck": 1,
+    "deckBuilderNr": 2096,
+    "releaseDate": "2025-10-30",
+    "sourceMeta": {
+      "setCode": "PROMO-B",
+      "series": "b",
+      "matchKey": "PROMO-B#100",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "promo-b-101",
+    "sourceId": "promo-b-101",
+    "categoria": "Pokemon",
+    "nome": "Charmander",
+    "estagio": "Basico",
+    "subtipo": "",
+    "evolucao": "",
+    "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
+    "hp": 70,
+    "ataque": [
+      {
+        "nomeataque": "Cauda de Chamas",
+        "dano": "30",
+        "custoataque": [
+          "Fogo",
+          "Incolor"
+        ],
+        "efeito": ""
+      }
+    ],
+    "fraqueza": "Agua",
+    "recuo": 1,
+    "raridade": "Rara",
+    "metalizada": false,
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "PROMO-B (PROMO-B)",
+    "numero": "101 / 103",
+    "pacote": "PROMO-B",
+    "imageLocal": "./assets/cards/cartas_pb/pb-101.webp",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_101_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/101",
+    "custoDeck": 1,
+    "deckBuilderNr": 1613,
+    "releaseDate": "2025-10-30",
+    "sourceMeta": {
+      "setCode": "PROMO-B",
+      "series": "b",
+      "matchKey": "PROMO-B#101",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "promo-b-102",
+    "sourceId": "promo-b-102",
+    "categoria": "Pokemon",
+    "nome": "Drampa",
+    "estagio": "Basico",
+    "subtipo": "",
+    "evolucao": "",
+    "tipo": "Dragão",
+    "tipos": [
+      "Dragão"
+    ],
+    "hp": 100,
+    "ataque": [
+      {
+        "nomeataque": "Explosão Poderosa",
+        "dano": "70",
+        "custoataque": [
+          "Incolor",
+          "Incolor"
+        ],
+        "efeito": "Discard a random Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "",
+    "recuo": 1,
+    "raridade": "Rara",
+    "metalizada": false,
+    "habilidade": false,
+    "promo": true,
+    "formato": "noex",
+    "mega": false,
+    "tags": [
+      "basic"
+    ],
+    "expansao": "PROMO-B (PROMO-B)",
+    "numero": "102 / 103",
+    "pacote": "PROMO-B",
+    "imageLocal": "./assets/cards/cartas_pb/pb-102.webp",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_102_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/102",
+    "custoDeck": 1,
+    "deckBuilderNr": 2085,
+    "releaseDate": "2025-10-30",
+    "sourceMeta": {
+      "setCode": "PROMO-B",
+      "series": "b",
+      "matchKey": "PROMO-B#102",
+      "flibustierMin": true,
+      "flibustierExtra": false,
+      "pokemongohub": true
+    }
+  },
+  {
+    "id": "promo-b-103",
+    "sourceId": "promo-b-103",
+    "categoria": "Pokemon",
+    "nome": "Pikachu ex",
+    "estagio": "Basico",
+    "subtipo": "",
+    "evolucao": "",
+    "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
+    "hp": 120,
+    "ataque": [
+      {
+        "nomeataque": "Relâmpago",
+        "dano": "150",
+        "custoataque": [
+          "Raio",
+          "Raio",
+          "Raio"
+        ],
+        "efeito": "Discard all Energy from this Pokémon"
+      }
+    ],
+    "fraqueza": "Luta",
+    "recuo": 1,
+    "raridade": "Raro Imersivo",
+    "metalizada": false,
+    "habilidade": false,
+    "promo": true,
+    "formato": "ex",
+    "mega": false,
+    "tags": [
+      "basic",
+      "ex"
+    ],
+    "expansao": "PROMO-B (PROMO-B)",
+    "numero": "103 / 103",
+    "pacote": "PROMO-B",
+    "imageLocal": "./assets/cards/cartas_pb/pb-103.webp",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_103_EN_SM.webp",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/103",
+    "custoDeck": 1,
+    "deckBuilderNr": 541,
+    "releaseDate": "2025-10-30",
+    "sourceMeta": {
+      "setCode": "PROMO-B",
+      "series": "b",
+      "matchKey": "PROMO-B#103",
       "flibustierMin": true,
       "flibustierExtra": false,
       "pokemongohub": true

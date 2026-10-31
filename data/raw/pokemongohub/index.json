@@ -134,6 +134,12 @@
       "count": 429
     },
     {
+      "code": "C1",
+      "series": "c",
+      "path": "./data/raw/pokemongohub/c/c1.json",
+      "count": 217
+    },
+    {
       "code": "PROMO-A",
       "series": "a",
       "path": "./data/raw/pokemongohub/a/promo-a.json",
@@ -143,7 +149,13 @@
       "code": "PROMO-B",
       "series": "b",
       "path": "./data/raw/pokemongohub/b/promo-b.json",
-      "count": 94
+      "count": 103
+    },
+    {
+      "code": "PROMO-C",
+      "series": "c",
+      "path": "./data/raw/pokemongohub/c/promo-c.json",
+      "count": 13
     }
   ]
 }

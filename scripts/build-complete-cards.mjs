@@ -111,6 +111,30 @@ function deckBuilderNrFromImage(image) {
   return match[1] === "cTR" ? baseNr + 1_000_000 : baseNr;
 }
 
+// Nos pacotes Deluxe cada carta ◊/◊◊/◊◊◊ sai duas vezes com a mesma arte e raridade:
+// a segunda impressao (variante de imagem maior) e a versao metalizada.
+// Fora dos Deluxe, repeticoes da mesma carta sao artes alternativas, nao metalizadas.
+function findFoilKeys(minArray, deluxeCodes) {
+  const groups = new Map();
+  for (const card of minArray) {
+    const code = String(card.set || "").toUpperCase();
+    if (!deluxeCodes.has(code)) continue;
+    const match = String(card.image || "").match(/^(c\w+?)_\d+_(\d+)_(\d+)_/);
+    if (!match) continue;
+    const groupKey = `${code}|${match[1]}${match[2]}|${card.rarity}`;
+    const list = groups.get(groupKey) || [];
+    list.push({ key: `${code}#${Number(card.number)}`, variant: Number(match[3]), number: Number(card.number) });
+    groups.set(groupKey, list);
+  }
+  const foilKeys = new Set();
+  for (const list of groups.values()) {
+    if (list.length < 2) continue;
+    list.sort((a, b) => a.variant - b.variant || a.number - b.number);
+    list.slice(1).forEach((entry) => foilKeys.add(entry.key));
+  }
+  return foilKeys;
+}
+
 function normalizeStage(stage) {
   const key = normalizeKey(stage);
   return stageMap[key] || String(stage || "").trim();
@@ -167,13 +191,16 @@ function buildImageLocal(code, number) {
   if (normalizedCode === "PROMO-B") {
     return `./assets/cards/cartas_pb/pb-${paddedNumber}.jpg`;
   }
+  if (normalizedCode === "PROMO-C") {
+    return `./assets/cards/cartas_pc/pc-${paddedNumber}.jpg`;
+  }
 
   return `./assets/cards/cartas_${normalizedCode.toLowerCase()}/${buildStableId(code, number)}.jpg`;
 }
 
 function buildPackLabel(code, rawPack, packs) {
   const normalizedCode = String(code || "").trim().toUpperCase();
-  if (normalizedCode === "PROMO-A" || normalizedCode === "PROMO-B") {
+  if (/^PROMO-[A-Z]$/.test(normalizedCode)) {
     return normalizedCode;
   }
 
@@ -216,6 +243,12 @@ async function run() {
     extraArray.map((card) => [`${String(card.set || "").toUpperCase()}#${Number(card.number)}`, card])
   );
   const setMetaByCode = new Map(setEntries.map((entry) => [String(entry.code || "").toUpperCase(), entry]));
+  const deluxeCodes = new Set(
+    [...new Set([...expansionByCode.keys(), ...setMetaByCode.keys()])].filter((code) =>
+      /deluxe/i.test(`${expansionByCode.get(code) || ""} ${setMetaByCode.get(code)?.name?.en || ""}`)
+    )
+  );
+  const foilKeys = findFoilKeys(minArray, deluxeCodes);
 
   const outIndex = [];
   const allCards = [];
@@ -253,6 +286,9 @@ async function run() {
           mapEnergyType(extra?.element) ||
           mapEnergyType(rawCard.elemento) ||
           "";
+        // Cartas de dois tipos: o tipo principal fica em `tipo` e tambem em primeiro na lista.
+        const rawTipos = Array.isArray(rawCard.elementos) ? rawCard.elementos.map(mapEnergyType).filter(Boolean) : [];
+        const tipos = [...new Set([tipo, ...rawTipos.slice(1)].filter(Boolean))];
 
         const categoria =
           categoryMap[normalizeKey(extra?.type)] ||
@@ -285,11 +321,13 @@ async function run() {
           subtipo: trainerSubtype,
           evolucao: String(rawCard.evolucao || "").trim(),
           tipo,
+          tipos,
           hp: safeNumber(rawCard.hp, safeNumber(extra?.health, 0)),
           ataque: ataqueLista,
           fraqueza: mapWeaknessFromRaw(rawCard.fraqueza) || mapWeakness(extra?.weakness),
           recuo: safeNumber(rawCard.recuo, safeNumber(extra?.retreatCost, 0)),
           raridade: rarityLabelPt[rarityCode] || String(rawCard.raridade || "").trim(),
+          metalizada: foilKeys.has(key),
           habilidade: Boolean(rawCard.temHabilidade),
           promo: /^PROMO-/i.test(code) || normalizeKey(rawCard.raridade) === "promo",
           formato,

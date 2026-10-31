@@ -155,6 +155,13 @@
       "count": 429
     },
     {
+      "code": "C1",
+      "expansion": "Dual Fusion",
+      "series": "c",
+      "path": "./data/complete/c/c1.json",
+      "count": 217
+    },
+    {
       "code": "PROMO-A",
       "expansion": "PROMO-A",
       "series": "a",
@@ -166,7 +173,14 @@
       "expansion": "PROMO-B",
       "series": "b",
       "path": "./data/complete/b/promo-b.json",
-      "count": 94
+      "count": 103
+    },
+    {
+      "code": "PROMO-C",
+      "expansion": "PROMO-C",
+      "series": "c",
+      "path": "./data/complete/c/promo-c.json",
+      "count": 13
     }
   ]
 }

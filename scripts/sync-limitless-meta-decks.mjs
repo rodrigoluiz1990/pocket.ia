@@ -31,7 +31,7 @@ function decodeHtml(value) {
 function normalizeCardId(set, number) {
   const normalizedSet = String(set || "").trim().toLowerCase();
   const normalizedNumber = String(number || "").trim().padStart(3, "0");
-  const promo = normalizedSet.match(/^p-([ab])$/);
+  const promo = normalizedSet.match(/^p-([abc])$/);
   return promo ? `promo-${promo[1]}-${normalizedNumber}` : `${normalizedSet}-${normalizedNumber}`;
 }
 

@@ -8,6 +8,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -22,6 +25,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -32,7 +36,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "1 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-001.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-001.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007430_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/29vnh97pflo89se-petilil",
     "custoDeck": 1,
@@ -56,6 +60,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -71,6 +78,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -81,7 +89,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "2 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-002.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-002.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007440_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/65d643wel623n77-lilligant",
     "custoDeck": 1,
@@ -105,6 +113,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -119,6 +130,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -129,7 +141,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "3 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-003.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-003.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007450_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/508a2e2512tdkel-rowlet",
     "custoDeck": 1,
@@ -153,6 +165,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -167,6 +182,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -177,7 +193,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "4 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-004.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-004.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007460_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/t61q216dr068x2t-dartrix",
     "custoDeck": 1,
@@ -201,6 +217,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -216,6 +235,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -226,7 +246,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "5 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-005.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-005.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007470_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gm0trc7un8we03k-decidueye",
     "custoDeck": 3,
@@ -250,6 +270,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -275,6 +298,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -286,7 +310,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "6 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-006.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-006.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007480_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hv6a58apc277619-buzzwole-ex",
     "custoDeck": 8,
@@ -310,6 +334,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -324,6 +351,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -334,7 +362,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "7 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-007.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-007.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007490_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/zfvw6q4z5p5b1g4-pheromosa",
     "custoDeck": 1,
@@ -358,6 +386,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -372,6 +403,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -382,7 +414,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "8 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-008.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-008.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007250_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/146l55qu6tkjdcc-kartana",
     "custoDeck": 1,
@@ -406,6 +438,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -422,6 +457,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -432,7 +468,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "9 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-009.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-009.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007260_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/63m26cd89p80204-blacephalon",
     "custoDeck": 1,
@@ -456,6 +492,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -471,6 +510,7 @@
     "fraqueza": "Raio",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -481,7 +521,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "10 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-010.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-010.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007500_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0410gccd7h35765-mantine",
     "custoDeck": 1,
@@ -505,6 +545,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -519,6 +562,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -529,7 +573,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "11 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-011.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-011.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007510_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/36ij4i0669ze24d-carvanha",
     "custoDeck": 1,
@@ -553,6 +597,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -568,6 +615,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -578,7 +626,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "12 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-012.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-012.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007520_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y48p8qfhmmbx48u-sharpedo",
     "custoDeck": 1,
@@ -602,6 +650,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -616,6 +667,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -626,7 +678,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "13 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-013.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-013.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007530_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/e80008beh0exl00-shinx",
     "custoDeck": 1,
@@ -650,6 +702,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -665,6 +720,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -675,7 +731,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "14 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-014.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-014.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007540_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3894yr8ab6udcn3-luxio",
     "custoDeck": 1,
@@ -699,6 +755,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -715,6 +774,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -725,7 +785,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "15 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-015.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-015.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007550_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/206fo2t31yejp1v-luxray",
     "custoDeck": 3,
@@ -749,6 +809,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -764,6 +827,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -774,7 +838,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "16 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-016.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-016.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007560_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5qn92t51fcv20rt-blitzle",
     "custoDeck": 1,
@@ -798,6 +862,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -813,6 +880,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -823,7 +891,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "17 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-017.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-017.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007570_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/769q3i43dbv1mn9-zebstrika",
     "custoDeck": 1,
@@ -847,6 +915,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -862,6 +933,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -872,7 +944,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "18 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-018.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-018.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007580_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v0v57983tn4m8af-emolga",
     "custoDeck": 1,
@@ -896,6 +968,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -921,6 +996,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -932,7 +1008,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "19 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-019.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-019.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007420_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/97prw0637869k65-tapu-koko-ex",
     "custoDeck": 8,
@@ -956,6 +1032,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -972,6 +1051,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -982,7 +1062,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "20 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-020.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-020.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007270_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7armbs54q744wl0-xurkitree",
     "custoDeck": 1,
@@ -1006,6 +1086,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1021,6 +1104,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1031,7 +1115,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "21 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-021.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-021.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007410_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/w5c20331vx804y1-zeraora",
     "custoDeck": 3,
@@ -1055,6 +1139,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1069,6 +1156,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1079,7 +1167,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "22 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-022.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-022.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007590_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7210792gimw2u14-clefairy",
     "custoDeck": 1,
@@ -1103,6 +1191,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1118,6 +1209,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1128,7 +1220,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "23 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-023.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-023.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007600_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9q70g6ah9bkg7n1-clefable",
     "custoDeck": 1,
@@ -1152,6 +1244,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1167,6 +1262,7 @@
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1177,7 +1273,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "24 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-024.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-024.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007610_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/gf16dzsw4543xat-phantump",
     "custoDeck": 1,
@@ -1201,6 +1297,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -1217,6 +1316,7 @@
     "fraqueza": "Escuridao",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1227,7 +1327,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "25 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-025.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-025.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007620_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/n88u5027v24jth3-trevenant",
     "custoDeck": 1,
@@ -1251,6 +1351,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 50,
     "ataque": [
       {
@@ -1265,6 +1368,7 @@
     "fraqueza": "Metal",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1275,7 +1379,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "26 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-026.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-026.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007630_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7co5ib49197wni9-morelull",
     "custoDeck": 1,
@@ -1299,6 +1403,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1314,6 +1421,7 @@
     "fraqueza": "Metal",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1324,7 +1432,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "27 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-027.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-027.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007640_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1k420u663a4gw6c-shiinotic",
     "custoDeck": 3,
@@ -1348,6 +1456,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1362,6 +1473,7 @@
     "fraqueza": "Psiquico",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1372,7 +1484,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "28 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-028.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-028.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007650_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/j295tbc36b1uonl-meditite",
     "custoDeck": 1,
@@ -1396,6 +1508,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1410,6 +1525,7 @@
     "fraqueza": "Psiquico",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1420,7 +1536,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "29 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-029.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-029.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007660_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/f3g3m679d205in5-medicham",
     "custoDeck": 1,
@@ -1444,6 +1560,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1459,6 +1578,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1469,7 +1589,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "30 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-030.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-030.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007670_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3lji1e6w80ucypf-baltoy",
     "custoDeck": 1,
@@ -1493,6 +1613,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1509,6 +1632,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -1519,7 +1643,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "31 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-031.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-031.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007680_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5mzw931q6559t55-claydol",
     "custoDeck": 1,
@@ -1543,6 +1667,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1558,6 +1685,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1568,7 +1696,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "32 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-032.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-032.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007690_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u22wmr4x33hsgc0-rockruff",
     "custoDeck": 1,
@@ -1592,6 +1720,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -1608,6 +1739,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -1619,7 +1751,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "33 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-033.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-033.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007700_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/sz1912e0ii121q9-lycanroc-ex",
     "custoDeck": 8,
@@ -1643,6 +1775,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1659,6 +1794,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1669,7 +1805,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "34 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-034.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-034.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007710_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/92r706h391248p8-passimian",
     "custoDeck": 1,
@@ -1693,6 +1829,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -1708,6 +1847,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1718,7 +1858,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "35 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-035.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-035.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007720_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/n82s0bc4v891a42-sandygast",
     "custoDeck": 1,
@@ -1742,6 +1882,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -1759,6 +1902,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1769,7 +1913,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "36 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-036.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-036.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007730_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/c13y0tpttzb4497-palossand",
     "custoDeck": 1,
@@ -1793,6 +1937,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -1807,6 +1954,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1817,7 +1965,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "37 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-037.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-037.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007740_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tax5s5a8nyb740b-alolan-meowth",
     "custoDeck": 1,
@@ -1841,6 +1989,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -1856,6 +2007,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1866,7 +2018,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "38 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-038.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-038.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007750_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4h0g44sk770x034-alolan-persian",
     "custoDeck": 1,
@@ -1890,6 +2042,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -1904,6 +2059,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1914,7 +2070,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "39 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-039.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-039.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007760_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/43r9f6538vpmi98-sandile",
     "custoDeck": 1,
@@ -1938,6 +2094,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 90,
     "ataque": [
       {
@@ -1953,6 +2112,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -1963,7 +2123,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "40 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-040.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-040.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007770_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/jmzs69684wb1o4d-krokorok",
     "custoDeck": 1,
@@ -1987,6 +2147,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -2003,6 +2166,7 @@
     "fraqueza": "Planta",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2013,7 +2177,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "41 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-041.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-041.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007780_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/309643l85dw48y8-krookodile",
     "custoDeck": 1,
@@ -2037,6 +2201,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2052,6 +2219,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -2062,7 +2230,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "42 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-042.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-042.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007790_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/405b4vv7y658avu-nihilego",
     "custoDeck": 3,
@@ -2086,6 +2254,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -2112,6 +2283,7 @@
     "fraqueza": "Planta",
     "recuo": 4,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -2123,7 +2295,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "43 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-043.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-043.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007800_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/75usn36xd77060p-guzzlord-ex",
     "custoDeck": 8,
@@ -2147,6 +2319,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2161,6 +2336,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2171,7 +2347,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "44 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-044.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-044.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007370_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/oo820rhj0dfmhn7-poipole",
     "custoDeck": 1,
@@ -2195,6 +2371,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2209,6 +2388,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2219,7 +2399,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "45 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-045.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-045.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007810_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x983zd0z6f773w8-naganadel",
     "custoDeck": 3,
@@ -2243,6 +2423,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2257,6 +2440,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2267,7 +2451,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "46 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-046.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-046.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007820_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9meusfgzgpz8781-alolan-diglett",
     "custoDeck": 1,
@@ -2291,6 +2475,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -2306,6 +2493,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Duplamente Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -2317,7 +2505,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "47 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-047.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-047.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007830_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7zcq78bl48lfb36-alolan-dugtrio-ex",
     "custoDeck": 8,
@@ -2341,6 +2529,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2356,6 +2547,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2366,7 +2558,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "48 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-048.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-048.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007840_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ji8396r2n6z4dww-aron",
     "custoDeck": 1,
@@ -2390,6 +2582,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2406,6 +2601,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2416,7 +2612,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "49 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-049.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-049.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007850_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/148v2o6k0kjn88e-lairon",
     "custoDeck": 1,
@@ -2440,6 +2636,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 160,
     "ataque": [
       {
@@ -2457,6 +2656,7 @@
     "fraqueza": "Fogo",
     "recuo": 4,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2467,7 +2667,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "50 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-050.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-050.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007860_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/y1w775pen183f30-aggron",
     "custoDeck": 1,
@@ -2491,6 +2691,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2506,6 +2709,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2516,7 +2720,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "51 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-051.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-051.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007870_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/pk72gkl90ub2ne5-ferroseed",
     "custoDeck": 1,
@@ -2540,6 +2744,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -2556,6 +2763,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -2566,7 +2774,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "52 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-052.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-052.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007880_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/64t81g4ev0r6417-ferrothorn",
     "custoDeck": 1,
@@ -2590,6 +2798,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -2605,6 +2816,7 @@
     "fraqueza": "Fogo",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2615,7 +2827,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "53 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-053.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-053.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007300_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/mk1mhi0wc58ao4g-stakataka",
     "custoDeck": 1,
@@ -2639,6 +2851,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -2653,6 +2868,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2663,7 +2879,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "54 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-054.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-054.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007890_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/34l03myb9lmu4w0-lillipup",
     "custoDeck": 1,
@@ -2687,6 +2903,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -2701,6 +2920,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2711,7 +2931,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "55 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-055.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-055.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007900_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/fp4te5id3p412e1-herdier",
     "custoDeck": 1,
@@ -2735,11 +2955,15 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 140,
     "ataque": [],
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -2750,7 +2974,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "56 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-056.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-056.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007910_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/85r33pognf12149-stoutland",
     "custoDeck": 1,
@@ -2774,6 +2998,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -2789,6 +3016,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2799,7 +3027,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "57 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-057.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-057.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007920_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/nx25992jo69hga9-stufful",
     "custoDeck": 1,
@@ -2823,6 +3051,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -2839,6 +3070,7 @@
     "fraqueza": "Luta",
     "recuo": 3,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2849,7 +3081,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "58 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-058.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-058.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007930_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/cuv8i1sgr6g66a4-bewear",
     "custoDeck": 1,
@@ -2873,6 +3105,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -2889,6 +3124,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Comum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2899,7 +3135,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "59 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-059.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-059.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007940_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1c1z5l4rf24wh9g-oranguru",
     "custoDeck": 1,
@@ -2923,6 +3159,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -2937,6 +3176,7 @@
     "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2947,7 +3187,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "60 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-060.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-060.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007820_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ac21ia93x22627f-type-null",
     "custoDeck": 1,
@@ -2971,6 +3211,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -2986,6 +3229,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -2996,7 +3240,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "61 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-061.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-061.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007950_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/n67wu2s55z048a9-silvally",
     "custoDeck": 3,
@@ -3020,6 +3264,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -3036,6 +3283,7 @@
     "fraqueza": "Luta",
     "recuo": 4,
     "raridade": "Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3046,7 +3294,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "62 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-062.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-062.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_10_007960_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a3gnp12x5v33020-celesteela",
     "custoDeck": 3,
@@ -3070,11 +3318,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3085,7 +3337,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "63 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-063.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-063.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_10_000600_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/k64t1xu3t2tb023-beast-wall",
     "custoDeck": 1,
@@ -3109,11 +3361,15 @@
     "subtipo": "item",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3124,7 +3380,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "64 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-064.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-064.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_10_000610_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/v3l7ea79zk3yv5t-repel",
     "custoDeck": 1,
@@ -3148,11 +3404,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3163,7 +3423,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "65 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-065.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-065.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_10_000620_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/q9vx921f926493c-electrical-cord",
     "custoDeck": 1,
@@ -3187,11 +3447,15 @@
     "subtipo": "ferramenta",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3202,7 +3466,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "66 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-066.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-066.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_10_000630_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a9i1p6tcjhi99vw-beastite",
     "custoDeck": 1,
@@ -3226,11 +3490,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3241,7 +3509,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "67 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-067.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-067.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_10_000640_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/yelg81s51w096fo-gladion",
     "custoDeck": 1,
@@ -3265,11 +3533,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3280,7 +3552,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "68 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-068.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-068.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_10_000650_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/tfl4wd89mj7y91a-looker",
     "custoDeck": 1,
@@ -3304,11 +3576,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Incomum",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3319,7 +3595,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "69 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-069.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-069.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_10_000660_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/z8p60q67wa4r219-lusamine",
     "custoDeck": 1,
@@ -3343,6 +3619,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3357,6 +3636,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3367,7 +3647,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "70 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-070.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-070.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007450_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/x0un1t77c6gr7fv-rowlet",
     "custoDeck": 8,
@@ -3391,6 +3671,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -3405,6 +3688,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3415,7 +3699,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "71 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-071.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-071.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007490_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/82wybizfr9nv3eb-pheromosa",
     "custoDeck": 8,
@@ -3439,6 +3723,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -3455,6 +3742,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3465,7 +3753,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "72 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-072.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-072.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007260_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l828bhl08c44z84-blacephalon",
     "custoDeck": 8,
@@ -3489,6 +3777,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -3503,6 +3794,7 @@
     "fraqueza": "Planta",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3513,7 +3805,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "73 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-073.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-073.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007740_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/49i7873045bjuy5-alolan-meowth",
     "custoDeck": 8,
@@ -3537,6 +3829,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 110,
     "ataque": [
       {
@@ -3552,6 +3847,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3562,7 +3858,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "74 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-074.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-074.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007950_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/vm4873y366earh9-silvally",
     "custoDeck": 8,
@@ -3586,6 +3882,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -3602,6 +3901,7 @@
     "fraqueza": "Raio",
     "recuo": 4,
     "raridade": "Ilustração Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -3612,7 +3912,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "75 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-075.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-075.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007960_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5d2wcbslnm45uo1-celesteela",
     "custoDeck": 8,
@@ -3636,6 +3936,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -3661,6 +3964,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3672,7 +3976,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "76 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-076.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-076.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007480_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/u2m1m9n60j2iuoo-buzzwole-ex",
     "custoDeck": 8,
@@ -3696,6 +4000,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -3721,6 +4028,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3732,7 +4040,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "77 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-077.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-077.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007420_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0m1a4c43dhg86w5-tapu-koko-ex",
     "custoDeck": 8,
@@ -3756,6 +4064,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -3772,6 +4083,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3783,7 +4095,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "78 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-078.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-078.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007700_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/52s779n26vz2150-lycanroc-ex",
     "custoDeck": 8,
@@ -3807,6 +4119,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -3833,6 +4148,7 @@
     "fraqueza": "Planta",
     "recuo": 4,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3844,7 +4160,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "79 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-079.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-079.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007800_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/8ft2ly9iyui540g-guzzlord-ex",
     "custoDeck": 8,
@@ -3868,6 +4184,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -3883,6 +4202,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -3894,7 +4214,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "80 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-080.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-080.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007830_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/140zu0766vdaf0z-alolan-dugtrio-ex",
     "custoDeck": 8,
@@ -3918,11 +4238,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3933,7 +4257,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "81 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-081.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-081.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_20_000640_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/448x246m9whe1k6-gladion",
     "custoDeck": 8,
@@ -3957,11 +4281,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -3972,7 +4300,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "82 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-082.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-082.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_20_000650_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hfyk52u91d5pr5i-looker",
     "custoDeck": 8,
@@ -3996,11 +4324,15 @@
     "subtipo": "apoiador",
     "evolucao": "",
     "tipo": "Neutro",
+    "tipos": [
+      "Neutro"
+    ],
     "hp": 0,
     "ataque": [],
     "fraqueza": "",
     "recuo": 0,
     "raridade": "Super Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4011,7 +4343,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "83 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-083.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-083.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/TR_20_000660_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/31x22i8bu5q4mg4-lusamine",
     "custoDeck": 8,
@@ -4035,6 +4367,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Raio",
+    "tipos": [
+      "Raio"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -4060,6 +4395,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4071,7 +4407,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "84 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-084.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-084.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007420_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/a9i619391z9jonl-tapu-koko-ex",
     "custoDeck": 8,
@@ -4095,6 +4431,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -4111,6 +4450,7 @@
     "fraqueza": "Planta",
     "recuo": 2,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4122,7 +4462,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "85 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-085.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-085.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007700_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/l3542578604cv1b-lycanroc-ex",
     "custoDeck": 8,
@@ -4146,6 +4486,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -4172,6 +4515,7 @@
     "fraqueza": "Planta",
     "recuo": 4,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4183,7 +4527,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "86 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-086.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-086.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007800_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0gpn62g995z2i8c-guzzlord-ex",
     "custoDeck": 8,
@@ -4207,6 +4551,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Metal",
+    "tipos": [
+      "Metal"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -4222,6 +4569,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Arte Especial Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4233,7 +4581,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "87 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-087.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-087.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007830_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/94z609zkkrw8o91-alolan-dugtrio-ex",
     "custoDeck": 8,
@@ -4257,6 +4605,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -4282,6 +4633,7 @@
     "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Raro Imersivo",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4293,7 +4645,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "88 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-088.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-088.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007480_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0c0pwd87tm3i568-buzzwole-ex",
     "custoDeck": 8,
@@ -4317,6 +4669,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -4332,6 +4687,7 @@
     "fraqueza": "Agua",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4342,7 +4698,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "89 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-089.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-089.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_000390_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/829slfb0j8w5l4g-growlithe",
     "custoDeck": 2,
@@ -4366,6 +4722,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -4382,6 +4741,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4392,7 +4752,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "90 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-090.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-090.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_000400_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/4lyl584d151yl05-arcanine",
     "custoDeck": 2,
@@ -4416,6 +4776,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4431,6 +4794,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4441,7 +4805,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "91 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-091.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-091.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_000870_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/aus1jx6w62p0738-froakie",
     "custoDeck": 2,
@@ -4465,6 +4829,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -4480,6 +4847,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4490,7 +4858,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "92 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-092.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-092.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_000880_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/h669ruuu46jpta8-frogadier",
     "custoDeck": 2,
@@ -4514,6 +4882,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Agua",
+    "tipos": [
+      "Agua"
+    ],
     "hp": 120,
     "ataque": [
       {
@@ -4529,6 +4900,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -4539,7 +4911,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "93 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-093.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-093.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_000890_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/5di1ml4z77h10r0-greninja",
     "custoDeck": 2,
@@ -4563,6 +4935,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Psiquico",
+    "tipos": [
+      "Psiquico"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -4578,6 +4953,7 @@
     "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4588,7 +4964,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "94 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-094.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-094.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_001270_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/9yf5h7n0so424a0-jynx",
     "custoDeck": 2,
@@ -4612,6 +4988,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 60,
     "ataque": [
       {
@@ -4626,6 +5005,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4636,7 +5016,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "95 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-095.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-095.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_001860_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/hzbuhc9st75679h-pidgey",
     "custoDeck": 2,
@@ -4660,6 +5040,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 80,
     "ataque": [
       {
@@ -4674,6 +5057,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4684,7 +5068,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "96 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-096.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-096.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_001870_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/1279a821qw99yob-pidgeotto",
     "custoDeck": 2,
@@ -4708,6 +5092,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -4723,6 +5110,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -4733,7 +5121,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "97 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-097.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-097.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_001880_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/ajo5xz74n2ibywe-pidgeot",
     "custoDeck": 2,
@@ -4757,6 +5145,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 100,
     "ataque": [
       {
@@ -4772,6 +5163,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Raro Brilhante",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "noex",
@@ -4782,7 +5174,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "98 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-098.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-098.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_002080_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/m4fqdl118727p10-aerodactyl",
     "custoDeck": 2,
@@ -4806,6 +5198,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Planta",
+    "tipos": [
+      "Planta"
+    ],
     "hp": 130,
     "ataque": [
       {
@@ -4821,6 +5216,7 @@
     "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4832,7 +5228,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "99 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-099.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-099.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_002170_02_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/r89vun941j1f3mc-celebi-ex",
     "custoDeck": 2,
@@ -4856,6 +5252,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
+    "tipos": [
+      "Fogo"
+    ],
     "hp": 150,
     "ataque": [
       {
@@ -4872,6 +5271,7 @@
     "fraqueza": "Agua",
     "recuo": 2,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4883,7 +5283,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "100 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-100.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-100.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_000410_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/7cx4jl06gn3y702-arcanine-ex",
     "custoDeck": 2,
@@ -4907,6 +5307,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Luta",
+    "tipos": [
+      "Luta"
+    ],
     "hp": 140,
     "ataque": [
       {
@@ -4922,6 +5325,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "ex",
@@ -4933,7 +5337,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "101 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-101.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-101.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_002590_02_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/387qh6d26ih92xf-aerodactyl-ex",
     "custoDeck": 2,
@@ -4957,6 +5361,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Incolor",
+    "tipos": [
+      "Incolor"
+    ],
     "hp": 170,
     "ataque": [
       {
@@ -4973,6 +5380,7 @@
     "fraqueza": "Raio",
     "recuo": 1,
     "raridade": "Duplo Brilhante Raro",
+    "metalizada": false,
     "habilidade": false,
     "promo": false,
     "formato": "ex",
@@ -4984,7 +5392,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "102 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-102.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-102.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_002720_01_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/0dw3116n4ika27q-pidgeot-ex",
     "custoDeck": 2,
@@ -5008,6 +5416,9 @@
     "subtipo": "",
     "evolucao": "",
     "tipo": "Escuridao",
+    "tipos": [
+      "Escuridao"
+    ],
     "hp": 70,
     "ataque": [
       {
@@ -5023,6 +5434,7 @@
     "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Coroa Rara",
+    "metalizada": false,
     "habilidade": true,
     "promo": false,
     "formato": "noex",
@@ -5033,7 +5445,7 @@
     "expansao": "Crise Extradimensional (A3A)",
     "numero": "103 / 103",
     "pacote": "Extradimensional",
-    "imageLocal": "./assets/cards/cartas_a3a/a3a-103.jpg",
+    "imageLocal": "./assets/cards/cartas_a3a/a3a-103.webp",
     "imageUrl": "https://pocket.pokemongohub.net/tcg-pocket/cards/wallpapers/a3a/PK_20_007790_00_wallpaper.jpg",
     "sourceUrl": "https://pocket.pokemongohub.net/pt/card/3r7h89y63qrr303-nihilego",
     "custoDeck": 8,

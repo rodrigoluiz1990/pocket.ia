@@ -11,7 +11,9 @@
     "sync:raw-to-consolidated": "node scripts/import-raw-to-consolidated.mjs",
     "build:complete-cards": "node scripts/build-complete-cards.mjs",
     "merge:image-urls": "node scripts/merge-raw-image-urls.mjs",
-    "sync:images": "node scripts/download-card-images.mjs",
+    "sync:images": "node scripts/download-card-images.mjs && node scripts/optimize-card-images.mjs",
+    "optimize:images": "node scripts/optimize-card-images.mjs",
+    "import:limitless": "node scripts/import-limitless-set.mjs",
     "build:site-cards": "node scripts/build-site-cards.mjs",
     "build:evolutions": "node scripts/build-evolutions.mjs",
     "fix:rarities": "node scripts/fix-rarities-from-db.mjs",
@@ -20,5 +22,8 @@
     "enrich:trainer-subtypes": "node scripts/enrich-trainer-subtypes.mjs",
     "import:meta": "node scripts/import-meta-decks.mjs",
     "sync:meta:limitless": "node scripts/sync-limitless-meta-decks.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
   }
 }
