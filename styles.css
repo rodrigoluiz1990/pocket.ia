@@ -1323,13 +1323,8 @@ button:hover {
 }
 
 .deck-preview-icon {
-  width: 11px;
-  height: 11px;
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  stroke-width: 2;
+  font-size: 10px;
+  line-height: 1;
 }
 
 .deck-preview:hover {
@@ -1378,6 +1373,66 @@ button:hover {
     flex-direction: row;
     justify-content: space-between;
     margin-top: 12px;
+  }
+}
+
+/* Painel estreito (telas de baixa resolucao): as acoes nao cabem ao lado do titulo,
+   entao descem para uma linha propria e a lista de cartas ocupa o restante. */
+@media (min-width: 1001px) {
+  .deck-section {
+    container-type: inline-size;
+  }
+
+  @container (max-width: 390px) {
+    .deck-actions {
+      position: static;
+      justify-content: space-between;
+      gap: 4px;
+      margin-top: 10px;
+    }
+
+    .deck-energy-fieldset {
+      margin-right: 0;
+    }
+
+    .deck-qr-fab {
+      width: 52px;
+      min-width: 52px;
+    }
+
+    .deck-section .deck-list {
+      flex: 1;
+      min-height: 0;
+      max-height: none;
+      margin-top: 10px;
+    }
+
+    .deck-section .panel-header {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      column-gap: 10px;
+    }
+
+    .deck-section .panel-header p {
+      margin: 0;
+      white-space: nowrap;
+    }
+  }
+}
+
+/* Tablet: as acoes tambem ficam abaixo do titulo, entao o contador sobe para o lado dele. */
+@media (min-width: 761px) and (max-width: 1000px) {
+  .deck-section .panel-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    column-gap: 10px;
+  }
+
+  .deck-section .panel-header p {
+    margin: 0;
+    white-space: nowrap;
   }
 }
 

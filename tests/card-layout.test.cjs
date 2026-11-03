@@ -33,6 +33,13 @@ assert.match(app, /srcset="\$\{card\.thumbLocal\} 184w, \$\{imageSrc\} 367w"/, "
 assert.match(app, /function scheduleRenderCards\(delay = FILTER_RENDER_DELAY\)/, "eventos rápidos de filtro devem ser agrupados");
 assert.doesNotMatch(app, /setTimeout\(appendNext, 0\)/, "a grade não deve carregar todas as cartas automaticamente");
 assert.match(css, /\.cards-load-sentinel\s*\{[\s\S]*?grid-column: 1 \/ -1;/);
+assert.match(
+  css,
+  /\.deck-section\s*\{\s*container-type: inline-size;[\s\S]*?@container \(max-width: 390px\)\s*\{\s*\.deck-actions\s*\{\s*position: static;/,
+  "em painel estreito as ações do deck não podem ficar sobre o título"
+);
+assert.match(app, /<i class="fa-solid fa-expand deck-preview-icon"/, "as cartas pequenas devem usar o mesmo ícone de ampliar da grade");
+assert.doesNotMatch(app, /<svg class="deck-preview-icon"/);
 assert.doesNotMatch(css, /content-visibility: auto/, "adiar a pintura das cartas fazia a rolagem engasgar");
 assert.match(css, /\.card img\s*\{[\s\S]*?aspect-ratio: 367 \/ 512;/, "a imagem deve reservar o espaço da carta antes de carregar");
 

@@ -837,7 +837,7 @@ function renderMostUsedCards() {
       <div class="deck-item-main" style="width:72px;aspect-ratio:63/88;">
         <img class="deck-thumb" src="${imageSrc}" alt="${card.nome}" title="${card.nome}" onload="if(this.naturalWidth>this.naturalHeight){this.classList.add('is-wallpaper')}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
         <button class="deck-preview" data-preview="${card.id}" title="Ampliar carta" aria-label="Ampliar ${card.nome}">
-          <svg class="deck-preview-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="M3 21v-6h6"/><path d="m3 21 7-7"/></svg>
+          <i class="fa-solid fa-expand deck-preview-icon" aria-hidden="true"></i>
         </button>
         <button class="deck-add" data-add="${card.id}" title="Adicionar ao deck" aria-label="Adicionar ${card.nome} ao deck">+</button>
       </div>
@@ -1558,7 +1558,7 @@ function renderDeck() {
         <span class="deck-qty">x${qty}</span>
         <img class="deck-thumb" src="${imageSrc}" alt="${card.nome}" title="${card.nome}" onload="if(this.naturalWidth>this.naturalHeight){this.classList.add('is-wallpaper')}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
         <button class="deck-preview" data-preview="${card.id}" title="Ampliar carta" aria-label="Ampliar ${card.nome}">
-          <svg class="deck-preview-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="M3 21v-6h6"/><path d="m3 21 7-7"/></svg>
+          <i class="fa-solid fa-expand deck-preview-icon" aria-hidden="true"></i>
         </button>
         <div class="deck-controls">
           <button class="deck-add" data-add="${card.id}" title="Adicionar uma copia">+</button>
@@ -1592,7 +1592,7 @@ function renderSuggestions() {
       <div class="deck-item-main suggestion-item-main" style="width:72px;aspect-ratio:63/88;">
         <img class="deck-thumb suggestion-thumb" src="${imageSrc}" alt="${card.nome}" title="${card.nome}" onload="if(this.naturalWidth>this.naturalHeight){this.classList.add('is-wallpaper')}" onerror="this.onerror=null; this.src='${FALLBACK_IMAGE_SRC}'" />
         <button class="deck-preview" data-preview="${card.id}" title="Ampliar carta" aria-label="Ampliar ${card.nome}">
-          <svg class="deck-preview-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="M3 21v-6h6"/><path d="m3 21 7-7"/></svg>
+          <i class="fa-solid fa-expand deck-preview-icon" aria-hidden="true"></i>
         </button>
         <button class="deck-add" data-add="${card.id}" title="Adicionar ao deck" aria-label="Adicionar ${card.nome} ao deck">+</button>
       </div>
