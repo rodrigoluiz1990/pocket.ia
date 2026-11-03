@@ -47,7 +47,7 @@
       "series": "b",
       "matchKey": "B4B#1",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -99,7 +99,7 @@
       "series": "b",
       "matchKey": "B4B#2",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -155,7 +155,7 @@
       "series": "b",
       "matchKey": "B4B#3",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -167,9 +167,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 40,
     "ataque": [
@@ -182,7 +182,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "metalizada": false,
@@ -207,7 +207,7 @@
       "series": "b",
       "matchKey": "B4B#4",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -219,9 +219,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 80,
     "ataque": [
@@ -234,7 +234,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "",
+    "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
     "metalizada": false,
@@ -259,7 +259,7 @@
       "series": "b",
       "matchKey": "B4B#5",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -271,9 +271,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 130,
     "ataque": [
@@ -286,7 +286,7 @@
         "efeito": "Heal 20 damage from this Pokémon"
       }
     ],
-    "fraqueza": "",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
     "metalizada": false,
@@ -311,7 +311,7 @@
       "series": "b",
       "matchKey": "B4B#6",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -323,9 +323,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 70,
     "ataque": [
@@ -363,7 +363,7 @@
       "series": "b",
       "matchKey": "B4B#7",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -418,7 +418,7 @@
       "series": "b",
       "matchKey": "B4B#8",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -430,9 +430,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 70,
     "ataque": [
@@ -471,7 +471,7 @@
       "series": "b",
       "matchKey": "B4B#9",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -483,9 +483,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 60,
     "ataque": [
@@ -523,7 +523,7 @@
       "series": "b",
       "matchKey": "B4B#10",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -535,9 +535,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 80,
     "ataque": [
@@ -576,7 +576,7 @@
       "series": "b",
       "matchKey": "B4B#11",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -588,9 +588,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 210,
     "ataque": [
@@ -630,7 +630,7 @@
       "series": "b",
       "matchKey": "B4B#12",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -642,9 +642,9 @@
     "estagio": "Baby",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 30,
     "ataque": [
@@ -683,7 +683,7 @@
       "series": "b",
       "matchKey": "B4B#13",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -695,9 +695,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 50,
     "ataque": [
@@ -735,7 +735,7 @@
       "series": "b",
       "matchKey": "B4B#14",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -747,9 +747,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 140,
     "ataque": [
@@ -789,7 +789,7 @@
       "series": "b",
       "matchKey": "B4B#15",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -801,9 +801,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 50,
     "ataque": [
@@ -841,7 +841,7 @@
       "series": "b",
       "matchKey": "B4B#16",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -853,9 +853,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 140,
     "ataque": [
@@ -895,7 +895,7 @@
       "series": "b",
       "matchKey": "B4B#17",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -947,7 +947,7 @@
       "series": "b",
       "matchKey": "B4B#18",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1000,7 +1000,7 @@
       "series": "b",
       "matchKey": "B4B#19",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1012,9 +1012,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 70,
     "ataque": [
@@ -1052,7 +1052,7 @@
       "series": "b",
       "matchKey": "B4B#20",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1064,9 +1064,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 60,
     "ataque": [
@@ -1104,7 +1104,7 @@
       "series": "b",
       "matchKey": "B4B#21",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1116,9 +1116,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 90,
     "ataque": [
@@ -1156,7 +1156,7 @@
       "series": "b",
       "matchKey": "B4B#22",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1168,9 +1168,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 160,
     "ataque": [
@@ -1218,7 +1218,7 @@
       "series": "b",
       "matchKey": "B4B#23",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1230,9 +1230,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 60,
     "ataque": [
@@ -1270,7 +1270,7 @@
       "series": "b",
       "matchKey": "B4B#24",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1282,9 +1282,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 90,
     "ataque": [
@@ -1323,7 +1323,7 @@
       "series": "b",
       "matchKey": "B4B#25",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1335,9 +1335,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 130,
     "ataque": [
@@ -1376,7 +1376,7 @@
       "series": "b",
       "matchKey": "B4B#26",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1385,12 +1385,12 @@
     "sourceId": "b4b-027",
     "categoria": "Pokemon",
     "nome": "Ogerpon Máscara Verdeazulada",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 90,
     "ataque": [
@@ -1430,7 +1430,7 @@
       "series": "b",
       "matchKey": "B4B#27",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1439,12 +1439,12 @@
     "sourceId": "b4b-028",
     "categoria": "Pokemon",
     "nome": "Ogerpon Máscara Verdeazulada ex",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 130,
     "ataque": [
@@ -1484,7 +1484,7 @@
       "series": "b",
       "matchKey": "B4B#28",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1537,7 +1537,7 @@
       "series": "b",
       "matchKey": "B4B#29",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1590,7 +1590,7 @@
       "series": "b",
       "matchKey": "B4B#30",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1645,7 +1645,7 @@
       "series": "b",
       "matchKey": "B4B#31",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1701,7 +1701,7 @@
       "series": "b",
       "matchKey": "B4B#32",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1754,7 +1754,7 @@
       "series": "b",
       "matchKey": "B4B#33",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1806,7 +1806,7 @@
       "series": "b",
       "matchKey": "B4B#34",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1861,7 +1861,7 @@
       "series": "b",
       "matchKey": "B4B#35",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1913,7 +1913,7 @@
       "series": "b",
       "matchKey": "B4B#36",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -1966,7 +1966,7 @@
       "series": "b",
       "matchKey": "B4B#37",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2021,7 +2021,7 @@
       "series": "b",
       "matchKey": "B4B#38",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2073,7 +2073,7 @@
       "series": "b",
       "matchKey": "B4B#39",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2126,7 +2126,7 @@
       "series": "b",
       "matchKey": "B4B#40",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2180,7 +2180,7 @@
       "series": "b",
       "matchKey": "B4B#41",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2233,7 +2233,7 @@
       "series": "b",
       "matchKey": "B4B#42",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2289,7 +2289,7 @@
       "series": "b",
       "matchKey": "B4B#43",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2342,7 +2342,7 @@
       "series": "b",
       "matchKey": "B4B#44",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2405,7 +2405,7 @@
       "series": "b",
       "matchKey": "B4B#45",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2457,7 +2457,7 @@
       "series": "b",
       "matchKey": "B4B#46",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2510,7 +2510,7 @@
       "series": "b",
       "matchKey": "B4B#47",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2563,7 +2563,7 @@
       "series": "b",
       "matchKey": "B4B#48",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2615,7 +2615,7 @@
       "series": "b",
       "matchKey": "B4B#49",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2670,7 +2670,7 @@
       "series": "b",
       "matchKey": "B4B#50",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2679,7 +2679,7 @@
     "sourceId": "b4b-051",
     "categoria": "Pokemon",
     "nome": "Ogerpon Máscara de Chama do Lar",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
@@ -2723,7 +2723,7 @@
       "series": "b",
       "matchKey": "B4B#51",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2776,7 +2776,7 @@
       "series": "b",
       "matchKey": "B4B#52",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2830,7 +2830,7 @@
       "series": "b",
       "matchKey": "B4B#53",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2885,7 +2885,7 @@
       "series": "b",
       "matchKey": "B4B#54",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2897,9 +2897,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 60,
     "ataque": [
@@ -2937,7 +2937,7 @@
       "series": "b",
       "matchKey": "B4B#55",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -2949,9 +2949,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 150,
     "ataque": [
@@ -2991,7 +2991,7 @@
       "series": "b",
       "matchKey": "B4B#56",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3003,9 +3003,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 70,
     "ataque": [
@@ -3044,7 +3044,7 @@
       "series": "b",
       "matchKey": "B4B#57",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3056,9 +3056,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 200,
     "ataque": [
@@ -3099,7 +3099,7 @@
       "series": "b",
       "matchKey": "B4B#58",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3153,7 +3153,7 @@
       "series": "b",
       "matchKey": "B4B#59",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3165,9 +3165,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 210,
     "ataque": [
@@ -3183,7 +3183,7 @@
         "efeito": "Discard the top 3 cards of your opponent's deck"
       }
     ],
-    "fraqueza": "",
+    "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Duplamente Raro",
     "metalizada": false,
@@ -3209,7 +3209,7 @@
       "series": "b",
       "matchKey": "B4B#60",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3221,9 +3221,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 160,
     "ataque": [
@@ -3237,7 +3237,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "",
+    "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Duplamente Raro",
     "metalizada": false,
@@ -3263,7 +3263,7 @@
       "series": "b",
       "matchKey": "B4B#61",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3275,9 +3275,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 60,
     "ataque": [
@@ -3315,7 +3315,7 @@
       "series": "b",
       "matchKey": "B4B#62",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3327,9 +3327,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 90,
     "ataque": [
@@ -3368,7 +3368,7 @@
       "series": "b",
       "matchKey": "B4B#63",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3380,9 +3380,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 230,
     "ataque": [
@@ -3423,7 +3423,7 @@
       "series": "b",
       "matchKey": "B4B#64",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3435,9 +3435,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 50,
     "ataque": [
@@ -3475,7 +3475,7 @@
       "series": "b",
       "matchKey": "B4B#65",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3487,9 +3487,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 190,
     "ataque": [
@@ -3528,7 +3528,7 @@
       "series": "b",
       "matchKey": "B4B#66",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3540,9 +3540,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 100,
     "ataque": [
@@ -3582,7 +3582,7 @@
       "series": "b",
       "matchKey": "B4B#67",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3594,9 +3594,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 250,
     "ataque": [
@@ -3638,7 +3638,7 @@
       "series": "b",
       "matchKey": "B4B#68",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3650,9 +3650,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 30,
     "ataque": [
@@ -3690,7 +3690,7 @@
       "series": "b",
       "matchKey": "B4B#69",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3702,9 +3702,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 140,
     "ataque": [
@@ -3745,7 +3745,7 @@
       "series": "b",
       "matchKey": "B4B#70",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3797,7 +3797,7 @@
       "series": "b",
       "matchKey": "B4B#71",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3850,7 +3850,7 @@
       "series": "b",
       "matchKey": "B4B#72",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3862,9 +3862,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 170,
     "ataque": [
@@ -3904,7 +3904,7 @@
       "series": "b",
       "matchKey": "B4B#73",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3916,9 +3916,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 60,
     "ataque": [
@@ -3956,7 +3956,7 @@
       "series": "b",
       "matchKey": "B4B#74",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -3968,9 +3968,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 80,
     "ataque": [
@@ -4008,7 +4008,7 @@
       "series": "b",
       "matchKey": "B4B#75",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4020,9 +4020,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 150,
     "ataque": [
@@ -4061,7 +4061,7 @@
       "series": "b",
       "matchKey": "B4B#76",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4073,9 +4073,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 130,
     "ataque": [
@@ -4116,7 +4116,7 @@
       "series": "b",
       "matchKey": "B4B#77",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4128,9 +4128,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 60,
     "ataque": [
@@ -4168,7 +4168,7 @@
       "series": "b",
       "matchKey": "B4B#78",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4180,9 +4180,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 90,
     "ataque": [
@@ -4223,7 +4223,7 @@
       "series": "b",
       "matchKey": "B4B#79",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4235,9 +4235,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 140,
     "ataque": [
@@ -4277,7 +4277,7 @@
       "series": "b",
       "matchKey": "B4B#80",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4289,9 +4289,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 130,
     "ataque": [
@@ -4340,7 +4340,7 @@
       "series": "b",
       "matchKey": "B4B#81",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4352,9 +4352,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 60,
     "ataque": [
@@ -4392,7 +4392,7 @@
       "series": "b",
       "matchKey": "B4B#82",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4404,9 +4404,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 100,
     "ataque": [
@@ -4445,7 +4445,7 @@
       "series": "b",
       "matchKey": "B4B#83",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4497,7 +4497,7 @@
       "series": "b",
       "matchKey": "B4B#84",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4549,7 +4549,7 @@
       "series": "b",
       "matchKey": "B4B#85",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4561,9 +4561,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 180,
     "ataque": [
@@ -4604,7 +4604,7 @@
       "series": "b",
       "matchKey": "B4B#86",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4616,9 +4616,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 140,
     "ataque": [
@@ -4658,7 +4658,7 @@
       "series": "b",
       "matchKey": "B4B#87",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4670,9 +4670,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 70,
     "ataque": [
@@ -4710,7 +4710,7 @@
       "series": "b",
       "matchKey": "B4B#88",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4722,9 +4722,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 90,
     "ataque": [
@@ -4738,7 +4738,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "",
+    "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
     "metalizada": false,
@@ -4763,7 +4763,7 @@
       "series": "b",
       "matchKey": "B4B#89",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4775,9 +4775,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 210,
     "ataque": [
@@ -4792,7 +4792,7 @@
         "efeito": "1 of your opponent's Benched Pokémon is chosen at random3 times. For each time a Pokémon was chosen, also do 20 damage to it"
       }
     ],
-    "fraqueza": "",
+    "fraqueza": "Luta",
     "recuo": 2,
     "raridade": "Duplamente Raro",
     "metalizada": false,
@@ -4818,7 +4818,7 @@
       "series": "b",
       "matchKey": "B4B#90",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4830,9 +4830,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 60,
     "ataque": [
@@ -4870,7 +4870,7 @@
       "series": "b",
       "matchKey": "B4B#91",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4882,9 +4882,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 180,
     "ataque": [
@@ -4924,7 +4924,7 @@
       "series": "b",
       "matchKey": "B4B#92",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4936,9 +4936,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 120,
     "ataque": [
@@ -4979,7 +4979,7 @@
       "series": "b",
       "matchKey": "B4B#93",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -4991,9 +4991,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 60,
     "ataque": [
@@ -5031,7 +5031,7 @@
       "series": "b",
       "matchKey": "B4B#94",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5043,9 +5043,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 80,
     "ataque": [
@@ -5083,7 +5083,7 @@
       "series": "b",
       "matchKey": "B4B#95",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5095,9 +5095,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 120,
     "ataque": [
@@ -5137,7 +5137,7 @@
       "series": "b",
       "matchKey": "B4B#96",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5149,9 +5149,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 60,
     "ataque": [
@@ -5190,7 +5190,7 @@
       "series": "b",
       "matchKey": "B4B#97",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5202,9 +5202,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 60,
     "ataque": [
@@ -5243,7 +5243,7 @@
       "series": "b",
       "matchKey": "B4B#98",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5255,9 +5255,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 150,
     "ataque": [
@@ -5298,7 +5298,7 @@
       "series": "b",
       "matchKey": "B4B#99",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5310,9 +5310,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 50,
     "ataque": [
@@ -5350,7 +5350,7 @@
       "series": "b",
       "matchKey": "B4B#100",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5362,9 +5362,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 160,
     "ataque": [
@@ -5404,7 +5404,7 @@
       "series": "b",
       "matchKey": "B4B#101",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5416,9 +5416,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 110,
     "ataque": [
@@ -5458,7 +5458,7 @@
       "series": "b",
       "matchKey": "B4B#102",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5470,9 +5470,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 140,
     "ataque": [
@@ -5513,7 +5513,7 @@
       "series": "b",
       "matchKey": "B4B#103",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5525,9 +5525,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 60,
     "ataque": [
@@ -5565,7 +5565,7 @@
       "series": "b",
       "matchKey": "B4B#104",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5577,9 +5577,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 80,
     "ataque": [
@@ -5617,7 +5617,7 @@
       "series": "b",
       "matchKey": "B4B#105",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5629,9 +5629,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 210,
     "ataque": [
@@ -5671,7 +5671,7 @@
       "series": "b",
       "matchKey": "B4B#106",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5683,9 +5683,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 190,
     "ataque": [
@@ -5725,7 +5725,7 @@
       "series": "b",
       "matchKey": "B4B#107",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5737,9 +5737,9 @@
     "estagio": "Baby",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 30,
     "ataque": [
@@ -5778,7 +5778,7 @@
       "series": "b",
       "matchKey": "B4B#108",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5831,7 +5831,7 @@
       "series": "b",
       "matchKey": "B4B#109",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5843,9 +5843,9 @@
     "estagio": "Baby",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 30,
     "ataque": [
@@ -5884,7 +5884,7 @@
       "series": "b",
       "matchKey": "B4B#110",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5896,9 +5896,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 70,
     "ataque": [
@@ -5937,7 +5937,7 @@
       "series": "b",
       "matchKey": "B4B#111",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -5949,9 +5949,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 100,
     "ataque": [
@@ -5990,7 +5990,7 @@
       "series": "b",
       "matchKey": "B4B#112",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6002,9 +6002,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metal",
+    "tipo": "Psiquico",
     "tipos": [
-      "Metal"
+      "Psiquico"
     ],
     "hp": 50,
     "ataque": [
@@ -6042,7 +6042,7 @@
       "series": "b",
       "matchKey": "B4B#113",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6054,9 +6054,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 170,
     "ataque": [
@@ -6097,7 +6097,7 @@
       "series": "b",
       "matchKey": "B4B#114",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6109,9 +6109,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 120,
     "ataque": [
@@ -6151,7 +6151,7 @@
       "series": "b",
       "matchKey": "B4B#115",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6163,9 +6163,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 130,
     "ataque": [
@@ -6179,7 +6179,7 @@
         "efeito": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon"
       }
     ],
-    "fraqueza": "",
+    "fraqueza": "Escuridao",
     "recuo": 1,
     "raridade": "Duplamente Raro",
     "metalizada": false,
@@ -6205,7 +6205,7 @@
       "series": "b",
       "matchKey": "B4B#116",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6217,9 +6217,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 40,
     "ataque": [
@@ -6259,7 +6259,7 @@
       "series": "b",
       "matchKey": "B4B#117",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6271,9 +6271,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 60,
     "ataque": [
@@ -6311,7 +6311,7 @@
       "series": "b",
       "matchKey": "B4B#118",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6323,9 +6323,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 90,
     "ataque": [
@@ -6364,7 +6364,7 @@
       "series": "b",
       "matchKey": "B4B#119",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6376,9 +6376,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 130,
     "ataque": [
@@ -6418,7 +6418,7 @@
       "series": "b",
       "matchKey": "B4B#120",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6430,9 +6430,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 60,
     "ataque": [
@@ -6470,7 +6470,7 @@
       "series": "b",
       "matchKey": "B4B#121",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6482,9 +6482,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 100,
     "ataque": [
@@ -6524,7 +6524,7 @@
       "series": "b",
       "matchKey": "B4B#122",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6536,9 +6536,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 130,
     "ataque": [
@@ -6577,7 +6577,7 @@
       "series": "b",
       "matchKey": "B4B#123",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6589,9 +6589,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 60,
     "ataque": [
@@ -6629,7 +6629,7 @@
       "series": "b",
       "matchKey": "B4B#124",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6641,9 +6641,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 190,
     "ataque": [
@@ -6683,7 +6683,7 @@
       "series": "b",
       "matchKey": "B4B#125",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6695,9 +6695,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 60,
     "ataque": [
@@ -6737,7 +6737,7 @@
       "series": "b",
       "matchKey": "B4B#126",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6749,9 +6749,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 190,
     "ataque": [
@@ -6791,7 +6791,7 @@
       "series": "b",
       "matchKey": "B4B#127",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6803,9 +6803,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 220,
     "ataque": [
@@ -6846,7 +6846,7 @@
       "series": "b",
       "matchKey": "B4B#128",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6858,9 +6858,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 70,
     "ataque": [
@@ -6899,7 +6899,7 @@
       "series": "b",
       "matchKey": "B4B#129",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6911,9 +6911,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 70,
     "ataque": [
@@ -6953,7 +6953,7 @@
       "series": "b",
       "matchKey": "B4B#130",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -6965,9 +6965,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 190,
     "ataque": [
@@ -7009,7 +7009,7 @@
       "series": "b",
       "matchKey": "B4B#131",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7021,9 +7021,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 70,
     "ataque": [
@@ -7061,7 +7061,7 @@
       "series": "b",
       "matchKey": "B4B#132",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7073,9 +7073,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 160,
     "ataque": [
@@ -7115,7 +7115,7 @@
       "series": "b",
       "matchKey": "B4B#133",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7127,9 +7127,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 60,
     "ataque": [
@@ -7169,7 +7169,7 @@
       "series": "b",
       "matchKey": "B4B#134",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7181,9 +7181,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 70,
     "ataque": [
@@ -7221,7 +7221,7 @@
       "series": "b",
       "matchKey": "B4B#135",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7233,9 +7233,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 150,
     "ataque": [
@@ -7276,7 +7276,7 @@
       "series": "b",
       "matchKey": "B4B#136",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7288,9 +7288,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 80,
     "ataque": [
@@ -7329,7 +7329,7 @@
       "series": "b",
       "matchKey": "B4B#137",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7341,9 +7341,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 110,
     "ataque": [
@@ -7383,7 +7383,7 @@
       "series": "b",
       "matchKey": "B4B#138",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7395,9 +7395,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 60,
     "ataque": [
@@ -7435,7 +7435,7 @@
       "series": "b",
       "matchKey": "B4B#139",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7447,9 +7447,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 80,
     "ataque": [
@@ -7488,7 +7488,7 @@
       "series": "b",
       "matchKey": "B4B#140",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7500,9 +7500,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 210,
     "ataque": [
@@ -7544,7 +7544,7 @@
       "series": "b",
       "matchKey": "B4B#141",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7556,9 +7556,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 170,
     "ataque": [
@@ -7598,7 +7598,7 @@
       "series": "b",
       "matchKey": "B4B#142",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7652,7 +7652,7 @@
       "series": "b",
       "matchKey": "B4B#143",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7664,9 +7664,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 100,
     "ataque": [
@@ -7706,7 +7706,7 @@
       "series": "b",
       "matchKey": "B4B#144",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7718,9 +7718,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 60,
     "ataque": [
@@ -7758,7 +7758,7 @@
       "series": "b",
       "matchKey": "B4B#145",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7770,9 +7770,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 150,
     "ataque": [
@@ -7811,7 +7811,7 @@
       "series": "b",
       "matchKey": "B4B#146",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7823,9 +7823,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 60,
     "ataque": [
@@ -7864,7 +7864,7 @@
       "series": "b",
       "matchKey": "B4B#147",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7876,9 +7876,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 150,
     "ataque": [
@@ -7918,7 +7918,7 @@
       "series": "b",
       "matchKey": "B4B#148",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7930,9 +7930,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 150,
     "ataque": [
@@ -7981,7 +7981,7 @@
       "series": "b",
       "matchKey": "B4B#149",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -7993,9 +7993,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 90,
     "ataque": [
@@ -8034,7 +8034,7 @@
       "series": "b",
       "matchKey": "B4B#150",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8046,9 +8046,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 70,
     "ataque": [
@@ -8086,7 +8086,7 @@
       "series": "b",
       "matchKey": "B4B#151",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8098,9 +8098,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 100,
     "ataque": [
@@ -8140,7 +8140,7 @@
       "series": "b",
       "matchKey": "B4B#152",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8152,9 +8152,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 60,
     "ataque": [
@@ -8192,7 +8192,7 @@
       "series": "b",
       "matchKey": "B4B#153",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8204,9 +8204,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 100,
     "ataque": [
@@ -8245,7 +8245,7 @@
       "series": "b",
       "matchKey": "B4B#154",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8257,9 +8257,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 220,
     "ataque": [
@@ -8301,7 +8301,7 @@
       "series": "b",
       "matchKey": "B4B#155",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8313,9 +8313,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 200,
     "ataque": [
@@ -8356,7 +8356,7 @@
       "series": "b",
       "matchKey": "B4B#156",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8368,9 +8368,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 170,
     "ataque": [
@@ -8410,7 +8410,7 @@
       "series": "b",
       "matchKey": "B4B#157",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8422,9 +8422,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 60,
     "ataque": [
@@ -8462,7 +8462,7 @@
       "series": "b",
       "matchKey": "B4B#158",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8474,9 +8474,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 100,
     "ataque": [
@@ -8515,7 +8515,7 @@
       "series": "b",
       "matchKey": "B4B#159",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8527,9 +8527,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 230,
     "ataque": [
@@ -8570,7 +8570,7 @@
       "series": "b",
       "matchKey": "B4B#160",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8622,7 +8622,7 @@
       "series": "b",
       "matchKey": "B4B#161",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8675,7 +8675,7 @@
       "series": "b",
       "matchKey": "B4B#162",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8687,9 +8687,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 140,
     "ataque": [
@@ -8729,7 +8729,7 @@
       "series": "b",
       "matchKey": "B4B#163",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8783,7 +8783,7 @@
       "series": "b",
       "matchKey": "B4B#164",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8835,7 +8835,7 @@
       "series": "b",
       "matchKey": "B4B#165",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8901,7 +8901,7 @@
       "series": "b",
       "matchKey": "B4B#166",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8913,9 +8913,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 180,
     "ataque": [
@@ -8956,7 +8956,7 @@
       "series": "b",
       "matchKey": "B4B#167",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -8968,9 +8968,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 150,
     "ataque": [
@@ -9009,7 +9009,7 @@
       "series": "b",
       "matchKey": "B4B#168",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9021,9 +9021,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 60,
     "ataque": [
@@ -9061,7 +9061,7 @@
       "series": "b",
       "matchKey": "B4B#169",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9073,9 +9073,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 80,
     "ataque": [
@@ -9114,7 +9114,7 @@
       "series": "b",
       "matchKey": "B4B#170",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9126,9 +9126,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 90,
     "ataque": [
@@ -9166,7 +9166,7 @@
       "series": "b",
       "matchKey": "B4B#171",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9178,9 +9178,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 180,
     "ataque": [
@@ -9221,7 +9221,7 @@
       "series": "b",
       "matchKey": "B4B#172",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9233,9 +9233,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 180,
     "ataque": [
@@ -9275,7 +9275,7 @@
       "series": "b",
       "matchKey": "B4B#173",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9287,9 +9287,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 70,
     "ataque": [
@@ -9328,7 +9328,7 @@
       "series": "b",
       "matchKey": "B4B#174",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9340,9 +9340,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 90,
     "ataque": [
@@ -9381,7 +9381,7 @@
       "series": "b",
       "matchKey": "B4B#175",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9393,9 +9393,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 150,
     "ataque": [
@@ -9435,7 +9435,7 @@
       "series": "b",
       "matchKey": "B4B#176",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9447,9 +9447,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 100,
     "ataque": [
@@ -9488,7 +9488,7 @@
       "series": "b",
       "matchKey": "B4B#177",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9541,7 +9541,7 @@
       "series": "b",
       "matchKey": "B4B#178",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9594,7 +9594,7 @@
       "series": "b",
       "matchKey": "B4B#179",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9646,7 +9646,7 @@
       "series": "b",
       "matchKey": "B4B#180",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9701,7 +9701,7 @@
       "series": "b",
       "matchKey": "B4B#181",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9755,7 +9755,7 @@
       "series": "b",
       "matchKey": "B4B#182",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9807,7 +9807,7 @@
       "series": "b",
       "matchKey": "B4B#183",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9859,7 +9859,7 @@
       "series": "b",
       "matchKey": "B4B#184",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9912,7 +9912,7 @@
       "series": "b",
       "matchKey": "B4B#185",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -9964,7 +9964,7 @@
       "series": "b",
       "matchKey": "B4B#186",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10016,7 +10016,7 @@
       "series": "b",
       "matchKey": "B4B#187",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10069,7 +10069,7 @@
       "series": "b",
       "matchKey": "B4B#188",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10122,7 +10122,7 @@
       "series": "b",
       "matchKey": "B4B#189",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10177,7 +10177,7 @@
       "series": "b",
       "matchKey": "B4B#190",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10229,7 +10229,7 @@
       "series": "b",
       "matchKey": "B4B#191",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10284,7 +10284,7 @@
       "series": "b",
       "matchKey": "B4B#192",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10337,7 +10337,7 @@
       "series": "b",
       "matchKey": "B4B#193",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10392,7 +10392,7 @@
       "series": "b",
       "matchKey": "B4B#194",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10444,7 +10444,7 @@
       "series": "b",
       "matchKey": "B4B#195",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10497,7 +10497,7 @@
       "series": "b",
       "matchKey": "B4B#196",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10552,7 +10552,7 @@
       "series": "b",
       "matchKey": "B4B#197",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10595,7 +10595,7 @@
       "series": "b",
       "matchKey": "B4B#198",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10638,7 +10638,7 @@
       "series": "b",
       "matchKey": "B4B#199",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10681,7 +10681,7 @@
       "series": "b",
       "matchKey": "B4B#200",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10724,7 +10724,7 @@
       "series": "b",
       "matchKey": "B4B#201",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10767,7 +10767,7 @@
       "series": "b",
       "matchKey": "B4B#202",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10810,7 +10810,7 @@
       "series": "b",
       "matchKey": "B4B#203",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10853,7 +10853,7 @@
       "series": "b",
       "matchKey": "B4B#204",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10896,7 +10896,7 @@
       "series": "b",
       "matchKey": "B4B#205",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10939,7 +10939,7 @@
       "series": "b",
       "matchKey": "B4B#206",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -10982,7 +10982,7 @@
       "series": "b",
       "matchKey": "B4B#207",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11025,7 +11025,7 @@
       "series": "b",
       "matchKey": "B4B#208",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11068,7 +11068,7 @@
       "series": "b",
       "matchKey": "B4B#209",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11111,7 +11111,7 @@
       "series": "b",
       "matchKey": "B4B#210",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11154,7 +11154,7 @@
       "series": "b",
       "matchKey": "B4B#211",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11197,7 +11197,7 @@
       "series": "b",
       "matchKey": "B4B#212",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11240,7 +11240,7 @@
       "series": "b",
       "matchKey": "B4B#213",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11283,7 +11283,7 @@
       "series": "b",
       "matchKey": "B4B#214",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11326,7 +11326,7 @@
       "series": "b",
       "matchKey": "B4B#215",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11369,7 +11369,7 @@
       "series": "b",
       "matchKey": "B4B#216",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11412,7 +11412,7 @@
       "series": "b",
       "matchKey": "B4B#217",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11455,7 +11455,7 @@
       "series": "b",
       "matchKey": "B4B#218",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11498,7 +11498,7 @@
       "series": "b",
       "matchKey": "B4B#219",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11541,7 +11541,7 @@
       "series": "b",
       "matchKey": "B4B#220",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11584,7 +11584,7 @@
       "series": "b",
       "matchKey": "B4B#221",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11627,7 +11627,7 @@
       "series": "b",
       "matchKey": "B4B#222",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11670,7 +11670,7 @@
       "series": "b",
       "matchKey": "B4B#223",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11713,7 +11713,7 @@
       "series": "b",
       "matchKey": "B4B#224",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11756,7 +11756,7 @@
       "series": "b",
       "matchKey": "B4B#225",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11799,7 +11799,7 @@
       "series": "b",
       "matchKey": "B4B#226",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11842,7 +11842,7 @@
       "series": "b",
       "matchKey": "B4B#227",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11885,7 +11885,7 @@
       "series": "b",
       "matchKey": "B4B#228",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11928,7 +11928,7 @@
       "series": "b",
       "matchKey": "B4B#229",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -11971,7 +11971,7 @@
       "series": "b",
       "matchKey": "B4B#230",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12014,7 +12014,7 @@
       "series": "b",
       "matchKey": "B4B#231",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12057,7 +12057,7 @@
       "series": "b",
       "matchKey": "B4B#232",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12100,7 +12100,7 @@
       "series": "b",
       "matchKey": "B4B#233",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12143,7 +12143,7 @@
       "series": "b",
       "matchKey": "B4B#234",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12186,7 +12186,7 @@
       "series": "b",
       "matchKey": "B4B#235",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12229,7 +12229,7 @@
       "series": "b",
       "matchKey": "B4B#236",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12281,7 +12281,7 @@
       "series": "b",
       "matchKey": "B4B#237",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12333,7 +12333,7 @@
       "series": "b",
       "matchKey": "B4B#238",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12345,9 +12345,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 40,
     "ataque": [
@@ -12360,7 +12360,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Comum",
     "metalizada": true,
@@ -12385,7 +12385,7 @@
       "series": "b",
       "matchKey": "B4B#239",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12397,9 +12397,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 80,
     "ataque": [
@@ -12412,7 +12412,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "",
+    "fraqueza": "Fogo",
     "recuo": 2,
     "raridade": "Incomum",
     "metalizada": true,
@@ -12437,7 +12437,7 @@
       "series": "b",
       "matchKey": "B4B#240",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12449,9 +12449,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 130,
     "ataque": [
@@ -12464,7 +12464,7 @@
         "efeito": "Heal 20 damage from this Pokémon"
       }
     ],
-    "fraqueza": "",
+    "fraqueza": "Fogo",
     "recuo": 1,
     "raridade": "Rara",
     "metalizada": true,
@@ -12489,7 +12489,7 @@
       "series": "b",
       "matchKey": "B4B#241",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12501,9 +12501,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 70,
     "ataque": [
@@ -12541,7 +12541,7 @@
       "series": "b",
       "matchKey": "B4B#242",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12553,9 +12553,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 70,
     "ataque": [
@@ -12594,7 +12594,7 @@
       "series": "b",
       "matchKey": "B4B#243",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12606,9 +12606,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 60,
     "ataque": [
@@ -12646,7 +12646,7 @@
       "series": "b",
       "matchKey": "B4B#244",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12658,9 +12658,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 80,
     "ataque": [
@@ -12699,7 +12699,7 @@
       "series": "b",
       "matchKey": "B4B#245",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12711,9 +12711,9 @@
     "estagio": "Baby",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 30,
     "ataque": [
@@ -12752,7 +12752,7 @@
       "series": "b",
       "matchKey": "B4B#246",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12764,9 +12764,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 50,
     "ataque": [
@@ -12804,7 +12804,7 @@
       "series": "b",
       "matchKey": "B4B#247",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12816,9 +12816,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 50,
     "ataque": [
@@ -12856,7 +12856,7 @@
       "series": "b",
       "matchKey": "B4B#248",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12908,7 +12908,7 @@
       "series": "b",
       "matchKey": "B4B#249",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12961,7 +12961,7 @@
       "series": "b",
       "matchKey": "B4B#250",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -12973,9 +12973,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 70,
     "ataque": [
@@ -13013,7 +13013,7 @@
       "series": "b",
       "matchKey": "B4B#251",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13025,9 +13025,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 60,
     "ataque": [
@@ -13065,7 +13065,7 @@
       "series": "b",
       "matchKey": "B4B#252",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13077,9 +13077,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 90,
     "ataque": [
@@ -13117,7 +13117,7 @@
       "series": "b",
       "matchKey": "B4B#253",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13129,9 +13129,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 60,
     "ataque": [
@@ -13169,7 +13169,7 @@
       "series": "b",
       "matchKey": "B4B#254",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13181,9 +13181,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 90,
     "ataque": [
@@ -13222,7 +13222,7 @@
       "series": "b",
       "matchKey": "B4B#255",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13234,9 +13234,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 130,
     "ataque": [
@@ -13275,7 +13275,7 @@
       "series": "b",
       "matchKey": "B4B#256",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13284,12 +13284,12 @@
     "sourceId": "b4b-257",
     "categoria": "Pokemon",
     "nome": "Ogerpon Máscara Verdeazulada",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 90,
     "ataque": [
@@ -13329,7 +13329,7 @@
       "series": "b",
       "matchKey": "B4B#257",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13382,7 +13382,7 @@
       "series": "b",
       "matchKey": "B4B#258",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13435,7 +13435,7 @@
       "series": "b",
       "matchKey": "B4B#259",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13488,7 +13488,7 @@
       "series": "b",
       "matchKey": "B4B#260",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13540,7 +13540,7 @@
       "series": "b",
       "matchKey": "B4B#261",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13592,7 +13592,7 @@
       "series": "b",
       "matchKey": "B4B#262",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13645,7 +13645,7 @@
       "series": "b",
       "matchKey": "B4B#263",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13697,7 +13697,7 @@
       "series": "b",
       "matchKey": "B4B#264",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13750,7 +13750,7 @@
       "series": "b",
       "matchKey": "B4B#265",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13803,7 +13803,7 @@
       "series": "b",
       "matchKey": "B4B#266",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13856,7 +13856,7 @@
       "series": "b",
       "matchKey": "B4B#267",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13908,7 +13908,7 @@
       "series": "b",
       "matchKey": "B4B#268",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -13961,7 +13961,7 @@
       "series": "b",
       "matchKey": "B4B#269",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14014,7 +14014,7 @@
       "series": "b",
       "matchKey": "B4B#270",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14066,7 +14066,7 @@
       "series": "b",
       "matchKey": "B4B#271",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14075,7 +14075,7 @@
     "sourceId": "b4b-272",
     "categoria": "Pokemon",
     "nome": "Ogerpon Máscara de Chama do Lar",
-    "estagio": "Básico",
+    "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
     "tipo": "Fogo",
@@ -14119,7 +14119,7 @@
       "series": "b",
       "matchKey": "B4B#272",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14172,7 +14172,7 @@
       "series": "b",
       "matchKey": "B4B#273",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14226,7 +14226,7 @@
       "series": "b",
       "matchKey": "B4B#274",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14238,9 +14238,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 60,
     "ataque": [
@@ -14278,7 +14278,7 @@
       "series": "b",
       "matchKey": "B4B#275",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14290,9 +14290,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 70,
     "ataque": [
@@ -14331,7 +14331,7 @@
       "series": "b",
       "matchKey": "B4B#276",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14385,7 +14385,7 @@
       "series": "b",
       "matchKey": "B4B#277",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14397,9 +14397,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 60,
     "ataque": [
@@ -14437,7 +14437,7 @@
       "series": "b",
       "matchKey": "B4B#278",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14449,9 +14449,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 90,
     "ataque": [
@@ -14490,7 +14490,7 @@
       "series": "b",
       "matchKey": "B4B#279",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14502,9 +14502,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 50,
     "ataque": [
@@ -14542,7 +14542,7 @@
       "series": "b",
       "matchKey": "B4B#280",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14554,9 +14554,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 100,
     "ataque": [
@@ -14596,7 +14596,7 @@
       "series": "b",
       "matchKey": "B4B#281",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14608,9 +14608,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 30,
     "ataque": [
@@ -14648,7 +14648,7 @@
       "series": "b",
       "matchKey": "B4B#282",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14700,7 +14700,7 @@
       "series": "b",
       "matchKey": "B4B#283",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14753,7 +14753,7 @@
       "series": "b",
       "matchKey": "B4B#284",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14765,9 +14765,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 60,
     "ataque": [
@@ -14805,7 +14805,7 @@
       "series": "b",
       "matchKey": "B4B#285",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14817,9 +14817,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 80,
     "ataque": [
@@ -14857,7 +14857,7 @@
       "series": "b",
       "matchKey": "B4B#286",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14869,9 +14869,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 150,
     "ataque": [
@@ -14910,7 +14910,7 @@
       "series": "b",
       "matchKey": "B4B#287",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14922,9 +14922,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 60,
     "ataque": [
@@ -14962,7 +14962,7 @@
       "series": "b",
       "matchKey": "B4B#288",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -14974,9 +14974,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 90,
     "ataque": [
@@ -15017,7 +15017,7 @@
       "series": "b",
       "matchKey": "B4B#289",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15029,9 +15029,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 140,
     "ataque": [
@@ -15071,7 +15071,7 @@
       "series": "b",
       "matchKey": "B4B#290",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15083,9 +15083,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 60,
     "ataque": [
@@ -15123,7 +15123,7 @@
       "series": "b",
       "matchKey": "B4B#291",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15135,9 +15135,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 100,
     "ataque": [
@@ -15176,7 +15176,7 @@
       "series": "b",
       "matchKey": "B4B#292",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15228,7 +15228,7 @@
       "series": "b",
       "matchKey": "B4B#293",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15280,7 +15280,7 @@
       "series": "b",
       "matchKey": "B4B#294",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15292,9 +15292,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 70,
     "ataque": [
@@ -15332,7 +15332,7 @@
       "series": "b",
       "matchKey": "B4B#295",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15344,9 +15344,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 90,
     "ataque": [
@@ -15360,7 +15360,7 @@
         "efeito": ""
       }
     ],
-    "fraqueza": "",
+    "fraqueza": "Luta",
     "recuo": 1,
     "raridade": "Incomum",
     "metalizada": true,
@@ -15385,7 +15385,7 @@
       "series": "b",
       "matchKey": "B4B#296",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15397,9 +15397,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 60,
     "ataque": [
@@ -15437,7 +15437,7 @@
       "series": "b",
       "matchKey": "B4B#297",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15449,9 +15449,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 60,
     "ataque": [
@@ -15489,7 +15489,7 @@
       "series": "b",
       "matchKey": "B4B#298",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15501,9 +15501,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 80,
     "ataque": [
@@ -15541,7 +15541,7 @@
       "series": "b",
       "matchKey": "B4B#299",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15553,9 +15553,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 60,
     "ataque": [
@@ -15594,7 +15594,7 @@
       "series": "b",
       "matchKey": "B4B#300",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15606,9 +15606,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 60,
     "ataque": [
@@ -15647,7 +15647,7 @@
       "series": "b",
       "matchKey": "B4B#301",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15659,9 +15659,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 50,
     "ataque": [
@@ -15699,7 +15699,7 @@
       "series": "b",
       "matchKey": "B4B#302",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15711,9 +15711,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 110,
     "ataque": [
@@ -15753,7 +15753,7 @@
       "series": "b",
       "matchKey": "B4B#303",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15765,9 +15765,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 60,
     "ataque": [
@@ -15805,7 +15805,7 @@
       "series": "b",
       "matchKey": "B4B#304",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15817,9 +15817,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 80,
     "ataque": [
@@ -15857,7 +15857,7 @@
       "series": "b",
       "matchKey": "B4B#305",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15869,9 +15869,9 @@
     "estagio": "Baby",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 30,
     "ataque": [
@@ -15910,7 +15910,7 @@
       "series": "b",
       "matchKey": "B4B#306",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15963,7 +15963,7 @@
       "series": "b",
       "matchKey": "B4B#307",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -15975,9 +15975,9 @@
     "estagio": "Baby",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 30,
     "ataque": [
@@ -16016,7 +16016,7 @@
       "series": "b",
       "matchKey": "B4B#308",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16028,9 +16028,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 70,
     "ataque": [
@@ -16069,7 +16069,7 @@
       "series": "b",
       "matchKey": "B4B#309",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16081,9 +16081,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 100,
     "ataque": [
@@ -16122,7 +16122,7 @@
       "series": "b",
       "matchKey": "B4B#310",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16134,9 +16134,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metal",
+    "tipo": "Psiquico",
     "tipos": [
-      "Metal"
+      "Psiquico"
     ],
     "hp": 50,
     "ataque": [
@@ -16174,7 +16174,7 @@
       "series": "b",
       "matchKey": "B4B#311",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16186,9 +16186,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 40,
     "ataque": [
@@ -16228,7 +16228,7 @@
       "series": "b",
       "matchKey": "B4B#312",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16240,9 +16240,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 60,
     "ataque": [
@@ -16280,7 +16280,7 @@
       "series": "b",
       "matchKey": "B4B#313",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16292,9 +16292,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 90,
     "ataque": [
@@ -16333,7 +16333,7 @@
       "series": "b",
       "matchKey": "B4B#314",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16345,9 +16345,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 60,
     "ataque": [
@@ -16385,7 +16385,7 @@
       "series": "b",
       "matchKey": "B4B#315",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16397,9 +16397,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 100,
     "ataque": [
@@ -16439,7 +16439,7 @@
       "series": "b",
       "matchKey": "B4B#316",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16451,9 +16451,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 60,
     "ataque": [
@@ -16491,7 +16491,7 @@
       "series": "b",
       "matchKey": "B4B#317",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16503,9 +16503,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 60,
     "ataque": [
@@ -16545,7 +16545,7 @@
       "series": "b",
       "matchKey": "B4B#318",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16557,9 +16557,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 70,
     "ataque": [
@@ -16598,7 +16598,7 @@
       "series": "b",
       "matchKey": "B4B#319",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16610,9 +16610,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 70,
     "ataque": [
@@ -16652,7 +16652,7 @@
       "series": "b",
       "matchKey": "B4B#320",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16664,9 +16664,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 70,
     "ataque": [
@@ -16704,7 +16704,7 @@
       "series": "b",
       "matchKey": "B4B#321",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16716,9 +16716,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 60,
     "ataque": [
@@ -16758,7 +16758,7 @@
       "series": "b",
       "matchKey": "B4B#322",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16770,9 +16770,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 70,
     "ataque": [
@@ -16810,7 +16810,7 @@
       "series": "b",
       "matchKey": "B4B#323",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16822,9 +16822,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 80,
     "ataque": [
@@ -16863,7 +16863,7 @@
       "series": "b",
       "matchKey": "B4B#324",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16875,9 +16875,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 110,
     "ataque": [
@@ -16917,7 +16917,7 @@
       "series": "b",
       "matchKey": "B4B#325",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16929,9 +16929,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 60,
     "ataque": [
@@ -16969,7 +16969,7 @@
       "series": "b",
       "matchKey": "B4B#326",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -16981,9 +16981,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 80,
     "ataque": [
@@ -17022,7 +17022,7 @@
       "series": "b",
       "matchKey": "B4B#327",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17034,9 +17034,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 100,
     "ataque": [
@@ -17076,7 +17076,7 @@
       "series": "b",
       "matchKey": "B4B#328",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17088,9 +17088,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 60,
     "ataque": [
@@ -17128,7 +17128,7 @@
       "series": "b",
       "matchKey": "B4B#329",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17140,9 +17140,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 60,
     "ataque": [
@@ -17181,7 +17181,7 @@
       "series": "b",
       "matchKey": "B4B#330",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17193,9 +17193,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 90,
     "ataque": [
@@ -17234,7 +17234,7 @@
       "series": "b",
       "matchKey": "B4B#331",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17246,9 +17246,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 70,
     "ataque": [
@@ -17286,7 +17286,7 @@
       "series": "b",
       "matchKey": "B4B#332",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17298,9 +17298,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 100,
     "ataque": [
@@ -17340,7 +17340,7 @@
       "series": "b",
       "matchKey": "B4B#333",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17352,9 +17352,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 60,
     "ataque": [
@@ -17392,7 +17392,7 @@
       "series": "b",
       "matchKey": "B4B#334",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17404,9 +17404,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 100,
     "ataque": [
@@ -17445,7 +17445,7 @@
       "series": "b",
       "matchKey": "B4B#335",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17457,9 +17457,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 60,
     "ataque": [
@@ -17497,7 +17497,7 @@
       "series": "b",
       "matchKey": "B4B#336",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17509,9 +17509,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 100,
     "ataque": [
@@ -17550,7 +17550,7 @@
       "series": "b",
       "matchKey": "B4B#337",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17602,7 +17602,7 @@
       "series": "b",
       "matchKey": "B4B#338",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17655,7 +17655,7 @@
       "series": "b",
       "matchKey": "B4B#339",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17667,9 +17667,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Metálico",
+    "tipo": "Metal",
     "tipos": [
-      "Metálico"
+      "Metal"
     ],
     "hp": 140,
     "ataque": [
@@ -17709,7 +17709,7 @@
       "series": "b",
       "matchKey": "B4B#340",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17763,7 +17763,7 @@
       "series": "b",
       "matchKey": "B4B#341",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17815,7 +17815,7 @@
       "series": "b",
       "matchKey": "B4B#342",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17827,9 +17827,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 60,
     "ataque": [
@@ -17867,7 +17867,7 @@
       "series": "b",
       "matchKey": "B4B#343",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17879,9 +17879,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 80,
     "ataque": [
@@ -17920,7 +17920,7 @@
       "series": "b",
       "matchKey": "B4B#344",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17932,9 +17932,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 90,
     "ataque": [
@@ -17972,7 +17972,7 @@
       "series": "b",
       "matchKey": "B4B#345",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -17984,9 +17984,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 70,
     "ataque": [
@@ -18025,7 +18025,7 @@
       "series": "b",
       "matchKey": "B4B#346",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18037,9 +18037,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 90,
     "ataque": [
@@ -18078,7 +18078,7 @@
       "series": "b",
       "matchKey": "B4B#347",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18090,9 +18090,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 150,
     "ataque": [
@@ -18132,7 +18132,7 @@
       "series": "b",
       "matchKey": "B4B#348",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18144,9 +18144,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 100,
     "ataque": [
@@ -18185,7 +18185,7 @@
       "series": "b",
       "matchKey": "B4B#349",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18238,7 +18238,7 @@
       "series": "b",
       "matchKey": "B4B#350",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18291,7 +18291,7 @@
       "series": "b",
       "matchKey": "B4B#351",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18343,7 +18343,7 @@
       "series": "b",
       "matchKey": "B4B#352",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18395,7 +18395,7 @@
       "series": "b",
       "matchKey": "B4B#353",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18447,7 +18447,7 @@
       "series": "b",
       "matchKey": "B4B#354",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18500,7 +18500,7 @@
       "series": "b",
       "matchKey": "B4B#355",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18552,7 +18552,7 @@
       "series": "b",
       "matchKey": "B4B#356",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18604,7 +18604,7 @@
       "series": "b",
       "matchKey": "B4B#357",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18657,7 +18657,7 @@
       "series": "b",
       "matchKey": "B4B#358",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18710,7 +18710,7 @@
       "series": "b",
       "matchKey": "B4B#359",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18762,7 +18762,7 @@
       "series": "b",
       "matchKey": "B4B#360",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18815,7 +18815,7 @@
       "series": "b",
       "matchKey": "B4B#361",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18867,7 +18867,7 @@
       "series": "b",
       "matchKey": "B4B#362",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18920,7 +18920,7 @@
       "series": "b",
       "matchKey": "B4B#363",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -18963,7 +18963,7 @@
       "series": "b",
       "matchKey": "B4B#364",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19006,7 +19006,7 @@
       "series": "b",
       "matchKey": "B4B#365",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19049,7 +19049,7 @@
       "series": "b",
       "matchKey": "B4B#366",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19092,7 +19092,7 @@
       "series": "b",
       "matchKey": "B4B#367",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19135,7 +19135,7 @@
       "series": "b",
       "matchKey": "B4B#368",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19178,7 +19178,7 @@
       "series": "b",
       "matchKey": "B4B#369",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19221,7 +19221,7 @@
       "series": "b",
       "matchKey": "B4B#370",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19264,7 +19264,7 @@
       "series": "b",
       "matchKey": "B4B#371",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19307,7 +19307,7 @@
       "series": "b",
       "matchKey": "B4B#372",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19350,7 +19350,7 @@
       "series": "b",
       "matchKey": "B4B#373",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19393,7 +19393,7 @@
       "series": "b",
       "matchKey": "B4B#374",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19436,7 +19436,7 @@
       "series": "b",
       "matchKey": "B4B#375",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19479,7 +19479,7 @@
       "series": "b",
       "matchKey": "B4B#376",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19522,7 +19522,7 @@
       "series": "b",
       "matchKey": "B4B#377",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19565,7 +19565,7 @@
       "series": "b",
       "matchKey": "B4B#378",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19608,7 +19608,7 @@
       "series": "b",
       "matchKey": "B4B#379",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19651,7 +19651,7 @@
       "series": "b",
       "matchKey": "B4B#380",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19694,7 +19694,7 @@
       "series": "b",
       "matchKey": "B4B#381",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19737,7 +19737,7 @@
       "series": "b",
       "matchKey": "B4B#382",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19780,7 +19780,7 @@
       "series": "b",
       "matchKey": "B4B#383",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19823,7 +19823,7 @@
       "series": "b",
       "matchKey": "B4B#384",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19866,7 +19866,7 @@
       "series": "b",
       "matchKey": "B4B#385",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19909,7 +19909,7 @@
       "series": "b",
       "matchKey": "B4B#386",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19952,7 +19952,7 @@
       "series": "b",
       "matchKey": "B4B#387",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -19995,7 +19995,7 @@
       "series": "b",
       "matchKey": "B4B#388",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20038,7 +20038,7 @@
       "series": "b",
       "matchKey": "B4B#389",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20081,7 +20081,7 @@
       "series": "b",
       "matchKey": "B4B#390",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20124,7 +20124,7 @@
       "series": "b",
       "matchKey": "B4B#391",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20167,7 +20167,7 @@
       "series": "b",
       "matchKey": "B4B#392",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20210,7 +20210,7 @@
       "series": "b",
       "matchKey": "B4B#393",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20253,7 +20253,7 @@
       "series": "b",
       "matchKey": "B4B#394",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20296,7 +20296,7 @@
       "series": "b",
       "matchKey": "B4B#395",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20339,7 +20339,7 @@
       "series": "b",
       "matchKey": "B4B#396",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20382,7 +20382,7 @@
       "series": "b",
       "matchKey": "B4B#397",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20425,7 +20425,7 @@
       "series": "b",
       "matchKey": "B4B#398",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20468,7 +20468,7 @@
       "series": "b",
       "matchKey": "B4B#399",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20511,7 +20511,7 @@
       "series": "b",
       "matchKey": "B4B#400",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20554,7 +20554,7 @@
       "series": "b",
       "matchKey": "B4B#401",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20597,7 +20597,7 @@
       "series": "b",
       "matchKey": "B4B#402",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20650,7 +20650,7 @@
       "series": "b",
       "matchKey": "B4B#403",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20662,9 +20662,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 140,
     "ataque": [
@@ -20704,7 +20704,7 @@
       "series": "b",
       "matchKey": "B4B#404",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20716,9 +20716,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 70,
     "ataque": [
@@ -20757,7 +20757,7 @@
       "series": "b",
       "matchKey": "B4B#405",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20769,9 +20769,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 40,
     "ataque": [
@@ -20811,7 +20811,7 @@
       "series": "b",
       "matchKey": "B4B#406",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20823,9 +20823,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 60,
     "ataque": [
@@ -20863,7 +20863,7 @@
       "series": "b",
       "matchKey": "B4B#407",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20915,7 +20915,7 @@
       "series": "b",
       "matchKey": "B4B#408",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20971,7 +20971,7 @@
       "series": "b",
       "matchKey": "B4B#409",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -20983,9 +20983,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Grama",
+    "tipo": "Planta",
     "tipos": [
-      "Grama"
+      "Planta"
     ],
     "hp": 210,
     "ataque": [
@@ -21025,7 +21025,7 @@
       "series": "b",
       "matchKey": "B4B#410",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21080,7 +21080,7 @@
       "series": "b",
       "matchKey": "B4B#411",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21136,7 +21136,7 @@
       "series": "b",
       "matchKey": "B4B#412",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21190,7 +21190,7 @@
       "series": "b",
       "matchKey": "B4B#413",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21245,7 +21245,7 @@
       "series": "b",
       "matchKey": "B4B#414",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21257,9 +21257,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Água",
+    "tipo": "Agua",
     "tipos": [
-      "Água"
+      "Agua"
     ],
     "hp": 210,
     "ataque": [
@@ -21275,7 +21275,7 @@
         "efeito": "Discard the top 3 cards of your opponent's deck"
       }
     ],
-    "fraqueza": "",
+    "fraqueza": "Raio",
     "recuo": 3,
     "raridade": "Super Raro",
     "metalizada": false,
@@ -21301,7 +21301,7 @@
       "series": "b",
       "matchKey": "B4B#415",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21313,9 +21313,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 210,
     "ataque": [
@@ -21355,7 +21355,7 @@
       "series": "b",
       "matchKey": "B4B#416",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21367,9 +21367,9 @@
     "estagio": "1",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 190,
     "ataque": [
@@ -21409,7 +21409,7 @@
       "series": "b",
       "matchKey": "B4B#417",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21421,9 +21421,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 190,
     "ataque": [
@@ -21463,7 +21463,7 @@
       "series": "b",
       "matchKey": "B4B#418",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21475,9 +21475,9 @@
     "estagio": "2",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Noturno",
+    "tipo": "Escuridao",
     "tipos": [
-      "Noturno"
+      "Escuridao"
     ],
     "hp": 210,
     "ataque": [
@@ -21519,7 +21519,7 @@
       "series": "b",
       "matchKey": "B4B#419",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21531,9 +21531,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Dragão",
+    "tipo": "Dragao",
     "tipos": [
-      "Dragão"
+      "Dragao"
     ],
     "hp": 180,
     "ataque": [
@@ -21573,7 +21573,7 @@
       "series": "b",
       "matchKey": "B4B#420",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21616,7 +21616,7 @@
       "series": "b",
       "matchKey": "B4B#421",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21659,7 +21659,7 @@
       "series": "b",
       "matchKey": "B4B#422",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21702,7 +21702,7 @@
       "series": "b",
       "matchKey": "B4B#423",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21745,7 +21745,7 @@
       "series": "b",
       "matchKey": "B4B#424",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21800,7 +21800,7 @@
       "series": "b",
       "matchKey": "B4B#425",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21812,9 +21812,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 120,
     "ataque": [
@@ -21854,7 +21854,7 @@
       "series": "b",
       "matchKey": "B4B#426",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21866,9 +21866,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Psíquico",
+    "tipo": "Psiquico",
     "tipos": [
-      "Psíquico"
+      "Psiquico"
     ],
     "hp": 170,
     "ataque": [
@@ -21909,7 +21909,7 @@
       "series": "b",
       "matchKey": "B4B#427",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21921,9 +21921,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Elétrico",
+    "tipo": "Raio",
     "tipos": [
-      "Elétrico"
+      "Raio"
     ],
     "hp": 140,
     "ataque": [
@@ -21964,7 +21964,7 @@
       "series": "b",
       "matchKey": "B4B#428",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   },
@@ -21976,9 +21976,9 @@
     "estagio": "Basico",
     "subtipo": "",
     "evolucao": "",
-    "tipo": "Lutador",
+    "tipo": "Luta",
     "tipos": [
-      "Lutador"
+      "Luta"
     ],
     "hp": 150,
     "ataque": [
@@ -22019,7 +22019,7 @@
       "series": "b",
       "matchKey": "B4B#429",
       "flibustierMin": true,
-      "flibustierExtra": false,
+      "flibustierExtra": true,
       "pokemongohub": true
     }
   }

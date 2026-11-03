@@ -45,7 +45,7 @@ assert.equal(byId.get("b4-005")?.estagio, "2", "Dustox B4 deve ser Estágio 2");
 
 const rocketElectrode = byId.get("b4a-020");
 assert.equal(rocketElectrode?.categoria, "Pokemon");
-assert.equal(rocketElectrode?.tipo, "Elétrico");
+assert.equal(rocketElectrode?.tipo, "Raio");
 
 const deluxeMegaCards = cards.filter((card) => card.id.startsWith("b4b-"));
 assert.equal(deluxeMegaCards.length, 429, "a coleção B4B deve conter 429 cartas");
@@ -105,6 +105,11 @@ assert.ok(
   cards.every((card) => /\.webp$/.test(String(card.imageLocal || ""))),
   "todas as imagens de cartas devem estar em WebP"
 );
+
+const metaDecks = JSON.parse(fs.readFileSync(path.join(root, "data", "meta-decks.json"), "utf8").replace(/^﻿/, ""));
+const notExportable = [...new Set(metaDecks.flatMap((deck) => deck.cartas.map((card) => card.id)))]
+  .filter((id) => !(byId.get(id)?.deckBuilderNr > 0));
+assert.deepEqual(notExportable, [], "toda carta de deck meta precisa de deckBuilderNr para gerar o QR Code");
 
 const foilCards = cards.filter((card) => card.metalizada);
 const foilsBySet = foilCards.reduce((acc, card) => {

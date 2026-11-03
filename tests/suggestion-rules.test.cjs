@@ -26,15 +26,15 @@ function verifySuggestion(label, predicate, expectedCardId) {
   );
 }
 
-verifySuggestion("Água", (card) => card.categoria === "Pokemon" && card.tipo === "Água", "a4a-067");
+verifySuggestion("Água", (card) => card.categoria === "Pokemon" && card.tipo === "Agua", "a4a-067");
 verifySuggestion("Fogo", (card) => card.categoria === "Pokemon" && card.tipo === "Fogo", "b1-217");
-verifySuggestion("Grama", (card) => card.categoria === "Pokemon" && card.tipo === "Grama", "a3-147");
-verifySuggestion("Elétrico", (card) => card.categoria === "Pokemon" && card.tipo === "Elétrico", "b2a-086");
-verifySuggestion("Psíquico", (card) => card.categoria === "Pokemon" && card.tipo === "Psíquico", "b2-149");
-verifySuggestion("Lutador", (card) => card.categoria === "Pokemon" && card.tipo === "Lutador", "b3-154");
-verifySuggestion("Noturno", (card) => card.categoria === "Pokemon" && card.tipo === "Noturno", "a4-154");
-verifySuggestion("Metálico", (card) => card.categoria === "Pokemon" && card.tipo === "Metálico", "b2-148");
-verifySuggestion("Dragão", (card) => card.categoria === "Pokemon" && card.tipo === "Dragão", "b4-155");
+verifySuggestion("Grama", (card) => card.categoria === "Pokemon" && card.tipo === "Planta", "a3-147");
+verifySuggestion("Elétrico", (card) => card.categoria === "Pokemon" && card.tipo === "Raio", "b2a-086");
+verifySuggestion("Psíquico", (card) => card.categoria === "Pokemon" && card.tipo === "Psiquico", "b2-149");
+verifySuggestion("Lutador", (card) => card.categoria === "Pokemon" && card.tipo === "Luta", "b3-154");
+verifySuggestion("Noturno", (card) => card.categoria === "Pokemon" && card.tipo === "Escuridao", "a4-154");
+verifySuggestion("Metálico", (card) => card.categoria === "Pokemon" && card.tipo === "Metal", "b2-148");
+verifySuggestion("Dragão", (card) => card.categoria === "Pokemon" && card.tipo === "Dragao", "b4-155");
 verifySuggestion("Básico", (card) => card.categoria === "Pokemon" && card.estagio === "basic", "promo-a-005");
 verifySuggestion("Estágio 1", (card) => card.categoria === "Pokemon" && card.estagio === "1", "b3b-065");
 verifySuggestion("Estágio 2", (card) => card.categoria === "Pokemon" && card.estagio === "2", "b2a-087");
